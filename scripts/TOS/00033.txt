@@ -20,6 +20,8 @@ MCCOY: And he thinks he's the right man for her, but I'm not sure she thinks he'
 KIRK: I like to think of it not so much losing an officer as gaining 
 SCOTT: Come along. 
 (He and Carolyn enter the turbolift.) 
+
+
 KIRK: Actually, I'm losing an officer. 
 CHEKOV: Entering standard orbit around Pollux Four, sir. 
 KIRK: Cartographic Detail, stand by. 
@@ -31,6 +33,8 @@ UHURA: All cartographic standards full automatic.
 SULU: Captain? 
 MCCOY: What in the name of? 
 (Where there was originally an image of a nice blue and white planet there is now a .... hand?) 
+
+
 KIRK: Analysis, Mister Spock. 
 SPOCK: Momentarily. 
 CHEKOV: Am I seeing things? 
@@ -45,6 +49,8 @@ UHURA: It's almost as if it means to grab us.
 KIRK: Reverse all engines. 
 SULU: All engines reverse. 
 (Everyone is thrown forward as the ship is grabbed by the hand and stopped in its tracks.) 
+
+
 SULU: We're dead still, Captain. Helm doesn't answer. We can't move. 
 Captain's log, stardate 3468.1. While approaching Pollux Four, a planet in the Beta Geminorum system, the Enterprise has been stopped in space by an unknown force of some kind. 
 [Bridge]
@@ -66,6 +72,8 @@ SPOCK: Captain, a most curious development on scanner five seven.
 KIRK: Let's all take a look at it, Mister Spock. 
 SPOCK: Screen on, Captain. 
 (Now a face appears in space, a male human wearing a laurel wreath.) 
+
+
 UHURA: Activity on hailing channel three, sir. 
 KIRK; Put it on audio, Lieutenant. 
 APOLLO [on viewscreen]: The eons have passed and what has been written has come about. You are most welcome, my beloved children. Your places await you. 
@@ -97,6 +105,8 @@ SPOCK: Insults are effective only where emotion is present.
 KIRK: Good. We'll tackle him together. We already know the questions. You're the best man to find the answers. 
 [Temple]
 (Kirk, Scott, Chekov, McCoy and Lt Carolyn Palamas beam down into a lightly wooded area in front of a Greek temple.) 
+
+
 KIRK: Tricorders. 
 CAROLYN: What am I doing down here, Doctor? 
 MCCOY: Well, you're the A and A officer, aren't you? Archaeology, anthropology, ancient civilisations. 
@@ -104,6 +114,8 @@ CAROLYN: Correct.
 MCCOY: We're going to need help in all those areas. 
 KIRK: Come on. 
 (Apollo is sitting on a throne, lyre by his feet) 
+
+
 APOLLO: My children, long have I waited for this moment. The memories you bring of your lush and beautiful Earth, the green fields and blue skies, the simple shepherds and their flocks. 
 KIRK: You know of Earth? You've been there? 
 APOLLO: Once I stretched out my hand, and Earth trembled. And I breathed upon it, and spring returned. 
@@ -130,6 +142,8 @@ KIRK: And you've got a lot to learn!
 APOLLO: And so have you! Let the lesson begin! (Apollo grows as tall as his temple.) Welcome to Olympus, Captain Kirk. 
 [Bridge]
 (Enterprise is still held by the hand.) 
+
+
 UHURA: Mister Spock, I can't contact the landing party. All frequencies are jammed. 
 SPOCK: Try to break through it, Lieutenant. 
 UHURA: Aye, sir. 
@@ -141,6 +155,8 @@ KYLE: Aye sir.
 SPOCK: Locate all the lifeforms. I want to know what's going on down there. 
 [Temple]
 (The giant Apollo suddenly looks weary, and vanishes.) 
+
+
 MCCOY: To coin a phrase, fascinating. 
 KIRK: Analysis. Lieutenant Palamas, what do you know about Apollo? 
 CAROLYN: Apollo, twin brother of Artemis, son of the god Zeus and Leto, a mortal. He was the god of light and purity. He was skilled in the bow and lyre. 
@@ -152,6 +168,8 @@ CHEKOV: Whatever he is, he seems to control a remarkable technology.
 SCOTT: Power is what he controls. You can't do tricks like that without energy. 
 KIRK: Fine, but what power, and where is it? Scout around with your tricorders. Find the source of that power. Bones. 
 (Scott, Chekov and Carolyn wander off.) 
+
+
 MCCOY: Yes? 
 KIRK: Bones, I wonder if five thousand years ago 
 MCCOY: You have a theory? 
@@ -159,6 +177,8 @@ KIRK: I have an idea. What if he is really Apollo?
 MCCOY: What? 
 CAROLYN: Captain. 
 (Apollo is back on his throne.) 
+
+
 APOLLO: I want from you that which is rightfully mine. Your loyalty, your tribute, and your worship. 
 MCCOY: May I ask what you offer in exchange for this worship? 
 APOLLO: Life in paradise. As simple and as pleasureful as it was those thousands of years ago on that beautiful planet so far away. 
@@ -177,19 +197,27 @@ SCOTT: Leave her alone.
 APOLLO: You protest? You risk much. 
 SCOTT: And so do you. 
 (Scott draws his phaser and Apollo blasts it out of his hand with a point of his finger. Chekov finds his phaser doesn't work.) 
+
+
 KIRK: Scotty. (picks up the twisted and melted weapon) Very impressive. How'd you do it? 
 APOLLO: I've grown weary of discussion and argument. 
 CHEKOV: Captain, the phasers. All the working parts are fused. 
 APOLLO: None of your toys will function. Yes. You are a beauty. But like Artemis, the bow arm should be bare. 
 (He waves his hand and her clothes turn into Greek-style draperies, with her hair piled very tall.) 
+
+
 CAROLYN: Oh, it's beautiful. 
 APOLLO: Yes. Come. (he takes her hand and leads her away) 
 SCOTT: She's not going with you. 
 (Scott gets thrown over a table with a flick of the wrist.) 
+
+
 APOLLO: He shall learn the discipline of the temple. So shall you all. Come. 
 CAROLYN: It's all right, Captain. I'll go. 
 APOLLO: Without fear. She is fit indeed. 
 (They both vanish as they walk away.) 
+
+
 KIRK: Bones, how is he? 
 MCCOY: Stunned but coming around. I'm not sure it's wise to let her go off like that. 
 KIRK: He would have been rather difficult to stop. 
@@ -197,6 +225,8 @@ MCCOY: You saw how capricious he is. Benevolent one minute, angry the next. One 
 KIRK: Mister Chekov, I think you'd better continue your investigation. 
 CHEKOV: Aye, aye, sir. 
 (leaves) 
+
+
 KIRK: How do you feel, Scotty? 
 SCOTT: I am tingling all over. Did he take her with him? 
 KIRK: It would seem so. 
@@ -208,6 +238,8 @@ SCOTT: Aye, aye, sir.
 KIRK: Besides, you stiff-necked thistle head, you could have gotten yourself killed. 
 SCOTT: Aye. 
 (leaves) 
+
+
 MCCOY: Scotty doesn't believe in gods. 
 KIRK: Apollo's no god. But he could have been taken for one, though, once. Say five thousand years ago, a highly sophisticated group of space travellers landed on Earth around the Mediterranean. 
 MCCOY: Yes. To the simple shepherds and tribesmen of early Greece, creatures like that would have been gods. 
@@ -217,6 +249,8 @@ SPOCK: Ready to reverse polarity, Mister Sulu?
 SULU: Computed and standing by to generate, sir. 
 SPOCK: Activate all units. 
 (The ship jolts several times, but) 
+
+
 SULU: No good, Mister Spock. We didn't even faze it. We're still locked tight. 
 SPOCK: Cut power, Mister Sulu. Lieutenant, we must restore communications with the landing party. 
 UHURA: I'm working, sir, but I can't do anything with this. 
@@ -233,6 +267,8 @@ SPOCK: I would suggest, Mister Sulu, if you cannot find out where the power sour
 SULU: The whole planet, sir? Yes, sir. The whole planet. 
 [Water's side]
 (At a marble bench by a tranquil water scene.) 
+
+
 CAROLYN: Oh, it's lovely. 
 APOLLO: I've known other women. Daphne, Cassandra, but none more beautiful than you. Are you frightened of me? 
 CAROLYN: Frightened? No, I don't think so. Of course, a girl doesn't go walking with a 
@@ -264,16 +300,24 @@ MCCOY: Yes, except my estimation for his physical condition. In spite of Apollo'
 KIRK: Bones, is it possible 
 MCCOY: Jim. 
 (Apollo walks back in out of thin air.) 
+
+
 KIRK: Where's Lieutenant Palamas? 
 APOLLO: She is no longer of any concern to you. 
 SCOTT: You bloodthirsty Saracen, what have you done with her? 
 (Scott picks up a statuette and rushes at Apollo. He gets another finger blast of electricity for his effort.) 
+
+
 KIRK: Scotty! 
 MCCOY: Not good. Severe shock. 
 KIRK: All right, mister. You wanted worshippers? You've got enemies. You want us to bow down, you'll have to 
 (Kirk clutches his throat and falls to the ground, choking.) 
+
+
 APOLLO: You will learn discipline. You will learn 
 (Again, he suddenly becomes tired and vanishes.) 
+
+
 MCCOY: Chekov, give me a hand. 
 KIRK: Take care of Scotty. 
 CHEKOV: Are you all right, Captain? 
@@ -300,6 +344,8 @@ MCCOY: I still say it can get us killed.
 KIRK: Not all of us, Bones. When he comes back, it's a chance we'll have to take. 
 [Bridge]
 (Uhura is underneath the communications station, doing some soldering.) 
+
+
 SPOCK: Progress report. 
 UHURA: I'm connecting the bypass circuit now, sir. It should take another half hour. 
 SPOCK: Speed is essential, Lieutenant. 
@@ -318,6 +364,8 @@ SPOCK: To shoot through. It might also relieve Lieutenant Uhura's communications
 KYLE: Right away, sir. 
 [Temple]
 (Apollo reappears on his throne, Carolyn standing by his side.) 
+
+
 APOLLO: Come here! I know you're trying to escape me. It's useless. I know everything you do. I tried to be compassionate toward your kind. 
 KIRK: You know nothing about our kind. You know only our remote ancestors who trembled before your tricks. Your tricks don't frighten us, neither do you. We've come a long way in five thousand years. 
 APOLLO: But you're of the same nature. I could sweep you out of existence with a wave of my hand and bring you back again. I can give life or death. What else does mankind demand of its gods? 
@@ -344,6 +392,8 @@ APOLLO: I shall be lenient with you, for her sake. You will make plans to bring 
 KIRK: And you will supply the herds of sheep, and the pipes we'll play, and the simple skins we'll wear for clothes. 
 APOLLO: You will dismantle your ship for the supplies you need, and I'll crush its empty hull. I have been too patient. I shall be patient no longer. 
 (He disappears with Carolyn still holding his hand.) 
+
+
 SCOTT: Captain, we've got to do something! 
 KIRK: We were doing something until our brave lady stepped in and saved us. 
 MCCOY: Any more good ideas, Jim? 
@@ -387,6 +437,8 @@ KIRK: Kirk here.
 SPOCK: Spock here, Captain. 
 [Temple]
 (The rest of the men gather to listen) 
+
+
 SPOCK [OC]: We've pinpointed a power source on the planet's surface which seems to have something to do with the force field. 
 [Bridge]
 SPOCK: Is there a structure of some sort near you? 
@@ -412,6 +464,8 @@ SCOTT: Captain, we've got to wait until Carolyn comes back before we fire on the
 KIRK: Yes, I know. I know. Scotty. We'll wait. 
 [Water's side]
 (There's some very passionate kissing going on.) 
+
+
 CAROLYN: I must say, Apollo, the way you ape human behaviour is remarkable, but there are some other things I must know. Your evolutionary patterns and your social development. 
 APOLLO: My what? 
 CAROLYN: I'm sure they're unique. I've never encountered a specimen like you before. 
@@ -437,6 +491,8 @@ KIRK: We've got to be here when he comes back.
 SCOTT: But what if he doesn't. What if he 
 KIRK: Scotty, just hold on! 
 (Carolyn falls to the ground in the strong winds, and a giant image of Apollo looms over her amid the lightning flashes.) 
+
+
 SCOTT: Captain! 
 KIRK: All right. The temple is his power source. Let's bring him back to it. Get to cover. Mister Spock, fire those phasers. 
 SPOCK [OC]: Captain, you're too close. 
@@ -445,14 +501,20 @@ KIRK: Fire those phasers! That's an order, Mister Spock!
 SULU: All phaser banks, fire! 
 [Temple]
 (The white marble starts to glow pink under the phaser beams, and Apollo runs back.) 
+
+
 APOLLO: No! Stop! Stop, I say! 
 [Bridge]
 (Enterprise shudders under his anger. There is no longer a hand holding the ship.) 
+
+
 SULU: All phaser banks, maintain firing rate! 
 SPOCK: More power to the shields. 
 [Temple]
 APOLLO: Stop! 
 (Carolyn totters into view, and Scotty dashes to her.) 
+
+
 KIRK: Scotty! 
 APOLLO: Stop, I say! (the temple is now yellow) I command it! 
 [Bridge]
@@ -461,12 +523,18 @@ SULU: Maintaining, sir.
 [Temple]
 APOLLO: Stop! Stop! Stop! 
 (His lightning bolts end, and the temple dissolves into rubble. Scott helps Carolyn to her feet as Apollo walks around, surveying the ruins.) 
+
+
 APOLLO: I would have cherished you, cared for you. I would have loved you as a father loves his children. Did I ask so much? 
 KIRK: We've out grown you. You asked for something we could no longer give. 
 APOLLO: Carolyn, I loved you. I would have made a goddess of you. I've shown you my open heart. See what you've done to me. 
 (He becomes a giant.) 
+
+
 APOLLO: Zeus, Hermes, Hera, Aphrodite. You were right. Athena, you were right. The time has passed. There is no room for gods. Forgive me, my old friends. Take me. Take me. 
 (And he disappears one last time. Carolyn cries.) 
+
+
 MCCOY: I wish we hadn't had to do this. 
 KIRK: So do I. They gave us so much. The Greek civilisation, much of our culture and philosophy came from a worship of those beings. In a way, they began the Golden Age. Would it have hurt us, I wonder, just to have gathered a few laurel leaves? 
 

@@ -60,6 +60,8 @@ GELDER: I want your promise first, your word that you won't take me back there, 
 KIRK: No promises. Give me the weapon.
 GELDER: No! No. No, I'm not going back! I'll disable your vessel first. You choose, Captain. I'll destroy your control panel.
 (Gelder is distracted and Spock neck-pinches him)
+
+
 KIRK: Take him to Sickbay. Reverse course. Head back for Tantalus colony. 
 [Sickbay]
 MCCOY: Abnormal, of course, but it's not schizophrenia, tissue damage, or any condition I'm acquainted with, Jim. And you know after getting him here, it took almost a triple dose of sedative to put him under.
@@ -364,6 +366,8 @@ BERKELEY: Mister Spock, the force field is gone. I can send you right to the sou
 SPOCK: (to McCoy) Get some security people and follow me down. Energise. 
 [Power control room]
 (Noel dashes back into the aircon tunnels) 
+
+
 SPOCK: (pushes a load of buttons) Enterprise, this is Spock. Force field has been eliminated. (turns main power back on again) 
 [Kirk's room]
 NOEL: Captain. Captain? 

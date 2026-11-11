@@ -24,9 +24,13 @@ SPOCK: Zero seven nine.
 KIRK: Let's go, Mister Spock. 
 SPOCK: Energising. 
 (Kirk dematerialises, then re-appears - in an empty transporter room.) 
+
+
 KIRK: Mister Spock? (goes to intercom) Mister Spock. I have not yet transported down. Why did you leave your post before confirming transport? Mister Spock? Spock? 
 [Bridge]
 (Completely deserted) 
+
+
 KIRK: Engineering? 
 [Engineering]
 KIRK [OC]: Mister Scott? Scotty! 
@@ -47,6 +51,8 @@ UHURA: Gideon is contacting us, Mister Spock.
 SPOCK: Put it on the screen. 
 UHURA: Aye, sir. 
 (Five men sitting behind a slightly curved table. The central one speaks.) 
+
+
 HODIN [on viewscreen]: Captain Kirk, this is Ambassador Hodin. The council is still awaiting your arrival. 
 SPOCK: This is Mister Spock, Ambassador Hodin. Captain Kirk was transported down minutes ago. 
 HODIN [on viewscreen]: That's impossible. 
@@ -68,6 +74,8 @@ SPOCK [OC]: It is possible that Captain Kirk materialised on some other part of 
 HODIN: Let us hope it was on dry land. 
 [Bridge]
 (McCoy enters) 
+
+
 SPOCK: Your Excellency. May I cut right to the heart of the matter? I request permission to beam down to conduct a search for our captain. 
 [Council chamber]
 HODIN: Permission denied. 
@@ -80,6 +88,8 @@ HODIN [OC]: With the violent nature of planets of other star systems.
 SPOCK: Your Excellency, the wars between opposing star systems no longer prevail in our galaxy. If you will grant permission 
 HODIN [on viewscreen]: Of course, we shall institute a thorough search. In the meantime, Mister Spock, I suggest that you look to your machinery. 
 (Transmission ends) 
+
+
 SPOCK: We must acknowledge once and for all that the purpose of diplomacy is to prolong a crisis. 
 MCCOY: Well, what are we waiting for, Mister Spock? We're not diplomats. 
 SPOCK: We are representatives of the Federation, Doctor. 
@@ -100,6 +110,8 @@ SPOCK: Then the sooner you begin, the better.
 SULU: Aye, sir. 
 [Corridor]
 (Kirk is checking each room when he sees a young woman walking backwards from a junction, arms outstretched as she almost dances.) 
+
+
 KIRK: Who are you? 
 ODONA: Odona. Yes, my name is Odona. Why did you bring me here? 
 KIRK: What are you doing on my ship? 
@@ -108,6 +120,8 @@ KIRK: Not my personal property, but I'm the captain.
 ODONA: And you have it all to yourself? 
 KIRK: It seems, at the moment, we have it all to ourselves. 
 (He grabs her arm.) 
+
+
 ODONA: You're hurting me, Captain 
 KIRK: Kirk. I'm sorry. James Kirk. And I didn't bring you here. 
 ODONA: If you didn't bring me 
@@ -137,6 +151,8 @@ SULU: With the captain lost, sir, that's the best they could come up with?
 SPOCK: Diplomats and bureaucrats may function differently, but they achieve exactly the same results. 
 [Empty Bridge]
 (Kirk checks the ship's chronometer on the helm/navigation console- it reads 9h 28m 29s) 
+
+
 KIRK: Nine minutes of my life has been lost. 
 ODONA: I don't understand. 
 KIRK: Between the time I tried to beam down to Gideon and the time I found myself here alone, nine minutes have disappeared just like that. Now what happened during those minutes? 
@@ -148,6 +164,8 @@ ODONA: Gideon? I don't know any Gideon.
 KIRK: That's impossible. We were in synchronous orbit over the capital city of Gideon. I tried to beam down, something happened, and you were beamed aboard from Gideon. 
 ODONA: I do not think so. 
 (Kirk switches on the viewscreen, but instead of the deep orange planet, it shows a moving starfield.) 
+
+
 KIRK: We're no longer over Gideon. 
 ODONA: Where are we? 
 KIRK: I don't know. I'm not familiar with that quadrant. Odona, you must realise that we're not here by accident. Some force, some intelligence has arranged this for a purpose. 
@@ -201,6 +219,8 @@ SCOTT: I'll not take that, Mister Spock. That transporter was in perfect conditi
 SPOCK: Mister Scott, you'll go to the transporter room and await my orders. 
 SCOTT: Aye, Mister Spock. 
 (Scott leaves, muttering) 
+
+
 HODIN [OC]: I could not quite make that out, Mister Spock. 
 [Council chamber]
 HODIN: Would you be so good as to repeat what you said? 
@@ -235,6 +255,8 @@ SCOTT [OC]: Zero two zero.
 KRODAK [OC]: Seven zero nine. 
 SCOTT: Seven zero nine. Energising. 
 (Krodak disappears from the bridge viewscreen and appears in the transporter room) 
+
+
 SCOTT: Mister Spock, the gentleman from Gideon is here. 
 [Bridge]
 SPOCK: Your Excellency, your assistant has arrived safely, and I am now ready to transport down to Gideon. 
@@ -242,6 +264,8 @@ HODIN [on viewscreen]: Now, now, not so fast, Mister Spock. That is quite a diff
 SPOCK: Sir, our captain is still missing, and I now demand that I be allowed to transport to Gideon as we agreed. 
 HODIN [on viewscreen]: Forgive me, Mister Spock, but I overstepped my authority when I made that agreement. However, your request will be taken up at the next full session of Gideon's council. 
 (Transmission ends) 
+
+
 SPOCK: Mister Scott, beam down the gentleman from Gideon. 
 SCOTT; Yes, Mister Spock. I'm sending him straight to the same co-ordinates. 
 MCCOY: Just when I was beginning to think you might find a whole new career as a diplomat, Mister Spock. 
@@ -256,6 +280,8 @@ KIRK: Captain Kirk here. Please answer red priority. Please answer red priority.
 ODONA: Why should they do that? 
 KIRK: They wouldn't. 
 (Kirk goes to the engineering station and swaps a couple of tapes over.) 
+
+
 ODONA: What did you do? 
 KIRK: Took the ship out of warp speed. 
 ODONA: Out of what? 
@@ -305,8 +331,12 @@ KIRK: A storm might, but you wouldn't be able to hear it. Come on.
 [Observation deck]
 KIRK: This is a viewing port. We'll be able to see outside. If there's a storm, we'll be able to see it. 
 (Kirk presses a button, but the steel shutter does not raise) 
+
+
 KIRK: If it works. 
 (uses a manual override, and the shutters slide open to reveal faces which are then replaced by a starfield.) 
+
+
 ODONA: People. The faces of people. And then the stars. What's happening? What's out there? The sound is gone. 
 KIRK: It was like the heartbeat of all those people, and thousands upon thousands more pressing against the ship. 
 ODONA: But you said we were moving through space. 
@@ -339,6 +369,8 @@ HODIN: We have no need of any of your medicines.
 KIRK: But she's ill. 
 HODIN: And we're grateful to you for her illness. You have done well, my daughter. 
 (Kirk hands Odona over to Hodin) 
+
+
 HODIN: Guard the captain well. We shall need him for a long time. 
 [Bridge]
 ADMIRAL [on viewscreen]: I sympathize deeply, but Starfleet cannot override Federation directives in this matter. 
@@ -377,6 +409,8 @@ HODIN: Yes. Our prime minister learned about you during our negotiations. That's
 KIRK: That's how my arm got hurt. 
 HODIN: Yes. As Odona told you, we have no need for medical practitioners here. Our apologies. We were unforgivably awkward to have hurt you. 
 (Kirk has a fight with his two guards, and loses.) 
+
+
 KIRK: You're mad. 
 HODIN: No. We are desperate. 
 [Bridge]
@@ -398,6 +432,8 @@ SPOCK: The situation forces me to do so, Doctor.
 MCCOY: In that case, it's the worst possible decision you can make, Spock. 
 SPOCK: This will not take long. 
 (Spock leaves) 
+
+
 SCOTT: Isn't that just about what Captain Kirk said before he left? 
 [Fake Transporter room]
 SPOCK: (into intercom) Captain Kirk. Spock here. Captain Kirk? 
@@ -458,6 +494,8 @@ KIRK: And it can continue. If only you'll allow me, I can cure you.
 ODONA: I'm not afraid of what will happen, but it's just that now I wish with all my heart to stay with you forever. 
 (She passes out) 
 (Outside in the corridor, Spock sneaks up on the two guards outside the 'Captain's quarters'. He neck pinches one, and throws the other along the corridor. Then he enters the room.) 
+
+
 SPOCK: Your Excellency. Captain, you're looking well. Evidently Starfleet's analysis was correct. 
 KIRK: Mister Spock, we have a patient for Doctor McCoy. Have Scotty beam us up. 
 SPOCK: Spock to Enterprise. Spock to Enterprise. 
@@ -473,6 +511,8 @@ MCCOY: Well, that was close, but you made it.
 ODONA: I am cured? 
 MCCOY: Right. Just like the captain. 
 (McCoy leaves) 
+
+
 ODONA: Instead of smiling at me, you should be shouting in anger. 
 KIRK: Why, because you're well again? 
 ODONA: No. Because I pretended to be (pause) How can you bear to look at me after the way I deceived you? 
@@ -491,6 +531,8 @@ KIRK: Yes, it goes to the whole galaxy. With another difference. This one is cro
 ODONA: It seems crowded to you? 
 KIRK: It does now. 
 (Crewmen pass by behind them) 
+
+
 ODONA: Are you going to stay on the ship? 
 KIRK: Yes, Odona, I have to. 
 ODONA: As crowded as my planet is, I could wish for it to hold one more person. 

@@ -8,6 +8,8 @@ Captain's log, stardate 3192.1. The Enterprise is en route to star cluster NGC 3
 KIRK: Nothing yet, Lieutenant? 
 UHURA: Nothing, Captain. Hailing frequencies are open. 
 (Ambassador Fox enters the Bridge from the turbolift.) 
+
+
 FOX: Have you received an answer to your message yet, Captain? 
 KIRK: Nothing yet, Ambassador. We're awaiting a reply. Today's the first time we've had any evidence they've picked up our signal. 
 UHURA: Captain, message coming in from Eminiar Seven. Sir, it's code seven-ten. 
@@ -23,6 +25,8 @@ FOX: I'm quite prepared to take that risk.
 KIRK: You are. I'm thinking about this ship, my crew. 
 FOX: I have my orders, Captain, and now you have yours. You will proceed on course. Achieve orbit status and just leave the rest to me. You're well aware that my mission gives me the power of command. I now exercise it. You will proceed on course. That's a direct order. 
 (He leaves.) 
+
+
 SPOCK: In view of code seven-ten, Captain, may I suggest 
 KIRK: Yes, Mister Spock. This is the Captain. Condition Yellow Alert. Phaser crews stand by. Deflector shields up. We're going in. Peacefully, I hope. But peacefully or not, we're going in. 
 Captain's log, stardate 3192.5. Now in standard orbit around planet Eminiar Seven. My orders are clear. We must establish diplomatic relations at all cost. Preparing to beam down to planet surface. 
@@ -48,8 +52,12 @@ SCOTT: Aye, aye, sir. And have a bonny trip.
 KIRK: We'll do our best. Let's go. 
 [Eminiar Seven]
 (A young woman in black tights and a skillfully draped scarf is accompanied by two guards. She uses a scanning device.) 
+
+
 MEA: They will materialise there. Remember your instructions; They are to be treated correctly, nothing more. 
 (Kirk, Spock, a yeoman and two guards materialise next to a sculpture) 
+
+
 KIRK: I'm Captain James T. Kirk of the starship Enterprise, representing the United Federation of Planets. 
 MEA: I know. I'm Mea 3. I congratulate you on your instrumentation. You've come directly to the Division of Control. If you'll follow me, please. 
 [Corridor]
@@ -62,6 +70,8 @@ KIRK: I see no danger here.
 MEA: The danger exists. Nevertheless, you are here. It would be morally incorrect to do less than extend our hospitality. Anan 7 and members of the High Council await you. If you will come this way, please. 
 [Council Room]
 (Five stern looking men sit along a table facing the door.) 
+
+
 KIRK: I'm Captain Kirk. This is my first officer, Mister Spock, Lieutenants Galloway, Osborne, Yeoman Tamula. 
 ANAN: Welcome to Eminiar Seven. Well, Captain, what can we do for you? 
 KIRK: My mission is to establish diplomatic relations between your people and mine. 
@@ -76,8 +86,12 @@ ANAN: Casualties among our civilian population total from one to three million d
 SPOCK: With whom are you at war? 
 ANAN: The third planet in our system, called Vendikar. Originally settled by our people and now a ruthless enemy. Highly advanced technologically. 
 (An alarm sounds.) 
+
+
 ANAN: Please excuse me. Vendikar is attacking. Mea, care for our guests. 
 (The Council adjourn into an adjacent room filled with computer equipment.) 
+
+
 SPOCK: Strange. 
 KIRK: To say the least. 
 MEA: It will not last long. 
@@ -86,6 +100,8 @@ MEA: There is no shelter, Captain.
 SPOCK: Are these attacks frequent? 
 MEA: Oh yes, and we will retaliate immediately. 
 (She sees an area flare on a map) 
+
+
 MEA: Oh! 
 KIRK: What is it? 
 MEA: A hit right here in the city. 
@@ -94,6 +110,8 @@ SPOCK: None, Captain. Yeoman Tamula.
 TAMULA: Sir? 
 SPOCK: Tricorder readings. Radiation. Disturbances of any kind. 
 (She scans the area) 
+
+
 TAMULA: Working, sir. No evidence. 
 KIRK: Mea, if this is an attack, may I ask what weapons the enemy is using? 
 MEA: Fusion bombs, materialised by the enemy over their targets. 
@@ -111,6 +129,8 @@ SAR: Just as it happened fifty years ago.
 ANAN: Alert a security detachment. They may be needed. 
 [Council Room]
 (Anan rejoins the group) 
+
+
 ANAN: It's a vicious attack, extremely destructive. Fortunately, our defences are firming, but our casualties are high. Very high. 
 KIRK: Sir, I have been in contact with my ship, which has had this entire planet under surveillance. All during this so-called attack of yours, we have been monitoring you. There's been no attack, no explosions, no radiations, no disturbances whatsoever. If this is some sort of game you're playing 
 ANAN: This is no game, Captain. Half a million people have just been killed. Activate the attack units, Sar. 
@@ -163,7 +183,9 @@ SCOTT: Mister Fox'll be glad to hear about that.
 KIRK: They've also extended an invitation to all personnel to come ashore, for shore leave. They've assured me that our people will have a wonderful time. 
 SCOTT: Er, Captain? 
 [War Room]
-(It sounds like Kirk but it isn't.) ANAN: Yes, Mister Scott? 
+(It sounds like Kirk but it isn't.) 
+
+ANAN: Yes, Mister Scott? 
 SCOTT [OC]: All personnel? 
 ANAN: All personnel. We'll transport up trained Eminians to assume support positions. Those are my orders, Mister Scott. 
 [Bridge]
@@ -181,6 +203,8 @@ KIRK: Are you sure you can do it, Mister Spock?
 SPOCK: Limited telepathic abilities are inherent in Vulcanians, Captain. It may work. It may not. 
 KIRK: Do your best. 
 (Spock goes to the door and begins to slowly work his way across it. Outside, the guard starts to blink and shake his head. Spock reaches the place directly behind the guard and looks as if he is doing a mind meld through the wall. Slowly, the guard opens the door and enters. He is swiftly disarmed and knocked out.) 
+
+
 KIRK: Thank you, Mister Spock. 
 SPOCK: My pleasure, Captain. 
 TAMULA: What do we do now, Captain? 
@@ -190,10 +214,14 @@ KIRK: We'll try to take it easy, but if we're forced to kill
 (As holder of the only gun, Kirk leads the way into the corridors of the city.) 
 [Corridor]
 (At a junction, they watch as first a young woman, then a security guard go into a booth.) 
+
+
 SPOCK: An entrance, Captain, but no exit. They go in, but they do not come out. 
 KIRK: A disintegration machine. 
 SPOCK: So I would assume. 
 (They move forward carefully and meet - ) 
+
+
 KIRK: Mea. What do you think you're doing? 
 MEA: I'm going 
 KIRK: You're not going in there. 
@@ -202,10 +230,16 @@ KIRK: No you're not.
 MEA: Please. All right, don't worry about me. 
 KIRK: Mister Spock, that guard. I'll cover you. 
 (Spock walks nonchalantly up to the guard in charge of disintegrating the waiting queue of people.) 
+
+
 SPOCK: Sir, there's a multi-legged creature crawling on your shoulder. 
 (He neck-pinches him, as the rest just stare. They now have two weapons. Spock rejoins Kirk.) 
+
+
 KIRK: All right, you people, clear out of the way. 
 (Kirk fires at the booth.) 
+
+
 MEA: What are you doing? 
 KIRK: Throwing a monkey wrench into the machinery. 
 MEA: You can't do this. 
@@ -240,6 +274,8 @@ FOX: And I'm responsible for the success of this mission, and that's more import
 SCOTT: But they're the ones who're looking for a fight, Mister Fox. 
 FOX: This is a diplomatic matter. If you check your regulations, you'll find that my orders get priority. I'll try to make contact with the planetary officials. Lieutenant, open up a channel and keep it open. Tell them to expect a priority one message from me. There will be no punitive measures, gentlemen. Those are my orders. 
 (He leaves the Bridge.) 
+
+
 SCOTT: Diplomats. The best diplomat I know is a fully activated phaser bank. 
 [Room]
 TAMULA: Why did we come back here, Captain? 
@@ -298,6 +334,8 @@ ANAN: He will be there, sir.
 ANAN [OC]: I give you my word. 
 FOX: I'm sure that from this day forward, your planet and our Federation will attain the deepest friendship. I look forward to seeing you. 
 (He gestures to Uhura to end transmission.) 
+
+
 FOX: Diplomacy, gentlemen, should be a job left to diplomats. You will, of course, immediately resume a peaceful status. 
 SCOTT: No, sir, I will not. 
 FOX: What did you say? 
@@ -311,10 +349,14 @@ FOX: Your refusal to comply with my orders has endangered the entire success of 
 SCOTT: That you can, sir, but I won't lower the screens. 
 FOX: Your name will figure prominently in my report to the Federation Central. 
 (Fox leaves the Bridge) 
+
+
 MCCOY: Well, Scotty, now you've done it. 
 SCOTT: Aye. The haggis is in the fire for sure, but I'll not lower my defences on the word of that mealy-mouthed gentleman down below. Not until I know what happened to the Captain. 
 [Anan's room]
 (Kirk enters, quietly, but Anan knows he is there without turning around.) 
+
+
 ANAN: Won't you join me in a drink, Captain? You'll find our trova most interesting. 
 KIRK: I didn't come to drink. 
 ANAN: I assume that is what you used to destroy disintegration chamber number twelve. 
@@ -331,6 +373,8 @@ ANAN: You're worried about your ship, Captain. I'm trying to save a world.
 KIRK: If I were you, I'd think about saving my life. 
 ANAN: Won't you have a drink, Captain? 
 (Kirk pours himself a slug of trova, and as he turns his back, Anan presses concealed buttons.) 
+
+
 ANAN: And then we can discuss our differences. 
 KIRK: I'm not interested in discussing our differences. You don't seem to realise the risk you're taking. We don't make war with computers and herd the casualties into suicide stations. We make the real thing, Councilman. I could destroy this planet. 
 ANAN: Why do you think I don't let you talk to your ship ? 
@@ -343,10 +387,14 @@ ANAN: If I told you, Captain, would you walk right out and get them?
 KIRK: Something like that. 
 ANAN: Very well, Captain. They're in the War Room. Go left down the corridor, left again. They are unguarded. 
 [Corridor]
-(Kirk gestures Anan to leave in front of him, and pushes him into the first guard outside the door. Then Kirk tackles the second guard, but finally the pair knock him out.) ANAN: Is he alive? Pity. Man like that would have preferred to die fighting. Take him to the Council Room. 
+(Kirk gestures Anan to leave in front of him, and pushes him into the first guard outside the door. Then Kirk tackles the second guard, but finally the pair knock him out.) 
+
+ANAN: Is he alive? Pity. Man like that would have preferred to die fighting. Take him to the Council Room. 
 (Kirk is half-dragged away) 
 [Eminiar Seven]
 (Fox and his aide beam down to exactly the same place as the original landing party.) 
+
+
 ANAN: Ambassador Fox? 
 FOX: I am Robert Fox. Have I the honour of addressing Anan Seven? 
 ANAN: Welcome to Eminiar, Mister Ambassador. 
@@ -358,6 +406,8 @@ FOX: You mean we are to be killed?
 ANAN: That is correct, Mister Ambassador. I regret it very much, but there is nothing I can do about it. 
 [Room]
 (The two security guards are in Eminian uniform and look like something out of Thunderbirds - the puppet show, that is.) 
+
+
 SPOCK: Spock to Enterprise, come in. 
 [Bridge]
 UHURA: Mister Scott, it's Mister Spock. 
@@ -379,14 +429,20 @@ SPOCK: Find the Ambassador and the Captain. Yeoman Tamula, you stay here and pre
 TAMULA: Yes, sir. 
 [Disintegration chamber]
 (A guard is trying to force Fox inside when Spock and the two guards arrive.) 
+
+
 FOX: What are you doing? I'm a representative of the United Federation of Planets! A special representative! 
 GUARD: Get in line. 
 (They disarm and disable the Eminian guards) 
+
+
 FOX: Spock! 
 SPOCK: Please, Mister Fox. Ladies and gentlemen, please move quickly away from the chamber or you may be injured. 
 FOX: What are you doing, Mister Spock? 
 SPOCK: Practicing a peculiar variety of diplomacy, sir. 
 (He uses the disrupter to destroy the disintegration chamber) 
+
+
 SPOCK: I'll take you to a place of comparative safety, then I must find the Captain. 
 FOX: They have him. The guards told us. They took him to the Council Room under heavy guard. 
 SPOCK: By now, Mister Ambassador, I'm sure you realise that normal diplomatic procedures are ineffective here. 
@@ -416,6 +472,8 @@ SECURITY [OC]: I'm sorry, Councilman. The target has moved out of range.
 ANAN: You wouldn't do this. Hundreds of millions of people. 
 KIRK: I didn't start it, Councilman, but I'm liable to finish it. 
 (Meanwhile Spock and his group are moving through the corridors. Fox's aide gets injured in one weapons exchange so they leave him behind.) 
+
+
 SAR: Councilman, I received a message from Vendikar. Our time is nearly up. Our quota is short by several thousand. They accuse us of reneging on the treaty. 
 ANAN: You see? It's started. 
 KIRK: You're wrong. It hasn't begun. 
@@ -433,13 +491,21 @@ SCOTT: The entire inhabited surface of your planet will be destroyed.
 SCOTT: You have that long to surrender your hostages. 
 ANAN: What can I do? Somebody, please tell me. 
 (Kirk lures a guard to him, knocks him down, gets his weapon and holds off the others.) 
+
+
 KIRK: Hold it! Over there. You, over there. Move, move, move. 
 (Everyone goes over against a wall, while Kirk gets a second weapon and stands by the council table.) 
+
+
 KIRK: Now we'll talk. 
 (Spock and Fox enter.) 
+
+
 SPOCK: I had assumed you needed help. I see I'm in error. 
 KIRK: No. I need the help. In there, Mister Spock. 
 (Spock enters the War Room) 
+
+
 KIRK: Kirk to Enterprise. Come in, Scotty. 
 SCOTT [OC]: Aye, Captain, are you all right? 
 KIRK: Everything's secure here. Maintain position. If everything goes according to plan, you can beam us up in ten minutes. If you don't hear from us, carry out General Order Twenty Four on schedule. 
@@ -452,6 +518,8 @@ KIRK: (to Sar) You. Come with me. Mister Osborne.
 [War Room]
 KIRK: Our communicators, weapons. 
 (Sar opens a cupboard and Osborne gets them.) 
+
+
 KIRK: All right, Mister Spock. SPOCK: These are the attack computers, Captain. That one's defence, that one computes the casualties. They're all tied in with a subspace transmission unit, which keeps them in constant contact with their Vendikan counterparts. 
 KIRK: Yes, go on. 
 SPOCK: At the moment contact is broken, it abrogates the agreement between the two warring parties. 
@@ -460,10 +528,14 @@ SPOCK: This one's the key. The circuit is now locked. Destroy this one, and they
 KIRK: Good. Get him out of here. 
 SAR: Now wait a minute. Please, please! 
 (Kirk uses his phaser to destroy the computer.) 
+
+
 KIRK: Let's go. 
 [Corridor]
 KIRK: Against the wall! 
 (There is a very satisfying series of explosions.) 
+
+
 ANAN: You realise what you have done? 
 KIRK: Yes, I do. I've given you back the horrors of war. The Vendikans now assume that you've broken your agreement and that you're preparing to wage real war with real weapons. They'll want do the same. Only the next attack they launch will do a lot more than count up numbers in a computer. They'll destroy cities, devastate your planet. You of course will want to retaliate. If I were you, I'd start making bombs. Yes, Councilman, you have a real war on your hands. You can either wage it with real weapons, or you might consider an alternative. Put an end to it. Make peace.;
 ANAN: There can be no peace. Don't you see? We've admitted it to ourselves. We're a killer species. It's instinctive. It's the same with you. Your General Order Twenty Four. 
@@ -472,6 +544,8 @@ FOX: As a third party interested only in peace and the establishment of normal r
 ANAN: There may be a chance. We have a direct channel with Vendikar's High Council. It hasn't been used in centuries. 
 FOX: Then it's long overdue. Shall we go? 
 (Anan and Fox leave.) 
+
+
 SPOCK: There's a chance it may work, Captain. 
 KIRK: Kirk to Enterprise. Scotty? 
 SCOTT [OC]: Scott here, Captain. 

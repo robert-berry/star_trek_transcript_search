@@ -420,6 +420,8 @@ KIRK: I've got to hang on. Tell them. Clear the corridors, the turbo lift. Hurry
 KIRK: Bridge. 
 [Bridge]
 (McCoy gives Kirk a hypo as he leaves the turbolift) 
+
+
 KIRK: Engine room. We're set. Hyperbolic course.
 BRENT: Direction, sir?
 KIRK: Direction. Direction. It doesn't matter. The way we came.

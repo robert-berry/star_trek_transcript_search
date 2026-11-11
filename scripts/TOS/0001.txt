@@ -61,6 +61,8 @@ ONE: All decks have acknowledged, sir.
 PIKE : Engage.
 TYLER: On course, sir. 
 (Colt enters. Pike turns around and bumps into her) 
+
+
 PIKE: Yeoman. 
 COLT: Yes, sir. 
 PIKE: I thought I told you that when I'm on the bridge 
@@ -69,6 +71,8 @@ PIKE: Oh, I see. Thank you.
 ONE: She's replacing your former yeoman, sir. 
 PIKE: She does a good job, all right. It's just that I can't get used to having a woman on the bridge. No offence, Lieutenant. You're different, of course. 
 (The Enterprise arrives at a planet) 
+
+
 TYLER: We've settled into orbit, sir.
 GEOLOGIST: Geological lab report complete, Captain.
 SPOCK: Preliminary lab survey ready, sir.
@@ -87,6 +91,8 @@ PIKE: There's no indication of problems down there, but let's not take chances.
 PITCAIRN: Yes, sir. There's a canyon to the left. We can set you there completely unobserved. 
 [Planet surface]
 (the group explores until they find a rough settlement) 
+
+
 GARISON: Sir.
 OLD MAN: They're men. They're humans.
 PIKE: Captain Christopher Pike, United Space Ship Enterprise.
@@ -95,8 +101,12 @@ SURVIVOR: Is Earth all right?
 PIKE: The same old Earth, and you'll see it very soon.
 TYLER: And you won't believe how fast you can get back. Well the time barrier's been broken. Our new ships can
 (He's struck dumb by the sight of a lovely young woman) 
+
+
 HASKINS: This is Vina. Her parents are dead. She was born almost as we crashed.
 (The reunion is being watched on another screen, by three people with big bald heads) 
+
+
 PIKE: (as the survivors pack up the settlement) Enterprise.
 ONE [OC]: Landing party, come in.
 PIKE: We'll begin transporting the survivors and their effects up to you very shortly.
@@ -111,19 +121,29 @@ VINA: I think it's time to show the Captain our secret.
 BOYCE: Their health is excellent. Almost too good.
 HASKINS: There's a reason for our condition, but we've had some doubt if Earth is ready to learn the secret. Let the girl show you. We'll accept your judgment.
 (Pike follows Vina up a slope to a ledge by a rock face) 
+
+
 VINA: You're tired, but don't worry. You'll feel much better soon. Don't you see it? Here and here.
 PIKE: I don't understand.
 VINA: You will. You're a perfect choice. 
 (Vina vanishes, and so do all the survivors and their encampment. A door opens in the rock face, Pike is knocked out and taken inside. At the settlement -)
+
+
 TYLER: Captain! 
 (Everyone rushes over in time to see the door closing in the rock. They fire their phasers at it but it just blasts away the rock covering to show the metal underneath.) 
+
+
 SPOCK: Spock here.
 ONE [OC]: Landing party, come in.
 SPOCK: There is no survivors' encampment, Number One. This is all some sort of trap. We've lost the Captain. Do you read? 
 [Pike's cage]
 (Pike wakes to find himself in a cell with a transparent wall blocking his escape. He tests it's strength, and notices other similar occupied cells. There's a fanged ape, a giant bird and other scary shadows. The three aliens arrive)
+
+
 PIKE: Can you hear me? My name is Christopher Pike, commander of the space vehicle Enterprise from a stellar group at the other end of this galaxy. Our intentions are peaceful. Can you understand me?
 (the aliens communicate with their minds, not voices)
+
+
 TALOSIAN: It appears, Magistrate, that the intelligence of the specimen is shockingly limited.
 MAGISTRATE: This is no surprise since his vessel was baited here so easily with a simulated message. As you can read in its thoughts, it is only now beginning to suspect that the survivors and encampment were a simple illusion we placed in their minds.
 PIKE: You're not speaking, yet I can hear you.
@@ -145,6 +165,8 @@ TYLER: It's Captain Pike they've got. He needs help, and he probably needs it fa
 ONE: Engineering deck will rig to transmit ship's power. We'll try blasting through that metal. 
 [Talosian monitoring room]
 (As Pike continues to explore his cell) 
+
+
 TALOSIAN: Thousands of us are already probing the creature's thoughts, Magistrate. We find excellent memory capacity.
 MAGISTRATE: I read most strongly a recent death struggle in which it fought to protect its life. We will begin with this, giving the specimen something more interesting to protect. 
 [Rigel Seven]
@@ -158,14 +180,20 @@ VINA: The killer!
 PIKE: It's starting just as it happened two weeks ago. Except for you. 
 [Fortress]
 (The courtyard is scattered with lances and spears) 
+
+
 PIKE: Longer hair, different dress, but it is you, the one the survivors called Vina. Or rather the image of Vina. But why you again? Why didn't they create a different girl? 
 (The killer enters - a big humanoid with shield and axe) 
+
+
 VINA: Quick. If you attack while it's not looking.
 PIKE: But it's only a dream.
 VINA: You have to kill him as you did here before.
 PIKE: You can tell my jailers I won't go along with it. I'm not an animal performing for its supper.
 VINA: It doesn't matter what you call this, you'll feel it. That's what matters. You'll feel every moment of whatever happens to you. Please, don't you know what he'll do to us? 
 (so Pike fights the killer with mace and shield) 
+
+
 PIKE: Why would an illusion be frightened? 
 VINA: Because that's the way you imagined me. 
 PIKE: Who are you? You act as if this were really you. 
@@ -174,6 +202,8 @@ VINA: Careful.
 [Pike's cell]
 VINA: It's over. 
 (Vina hugs her hero, then sees the Talosians watching them. The Talosians leave.)
+
+
 PIKE: Why are you here? 
 VINA: To please you. 
 PIKE: Are you real? 
@@ -196,6 +226,8 @@ SPOCK [OC]: Standing by, Number One.
 ONE: Take cover.
 SPOCK [OC]: Ten, nine, eight, seven, six, five, four, three, two, one.
 (The laser cannon blasts away)
+
+
 ONE: Increase to full power! Can you give us any more?
 SPOCK [OC]: Our circuits are beginning to heat. We'll have to cease power.
 ONE: Disengage. The top of that knoll should have been sheared off the first second.
@@ -224,16 +256,22 @@ PIKE: But that was a bargain with something that didn't exist. You said you were
 VINA: I'm a woman as real and as human as you are. We're like Adam and Eve. If we. Don't. Please don't punish me! (disappears)
 (Pike sees the Magistrate walk away) 
 (Pike continues to search the walls for a door when a hatch opens and a glass is placed on the floor)
+
+
 MAGISTRATE: The vial contains a nourishing protein complex.
 PIKE: Is the keeper actually communicating with one of his animals?
 MAGISTRATE: If the form and the colour is not appealing, it can appear as any food you wish to visualise.
 PIKE: And if I prefer
 MAGISTRATE: To starve? You overlook the unpleasant alternative of punishment.
 (Pike is surrounded by fire and brimstone, screaming in pain)
+
+
 MAGISTRATE: From a fable you once heard in childhood. You will now consume the nourishment.
 PIKE: Why not just put irresistible hunger in my mind? Because you can't, can you? You do have limitations, don't you?
 MAGISTRATE: If you continue to disobey, from deeper in your mind, there are things even more unpleasant.
 (Pike drinks the nourishment then launches himself at the glass wall. The Magistrate steps back in surprise)
+
+
 PIKE: That's very interesting.
 MAGISTRATE: Now to the female.
 PIKE: You were startled. Weren't you reading my mind then?
@@ -252,6 +290,8 @@ PIKE: You mean properly punished! I'm the one who's not co-operating! Why don't 
 MAGISTRATE: First, an emotion of protectiveness. Now one of sympathy. Excellent. 
 [Woodland glade]
 (A picnic spread on a tartan rug, two horses standing by, a futuristic city in the distance) 
+
+
 VINA: You want some coffee, dear? I left the thermos hooked to my saddle.
 PIKE: Tango! You old devil, you. I'm sorry I don't have any sugar. Well, they think of everything, don't they? (feeds lumps to the horse) 
 VINA: Hey, your coffee. Is it good to be home?
@@ -284,8 +324,12 @@ TALOSIAN: A curious species. They have fantasies they hide even from themselves.
 VINA [on monitor]: I'm beginning to see why none of this has worked for you. You've been home, and fighting as on Rigel. That's not new to you, either. A person's strongest dreams are about what he can't do. Yes, a ship's captain, always having to be so formal, so decent and honest and proper. You must wonder what it would be like to forget all that. 
 [Open air party]
 (A band plays, and a green woman dances sensuously)
+
+
 OFFICER: Nice place you have here, Mister Pike.
 (The dancer is -) 
+
+
 PIKE: Vina? ORION: Glistening green. Almost like secret dreams a bored ship captain might have. 
 OFFICER: Funny how they are on this planet. They actually like being taken advantage of. Suppose you had all of space to choose from, and this was only one small sample. 
 ORION: Wouldn't you say it was worth a man's soul?
@@ -297,6 +341,8 @@ ONE: Now, you all know the situation. We're hoping to transport down inside the 
 SPOCK: If our measurements and readings are an illusion also, one could find oneself materialised inside solid rock.
 ONE: Nothing will be said if any volunteer wants to back out.
 (Pitcairn energises but only Number One and Yeoman Colt dematerialise) 
+
+
 SPOCK: The women! 
 [Pike's cage]
 ONE: Captain! Captain.
@@ -317,6 +363,8 @@ ONE: Offspring as in he's Adam. Is that it?
 VINA: You're no better choice. They'd have more luck crossing him with a computer.
 ONE: Well, shall we do a little time computation? There was a Vina listed on that expedition as an adult crewman. Now, adding eighteen years to your age then.
 (The Magistrate approaches the cell)
+
+
 VINA: It's not fair. I did what you asked.
 MAGISTRATE: Since you resist the present specimen, you now have a selection.
 PIKE: I'll break out of this zoo somehow and get to you. Is your blood red like ours? I'm going to find out.
@@ -326,6 +374,8 @@ MAGISTRATE: The other new arrival has considered you unreachable but now is real
 PIKE: You'll find my thoughts more interesting. Thoughts so primitive you can't understand. Emotions so ugly (stricken by pain)
 MAGISTRATE: Wrong thinking is punishable. Right thinking will be as quickly rewarded. You will find it an effective combination. 
 (Magistrate leaves)
+
+
 ONE: Captain.
 PIKE: No. No, don't help me. I have to concentrate. They can't read through hate. 
 [Bridge]
@@ -334,6 +384,8 @@ GARISON: Open, sir.
 SPOCK: This is the acting captain speaking. We have no choice now but to consider the safety of this vessel and the remainder of the crew. We're leaving. All decks prepare for hyperdrive. Time warp factor. 
 TYLER: Mister Spock, the ship's controls have gone dead. 
 (The lights go out) 
+
+
 SPOCK: Engine room! 
 GARISON: Open. 
 SPOCK: Mister Spock here. Switch to rockets. We're blasting out. 
@@ -341,32 +393,48 @@ PITCAIRN [OC]: All systems are out, bridge. We've got nothing.
 TYLER: There's nothing. Every system aboard is fading out. 
 [Pike's cell]
 (The group are apparently dozing when the Magistrate opens the hatch to get the laser pistols Pike dropped there. He grabs him and pulls him into the cage, and starts to throttle him)
+
+
 PIKE: Now you hold still, or I'll break your neck.
 VINA: Don't hurt them. They don't mean to be evil.
 PIKE: I've had some samples of how good they are.
 (the Talosian appears to be a vicious monster)
+
+
 PIKE: You stop this illusion, or I'll twist your head off. (it stops) All right, now you try one more illusion, you try anything at all, and I'll break your neck.
 MAGISTRATE: Your ship. Release me or we'll destroy it. 
 {Bridge]
 (The senior officers have taken the navigation console apart) 
+
+
 SPOCK: Nothing. But for the batteries we'd lose gravitation and oxygen. 
 TYLER: The computers! 
 (The monitor shows a montage of images - space capsules, the Moon, maps of Earth) 
+
+
 TYLER: I can't shut it off. It's running through our library. Tapes, micro-records, everything. It doesn't make sense. 
 SPOCK: Could be we've waited too long. It's collecting all the information stored in this fly. They've decided to swat us. 
 [Pike's cell]
 VINA: He's not bluffing, Captain. With illusion they can make your crew work the wrong controls or push any button it takes to destroy your ship.
 PIKE: I'm going to gamble you're too intelligent to kill for no reason at all. 
 (Pike hands the Magistrate over to Number One and picks up the laser pistols, firing them at the glass wall. Then he puts one to the Magistrate's head) 
+
+
 PIKE: On the other hand, I've got a reason. I'm willing to bet you've created an illusion this laser is empty. I think it just blasted a hole in that window and you're keep us from seeing it. You want me to test my theory out on your head?
 (There is a hole in the window) 
+
+
 COLT: Captain. 
 (They all leave through the hole and get into the elevator to the surface) 
 [Planet surface]
 (The top of the rocky knoll is split apart) 
+
+
 PIKE: Make contact, Number One.
 ONE: They kept us from seeing this, too. We cut through and never knew it. Captain.
 (The communicator isn't working) 
+
+
 MAGISTRATE: As you see, your attempt to escape accomplished nothing.
 PIKE: I want to contact our ship.
 MAGISTRATE: You are now on the surface where we wished you to be. With the female of your choice, you will now begin carefully guided lives.
@@ -376,16 +444,24 @@ PIKE: Look, I'll make a deal with you. You and your life for the lives of these 
 MAGISTRATE: Since our lifespan is many times yours, we have time to evolve you into a society trained to serve as artisans, technicians 
 PIKE: Do you understand what I'm saying? You give me proof that our ship is all right, send these two back, and I'll stay with Vina.
 (Number One sets her laser pistol to overload)
+
+
 ONE: It's wrong to create a whole race of humans to live as slaves.
 MAGISTRATE: Is this a deception? Do you intend to destroy yourselves?
 VINA: What is that?
 PIKE: The weapon is building up an overload. A force chamber explosion. You still have time to get underground. Well, go on! (pushes Vina away) Just to show you how primitive humans are, Talosian, you go with her.
 VINA: If, if you all think it's this important, then I can't go either. I suppose if they have one human being, they might try again. 
 (More Talosians arrive) 
+
+
 PIKE: Wait.
 (Number One turns off the pistol) 
+
+
 TALOSIAN: Their method of storing records is crude and consumed much time. Are you prepared to assimilate it?
 (The Magistrate nods, and the veins on his head throb) 
+
+
 MAGISTRATE: We had not believed this possible. The customs and history of your race show a unique hatred of captivity. Even when it's pleasant and benevolent, you prefer death. This makes you too violent and dangerous a species for our needs.
 VINA: He means that they can't use you. You're free to go back to the ship.
 PIKE: And that's it? No apologies? You captured one of us, threatened all of us.
@@ -401,9 +477,13 @@ PITCAIRN: Sir, it just came on. We can't shut the power off.
 SPOCK: Mister Spock here.
 TYLER [OC]: All power has come on, Mister Spock. The helm is answering to control.
 (The transporter platforms light up and first Colt, then Number One are beamed aboard)
+
+
 GARISON: The captain? 
 [Planet surface]
 (Vina changes into a scarred, misshapen older woman)
+
+
 VINA: You see why I can't go with you.
 MAGISTRATE: This is the female's true appearance.
 VINA: They found me in the wreckage, dying. A lump of flesh. They rebuilt me. Everything works. But they had never seen a human. They had no guide for putting me back together.
@@ -411,24 +491,34 @@ MAGISTRATE: It was necessary to convince you her desire to stay is an honest one
 PIKE: You'll give her back her illusion of beauty? 
 MAGISTRATE: And more. 
 (Beautiful Vina and happy Pike go up the slope and into the elevator) 
+
+
 MAGISTRATE: She has an illusion and you have reality. May you find your way as pleasant. 
 [Transporter room]
 PITCAIRN: Mister Spock, the system is coming on again. 
 (Pike is beamed aboard) 
+
+
 COLT: What's happened to Vina? 
 ONE: Isn't she coming with us?
 PIKE: No. No, and I agreed with her reasons. 
 [Bridge]
 (Pike, Number One and Spock enter) 
+
+
 BOYCE: Hold on a minute. 
 PIKE: Oh, I feel fine, just fine. 
 BOYCE: You look a hundred percent better. 
 PIKE: You recommended a rest, a change of pace, didn't you? I've even been home. Does that make you happy? 
 (He bumps into Colt again) 
+
+
 PIKE: Yeoman. 
 COLT: Yes, sir. 
 PIKE: I thought I told you that when I'm on the bridge I 
 (She hands him a clip-board stuffed with papers for his signature) 
+
+
 PIKE: Oh. Oh yes. The reports. Thank you. 
 COLT: Sir, I was wondering. Just curious. Who would have been Eve? 
 ONE: Yeoman! You've delivered your report. 

@@ -6,6 +6,8 @@ Original Airdate: 3 Jun, 1969
 Captain's log, stardate 5928.5. The Enterprise has received a distress call from a group of scientists on Camus Two, who are exploring the ruins of a dead civilisation. Their situation is desperate. Two of the survivors are the expedition surgeon, Doctor Coleman, and the leader of the expedition, Doctor Janice Lester. 
 [Camus II]
 (Kirk, Spock and McCoy beam down into the expedition building. Dr Lester is lying on a bed, asleep) 
+
+
 KIRK: What's wrong with her? 
 COLEMAN: Exposure to radiation. 
 MCCOY: What form of radiation was it? 
@@ -14,8 +16,12 @@ COLEMAN: Nothing I've ever encountered.
 KIRK: Janice, you must remain absolutely quiet. Those are doctor's orders, not mine. 
 SPOCK: Captain. Tricorder picking up very faint life readings. Approximately seven hundred metres from here. Help will have to be immediate. 
 (Janice grabs Kirk's arms. She makes a noise) 
+
+
 MCCOY: Perhaps your presence will quiet her. 
 (Spock, McCoy and Coleman leave) 
+
+
 JANICE: I hoped I wouldn't see you again. 
 KIRK: I don't blame you. 
 JANICE: The year we were together at Starfleet is the only time in my life I was alive. 
@@ -27,14 +33,20 @@ KIRK: We'd have killed each other.
 JANICE: It might have been better. 
 (Kirk has a look around the room, and finds a wall-sized device with strange carvings. Janice sits up, points a remote at it and it lights up, pulling Kirk onto its surface. Janice gets out of bed, flips a switch on the device then stands in front of it too. She flips another switch then the machine works. We are shown images of Janice and Kirk going into the other's body.) 
 (Kirk steps down first and switches the machine off. He carries Janice back to the bed) 
+
+
 KIRK: You had your chance, Captain Kirk. You should've smothered the life in me. Then they would have said Doctor Janice Lester died of radiation poisoning in the line of duty. Why didn't you do it? You always wanted to. Didn't you? You had the strength to do it. But you were afraid. You were always afraid. Now Janice Lester takes the place of Captain Kirk. I already possess your physical strength. Only this Captain Kirk is not afraid to kill. Now you know the indignity of being a woman. For you this agony will soon pass, as it has for me. Quiet. Quiet! Believe me, it's better to be dead than to live alone in the body of a woman. It's better to be dead. 
 (He makes to strangle her with her own scarf, but is interrupted by the sound of footsteps) 
+
+
 KIRK: Doctor McCoy, your report. 
 MCCOY: We were too late, Jim. There's nothing could be done. 
 KIRK: Was it radiation as suggested? 
 MCCOY: No, I believe it was celebium. However, Doctor Coleman disagrees. To be specific is essential because the treatment of celebium is quite 
 COLEMAN: Doctor McCoy. 
 (He goes over to Janice) 
+
+
 MCCOY: Did you notice any unusual symptoms while we were gone? 
 KIRK: No, nothing at all. She was unconscious all of the time. 
 COLEMAN: Doctor Lester is near death. 
@@ -47,6 +59,8 @@ SCOTT [OC]: Mister Scott, sir.
 KIRK: Mister Scott. Prepare to beam the landing party aboard plus two others. One critically ill. Have a medical team standing by to receive the patient. Captain Kirk, out. Prepare to beam aboard. 
 [Transporter room]
 (Kirk is carrying Janice in his arms. He puts her on a gurney) 
+
+
 KIRK: Doctor Coleman, accompany the patient to the Sickbay. Mister Spock, take the ship out of orbit. Resume designated course. Doctor McCoy. Doctor McCoy, you and Doctor Coleman seem to disagree on diagnosis. 
 MCCOY: No, not entirely. We both agree it's radiation. Doctor Coleman isn't prepared to say what form of radiation. 
 KIRK: Will it affect your arriving at a correct treatment? 
@@ -59,10 +73,14 @@ KIRK: Youth doesn't excuse everything, Doctor McCoy. It's a very unhappy memory 
 MCCOY: I didn't realise that. I shall do everything in my power. 
 KIRK: Thank you. Thank you very much. 
 (McCoy leaves) 
+
+
 SCOTT: Doctor Lester is certainly a very lucky young person to have escaped. 
 KIRK: Yes, very lucky. Very lucky. 
 [Sickbay]
 (Janice is delirious. Coleman is with her. Kirk enters) 
+
+
 COLEMAN: It just began. 
 KIRK: Well you'd better put a stop to it! If you allow Doctor Lester to become fully conscious she'll know what has happened. 
 COLEMAN: Probably no one will believe it. 
@@ -78,6 +96,8 @@ KIRK: Love? Him? I love the life he led. The power of a starship commander. It's
 COLEMAN: I won't become a murderer. 
 KIRK: You are a murderer! You knew it was celebium. You could've treated them for it. You're a murderer many times over. 
 (McCoy and a now brunette Chapel enter) 
+
+
 MCCOY: Jim, what are you doing here? 
 KIRK: I thought my presence might quiet Doctor Lester. It seems to have had the opposite effect. 
 COLEMAN: It has nothing to do with you. It's a symptom of the developing radiation illness. 
@@ -95,12 +115,16 @@ KIRK: It's done! Doctor Coleman, your patient. Doctor Coleman, didn't you sugges
 COLEMAN: Yes, Captain. 
 MCCOY: It's not necessary, Jim. Can't you see she's coming around? 
 (Janice opens her eyes, sees Kirk and has flashbacks to the transferal, just to remind us who is really who) 
+
+
 KIRK: Doctor Coleman. 
 COLEMAN: Nurse, administer the sedative. 
 MCCOY: A sedative is not wise at this time, Captain. 
 COLEMAN: Nurse Chapel, you have your orders. 
 MCCOY: Nurse Chapel, follow your instructions. 
 (Chapel injects Janice) 
+
+
 JANICE: Oh no. Am I really losing command of the Enterprise? No. Oh, no. Bad dream. Bad dream. 
 KIRK [OC]: James Kirk is returning to consciousness in the body of Janice Lester. The Enterprise is proceeding to its next mission, on the course set before I took over command. Now the years I spent studying every single detail of the ship's operation will be tested. With a little experience, I will be invulnerable to suspicion. At last I attain what is my just due. Command of a starship. All the months of preparation now come to fruition. 
 [Bridge]
@@ -136,6 +160,8 @@ LYSA: Aye, sir.
 KIRK: Continue present course. Increase speed to warp factor six. 
 [Kirk's quarters]
 (Kirk is sitting at his desk, filing his nails) 
+
+
 MCCOY: I'll let my record speak for me. 
 KIRK: Why are you being so defensive? There's no implied criticism of you in my order to remove you from the case. 
 MCCOY: That is not the reason I'm here. I'm here because Doctor Coleman's record states that he's incompetent. 
@@ -154,15 +180,23 @@ MCCOY: I'll let Starfleet Command be the judge of my motives.
 KIRK: I won't submit to this petty search for revenge! 
 MCCOY: But you will submit to Starfleet regulations, and they state that the ship surgeon will require full examination of any crew member that he has doubts about, including the captain. 
 (intercom whistles) 
+
+
 KIRK: Captain Kirk here. 
 SULU: Sulu here, Captain. Starfleet Command is requesting additional details on the delay. 
 KIRK: I'll be right there. 
 [Sickbay]
 (Janice wakes up. She looks at the monitor above her bed) 
+
+
 JANICE: Pulse, pressure, blood count, all body functions normal. Then why am I here? 
 (Gets out of bed and notices that she is not herself) 
+
+
 JANICE: Doctor McCoy? Doctor McCoy 
 (Coleman enters) 
+
+
 COLEMAN: Quiet would be best for you. 
 JANICE: Where's Doctor McCoy? 
 COLEMAN: I'm in charge now. 
@@ -172,6 +206,8 @@ JANICE: By Captain Kirk?
 COLEMAN: It was done for your own protection, Doctor Lester. 
 JANICE: I am not Janice Lester! She did this to me! Now how can I make you understand? Janice has driven herself mad with jealousy, hatred and ambition. 
 (Chapel enters) 
+
+
 JANICE: Nurse Chapel. Bring Mister Spock and Doctor McCoy to me at once. Now they must believe I am not Janice Lester. I am imprisoned in her body, but I am not Janice Lester. 
 COLEMAN: She is suffering from the delusion of being Captain Kirk. 
 JANICE: I am not Janice Lester! 
@@ -180,10 +216,14 @@ CHAPEL: Shall prepare a mild sedative, Doctor?
 COLEMAN: Of course. 
 (Chapel leaves) 
 (Janice sees her reflection in a mirror) 
+
+
 COLEMAN: You are insane, Doctor Lester. 
 Captain's log, stardate unknown. I have lost track of time. I am still held captive in a strange body and separated from all my crew. 
 [Sickbay]
 (Janice wakes. There is a single restraining strap across the bed) 
+
+
 JANICE: I must've sounded quite mad to you before. 
 CHAPEL: What you've been through would've completely broken most of us. 
 JANICE: Well, I'll be all right now. Could I see your Doctor McCoy? 
@@ -212,18 +252,28 @@ MCCOY: Well, then, so be it. Our responsibility is clear.
 SPOCK: Whatever happened to the captain on that planet must've taken place in the short space of time that he was alone with Doctor Lester. Perhaps a conversation with her might shed some light. 
 MCCOY: Well, it's worth a try. Why don't you try to get to Doctor Lester while I examine Jim. 
 (Kirk enters) 
+
+
 KIRK: Well, gentlemen. I'm here, Doctor. 
 (Janice has run down the corridor and now enters) 
+
+
 JANICE: Spock. Bones. Help me. Don't let them lock me away from you. I've got to talk to you. 
 (She backs out into the corridor and Kirk follows her) 
 [Corridor]
 (Kirk knocks her out) 
+
+
 MCCOY: Jim! 
 KIRK: She might have killed someone. 
 (Two security guards arrive) 
+
+
 KIRK: Put her in isolation in her room. Maintain a twenty four hour watch. No one, absolutely no one, is to talk to her without my permission! 
 GALLOWAY: Yes, sir. 
 (Spock leaves) 
+
+
 MCCOY: Captain. 
 (McCoy and Kirk re-enter the exam room) 
 [Outside Lester's room]
@@ -238,6 +288,8 @@ GALLOWAY: No, sir. Mister Spock, I think the captain meant that a guard should b
 SPOCK: By all means, Lieutenant. 
 [Exam room]
 (Shirt off, Kirk is doing the heart rate exercise) 
+
+
 MCCOY: That's enough. That's enough. Your heart will last forever, Captain. 
 KIRK: How am I otherwise? 
 MCCOY: In the pink, as usual. Liver, kidney, blood count, metabolic rate. Everything, even your glands, functioning at their usual, normal peak of efficiency. 
@@ -267,6 +319,8 @@ demanded that we let Bones die, we didn't permit it.
 SPOCK: That is true. The captain did not. However, those events have been recorded. They could have become known to you. 
 JANICE: You are closer to the captain than anyone in the universe. You know his thoughts. What does your telepathic mind tell you now? 
 (Under the watchful gaze of the guard, Spock does a quick mind-link) 
+
+
 SPOCK: I believe you. However, my belief is not acceptable evidence. Evidence must be factual. Doctor McCoy may be of help. Come with me. 
 GALLOWAY: I�m sorry, sir, but Doctor Lester cannot leave here. 
 [McCoy's office]
@@ -278,9 +332,13 @@ SPOCK: He is not the captain.
 GALLOWAY: You're as mad as she is. You're to leave here at once. I follow orders. 
 SPOCK: Certainly, Lieutenant. We all must do our duty. 
 (Spock walks past him and feints a neck pinch. It is parried so he gets him with the other hand) 
+
+
 GALLOWAY: Security guard! 
 [McCoy's office]
 (Shaking hands) 
+
+
 KIRK: No hard feelings, Bones. You did your usual thorough, good job. 
 MCCOY: I'm sure everything's going to be all right. 
 ENSIGN [OC]: Captain Kirk! 
@@ -290,12 +348,16 @@ KIRK: Captain Kirk to Security. On the double to Doctor Lester's room!
 [Outside Janice's room]
 SPOCK: It's quite all right, Ensign. Everything is under control. 
 (Neck-pinches him as McCoy and Kirk arrive. Then two more security come out of the turbolift) 
+
+
 KIRK: Phasers. 
 SPOCK: A repetition of your physical violence is not called for, sir. No physical resistance will be offered. 
 KIRK: Attention, all personnel. First Officer Spock has been placed under arrest. He has conspired with Doctor Lester to take over the ship from your captain. A hearing will be immediately convened to consider the charges and specifications of a general court martial on the charge of mutiny. 
 Captain's Log, stardate 5930.3. The results of Doctor McCoy's examination have given me complete confidence in myself. My fears are past. I shall function freely as the captain. I am the captain of the Enterprise, in fact. 
 [Courtroom]
 (Scott is questioning Spock, but the log entry obliterates some of the evidence) 
+
+
 SCOTT: Surely you must have more than that to go on. 
 SPOCK: I have stated my evidence. Telepathic communication with the mind of Captain James T. Kirk. 
 SCOTT: Your evidence is completely subjective. We have to have evidence that we can examine out in the open. 
@@ -307,6 +369,8 @@ SPOCK: The witness, sir. Bring on the witness. Let your officers put the questio
 KIRK: Mister Lemli, have Doctor Janice Lester brought here. 
 LEMLI: Aye, sir. 
 (The security man leaves) 
+
+
 KIRK: Doctor McCoy, while Mister Spock was busy with his ambitious plot, what were you doing? 
 MCCOY: Examining you. 
 KIRK: Oh, yes. You were deeply concerned about my health, emotional and physical, since leaving Camus Two. Is that correct? 
@@ -318,8 +382,12 @@ SPOCK: I know them now.
 KIRK: And what have you to say now? 
 SPOCK: I am disappointed and deeply concerned that there is no objective evidence to support my position. So far. 
 (Lemli enters with Janice and Coleman) 
+
+
 KIRK: Doctor Coleman, if you�re required here, we'll call you. 
 (Coleman leaves. Janice takes the witness stand) 
+
+
 KIRK: We certainly appreciate your being here. Everyone is deeply aware that you have been subjected to inordinate emotional stress. We had hoped to avoid any further stress, but Mister Spock disagrees. It is his opinion that your testimony is important in determining the merits of his case. And since we are solely interested in arriving at a just decision, I'm going to have to ask you a few more questions. I'll try not to upset you. You claim that, that you are Captain James T. Kirk? 
 JANICE: No. I am not Captain Kirk. That is very apparent. I claim that whatever it is that makes James Kirk a living being special to himself is being held here in this body. 
 KIRK: Oh. Well. However, as I understand it, I am Doctor Janice Lester. 
@@ -373,6 +441,8 @@ SULU: The death penalty is forbidden. There's only one exception.
 CHEKOV: General Order Four. It has not been violated by any officer on the Enterprise. 
 KIRK: I am responsible. The execution will be immediate. Go to your posts. Go to your posts. 
 (Chekov and Sulu leave) 
+
+
 KIRK: Mister Lemli, take them to the brig. Prepare for execution. Go on! 
 (Scott and McCoy are escorted out at phaser point. Janice follows and Spock follow, also under armed guard) 
 [Bridge]
@@ -382,10 +452,14 @@ SULU: What difference does it make who he is? Are we going to allow an execution
 CHEKOV: If security backs him up, how will we fight him? 
 SULU: I'll fight them every way and any way I can. 
 (Kirk enters) 
+
+
 KIRK: Lieutenant Lysa, inform all sectors of my decision. Have each section send a representative to the place of execution on the hangar deck. Mister Chekov, how far to the Benecia Colony? 
 CHEKOV: Coming within scanning range. 
 KIRK: Plot co-ordinates for orbit. Mister Sulu, lock into co-ordinates as soon as orbit is accomplished. Interment will take place on Benecia. 
 (Chekov and Sulu remove their hands from their controls) 
+
+
 KIRK: You have received your orders! You will obey my orders. You�ll be charged with mutiny! You will obey my orders or, or, 
 (He starts convulsing, and Janice is doing the same in the brig) 
 [Brig]
@@ -404,18 +478,30 @@ KIRK: I can't. I can't. The crew is in mutiny. You must kill her for me.
 COLEMAN: I have done everything else for you. But I will not murder for you. 
 KIRK: Then do it for yourself. If Kirk doesn't die, we'll both be exposed as murderers. Does that give you any choice? 
 (Coleman gets a phaser and a hypo-spray) 
+
+
 KIRK: The dosage should be doubly lethal. 
 COLEMAN: It is. 
 [Brig]
 (which strangely looks straight out into the corridor) 
+
+
 KIRK: To prevent further conspiracy, you will be removed to separate cells. If there�s any resistance, you'll be given a sedative until you learn co-operation. Doctor Lester will be first. Follow Doctor Coleman. 
 (Janice steps out into the corridor) 
+
+
 SPOCK: May I point out, Captain 
 (Janice struggles with Coleman) 
+
+
 KIRK: Kill him! Kill him! 
 (Then Kirk goes into another convulsion. The rest of the prisoners stroll into the corridor as the transfer undoes itself) 
+
+
 JANICE: Ohh! I've lost to the captain. I've lost to James Kirk! I want you dead! I want you dead! I want you dead! Oh, I'm never going to be the captain. Never. Kill him. 
 (She goes to Coleman's arms to weep) 
+
+
 COLEMAN: You are, you are as I loved you. 
 JANICE: Kill him. 
 KIRK: Can you do anything for her? 

@@ -5,9 +5,13 @@ Stardate: 5476.3
 Original Airdate: 8 Nov, 1968
 [Bridge]
 (The Enterprise is at Red Alert as six missiles head towards it. Spock is in the Captain's chair.) 
+
+
 SPOCK: Do we have maximum magnification, Lieutenant? 
 SULU: Yes, sir. 
 (Kirk enters.) 
+
+
 KIRK: Missile spread, Mister Spock. 
 SPOCK: Very archaic type, Captain. Sub light speed. 
 SCOTT: Aye, and chemically fuelled to boot, sir. 
@@ -29,9 +33,13 @@ CHAPEL: I am a nurse first, Doctor McCoy, and a member of the crew of the Enterp
 MCCOY: You're excused. You may return to your quarters. 
 CHAPEL: No, I'm sorry, Doctor. I've called the Captain and I'll wait until he comes. 
 (Kirk enters.) 
+
+
 KIRK: What's the emergency? 
 MCCOY: I said you were excused, Nurse. Please, Christine. I promise you I'll give the Captain a full report. 
 (Chapel leaves.) 
+
+
 KIRK: That was quite a scene. 
 MCCOY: I've just completed the standard physical examinations for the entire crew. 
 KIRK: Excellent. What's the emergency? 
@@ -49,6 +57,8 @@ MCCOY: I'll be most effective on the job in the time left, if you'll keep this t
 Captain's log, stardate 5476.3. I have just had the sad duty of informing Starfleet about Doctor McCoy's condition and have requested an immediate replacement. 
 [Bridge]
 (The Enterprise has arrived at an asteroid.) 
+
+
 KIRK: Mister Spock. 
 SPOCK: Yes, Captain? 
 KIRK: Confirm Chekov's co-ordinates for the missile's point of origin. 
@@ -87,19 +97,27 @@ MCCOY: I'd like to go. I'm fine, Captain.
 KIRK: All right, Doctor. If that's what you want. 
 [Open ground]
 (Dead flat soil, rocky outcrops, orange sky.) 
+
+
 MCCOY: You'd swear you were on the surface of a planet. 
 SPOCK: One fails to see the logic in making a ship look like a planet. 
 KIRK: Wouldn't know this was a spaceship. Kirk to Enterprise. 
 SCOTT [OC]: Enterprise. Scott here. 
 KIRK: Transported without incident. Kirk out. 
 (They go exploring and see large tubular structures sticking out of the ground.) 
+
+
 KIRK: No apparent opening. 
 MCCOY: You found no intelligent life forms, Mister Spock, but surely 
 SPOCK: The asteroid ship is over ten thousand years old, Doctor. Still no sign of life forms, Captain. 
 (Two tubes lift up to reveal openings and aggressive men in plaid suits leap out and attack them. A woman watches. McCoy sees her and gets knocked out. Kirk and Spock are overpowered. The phasers and communicators are handed to her.) 
+
+
 NATIRA: These are weapons? 
 KIRK: Of a sort. Weapons, communication devices. Let me go to my friend. 
 (She allows Kirk to go to McCoy.) 
+
+
 KIRK: You all right? 
 MCCOY: I think so. 
 NATIRA: I am Natira, the high priestess of the people. Welcome to the world of Yonada. 
@@ -108,24 +126,38 @@ NATIRA: Take them.
 (Everyone gets inside the tube and goes down the stairs. Natira leads the way along a corridor. The people bow to her.) 
 [Oracle room]
 (Natira opens the door by waving her hands in front of carved symbols.) 
+
+
 NATIRA: You will kneel. 
 (Kirk, Spock and McCoy kneel. Natira steps onto a pentagonal platform and kneels in front of an obelisk with a sun-burst on it.) 
+
+
 MCCOY: She called this the world. These people don't know they're on a spaceship. 
 KIRK: They've been in flight ten thousand years. Maybe they don't realise it. 
 NATIRA: Oh, Oracle of the people, most perfect and wise. Strangers have come to our world. They bear instruments we do not understand. 
 (She stands and turns to face the three.) 
+
+
 NATIRA: Who are you? 
 (They stand too.) 
+
+
 KIRK: I am Captain Kirk of the starship Enterprise. This is my medical officer, Doctor McCoy. My first officer, Mister Spock. 
 NATIRA: For what reason do you visit this world? 
 KIRK: We've come in friendship. 
 (There's a sound of lightning.) 
+
+
 ORACLE: Then learn what it means to be our enemy before you learn what it means to be our friend. 
 (The away team are lit up as if by electricity. They collapse, unconscious.) 
 [Room]
 (They wake up in a nicely furnished room. McCoy and Spock are lying down, Kirk slumped over a table.) 
+
+
 KIRK: Spock. (he wakes) Doctor McCoy. Bones. Bones? 
 (But McCoy doesn't wake.) 
+
+
 SPOCK: The doctor must have received an excessively large electrical shock. 
 KIRK: No, that's not it. 
 SPOCK: Nothing else could've caused this, Captain. At least nothing that has happened here. 
@@ -135,6 +167,8 @@ KIRK: I don't think he would've told you himself, but I think you should know no
 SPOCK: Yes. I know of it, Captain. 
 KIRK: Then you know that nothing can be done. 
 (McCoy finally wakes up.) 
+
+
 KIRK: Bones, how is it? 
 MCCOY: I'm all right. Are you all right, Mister Spock? 
 SPOCK: Very well, Doctor. The Captain and I seem to have suffered no ill effects. 
@@ -150,6 +184,8 @@ KIRK: And the three billion on Daran Five.
 SPOCK: Also logical, Captain. 
 MCCOY: Gentlemen, I believe we have a visitor. 
 (A silver-haired old man in purple and orange looks around nervously before bowing then taking a bottle from his cummerbund. He hands out tablets.) 
+
+
 MAN: For strength. Many of us have felt the power of our Oracle. This has been of benefit. 
 MCCOY: It tastes like an ancient herb derivative. 
 MAN: You are not of Yonada. 
@@ -160,26 +196,36 @@ MAN: So they say, also. (he winces in pain) Many years ago I climbed the mountai
 KIRK: Why is it forbidden? 
 MAN: I am not sure. (wince) But things are not as they teach us. For the world is hollow, and I have touched the sky. 
 (Now he clutches his head as he collapses in agony.) 
+
+
 KIRK: What is it, Bones? 
 MCCOY: There's something under the skin. (a red light goes out) He's dead. 
 KIRK: For the world is hollow, and I have touched the sky. 
 SPOCK: He said it was forbidden to climb the mountains. 
 KIRK: Yes, of course it is, because if you did you'd touch the sky and find out that you were living on a big ball. Not a planet, but a spaceship. And that knowledge seems to be forbidden. 
 (Natira arrives with two women bearing food and drink.) 
+
+
 NATIRA: What happened? 
 KIRK: We don't know. He just suddenly screamed in pain and died. 
 NATIRA: (to woman) Fetch the guard. (kneels and prays) Forgive him for he was an old man, and old men are sometimes foolish. But it is written that those of the people who sin or speak evil shall be punished. (guards arrive) He served well for many years. Take him away, gently. 
 (The body is removed, and McCoy sits down.) 
+
+
 NATIRA: You do not seem well. It is distressing to me. 
 MCCOY: Oh, no. I'm quite all right, thank you. 
 NATIRA: It is the will of the Oracle that you now be treated as honoured guests. 
 (She goes to help the women prepare the food and pour drink.) 
+
+
 KIRK: You seem to be the special favourite. 
 SPOCK: Indeed, Doctor. The young lady did show a marked preference for your company. 
 MCCOY: Well, now. Nobody can blame her for that, can they? 
 KIRK: Personally, I find the lady's taste questionable, but she obviously prefers you, and you obviously don't seem to mind. If you could arrange to be alone with the young lady, Spock and I would be left alone to find the power controls of this world. 
 NATIRA: It is time to refresh yourselves. 
 (Glasses are handed out.) 
+
+
 KIRK: Thank you, Mister Spock. To our good friends of Yonada. 
 SPOCK: We are very interested in your world. 
 NATIRA: That pleases us. 
@@ -193,9 +239,13 @@ KIRK: Thank you. And thank you for taking care of Doctor McCoy.
 NATIRA: Not at all. We shall make him well. 
 KIRK: Mister Spock. 
 (Kirk and Spock leave. One woman offers a plate of food.) 
+
+
 MCCOY: No, thank you. 
 NATIRA: Leave us. 
 (The women leave.) 
+
+
 MCCOY: I'm curious. How did the Oracle punish the old man? 
 NATIRA: I cannot tell you now. 
 MCCOY: There is some way the Oracle knows what you say, isn't there? 
@@ -245,13 +295,19 @@ KIRK: The Oracle doesn't seem to know we're here. I wonder what alerted it the f
 SPOCK: Captain. If I remember correctly, the oracle's reprehensible conduct was initiated when Natira knelt on that platform. 
 KIRK: I think you're right. Continue investigating. The clue to the location of the control room must be around here somewhere. 
 (Spock reads the wall panels.) 
+
+
 SPOCK: Nothing here which would indicate this is anything but a planet. There's no question but that the creators would be considered gods. 
 (They spot an unusual obelisk.) 
+
+
 KIRK: This plaque is a representation of a star and its solar system. 
 SPOCK: Eight planets, Captain. That is the number in the Fabrina solar system. 
 KIRK: Then there's no doubt these people are the descendants of the Fabrini. 
 SPOCK: And no doubt they've been in flight on this asteroid ship for ten thousand years. 
 (The door opens. They hide behind the obelisk as Natira enters and kneels on the platform.) 
+
+
 ORACLE: Speak. 
 NATIRA: It is I, Natira. 
 ORACLE: Yes, Natira. 
@@ -284,6 +340,8 @@ MCCOY: For me? I've made my decision. I'm staying here, on Yonada. Natira, what 
 NATIRA: Yes. So be it. This I will do for McCoy. For our happiness and future. 
 [Planet surface]
 (McCoy hands communicators to Kirk and Spock.) 
+
+
 KIRK: You're returning with us? 
 MCCOY: No, I'm not. 
 KIRK: Bones, this isn't a planet. It's a space ship on a collision course with Daran Five. 
@@ -305,19 +363,27 @@ SCOTT [OC]: But, Captain, what about Doctor McCoy?
 KIRK: He's staying, Scotty. Kirk out. 
 [Oracle room]
 (McCoy is kneeling on the platform.) 
+
+
 ORACLE: To become one of the people of Yonada, the Instrument of Obedience must be made part of your flesh. Do you now give your consent? 
 MCCOY: I do. 
 ORACLE: Proceed. 
 NATIRA: Say now, because once done, it is done. 
 MCCOY: Let it be done. 
 (She touches his head with the device in her hands.) 
+
+
 NATIRA: You are now one with my people. (she kneels beside him) May I give you the love you want, and make the time you have beautiful. MCCOY: We're now of one mind. 
 NATIRA: One heart. 
 MCCOY: One life. 
 (They kiss.) 
+
+
 NATIRA: It is done, O most wise. Our living link with the creators. 
 ORACLE: Teach him, then, what he must know as one of the people. 
 (Natira takes McCoy to the obelisk that Kirk and Spock were looking at when they got caught. She touches three of the planets and it opens to reveal a white-covered book.) 
+
+
 NATIRA: This is the Book of the People, to be opened and read when we reach the new world of the promise. It was given by the creators. 
 MCCOY: Do the people know the contents of their book? 
 NATIRA: Only that it tells of our world here and why soon, one day, we must leave it for the new world. 
@@ -343,20 +409,28 @@ KIRK: You've located the controls?
 [Natira's room]
 MCCOY: No, but I've seen the book that contains all the knowledge of the creators. And if you 
 (He gets a warning pain, but fights through it.) 
+
+
 MCCOY: If you can get to it, Spock 
 [Kirk's quarters]
 MCCOY [OC]: Can dig out the information. 
 KIRK: Where is it? 
 (McCoy collapses, crying out in pain.) 
+
+
 KIRK: Bones, are you all right? 
 [Natira's room]
 KIRK [OC]: Bones, answer me! Bones, what is it? (Natira runs in.) Bones, what is it? McCoy, what's happening? What's happening, McCoy? 
 (A short while later, Kirk and Spock beam in.) 
+
+
 NATIRA: You are killers of your friend. I will have you put to death. 
 KIRK: Help him. 
 NATIRA: Until you are dead, he will think of you and disobey! I will see you die! 
 KIRK: Spock, take care of McCoy. 
 (Kirk drags Natira away so Spock can remove the Instrument of Obedience.) 
+
+
 NATIRA: (in tears) He is not part of our people. You've released him from his vow of obedience. 
 KIRK: We have freed him from the cruelty of your Oracle. 
 NATIRA: McCoy. 
@@ -384,8 +458,12 @@ KIRK: Because a flaw developed in the controls. And unless we correct it, Yonada
 NATIRA: Why should the truth be kept from us? Why should the creators keep us in darkness? No. No, you do not speak the truth. I believe only the Oracle. I believe! 
 KIRK: Let us remove the instrument of obedience, the way we did for McCoy. Natira. 
 (She runs from the room.) 
+
+
 KIRK: Do you think she understood me? 
 (Spock opens the door, looks out, nods to passers-by.) 
+
+
 SPOCK: She evidently understood something. There are no guards to detain us. 
 [Oracle room]
 ORACLE: You have listened to the words of the non-believers. 
@@ -399,10 +477,14 @@ NATIRA: Is truth not truth for all?
 ORACLE: The truth of Yonada is your truth. There can be no other for you. Repent your disobedience. 
 NATIRA: I must know the truth of the world! 
 (She falls unconscious, off the platform. Kirk, McCoy and Spock enter. McCoy cradles her as she wakes.)
+
+
 NATIRA: Your friends have told me of your world. 
 MCCOY: They spoke the truth. 
 NATIRA: I believe you. I believe. The creators kept us in darkness. There's nothing I can do. I believe with you, husband. 
 (McCoy removes her Instrument of Obedience.) 
+
+
 KIRK: Is she all right? 
 MCCOY: She will be. I'll stay here with her. The book is in the monolith. 
 ORACLE: It is sacrilege to the temple. 
@@ -411,11 +493,15 @@ ORACLE: You are not believers. You are forbidden to gaze at the book.
 KIRK: We mean no desecration to the faith of Yonada. We must consult the book to help you. 
 ORACLE: It is blasphemy. You are forbidden. The punishment is death. 
 (A strong wind blows, and some of the panels on the wall glow deep red. The air shimmers in the heat.) 
+
+
 SPOCK: Temperature one hundred eleven degrees and rising. 
 KIRK: McCoy, how do you open this thing? 
 SPOCK: Temperature one hundred fifteen degrees. 
 MCCOY: Press the three lower planets on the left-hand side simultaneously. 
 (Kirk does, and takes the book.) 
+
+
 SPOCK: One hundred twenty degrees. 
 KIRK: Here. The plan must be in there. Is it indexed? 
 SPOCK: Yes, it is. 
@@ -427,8 +513,12 @@ KIRK: Let's get her out of the heat.
 SPOCK: I've neutralised the heating elements. 
 [Oracle room]
 (It cools very quickly.) 
+
+
 MCCOY: We'll be all right here now, Jim. 
 (Kirk goes to join Spock.) 
+
+
 MCCOY: The oracle can no longer punish us. 
 NATIRA: Your friends have prevented it? 
 MCCOY: Yes. 
@@ -443,6 +533,8 @@ SPOCK: Yes. Let me check that engine. A very simple problem, easy to correct.
 [Oracle room]
 MCCOY: Then come. 
 (They stand.) 
+
+
 NATIRA: No. 
 MCCOY: Don't be afraid. 
 NATIRA: I do not fear the punishment of disobedience. 
@@ -462,6 +554,8 @@ KIRK: Steadying on course marked in red.
 SPOCK: (spotting shelves of discs) Captain. Intelligence files. Their banks contain the total knowledge of the Fabrini, ready for the people to consult when they arrive at their destination. (scans them) And they seem to have amassed a great deal of medical knowledge. 
 [Sickbay]
 (McCoy is on the biobed. Chapel gives him an injection at Spock's signal.) 
+
+
 CHAPEL: Excellent, Doctor. The white corpuscle count is back to normal. 
 (McCoy groans.);
 SPOCK: Your haemoglobin count is back to normal, Doctor, which indicates that the flow of oxygen to each cell of your body is back up to its abundantly energetic level. 

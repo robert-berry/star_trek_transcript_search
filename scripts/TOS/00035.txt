@@ -5,6 +5,8 @@ Stardate: 4202.9
 Original Airdate: 20 Oct, 1967
 [Bridge]
 (Plenty of security around, and a blonde woman instead of Uhura at communications.) 
+
+
 PALMER: The distress call definitely came from one of the solar systems in this sector. 
 KIRK: Can you pinpoint it any closer, Lieutenant? 
 PALMER: Negative. It was so badly garbled all we got was the name Constellation, then we lost it. 
@@ -15,6 +17,8 @@ SPOCK: Nonetheless, Captain, sensors show nothing but debris where we charted se
 KIRK: Continue a search pattern. 
 SULU: Aye, aye, sir. 
 (Later.) 
+
+
 SULU: Entering limits of System L-374, sir. Scanners show the same evidence of destruction. 
 KIRK: Every solar system in this sector blasted to rubble and still no sign of the Constellation. Matt Decker's in command. What could have happened to him? 
 SPOCK: Captain, the two inner most planets of this system appear to be intact. 
@@ -25,6 +29,8 @@ PALMER: No answer, Captain. All I get is the automatic beacon.
 SPOCK: Sensors not recording normal energy output. 
 KIRK: Approach course, Mister Sulu. 
 (They arrive at a ship hanging crookedly in space. It looks identical to Enterprise.) 
+
+
 KIRK: It's the Constellation. Look at that. 
 SPOCK: She may have been wrecked by whatever destroyed these solar systems. 
 KIRK: She was attacked. Red alert! Red alert! Man your battle stations! 
@@ -48,6 +54,8 @@ KIRK: We're going to board her. Mister Spock, you're in command.
 SPOCK: Acknowledged. 
 [Constellation corridor]
 (The name ship for the Constellation-class is a mess, with chunks blown out of her nacelles and saucer. Inside, pipes are hanging down, twisted.) 
+
+
 WASHBURN: Radiation level normal. Atmospheric pressure eleven pounds per square inch. 
 CREWMAN: Filtration systems are out, sir. 
 SCOTT: The whole communication system looks to be shorted out, too, sir. 
@@ -72,6 +80,8 @@ SPOCK: Improbable, Captain. The surface temperature of the inner planet is that 
 KIRK: We'll continue our search. Kirk out. 
 [Constellation Corridor]
 (Scott returns to the beam-in point.) 
+
+
 SCOTT: Captain, I've checked the engines. The warp drive is a hopeless pile of junk. The impulse engines are not too badly off. We ought to be able to do something with them. 
 KIRK: Phaser banks? 
 SCOTT: Exhausted. They didn't give up without a battle. 
@@ -80,6 +90,8 @@ SCOTT: Computer system is still intact. We can playback the duplicate Captain's 
 (They head off, then Kirk spots a man at a desk in a room.) 
 [Constellation Auxiliary Control]
 (The man is conscious but dazed, stunned.)
+
+
 KIRK: Matt. Matt, it's Jim Kirk. 
 MCCOY: Commodore? Commodore Decker? (he injects him) 
 KIRK: Matt? Matt. 
@@ -149,12 +161,16 @@ DECKER: It's just that I, I, I never lost a command before.
 KIRK: Kirk to Enterprise. Have the transporter room beam Doctor McCoy and Commodore Decker on board immediately. 
 [Transporter room]
 (As Kyle beams them aboard, Spock's impassionate voice can be heard.) 
+
+
 SPOCK [OC]: Red alert! Red alert! 
 MCCOY: Come on. 
 [Bridge]
 SPOCK: It came up on us fast, Captain, but we seem able to maintain our distance. 
 KIRK [OC]: We're blind here. What's it look like? 
 (Decker and McCoy enter. The viewscreen shows a thing with a big yellow maw, that tapers down along it's body to a pointed tail.) 
+
+
 SPOCK: It looks very much like Commodore Decker's planet killer. And it is pursuing us. (The viewscreen now shows it head-on. A round opening with a small sun partway down the gullet.) 
 SPOCK: We are more manoeuvrable, but it is gaining on us. Sensors indicate some kind of total conversion drive. 
 [Constellation Auxiliary Control]
@@ -210,6 +226,8 @@ SPOCK: Mister Sulu, you will lay in an evasive course back to the Constellation.
 SULU: Aye, aye, sir. 
 DECKER: Belay that last order, helmsman. One hundred and eighty degree turn, hard about. We're going to attack. 
 (The whole Bridge holds its breath.) 
+
+
 SPOCK: You will carry out my last order, Mister Sulu. 
 DECKER: Mister Spock, I'm officially notifying you that I'm exercising my option under regulations as a Starfleet Commodore, and that I am assuming command of the Enterprise. 
 SPOCK: You have the right to do so, but I would advise against it. 
@@ -237,6 +255,8 @@ SULU: Aye, aye, sir.
 (Spock stands completely still, like a statue, as Enterprise arrives back at the planet-killer.) 
 [Constellation Auxiliary Control]
 (Kirk is trying to mend the viewscreen, but just making smoke and spluttering noises.) 
+
+
 KIRK: Kirk here. 
 [Constellation Engineering]
 SCOTT: Captain, the impulse engines' control circuits are fused solid. 
@@ -254,6 +274,8 @@ SPOCK: Deflector shields at full power. They can't take much more of this.
 DECKER: Helmsman, hold your course. Stand by all phaser banks. 
 SULU: Aye, aye, sir. 
 (The planet killer fires at them.) 
+
+
 SPOCK: Deflectors holding, but weakening. We must retreat, Commodore. The energy drain 
 DECKER: I'm in command here, Mister Spock. Maintain your course, helmsman. Get us in closer. 
 [Constellation Auxiliary Control]
@@ -268,6 +290,8 @@ KIRK: Yes, I think (an image of tiny Enterprise and the giant planet killer come
 [Bridge]
 DECKER: Fire! 
 (Two phaser beams strafe the machine's body.) 
+
+
 SULU: Direct hit. It just bounced off. 
 SPOCK: Commodore, I urgently recommend immediate withdrawal. 
 DECKER: Recommendation noted. Maintain course. Fire! 
@@ -296,12 +320,16 @@ SPOCK; We need more power.
 SULU: We haven't got it. We're being pulled inside. 
 [Constellation Auxiliary Control]
 (Kirk sees Enterprise approach the planet-killer's 'mouth'.) 
+
+
 KIRK: Scotty, give me that power. 
 [Constellation Engineering]
 SCOTT: You've got it, Captain. Just enough to move us. I can't do better. 
 [Constellation Auxiliary Control]
 KIRK: That'll do. Full ahead, Mister Scott. 
 (A sudden jolt as Constellation overcomes inertia.) 
+
+
 KIRK: That's it, Mister Scott. Keep that power coming. 
 [Bridge]
 DECKER: Full power astern. 
@@ -395,6 +423,8 @@ MONTGOMERY: Sir.
 SPOCK: You will accompany the commodore to Sickbay. 
 MONTGOMERY: Aye, sir. Commodore? 
 (They leave.) 
+
+
 SPOCK: Mister Sulu, change course. Seven zero mark two one. 
 SULU: Mark twenty one, sir. 
 SPOCK: Captain, we are taking an evasive course back to you. We will try to stay ahead of the object until we can transport you aboard. 
@@ -527,6 +557,8 @@ SCOTT: Good luck, Captain.
 KIRK: Thank you. 
 [Transporter room]
 (It takes longer than usual to materialise Mister Scott.) 
+
+
 SCOTT: What's the matter with that thing? 
 KYLE: It's a power drain somewhere, sir. I almost lost you. 
 SCOTT: It'll never work like this. It's the main junction circuitry. I'll get it. 
@@ -538,11 +570,15 @@ KIRK: I can't. Power level's dropping too fast. You'd better hurry.
 SPOCK [OC]: Acknowledged. 
 [Jefferies tube]
 (Amid spluttering cables) 
+
+
 SPOCK [OC]: Mister Scott, speed is of the essence. 
 [Bridge]
 SULU: He's two thousand miles from the planet killer and closing fast. 
 [Jefferies tube]
 (The cables stop spluttering.) 
+
+
 SCOTT: Bridge, transporter operational, but this jury-rigging won't last for long. He's got to come off now. 
 [Bridge]
 SCOTT [OC]: I'll stand by here. 
@@ -557,6 +593,8 @@ KYLE [OC]: Standing by, sir.
 SULU: Five hundred miles and closing. 
 [Constellation Auxiliary Control]
 (The throat of the machine fills the screen when he flips the final red switch.) 
+
+
 KIRK: Beam me aboard. 
 [Bridge]
 SPOCK: Energise. 
@@ -597,6 +635,8 @@ KYLE: Bridge, we got him through!
 [Bridge]
 SPOCK: Energy output zero. Radiation level normal. 
 (Kirk runs in.) 
+
+
 SPOCK: Welcome aboard, Captain. Sensors show all energy sources deactivated. It's quite dead. 
 KIRK: Mister Sulu, ease us back to minimum headway. Conserve power as much as possible. Lieutenant Palmer, tell Mister Scott to expedite repairs on the warp drive. Poor Matt. He gave his life in an attempt to save others. Not the worst way to go. 
 SPOCK: Indeed, Captain. I presume your log will show that Commodore Decker died in the line of duty. 

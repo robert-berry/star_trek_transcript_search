@@ -7,6 +7,8 @@ Original Airdate: 25 Oct, 1968
 SPOCK: On mark eight and closing. 
 KIRK: Steady as she goes. Phaser crew, stand by. 
 (There's a strange object on the viewscreen.) 
+
+
 CHEKOV: Range, forty five thousand kilometres, Captain. 
 SPOCK: Fascinating. 
 CHEKOV: Range, forty three thousand kilometres and closing. 
@@ -19,6 +21,8 @@ SPOCK: Unclear whether it intends to attack or merely communicate with us.
 KIRK: Thank you, Science Officer. Come to one eight one mark seven. 
 CHEKOV: Aye, aye, sir. 
 (The object swings back into the centre of the viewscreen.) 
+
+
 KIRK: It's staying with us. 
 SPOCK: Indeed. 
 KIRK: Full stop, Mister Chekov. Hold your position. 
@@ -45,10 +49,14 @@ SPOCK: I prefer being a welcomed guest, Captain, but there seems to be little ch
 KIRK: None whatsoever. Mister Chekov, deflectors at full intensity. Increase speed to achieve planet fall as scheduled. 
 CHEKOV: Aye, sir. Standard orbit in five minutes. 
 (The buoy does not obstruct them.) 
+
+
 KIRK: Lieutenant Uhura, advise Doctor McCoy and Engineer Scott to meet me in the transporter room. Mister Spock, Mister Chekov, let's go find out what it is they're afraid of. 
 Captain's Log, stardate 4385.3. We have transported down to the Melkotian planet and have encountered conditions which are completely contrary to what we were prepared for. 
 [Planet surface]
 (The landing party are surrounded by dense fog.) 
+
+
 KIRK: Spock, what is this? 
 SPOCK: Unknown, Captain. Sensor readings give no indication of fog like conditions in this area. 
 MCCOY: I knew it had to happen. It's a fine time for that transporter mechanism to break down. 
@@ -63,9 +71,13 @@ KIRK: We come in peace, but we'll defend ourselves if necessary.
 MELKOT: You are outside. You are disease. The disease must be destroyed. Your plea has been heard, and sentence has been pronounced. It is done. 
 [Street]
 (And suddenly they are standing in a Wild West street, with six-shooters and holsters instead of phasers.) 
+
+
 SPOCK: Fascinating. 
 CHEKOV: Where are we now, Captain? 
 (The sheriff's office is just the front of the building, no sides, back or roof.) 
+
+
 KIRK: Spock, evaluation? 
 SPOCK: Obviously this represents the Melkotian's concept of an American frontier town, circa 1880. 
 MCCOY: It's just bits and pieces. It's incomplete. 
@@ -86,6 +98,8 @@ MCCOY: What's the matter with us? We're talking like we really are in Tombstone,
 SPOCK: Precisely, in terms of what the Melkots intend for us. 
 KIRK: There's something about that date, October 26, 1881 But what was it? 
 (The sheriff comes over, grinning.) 
+
+
 BEHAN: Ike! Ike! Frank! Billy! Tom! (shakes Kirk's hand) Ike, I was afraid you weren't going to make it. 
 KIRK: Looks like we did. 
 BEHAN: I knew you wouldn't let them scare you away. They're a bunch of hot air if you ask me. 
@@ -105,24 +119,34 @@ CHEKOV: And we are the Clantons?
 KIRK: We are the Clantons. And if this is a replay of history 
 SPOCK: History cannot be changed. 
 (There's a brawl in the saloon and a window is broken. A man in black wearing a badge shoots another man. The group run over.) 
+
+
 SCOTT: It's impossible! Things like this can't happen. 
 SPOCK: Is this a dead man, Doctor? 
 MCCOY: Very dead, Mister Spock. 
 KIRK: That's one thing we can be sure of. Death is real. 
 [Saloon]
 (Tables, chairs, bar, pianola, no roof or walls.) 
+
+
 BARMAN: Ike, Frank, hiya, boys. I didn't think I'd see you again. 
 SYLVIA: Billy! Oh, Billy! (kisses Chekov) Billy, baby, I knew they couldn't keep you out of town. 
 CHEKOV: Oh, you knew that? 
 SYLVIA: Come on. 
 (She takes him to a table while the man in black walks slowly past the group.) 
+
+
 SYLVIA: Maybe you shouldn't have. 
 CHEKOV: And pass up an opportunity to see you? Don't be silly. 
 SYLVIA: It's taking crazy chances with Morgan Earp right in the same room. 
 (The man in black.) 
+
+
 KIRK: Yes, of course. The man who kills on sight. Morgan Earp. 
 SPOCK: Captain, since we have seen that death is the one reality in this situation, I seriously suggest you reseat yourself immediately. Without moving a muscle of either hand. If I remember correctly, that would involve you in what was called the fast draw. It initiated unfortunate events. 
 (Everyone sits. Slowly.) 
+
+
 BARMAN: You boys want your usual? 
 SCOTT: Absolutely. Half a gallon of scotch. 
 BARMAN: You know we ain't got nothing but bourbon, unless you want corn whiskey. 
@@ -130,6 +154,8 @@ SYLVIA: I wish it was all over. I saw Virgil out patrolling this morning.
 KIRK: Good old Virgil. We can always count on him. 
 SYLVIA: They've been blowing off all over town about how they chased the Clantons out. I guess you'll show them now, won't you? 
 (Morgan walks over to Sylvia, who is massaging Chekov's shoulders.) 
+
+
 KIRK: I don't think we're going to have any choice. 
 MORGAN: You'll dirty yourself with this scum. Come on. 
 CHEKOV: Get your hands off her. 
@@ -139,6 +165,8 @@ MORGAN: If you don't want any trouble, what are you doing in my town?
 KIRK: Just leave us alone, Mister Earp. That's all we ask. 
 MORGAN: Five of you. You'd like me to draw, wouldn't you? All right, I will. Soon enough. Soon enough. 
 (Morgan Earp leaves.) 
+
+
 SPOCK: I believe he was actually trying to provoke a dispute with Mister Chekov. 
 BARMAN: (bringing a bottle and glasses.) Close, Ike. Lucky there wasn't two of them. 
 KIRK: I guess so. 
@@ -152,6 +180,8 @@ SYLVIA: Yes, Ike?
 KIRK: I'd like to talk to Mister, to Billy alone, if you don't mind. 
 SYLVIA: All right. I understand. Billy Claiborne, you be careful. 
 (Sylvia leaves them.) 
+
+
 KIRK: Mister Chekov, you be careful. Mister Spock, except for our hand guns, we haven't changed, not even our clothing, yet these people see and hear us as the Clantons. 
 CHEKOV: I don't think that's such a bad thing, Captain. 
 SPOCK: The day is still young, Ensign. 
@@ -177,6 +207,8 @@ KIRK: I'm not joking! I'm not Ike Clanton!
 BARMAN: It's okay with me, Ike. Anything you say. Don't make no difference who I think you are. Your problem is, who does Wyatt Earp think you are? 
 [Marshall's office]
 (The Marshall is Wyatt Earp, and Morgan is also there when Kirk walks in.) 
+
+
 KIRK: Good morning, gentlemen. My name's James Kirk. I'm afraid there's been some sort of misunderstanding. 
 WYATT: Clanton, I don't know what you're trying to pull, but we warned you not to show your ugly face in town again. 
 KIRK: Yes, of course you did, and I wanted to talk to you about that. 
@@ -190,6 +222,8 @@ MORGAN: Oh, yeah. We heard the talk about your jokes.
 KIRK: I'm not joking. 
 MORGAN: Sure. Well, I'm glad to meet you Mister Kirk. 
 (Morgan punches Kirk and they fight briefly. Kirk gets Morgan in front of him as a shield from Wyatt's gun then lets him go.) 
+
+
 WYATT: Draw, Clanton. 
 KIRK: Not me, Mister Earp. 
 WYATT: You draw or I will. 
@@ -198,6 +232,8 @@ KIRK: We don't want any trouble. We'll be glad to co-operate.
 WYATT: Five o'clock, Clanton. Is that clear? If you're in town at five oh one, we'll kill every one of you whether you draw or not. Is that clear? 
 [Saloon]
 (McCoy is tending to Kirk's lip. He flinches from whatever McCoy has put on the cloth.) 
+
+
 MCCOY: What's the matter? 
 KIRK: What do you call that stuff? Fire? 
 MCCOY: Taos Lightning straight bourbon. Try some. In small amounts, it was considered medicinal. 
@@ -223,8 +259,12 @@ KIRK: Gentlemen.
 CHEKOV: Where are we going, Captain? 
 KIRK: To exercise the better part of valour. 
 (But when they get to the City Limits notice, they are stopped with a sizzle.) 
+
+
 KIRK: Well, that settles that. A force field. 
 (Then a clock face in mid-air strikes three.) 
+
+
 SPOCK: It is obvious the Melkotians are not going to permit us to leave this town. 
 SCOTT: If we could only contact the Enterprise. 
 CHEKOV: Yes, but where is the Enterprise? 
@@ -246,6 +286,8 @@ KIRK: First, Bones, the ingredients you require.
 MCCOY: I know the place to get the proper drugs. I'll need a mortar and a pestle. 
 KIRK: Chekov, mortar and pestle. 
 (McCoy and Chekov leave.) 
+
+
 KIRK: How do you intend to deliver the tranquilliser on target? 
 SPOCK: I shall need some fusing and cotton wadding. 
 KIRK: Cotton wadding. Try the apothecary. 
@@ -253,6 +295,8 @@ SCOTT: Aye. (leaves)
 SPOCK: I shall manufacture the equivalent of an ancient generating canister, more familiarly known as a gas grenade. 
 [Barber/Dentist's office]
 (The sign on the wall says Teeth Pulling By Appointment. There's a man in the chair having a shave.) 
+
+
 BARBER: I'll be about five minutes yet. You could come back. 
 MCCOY: Well, thank you. Mind if I look around a bit? (checking the bottles) Crude, but very useable. 
 BARBER: I wouldn't touch that stuff if I was you. 
@@ -283,9 +327,13 @@ CHEKOV: But it is absolutely impossible. I am not someone you can marry. If only
 SYLVIA: Do you think I don't know? Billy Claiborne, you are a cattle rustler and a horse thief and I don't care what else. 
 MORGAN: I warned you, Claiborne. Stay away. 
 (Morgan punches Chekov, knocking him down.) 
+
+
 MORGAN: You don't have to take anything from that scum, not while I'm here. 
 CHEKOV: Mister Earp. Get your hands off her. 
 (Chekov walks towards Morgan, and gets shot. Kirk and Spock hear Sylvia's scream and arrive on the scene the same time as McCoy, followed by Scott. Wyatt and Holliday also turn up.) 
+
+
 MCCOY: There's nothing I can do, Jim. 
 WYATT: Come on, Clanton. Let's do it now. 
 SCOTT: Captain, let me. 
@@ -298,6 +346,8 @@ KIRK: Scotty, they're trying to push us into something we're not ready for.
 SPOCK: And it is not yet our time. 
 [Saloon]
 (Spock is working on the grenade, McCoy and Scott on the tranquilliser.) 
+
+
 MCCOY: Let it go, Jim. He's dead. 
 KIRK: Maybe he wouldn't be if I hadn't ignored the Melkot warning. 
 MCCOY: We all knew the risk when we joined the service. Now let it go. 
@@ -312,6 +362,8 @@ MCCOY: Spock will have no truck with grief, Scotty. It's human.
 KIRK: Bones, Scotty. 
 SPOCK: Captain, it's quite all right. They forget I am half human. 
 (The clock strikes four.) 
+
+
 MCCOY: We don't have much time. 
 SPOCK: Captain. I vaguely remember the historical account of the famous battle in which we are about to engage, but I am confused. 
 KIRK: About what? 
@@ -357,6 +409,8 @@ SPOCK: These crude supplies we were forced to use worked quite well.
 MCCOY: I doubt that this combination of things was ever used for any purpose quite like this. 
 SPOCK: Perhaps they would've been if they'd had your ingenuity, Doctor. 
 (Kirk enters.) 
+
+
 SPOCK: Captain? 
 KIRK: How soon will that be ready? 
 SPOCK: Right now. 
@@ -374,6 +428,8 @@ SCOTT: Aye. (has a slug of whiskey) It's to kill the pain.
 SPOCK: But this is painless. 
 SCOTT: Well, you should've warned me sooner, Mister Spock. Fire away. 
 (Spock pulls the thread on the can, and gas comes out. Scott stands close to it. Then he picks it up so the gas obscures his face.) 
+
+
 MCCOY: It should have worked. Did you inhale the gas, Scotty? 
 SCOTT: Aye. Deeply. 
 MCCOY: You still feel all right? 
@@ -390,8 +446,12 @@ MCCOY: You don't have to worry about that now, Jim. Look at the clock.
 KIRK: Ten minutes and it's all going to end at the OK Corral. Well, we're going to wait right here until well after five o'clock. We're not going to move from this spot. 
 [OK Corral]
 (Famous last words, Captain.) 
+
+
 KIRK: Let's get out of here. 
 (But there is a forcefield to stop them.) 
+
+
 KIRK: Scotty, Bones. (and it's all the way around.) We're trapped. They got their way. We've got to stand and fight. 
 SCOTT: Good. If they want a fight, let's gie'em a fight. 
 KIRK: They're experts at gunfighting. We don't have a chance. 
@@ -421,18 +481,26 @@ MCCOY: We're just human beings, Spock. We don't have that clockwork ticker in ou
 KIRK: We must. Spock, a Vulcan mind meld. 
 SPOCK: Very well, sir. Engineer? 
 (The clock strikes five. Wyatt Earp puts on his gun belt.) 
+
+
 SPOCK: Your mind to my mind. Your thoughts to my thoughts. 
 (The marshalls gather as the lightning flashes and the wind blows.) 
+
+
 SPOCK: (to McCoy) The bullets are unreal. Without body. They are illusions only. Shadows without substance. They will not pass through your body, for they do not exist. 
 MCCOY: They do not exist. 
 (Holliday joins the Earps.) 
 SPOCK (to Kirk) Unreal. Appearances only. They are shadows. Illusions. Nothing but ghosts of reality. They are lies. Falsehoods. Spectres without body. They are to be ignored. 
 (The melds have been completed when the four killers arrive at the Corral.) 
+
+
 SPOCK: Captain. 
 WYATT: Draw. 
 (Kirk reaches for his gun, and the Earps fire. We see the bullets splintering the wood behind the landing party. The Earps empty their guns, then Kirk engages Wyatt in good old-fashioned fisticuffs. He beats him but chooses not to shoot him. Everything disappears.) 
 [Bridge]
 (McCoy is examining Chekov at his station.) 
+
+
 CHEKOV: Captain, I don't understand. 
 MCCOY: Neither do I. He's in perfect health. 
 CHEKOV: What happened? Where have I been? 
@@ -448,6 +516,8 @@ KIRK: Lieutenant, sound Red Alert. Mister Chekov, deflector shields on full. Pha
 SPOCK: Energy output increasing beyond measurable levels, Captain. 
 KIRK: Phaser guns, stand by to fire. 
 (The Melkotian buoy explodes.) 
+
+
 CHEKOV: It's, it's gone, sir. 
 KIRK: Damage report, Lieutenant. 
 UHURA: No damage, sir. All decks report fully operational. 

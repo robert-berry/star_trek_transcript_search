@@ -5,6 +5,8 @@ Stardate: 5431.4
 Original Airdate: 20 Sep, 1968
 [Bridge]
 (The Enterprise is at Red Alert as an alien vessel approaches them.) 
+
+
 SULU: Phaser banks standing by, sir. 
 CHEKOV: Range forty three thousand and closing. 
 KIRK: What do you read, Mister Spock? 
@@ -26,9 +28,13 @@ SPOCK: Directed at the Bridge of the Enterprise, Captain.
 KIRK: Security guard. 
 UHURA: Security guard to the Bridge. 
 (A woman materialises and smiles at them.) 
+
+
 KIRK: I'm Captain James Kirk. This is the Starship Enterprise. 
 (The security guards rush in, she presses a button on her wrist band, the power goes off and everyone collapses. Then the same happens to the crew all over the ship. The woman walks over to Spock, and puts her hand on his head.) 
 (Later - after the opening titles - the power comes back on and everyone wakes up again.) 
+
+
 SULU: What happened? 
 KIRK: Helm status, Mister Sulu. 
 SULU: No change from last reading, sir. 
@@ -45,6 +51,8 @@ KIRK: All right. On my way.
 UHURA: Deck five. Personnel, no damage. 
 [Sickbay]
 (Spock is lying on a biobed, with a bandage around his head and life-support equipment over his torso.) 
+
+
 MCCOY: Now. 
 CHAPEL: Functioning. 
 MCCOY: Thank God. 
@@ -107,6 +115,8 @@ KIRK: Read out, Mister Chekov?
 CHEKOV: Sun, spectral type, Gamma nine. Nine planets, three of them, Class M possessing sapient life according to reports and long-range scanning. 
 KIRK: She was breathing our air. She must've gone to one of them. Show us the three Class-M planets. Mister Chekov. 
 (Chekov gets up and goes to the viewscreen to point out the relevant items.) 
+
+
 CHEKOV: The one on the left, number three, rates letter B on the industrial scale. 
 KIRK: Earth equivalent approximately 1485. 
 CHEKOV: Yes, sir. Second planet Class M, number four, rates letter G. 
@@ -153,6 +163,8 @@ KIRK: If I guess wrong, Mister Spock is dead. Spock will die.
 Captain's log, stardate 4351.5. We are beaming down to a primitive glaciated planet in the Sigma Draconis star system. Time left to us to find Spock's brain, eight hours and twenty nine minutes. 
 [Planet surface]
 (Kirk, Scott, Chekov and two security guards beam onto the rocky planet.) 
+
+
 KIRK: Suit temperatures to seventy two. Life-form readings, Mister Spock? (gets a look) Mister Scott? 
 SCOTT: Scattered. Widely spaced. Humanoid, all right. On the large side. 
 KIRK: Watch out. We know their development is primitive. 
@@ -163,8 +175,12 @@ KIRK: You have a thick skin.
 SCOTT: Captain! There's someone, something out there in the rocks. Five of them. Humanoid, large. 
 KIRK: Phasers on stun. I want them conscious. 
 (The group of bearded, skin clad males with clubs move carefully towards the Starfleet party.) 
+
+
 KIRK: Fire only on my signal. Flank out. 
 (The primitives suddenly leap up from behind rocks, throwing stones and their clubs. Kirk fires, and stuns the leader. The rest run away.) 
+
+
 KIRK: We mean you no harm. We're not your enemies, we're your friends. We only wish to talk to you. 
 MORG: You are not the Others? 
 KIRK: No. We come from a far place. We are men. 
@@ -195,6 +211,8 @@ SCOTT: Aye, sir.
 MORG: No! No! No, do not go there! No! No! 
 KIRK: It's all right. 
 (He struggles briefly with the Morg, who escapes and runs off.) 
+
+
 KIRK: It's all right. Let him go. 
 CHEKOV: What could the Others do to cause such terror? 
 KIRK: What was it he said, pain and delight? 
@@ -208,6 +226,8 @@ SCOTT: Over here, sir. There's food in there and a whole pile of other stuff. A 
 [Cave]
 KIRK: I don't think so. Scotty. 
 (There is a pair of photoelectric cells creating an invisible trip wire across the front of the supplies.) 
+
+
 KIRK: Metal. Forged, tempered. Our apish friends didn't make these. What do you think? 
 SCOTT: It could be a warning device to keep those creatures away from the food. 
 KIRK: Or the food could be a lure set by the Others to bring them in here. 
@@ -223,11 +243,15 @@ UHURA [OC]: Aye, sir.
 KIRK: Mister Chekov, you and the security team will remain here at the entrance. We'll be in constant contact with you. 
 CHEKOV: Aye, sir. 
 (McCoy and Spock beam down. Spock is in a brown overall, and has a device on his head. McCoy is holding a remote control unit with coloured buttons. He presses one and Spock turns left to face us.) 
+
+
 KIRK: All right, Bones. Bring him along. 
 SCOTT: Keep him close to the right. 
 [Cave]
 KIRK: Ready? 
 (He steps across the beam and a metal shutter slams down, sealing the cave entrance. The 'elevator room' drops rapidly.) 
+
+
 MCCOY: Call Chekov and tell him to send my stomach down. 
 [Cave entrance]
 CHEKOV: It might be a long wait. We may as well be comfortable. 
@@ -262,6 +286,8 @@ LUMA: I am Luma. I am Eymorg. You are not Eymorg. You are not Morg. What are you
 MCCOY: Jim, it's no use. You'll get nothing out of that one. Hers is the mind of a child. 
 SCOTT: Captain, I've got something, but I can't quite get a fix on it. 
 (Luma tries to get away, but McCoy grabs her.) 
+
+
 SPOCK [OC]: Fascinating. Activity without end, but with no volition. 
 KIRK: Spock, is that you? 
 SPOCK [OC]: Captain? Captain Kirk? 
@@ -276,11 +302,15 @@ KIRK: We'll get you, Spock. It won't be long.
 SPOCK [OC]: A practical idea, Captain. It seems unlikely that I shall be able to get to you. 
 KIRK: Quickly! 
 (They head off down the corridor, Scott controlling Spock's body. Then around a corner comes a woman in purple with two Morg in uniforms.) 
+
+
 KIRK: There she is. That's the one. What have you done with Spock's brain? 
 (The woman in purple uses her wrist band to knock out the men. Only Spock is left standing.) 
 Captain's Log, stardate 5431.6. Immediately after making contact with Spock's brain, Doctor McCoy, Engineer Scott, and myself were taken prisoner inside a highly complex civilisation hundreds of metres below the surface of planet Sigma Draconis Seven. The primitive creature we encountered above warned us about the givers of pain and delight and the frightening consequences of being captured by them. 
 [Council room]
 (Luma and other women are present, and occasionally giving pieces of food to the men standing around. Our landing party are still unconscious, and sitting on stools. The woman in purple comes in, and four women sit at the L shaped table. She presses the green button twice, and they wake up. All the men have belts with green buckles on them.) 
+
+
 KARA: What are you? Why are you here? You have something to speak? 
 KIRK: What have you done with Spock's brain? 
 KARA: We do not know Spock. 
@@ -324,6 +354,8 @@ LUMA: Do not take them, Kara. Do not take them to the Controller.
 KARA: They will be prevented. 
 KIRK: You must take us. 
 (A single press of the green button and they collapse, writhing in agony.) 
+
+
 KARA: I must learn what to do. (to Luma) Come with me. You will keep them here. 
 GUARD: Yes, mistress. 
 (The women - sorry, Eymorg - leave.) 
@@ -334,8 +366,12 @@ MCCOY: I wouldn't believe the human organism could take such pain.
 SCOTT: These are on to stay for a while. Must be a magnetic lock of some kind. 
 KIRK: No wonder the Morgs are so obedient, and terrified. 
 (A Morg blocks the doorway.) 
+
+
 KIRK: How is this place kept functioning by the primitive minds we've met? 
 (Their equipment is laid out on a table, but another Morg stops Kirk getting to it.) 
+
+
 SCOTT: Those women could never have set up anything as complex as this has to be. Why, that takes engineering genius. But there's no sign of engineering genius in any of those women. 
 KIRK: They were smart enough to invent these training devices. What a way to maintain control over a man. 
 SCOTT: Pain and delight, he said up above. 
@@ -348,6 +384,8 @@ KIRK: I certainly think that science might provide an answer.
 MCCOY: It does, Captain. 
 KIRK: Agreed, Doctor. 
 (Kirk hits the Morg by the table while Scott and McCoy take on the one by the door. It isn't easy, but finally the Captain triumphs.) 
+
+
 KIRK: Science will triumph. Come on, Scotty. Bones, give them something to keep them out for a while. (into communicator) Spock. Spock. Come on, Spock. Spock, you were on this frequency, Spock. 
 SPOCK [OC]: Yes, Captain, I am still here. Have you returned to the Enterprise? 
 KIRK: No. We might be able to locate you, if you gave us some idea of what they were using you for. Is it medical? 
@@ -381,15 +419,23 @@ SPOCK [OC]: Yes, Captain.
 KIRK: We've got pain-giving devices attached to us. Can you tell us how to get them off. 
 SPOCK [OC]: I shall give it top priority. 
 (They walk along.) 
+
+
 SPOCK [OC]: Captain, I have an answer for you. It seems your pain bands are manually controlled. The red button on a bracelet releases them. I know that does not make much sense. 
 KIRK: Oh, yes it does, Spock. (further along) Keep concentrating, Spock. Keep concentrating, Spock. 
 SCOTT: Must be in there, Captain. 
 [Control Room]
 (Kara is in there, with her back to the door. She hears them enter, and gives them pain.) 
+
+
 MCCOY: Jim.. Spock. No pain. 
 (Kirk manages to get to the control box that McCoy dropped and get Spock's body to walk over to Kara.) 
+
+
 KARA: No. Go away. 
 (Spock holds her wrists, then finally presses the red button. The belts fly off.) 
+
+
 KARA: We will die. You must not take the Controller away. We will all die. The Controller is young and powerful. Perfect! 
 SPOCK [OC]: How very flattering. 
 KARA: You will give life to my people for ten thousand years to come. 
@@ -410,6 +456,8 @@ KARA: I put upon my head the Teacher.
 KIRK: What is the Teacher? 
 KARA: The great Teacher of all the ancient knowledge. 
 (There is a transparent helmet with what look like a whole lot of syringes sticking through it.) 
+
+
 SPOCK [OC]: If I may explain, Captain. She refers to the tape storehouse of knowledge of the builders of this place. I scan it. A most impressive store. 
 KIRK: How does it work? Show us. 
 KARA; I cannot. 
@@ -418,14 +466,20 @@ KARA: I cannot. Only by command of the ancients may I understand.
 KIRK: How does it work? Show us! We'll protect you. 
 SPOCK [OC]: It is a device with feeding circuits. They lead into the mind of the priestess leader. Its use is strictly predetermined by the builders. 
 (Kirk forces her into the helmet.) 
+
+
 KARA: No! The knowledge is forbidden! I must not know the secret! I will be punished! 
 (A control panel comes on and she goes quiet.) 
+
+
 KARA: (confident, assured) Gentlemen, the Controller's explanation of the functioning of the Teacher is essentially correct. However, he is giving no credit to me. I provide the means whereby the knowledge is used. Without me, Captain 
 MCCOY: Without you there could be no delicate miracle that kept Spock's brain alive. 
 KARA: Thank you, Doctor. That was very gracious. 
 MCCOY: Yes. From the very first, I appreciated your ability. 
 KARA: Good, Captain Kirk. Then you also appreciate that without the Teacher, I would not have the knowledge to use that which you have thoughtfully provided. 
 (She points a phaser at him.) 
+
+
 SCOTT: That phaser is set to kill. 
 KARA: So it is. That is the knowledge you have brought me. Do not move. If your weapon kills, it will kill you. 
 KIRK: We're not the first to bring you the knowledge of killing. If you continue, you'll kill Spock. 
@@ -434,8 +488,12 @@ KIRK: But Spock will be dead. His body's dying this minute.
 KARA: Why do you not understand that the need of my people for their Controller is greater than your need for your friend. 
 KIRK: No one may kill a man. Not for any purpose. It cannot be condoned. 
 (He reaches for the phaser.) 
+
+
 KARA: Do not! I do not know killing. I do not wish to kill. 
 (Scott groans and faints, distracting her so Kirk can grab the phaser.) 
+
+
 KARA: The commandment must be fulfilled. 
 KIRK: You must help us. When you came to the ship, you had the knowledge. Yet, when we came here, you didn't. 
 KARA: Correct. 
@@ -458,10 +516,14 @@ MCCOY: Spock, didn't you hear? I might be able to retain and bring these techniq
 KIRK: Go ahead, Doctor. Put the Teacher on. 
 KARA: No! 
 (McCoy goes over to the device, and Kirk adjusts it onto his head. McCoy winces in pain as knowledge is fed into his brain, then falls to his knees.) 
+
+
 MCCOY: Of course. Of course. A child could do it. A child could do it. 
 Captain's log, Stardate 5432.3. Doctor McCoy is proceeding to restore Spock's brain. Our problem, we do not know how long his increased surgical knowledge will stay with him. Any additional attempt to use the teaching device is impossible. It would kill my medical officer. 
 [Control room]
 (The top of Spock's head is concealed by a wall, which McCoy is working behind.) 
+
+
 SCOTT: I've never seen anything like it. He's operating at warp speed. I'd like a try at that teacher myself. 
 KARA: You will have him back and we will be destroyed. 
 KIRK: No. You won't be destroyed. You'll be without your Controller for the first time, but you'll be much better off, I think. 
@@ -472,6 +534,8 @@ KIRK: There are other ways. You'll discover them. You must move to the surface, 
 KARA: We will die above in the cold. 
 KIRK: No, you won't. You'll learn to build houses, to keep warm, to work. We'll help you for a while. Humans have survived under worse conditions. It's a matter of evolution. You'll be fine. 
 (McCoy is starting to pause and think.) 
+
+
 SCOTT: Captain Kirk! 
 KIRK: What is it? 
 SCOTT: He's forgetting. 
@@ -504,10 +568,14 @@ MCCOY: Right elbow.
 SPOCK: Correct. Very good, Doctor. 
 MCCOY: I'll never live this down. This Vulcan is telling me how to operate. 
 (Later) 
+
+
 MCCOY: Closed. 
 KIRK: Well? 
 MCCOY: How do I know? I could have made a thousand mistakes. Sealing nerve endings, joining ganglia. The fluid balance is correct, but I don't know. 
 (Spock sits up and stretches.) 
+
+
 SPOCK: Congratulations, Doctor. And thank you. 
 KIRK: How do you feel, Spock? 
 SPOCK: On the whole, Captain, I believe I am quite fit. Fascinating. A remarkable example of a retrograde civilisation. At the peak, advanced beyond any of our capabilities and now operating at this primitive level which you saw. And it all began thousands of years ago when a glacial age reoccurred. This underground complex was developed for the women. The men remained above, and a male-female schism took place. A fascinating cultural development of a kind which never 
@@ -515,6 +583,8 @@ MCCOY: I knew it was wrong. I shouldn't have done it.
 KIRK: What's that? 
 MCCOY: I should have never reconnected his mouth. 
 (A slanted eyebrow hits the ceiling.) 
+
+
 KIRK: Well, we took the risk, Doctor. 
 SPOCK: (to Kara, amid laughter) As I was saying, a fascinating cultural development of the kind which hasn't been seen in ages. The last such occurrence took place on old Earth, when the Romans were warring with the .... 
 

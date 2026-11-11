@@ -5,24 +5,36 @@ Stardate: 3842.3
 Original Airdate: 17 Nov, 1967
 [Kirk's quarters]
 (Enterprise is orbiting a very red planet, and Kirk is checking his appearance in a mirror.) 
+
+
 MCCOY: Dress uniforms, spit and polish. I don't know how much longer I'm going to be able to stand this. I feel like my neck's in a sling. 
 KIRK: The Vulcans are the last delegates we have to pick up. As soon as we get them aboard, we'll be able to relax. 
 (They leave.) 
 [Corridor]
 MCCOY: Sure. A formal reception tonight, a hundred and fourteen delegates aboard for two weeks, thirty two of them ambassadors, (Spock joins them) half of them mad at the other half, and the whole lot touchier than a raw antimatter pile over this Coridan question. 
 (Intercom whistles) 
+
+
 KIRK: Kirk here. 
 CHEKOV [OC]: Shuttlecraft approaching with Ambassador Sarek's party. Estimate arrival one minute. 
 KIRK: Bring them aboard, Mister Chekov. 
 CHEKOV [OC]: Standby to recover shuttlecraft. Honour guard to the hangar deck. 
 [Hangar deck]
 (As the NCC1701/7 arrives, the honour guard smarted themselves up outside.) 
+
+
 VOICE [OC]: Clear hangar deck. Clear hangar deck. Depressurising. Recovering shuttlecraft. Hangar deck pressurising. 
 (The guard line up, holding phasers with arms crossed.) 
+
+
 MCCOY: How does that Vulcan salute go? 
 (Spock demonstrates - right hand with the fingers separated into a V-sign.) 
+
+
 MCCOY: That hurts worse than the uniform. 
 (A couple are escorted from the shuttlecraft.) 
+
+
 KIRK: Captain James Kirk. 
 SAREK: Captain. 
 KIRK: My First Officer, Commander Spock. 
@@ -32,6 +44,8 @@ KIRK: Thank you. Chief Medical Officer Doctor McCoy.
 MCCOY: Ambassador. 
 SAREK: Doctor. My aides and she who is my wife. 
 (He holds out his right hand with two fingers extended, and a human woman steps forward to touch them.) 
+
+
 AMANDA: Captain Kirk. 
 KIRK: Our pleasure, madam. As soon as you're settled I'll arrange a tour of the ship. Mister Spock will conduct you. 
 SAREK: I'd prefer another guide, Captain. 
@@ -40,8 +54,12 @@ SPOCK: Captain, Ambassador Sarek and his wife are my parents.
 Captain's log, Stardate 3842.3. We have departed Vulcan for the neutral planetoid code-named Babel. Since it is in our sector, the Enterprise has been assigned to transport ambassadors of Federation planets to this vitally important council. The issues of the council are politically complex, the passengers explosive. 
 [Engineering]
 (Kirk is conducting Sarek and Amanda's tour himself. Spock is doing something in Engineering when they enter.) 
+
+
 KIRK: This is the engineering section. There are a number of emergency back-up systems for the main controls. Over here are a number of control computers. 
 (Amanda lags behind to talk with her son.) 
+
+
 AMANDA: After all these years among humans, you still haven't learned to smile. 
 SPOCK: Humans smile with so little provocation. 
 AMANDA: And you haven't come to see us in four years, either. 
@@ -79,6 +97,8 @@ KIRK: Go to alert status four. Begin long-range scanning. Kirk out.
 Captain's log, Stardate 3842.4. The interplanetary conference will consider the petition of the Coridan planets to be admitted to the Federation. The Coridan system has been claimed by some of the races now aboard our ship as delegates, races who have strong personal reasons for keeping Coridan out of the Federation. The most pressing problem aboard the Enterprise is to make sure open warfare doesn't break out among the delegates before the conference begins. 
 [Lounge]
 (People of all shapes, sizes and colours are helping themselves to drinks and nibbles from buffet tables.) 
+
+
 MCCOY: Mister Ambassador, I understand you had retired before this conference was called. Forgive my curiosity, but as a doctor, I'm interested in Vulcan physiology. Isn't it unusual for a Vulcan to retire at your age? After all, you're only a hundred and two. 
 SAREK: One hundred two point four three seven precisely, Doctor, measured in your years. I had other concerns. 
 KIRK: Ambassador. 
@@ -104,6 +124,8 @@ MCCOY: A teddy bear?
 SAREK: Excuse me, Doctor. It has been a rather long day for my wife. Captain. 
 KIRK: Ambassador. 
 (Sarek leads Amanda away.) 
+
+
 MCCOY: A teddy bear. 
 SPOCK: Not precisely, Doctor. On Vulcan, the teddy bears are alive, and they have six-inch fangs. 
 CHEKOV [OC]: Bridge to Captain Kirk. 
@@ -137,6 +159,8 @@ SPOCK: Vessel changing course, heading toward us at high warp speed.
 KIRK: Ready main phasers. 
 CHEKOV: Phasers armed and ready, sir. 
 (The bright dot on the viewscreen whizzes past them.) 
+
+
 SPOCK: Interesting. They were travelling at approximately warp ten. 
 KIRK: Back on original course, Mister Chekov. Report on intruder's movements. 
 UHURA: Captain, Starfleet acknowledges report on our situation and confirms no authorised Federation vessel in this quadrant. 
@@ -144,12 +168,16 @@ CHEKOV: Back on original heading, Captain. The intruder changed course immediate
 KIRK: Well, we have a shadow. Faster, more manoeuvrable and unidentified. Mister Spock, full analysis of sensor readings. I want to know who that intruder is. 
 [Lounge]
 (Sarek enters, and surreptitiously takes a tablet with a drink.) 
+
+
 GAV: Vulcan, I would speak to you. 
 SAREK: It does seem unavoidable. 
 GAV: How do you vote on the Coridan admission? 
 SAREK: You seem unwilling to wait for the council meeting, Ambassador. No matter. We favour admission. 
 GAV: You favour? Why? 
 (The room goes silent.) 
+
+
 SAREK: Under Federation law, Coridan can be protected and its wealth administered for the benefit of its people. 
 GAV: That's well for you. Vulcan has no mining interest. 
 SAREK: Coridan has nearly unlimited wealth of dilithium crystals, but it is under-populated and unprotected. This invites illegal mining operations. 
@@ -157,6 +185,8 @@ GAV: Illegal? You accuse us?
 SAREK: Some of your ships have been carrying Coridan dilithium crystals. 
 GAV: You call us thieves? 
 (Gav attacks Sarek, who shrugs him off easily.) 
+
+
 KIRK: Gentlemen. Gentlemen. Whatever arguments you have between yourselves is your business. My business is running the ship. As long as I command, there will be order. 
 SAREK: Of course, Captain. 
 GAV: Understood. There will be payment for your slander, Sarek. 
@@ -164,6 +194,8 @@ SAREK: Threats are illogical. And payment is usually expensive.
 (Gav leaves.) 
 [Corridor]
 (The Tellarite is hanging upside down from a Jefferies tube. He is not doing spine stretching exercises.) 
+
+
 JOSEPH: Security to Captain Kirk. 
 [Kirk's quarters]
 KIRK: Kirk here. 
@@ -198,6 +230,8 @@ KIRK: Then where were you during the hour?
 SAREK: In private meditation, Captain. Spock will tell you that such meditation is a personal experience, not to be discussed. especially not with Earthmen. 
 KIRK: That's a very convenient excuse, Ambassador. 
 (Sarek suddenly collapses.) 
+
+
 AMANDA: Sarek. Sarek. What's wrong? 
 MCCOY: It's difficult to say with Vulcan physiology, but I believe it's something to do with his cardiovascular system. 
 KIRK: Can you help him? 
@@ -282,12 +316,16 @@ AMANDA: And I refuse to permit it. I won't risk both of you.
 SPOCK: Then you automatically condemn Sarek to death. And you, Doctor, have no logical alternative either. If you do not operate, Sarek will die. You now have the means to perform the operation. I am volunteering myself as the blood donor. I'll be at my station until you require me. 
 [Corridor]
 (Kirk is in the middle of a vigorous fight with an Andorian (the blue people with antennae). The Andorian pulls a knife and stabs Kirk before getting kicked unconscious.) 
+
+
 KIRK: Bridge. Spock. 
 [Bridge]
 SPOCK: Spock here. 
 [Corridor]
 KIRK: I'm on deck five, near my quarters. I've been attacked by an Andorian. Security. Security team. 
-(He passes out.) SPOCK [OC]: Captain? Captain? Captain? 
+(He passes out.) 
+
+SPOCK [OC]: Captain? Captain? Captain? 
 Captain's log, stardate 3843.4. First Officer Spock in temporary command. The captain has been critically wounded by one of the delegates to the Babel conference. The ship is on alert status. We are still being followed by the intruder vessel. 
 [Sickbay]
 MCCOY: It's a bad wound. Punctured left lung. A centimetre or so lower, it'd have gone through the heart. 
@@ -309,6 +347,8 @@ SPOCK: I do not know. There is no logic in Thelev's attack upon the captain. The
 SHRAS: Perhaps you should forget logic and devote yourself to motivations of passion or gain. Those are reasons for murder. 
 [Spock's quarters]
 (The doorbell rings impatiently.) 
+
+
 SPOCK: Come in. 
 AMANDA: Spock, you must turn command over to somebody else. 
 SPOCK: Mother, when I was commissioned, I took an oath to carry out responsibilities which were clearly and exactly specified. 
@@ -333,6 +373,8 @@ KIRK: I'd like to get my hands on the guy with the sledgehammer.
 CHAPEL: The one who hit you? 
 KIRK: No, the one inside my head. How long have I 
 (Tries to sit up and fails.) 
+
+
 MCCOY: Now let that be a lesson to you. Just lie there and be happy you're still alive. 
 KIRK: How's Sarek? 
 MCCOY: Not good. If I could only operate. 
@@ -351,6 +393,8 @@ CHEKOV: No change, sir. Maintaining its distance.
 KIRK: Any further transmissions, Lieutenant? 
 UHURA: None, sir. 
 (The turbolift doors close on Spock and McCoy.) 
+
+
 KIRK: Call Mister Scott to the bridge. 
 CHEKOV: Captain, the alien vessel is moving closer. 
 KIRK: Belay that order. I'll stay here. 
@@ -364,11 +408,15 @@ CHAPEL: Mister Spock's blood reproduction rate is up over two hundred percent. S
 MCCOY: I wish I knew whether that was good or bad. Initiate sterile field. 
 CHAPEL: Mister Spock. 
 (Spock is starting to get up.)
+
+
 MCCOY: Where do you think you're going? 
 SPOCK: I must see the captain. 
 MCCOY: My patients don't walk out in the middle of an operation. 
 SPOCK: The alien ship. I've just realised that if their power utilisation curve is not the norm, it should be possible to identify them this way. Very important. 
 (Chapel gives him a hypo to put him to sleep.) 
+
+
 MCCOY: So is your father's life. 
 [Bridge]
 KIRK: Kirk here. 
@@ -379,6 +427,8 @@ CHEKOV: Aye, sir. Shields on. Phasers manned and ready, sir.
 KIRK: Chekov, take over Spock's scanners. 
 CHEKOV: Aye, sir. 
 (The little light flashes past and the Enterprise rocks.) 
+
+
 KIRK: Target, Mister Chekov. 
 CHEKOV: Moving away. Turning now. He's coming around again. 
 KIRK: Fire as he passes, Ensign. 
@@ -396,6 +446,8 @@ MCCOY: One more like that, and I'm going to lose both these men.
 (Spock is awake again.) 
 [Bridge]
 (Another attack.) 
+
+
 CHEKOV: Fire control locked into the computers, Captain. 
 KIRK: On my order, fire photon torpedoes two, four and six. Widest possible scatter. 
 CHEKOV: Aye, sir. 
@@ -405,9 +457,13 @@ CHEKOV: Full spread missed, sir. They're moving too fast for us.
 CHAPEL: Doctor, his heart's stopped. 
 MCCOY: Cardio-stimulate. 
 (Another jolt.) 
+
+
 CHAPEL: The systems are off. 
 MCCOY: Then get me that old portable cardio-stimulator. 
 (She fetches a hand-sized device from a trolley.) 
+
+
 MCCOY: Call engineering and have sickbay systems put on priority. 
 [Bridge]
 CHEKOV: Number four shield has buckled, sir. 
@@ -415,6 +471,8 @@ KIRK: Auxiliary power.
 CHEKOV: Switching over. Shields firming up. Number four is still weak, sir. If they hit us there again, it'll go altogether. 
 (Sickbay gets its power back.) 
 (Thelev is brought to the Bridge.) 
+
+
 KIRK: Your friends out there are good. They'll have to destroy this ship to win. 
 THELEV: That was intended from the beginning, Captain. 
 KIRK: You're not Andorian. Who are you? 
@@ -427,6 +485,8 @@ KIRK: You're a spy, surgically altered to pass as an Andorian. Planted in the am
 THELEV: Speculation, Captain. 
 KIRK: Engineering, cut power on starboard side. Maintain until further orders. Chekov. 
 (In the darkened ship, Chekov takes back his usual station.) 
+
+
 THELEV: What are you doing? 
 KIRK: You speculate. 
 CHEKOV: We're starting to drift, sir. Shall I hold her on course? 
@@ -439,17 +499,25 @@ KIRK: Hold your fire, Mister Chekov.
 CHEKOV: Phasers locked on target. Range closing. Seventy five thousand kilometres. 
 KIRK: Fire. 
 (There's a satisfying flare on the viewscreen.) 
+
+
 CHEKOV: Got him! 
 KIRK: Secure from general quarters. Lieutenant, open the hailing frequency. If they wish to surrender 
 (A very big flare makes everyone shield their eyes.) 
+
+
 THELEV: They could not surrender, Captain. They had orders to self-destruct. 
 (While in Sickbay, Sarek's vital signs are strengthening.) 
+
+
 KIRK: Lieutenant, relay to Starfleet command. Tell them we have a prisoner. 
 UHURA: Aye, sir. 
 THELEV: Only temporarily, Captain. You see, I had orders to self-destruct, too. Slow poison. Quite painless, actually, but there's no known antidote. I anticipate another ten minutes of life. 
 KIRK: Take him to Sickbay. 
 THELEV: I seem to have miscalculated. 
 (He dies with the security guards holding his arms.) 
+
+
 KIRK: So did they. Mister Chekov, take over. 
 [Sickbay]
 KIRK: Bones? 
@@ -459,6 +527,8 @@ MCCOY: I don't mind telling you, you sure make it difficult for a surgeon trying
 KIRK: Bones! 
 AMANDA: Captain, come in. 
 (They go through to the ward.) 
+
+
 MCCOY: That pig-headed Vulcan stamina. I couldn't have pulled them through without it. 
 KIRK: Some doctors have all the luck. 
 SPOCK: Captain, I believe you'll find the alien 
@@ -484,6 +554,8 @@ SPOCK: Indeed? Why did you marry her?
 SAREK: At the time, it seemed the logical thing to do. 
 KIRK: Bones. (starts to collapse.) No, no, I'm all right 
 (McCoy helps him onto a bed.) 
+
+
 MCCOY: If you keep arguing with your kindly family doctor, you're going to spend your next ten days right here. If you co-operate, you'll be out in two. 
 SPOCK: Doctor, I'll return to my station now. 
 MCCOY: You are at your station, Mister Spock. 

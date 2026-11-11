@@ -60,6 +60,8 @@ KIRK: Take the guards, have a look outside. Radioactive readings, chemical pollu
 SPOCK: Right, Captain. 
 MCCOY: I wonder what happened to her, that she should be so terrified of us. 
 (Someone clears a patch of grime from a window, Spock goes over and peers in) 
+
+
 MIRI: But I remember the things you Grups did, burning, yelling, hurting people. 
 KIRK: We didn't do anything like that. 
 MIRI: You're not going to hurt? 
@@ -195,6 +197,8 @@ JAHN: No! It's not a game, it's real. They're dangerous, they're Grups. Don't yo
 MASKED BOY: Jahn! 
 JAHN: (sees Kirk and Miri approach the building) All right, let's hide! 
 (Kirk and Miri come in, then a changing girl appears. The children flee, screaming. The girl jumps Kirk, and he eventually stuns her) 
+
+
 KIRK: Dead. I don't understand it. My phaser wasn't set to kill. 
 MIRI: Her name was Louise. She was just a little bit older than I am when it happened. Oh, Jim. (she hugs him) 
 [Laboratory]
@@ -349,6 +353,8 @@ SPOCK: We must. The vaccine could be fatal.
 MCCOY: The disease certainly is. How long do we have left? Hours, minutes? How much longer do you want to wait? 
 SPOCK: Bickering is pointless. I'll check on the Captain's progress. 
 (Spock leaves. McCoy picks up the hypospray and injects himself, then collapses in agony) 
+
+
 MCCOY: Spock! 
 GALLOWAY: Is he dead, Mister Spock? 
 SPOCK: Not yet. 

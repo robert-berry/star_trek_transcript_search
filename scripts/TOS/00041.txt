@@ -5,6 +5,8 @@ Stardate: 4513.3
 Original Airdate: 3 Nov, 1967
 [Corridor]
 (Spock and McCoy are greeted by a crewman in blue as he walks along.) 
+
+
 NORMAN: Good morning, sir, Doctor. 
 SPOCK: Something wrong? 
 MCCOY: Yes. There's something odd about that man, and I can't quite pinpoint it. 
@@ -19,6 +21,8 @@ MCCOY: Maybe, but you can't evaluate a man by logic alone. Besides, he has avoid
 SPOCK: That's not at all surprising, Doctor. He's probably terrified of your beads and rattles. 
 [Auxiliary Control]
 (Norman enters.) 
+
+
 JORDAN: Command personnel only. 
 (Norman knocks him out and makes changes to the various control panels. A 'Danger, Overload' light comes on.) 
 [Bridge]
@@ -38,6 +42,8 @@ KIRK; What's the imposed course, Mister Sulu?
 SULU: Turning on three oh seven degrees, mark eight. Being executed now, sir. 
 [Auxiliary Control]
 (The three burly security men arrive.)
+
+
 ROWE: Take care of him. 
 (The other two leave with the unconscious crewman.) 
 [Bridge]
@@ -58,13 +64,19 @@ SULU: Sir, the instruments won't respond.
 KIRK: Emergency manual monitor, report. 
 [Engineering]
 (In the upper gallery, Norman has been busy.) 
+
+
 KIRK [OC]: This is Captain Kirk. Acknowledge. 
 [Bridge]
 KIRK: Emergency manual monitor, this is the captain. Report. 
 [Engineering]
 (Norman enters the main area.)
+
+
 SCOTT: Here, you're not allowed 
 (He is pushed against the wall and knocked out briefly. Norman fights everyone that comes at him.) 
+
+
 KIRK [OC]: Acknowledge. This is the captain. Scotty, acknowledge. Scotty, what's going on down there? 
 [Bridge]
 KIRK: Kirk to Engineering. 
@@ -76,6 +88,8 @@ KIRK: Scotty, the intruder is in your area.
 [Engineering]
 KIRK [OC]: What's going on down there? Scotty! 
 (Norman has triumphed and is adjusting controls.) 
+
+
 SCOTT: Captain, he's here. 
 [Bridge]
 KIRK: Scotty. 
@@ -96,6 +110,8 @@ KIRK: Who are you?
 NORMAN: I assure you we are no threat to humanity or humanoid life. We mean you no harm, but we require your ship. 
 KIRK: You require? Who and what are we? 
 (Norman lifts his tunic and opens a panel in his abdomen. There are circuit boards, wires and the obligatory flashing lights in there.) 
+
+
 KIRK: An android. 
 SPOCK: And most sophisticated. 
 NORMAN: I control the trigger relay, sir. I cannot be overcome by physical means, and if you attempt to use your phasers, the trigger relay will be activated. We shall continue on our present course for approximately four solar days, at which time we shall arrive at our destination. 
@@ -113,11 +129,15 @@ KIRK: And what is that word?
 NORMAN: Please. 
 [Cavern]
 (The required landing party materialise.) 
+
+
 NORMAN: Our planet's surface is what you classify as K-type, adaptable for humans by use of pressure domes and life-support systems. (to one of two identical women standing by a doorway.) I have brought them. 
 ALICE 1: He is waiting. 
 ALICE 2: If you will follow us, please? 
 [Throne room]
 (There are several other women, all identical to the first two. And seated on the throne - )
+
+
 KIRK: I don't believe it. 
 MUDD: Welcome aboard, Kirk. It's been a long time, eh? 
 KIRK: Harry Mudd. 
@@ -128,6 +148,8 @@ KIRK: Kirk to Enterprise.
 MUDD: Alice. 
 KIRK: Kirk to Enterprise. 
 (Alice reaches out and crushes the communicator.) 
+
+
 MUDD: Now, now, now, now, Jamie boy, let's have no unauthorised communications. 
 CHEKOV: You know this man, Captain? 
 KIRK: Oh, do I know him. Harcourt Fenton Mudd, thief 
@@ -189,6 +211,8 @@ MUDD: Ah. That, gentlemen, is a shrine to the memory of my beloved Stella.
 KIRK: Who? 
 MUDD: Stella, my wife. 
 (Revealing a woman of sour features.) 
+
+
 MCCOY: Dead? 
 MUDD: Oh, no, no, no. Merely deserted. You see, gentlemen, behind every great man there is a woman urging him on. And so it was with my Stella. She urged me on into outer space. Not that she meant to, but with her continual, eternal, confounded nagging. Well, I think of her constantly, and every time I do, I go further out into space. 
 MCCOY: That's very interesting. You leave your wife and then bring her along. 
@@ -199,6 +223,8 @@ STELLA: Nothing, thing, thing,
 MUDD: Marvellous, isn't it? I finally have the last word with her, and with you. 
 [Living area]
 (Norman and the Alices lead the landing party to a place with couches and plants.) 
+
+
 NORMAN: You'll find this quite comfortable. Your quarters are down the hall. 
 ALICE 1: If there is anything you need 
 KIRK: Yes. My ship. 
@@ -223,6 +249,8 @@ KIRK: All right. We might later. In the meantime, would you mind leaving us?
 BOTH: Why should we leave you? 
 KIRK: Because we don't like you. Now. (shooing away gesture) 
 (The Alices leave) 
+
+
 KIRK: Well, opinions? 
 CHEKOV: I think we're in a lot of trouble. 
 KIRK: That's a great help, Mister Chekov. Bones? 
@@ -257,6 +285,8 @@ MUDD: Immortality and eternal beauty.
 [Living area]
 SPOCK: Captain, I've just had a most fascinating meeting with Norman, and I'm convinced I've discovered a very important inconsistency. 
 (McCoy enters with Mudd) 
+
+
 MUDD: I'm so glad you enjoyed it, Doctor. 
 MCCOY: Jim, you should see the research facilities. They've got a lab down there that. Well, I could spend the rest of my life studying it. 
 MUDD: I do so admire a man who devotes himself to knowledge. 
@@ -266,6 +296,8 @@ MCCOY: I wouldn't be bored, I can tell you that.
 SCOTT: Let go of me! Now what are you doing? What kind of a woman 
 ALICE: The last one, lord. 
 (She throws Scott into the group.) 
+
+
 MUDD: Splendid. Splendid. Welcome to Mudd, Mister Scott. 
 SCOTT: Harry Mudd! Oh, you bogus frat, you. You're the cause of all this, are you? 
 KIRK: Scotty, you were ordered to stay aboard. 
@@ -281,6 +313,8 @@ MUDD: But now, Captain, now I have a ship of my own as fast as any in the fleet,
 KIRK: I'm trying not to. 
 MUDD: Alice. 
 (Mudd and Alice leave.) 
+
+
 SPOCK: He could successfully accomplish it, Captain. I've questioned a number of the androids, and they're totally loyal to Mudd. Perhaps of more concern is the fact that this android population can literally provide anything a human being could ask for in unlimited quantity. 
 KIRK: Yes, I know. That's what worries me. How will my crew react in a world where they can have everything they want simply by asking for it. 
 [Throne room]
@@ -305,9 +339,13 @@ ALICES: Yes, my lord.
 CHEKOV: This place is even better than Leningrad. 
 [Laboratory]
 (A device has lights running up it.) 
+
+
 SCOTT: Absolutely fantastic. Hand-worked to the finest tolerances, microvision, and a nanopulse laser. I've never seen the like before. 
 NORMAN: You may command us to make anything for you, or do the work yourself for pleasure. You may have the services of any number of craftsmen, exclusive use of the computer facilities. Anything. 
 (Mudd and Kirk enter.) 
+
+
 SCOTT: Captain, you should see this shop! Why, they have facilities we've never even thought of. 
 KIRK: Is that the way you're going to do it, Mudd? Hit my people at their weakest point? 
 NORMAN: We only wish to make you happy and comfortable, Captain. If we are to serve your kind, we must understand you. Our Lord, Harry Mudd was only one example for us. Now we are learning a great deal from all of you. 
@@ -336,6 +374,8 @@ ALICE 471: The Enterprise is not a want or a desire. It is a mechanical device.
 KIRK: No, it's a beautiful lady, and we love her. 
 ALICE 471: Illogical. Illogical. All units relate. All units. Norman, co-ordinate. Unhappiness does not relate. We must study this. 
 (She leaves.) 
+
+
 KIRK: Interesting. 
 SPOCK: Fascinating. 
 KIRK: Bones, have you had time to take any psychological readings of the androids? 
@@ -364,6 +404,8 @@ MUDD: Now, look here. You can't do that! Now, listen. To serve us, you must obey
 ANDROIDS: No, my Lord Mudd. 
 MUDD: Alice number One, obey me. Put my bags on that ship! 
 (She gives him a gentle push and he goes reeling backwards until he falls.) 
+
+
 NORMAN: We cannot allow any race as greedy and corruptible as yours to have free run of the galaxy. 
 SPOCK: I'm curious, Norman. Just how do you intend to stop them? 
 NORMAN: We shall serve them. Their kind will be eager to accept our service. Soon they will become completely dependent upon us. 
@@ -427,6 +469,8 @@ ALICE 1: You have been of assistance. We shall fulfill our obligation.
 UHURA: Thank you. 
 ALICE 1: The programming for your body will be completed before we leave. 
 (Alice leaves) 
+
+
 KIRK: Uhura. Beautiful! 
 UHURA: I half believed it myself. 
 SCOTT; Well, the androids were expecting an attempt, and now we've made it. 
@@ -443,6 +487,8 @@ KIRK: Their captivity. Do you enjoy the music?
 ALICE 118: Music? 
 ALICE 2: Music? 
 (Their badges start flashing.) 
+
+
 CHEKOV: Thank you, gentlemen. Thank you, lovely lady. You dance divinely. 
 UHURA: Thank you, kind sir. (her slap knocks him off his feet.)
 ALICE 2: Why does she strike him? 
@@ -452,6 +498,8 @@ KIRK: That's better, Mister Chekov.
 ALICE 118: It is illogical. 
 KIRK: Your statement is illogical. 
 (The flashes become a continual light.) 
+
+
 SCOTT: How does it look? 
 MCCOY: Completely inner directed. Oblivious to everything. 
 KIRK: Good. I wonder how Spock's doing. 
@@ -465,6 +513,8 @@ SPOCK: I love you. However, I hate you.
 ALICE 210: But I'm identical in every way with Alice Twenty Seven. 
 SPOCK: Yes, of course. That is exactly why I hate you. Because you are identical. 
 (They go out of action.) 
+
+
 SPOCK: Fascinating. 
 [Corridor]
 MCCOY: All right, it's worked so far, but we're not out yet. 
@@ -487,16 +537,22 @@ MCCOY: Suffering, in torment and pain. Labouring without end.
 SCOTT: Dying and crying and lamenting over our burdens. 
 BOTH: Only this way can we be happy. 
 (Then they curtsey.) 
+
+
 NORMAN: That is contradictory. It is not logical. Mister Spock. Explain. 
 KIRK: Why not? 
 SPOCK: Logic is a little tweeting bird chirping in a meadow. Logic is a wreath of pretty flowers which smell bad. Are you sure your circuits are registering correctly? Your ears are green. 
 SCOTT: (clutching at his heart and crying out in anguish) I canna go on! I'm tired of happiness. I'm tired of comfort and pleasure. I'm ready! Kill me! Kill me! 
 (They point their fingers at him and whistle. Scott slumps to his knees.) 
+
+
 SCOTT: Goodbye, cruel universe. 
 MCCOY: He's dead. 
 NORMAN: You cannot have killed him. You have no weapons. 
 KIRK: Scotty. Scotty's dead. He had too much happiness. But now he's happier he's dead, and we'll miss him. Let us hear it for our poor, dead friend. 
 (They laugh.) 
+
+
 KIRK: What is a man but that lofty spirit, that sense of enterprise, that devotion to something that cannot be sensed, cannot be realised but only dreamed! The highest reality. 
 MUDD: Brilliant! Bravo, bravo, Captain! 
 KIRK: How did you like it? 
@@ -504,6 +560,8 @@ NORMAN: That is irrational. Illogical. Dreams are not real.
 KIRK: Our logic is to be illogical. That is our advantage. Mister Spock, it is time. The explosive. 
 SPOCK: Very well, Captain. 
 (He removes an invisible package from under his tunic.) 
+
+
 SCOTT: Explosive! (gets up again) 
 MUDD: Don't panic. Women and children first. 
 Mister Spock, isn't that too much for our purposes? 
@@ -511,16 +569,26 @@ SPOCK: I believe that is the correct amount, Captain. Mister Mudd, are you ready
 MUDD: Aye, aye! (adopts a catchers pose) 
 SPOCK: Be careful. I would not want you to drop it. 
 (Mimes an underarm throw, and Mudd juggles before 'catching' it.) 
+
+
 MCCOY: Easy now. Oh, he's caught it! 
 KIRK: Watch it! Watch it! 
 (Mudd puts 'it' on the floor.) 
+
+
 MUDD: (to McCoy) Detonator. Fuse. Primer. Mashie. 
 (Adopts a golfing stance.) 
+
+
 NORMAN: There is no explosive. 
 KIRK: No? Observe. Fore! (Mudd swings.) Boom! 
 (Everyone except Spock staggers around with hands over their ears.) 
+
+
 KIRK: Are you all right? 
 (Spock quietly exits.) 
+
+
 NORMAN: But there was no explosion. 
 MUDD: I lied. 
 NORMAN: What? 
@@ -531,6 +599,8 @@ NORMAN: You say you are lying, but if everything you say is a lie then you are t
 NORMAN: You are human. Only humans can explain their behaviour. Please explain. 
 KIRK: I am not programmed to respond in that area. 
 (Norman goes blank.) 
+
+
 SPOCK: I believe they are all immobilised, Captain. 
 KIRK: Good. 
 MUDD: Kirk, old man, I'm beginning to develop considerable respect for you. 
@@ -541,6 +611,8 @@ MUDD: Yes.
 KIRK: I've got something else in mind. Let's go. 
 [Throne room]
 (Different androids are standing around the walls. Two pairs are wearing costumes from 'Mudd's Women'.) 
+
+
 MCCOY: Well, you must be very unhappy, Mister Spock. 
 SPOCK: That is a human emotion, Doctor, with which I am totally unfamiliar. How could I be unhappy? 
 MCCOY: Well, we found a whole world of minds that work just like yours. Logical, unemotional, completely pragmatic. And we poor, irrational humans whipped them in a fair fight. Now you'll find yourself back among us illogical humans again. 
@@ -548,6 +620,8 @@ SPOCK: Which I find eminently satisfactory, Doctor, for nowhere am I so desperat
 KIRK: Touch�, Bones. 
 MUDD [OC]: I've never heard of anything so revolting. We'll soon get to the bottom of this. 
 (Enters escorted by two Alices.) 
+
+
 MUDD: Kirk, now what's this I hear about my having to stay here? 
 KIRK: Yes, Mudd, you've been paroled to the android population of this planet. 
 SPOCK: The androids are being reprogrammed. Their original purpose was to adapt this planet for productive use. They'll begin that work again. 

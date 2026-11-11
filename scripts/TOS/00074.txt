@@ -21,6 +21,8 @@ KIRK: Mister Spock, come with me. Oh, and tell them that we appreciate the honou
 UHURA: Aye, sir. 
 [Mine entrance]
 (An area with jagged purple rocks under an orange sky. Kirk and Spock arrive on an artificial platform and gaze up at a city literally in the clouds.) 
+
+
 SPOCK: Stratos, Captain. A city actually floating in the sky. 
 KIRK: Looks as tranquil as its reputation, doesn't it. 
 SPOCK: It is one of the most interesting metropolises in the galaxy. Have you ever visited here, Captain? 
@@ -33,15 +35,23 @@ SPOCK: Perhaps there is another entrance, Captain.
 KIRK: Perhaps. 
 SPOCK: It would seem the Troglytes have changed their minds about delivery. 
 (Kirk and Spock are lassoed by three people in boiler suits and hard hats.) 
+
+
 KIRK: Who are you? What's the meaning of this attack? 
 VANNA: (a woman in blue) Interference breeds attack, Captain. Come on! 
 KIRK: We're here by permission of your government council on an emergency mission. 
 VANNA: Move on, Captain!. 
 (There is a fight, two against four. Then three figures beam down onto the platform.) 
+
+
 PLASUS: Troglytes, halt! 
 (The attackers make to run off.) 
+
+
 PLASUS: Surrender or we'll fire! 
 (Three escape, one gets shot) 
+
+
 PLASUS: Are you harmed, gentlemen? 
 KIRK: No, just a little shaken up. 
 PLASUS: I'm Plasus, High Advisor of the planet council. 
@@ -59,11 +69,15 @@ PLASUS: They agreed obviously as a ruse to get valuable hostages.
 KIRK: Hostages? For what purpose? 
 PLASUS: To force the council to meet their demands. (to guards) Organise a search party immediately and find the zenite consignment. 
 (Guards leave) 
+
+
 PLASUS: Meanwhile, Captain, I would suggest that you and First Officer Spock be our guests on Stratos. 
 KIRK: Very well. I do hope the search will be brief, Mister Advisor. 
 PLASUS: We'll do everything possible to make it so. Come, gentlemen. 
 [Stratos - Council gallery]
 (Plasus, Kirk and Spock beam onto a balcony at the edge of Stratos, with a wonderful view of a brown river and its tributaries.) 
+
+
 SPOCK: Remarkable. The finest example of sustained antigravity elevation I've ever seen. 
 DROXINE: The sentinel told me of our honoured guests, my father. I came to extend greetings. 
 PLASUS: A most gracious act. One of our planet's most incomparable works of art. My daughter, Droxine. Captain James Kirk. 
@@ -74,6 +88,8 @@ DROXINE: I have never before met a Vulcan, sir.
 SPOCK: Nor I a work of art, madam. 
 PLASUS: Come, gentlemen. There is much to see in our city. This is our council gallery. It is open to all city dwellers. We have some of the finest of our various art forms assembled here for the viewing and contemplation of every 
 (There is a dagger in the wall) 
+
+
 PLASUS: Disrupters again. 
 DROXINE: How dreadful!. They're despoiling the whole city. 
 SPOCK: Despoil? For what purpose? 
@@ -90,6 +106,8 @@ PLASUS: Art means nothing to the Disrupters. This (the dagger) is the only form 
 SPOCK: That would be most welcome, Mister Advisor. 
 PLASUS: Chambers have been prepared for you. A sentinel will guide you to them. 
 (Kirk and Spock leave) 
+
+
 DROXINE: I'm sorry they were so poorly treated on their first visit to our planet. 
 PLASUS: It's fortunate that they were not seriously hurt. 
 DROXINE: Oh, yes, that would have been dreadful. 
@@ -99,9 +117,13 @@ PLASUS: They grow more daring and determined every day. Now they seek to find al
 DROXINE: Do you think that Captain Kirk and his very attractive officer will feel that we're responsible for their injuries? 
 PLASUS: All this time I thought you were worried about our diplomatic relations. 
 (Two sentinels drag in a Troglyte) 
+
+
 SENTINEL: Apologies, Mister Advisor, but this Troglyte was apprehended leaving the city. He is without a transport card so we thought you would want to question him. 
 PLASUS: Remove his shields. 
 (The sentinel takes off the troglyte's sunglasses) 
+
+
 PLASUS: What is your business in Stratos, Troglyte? Speak! I command you! 
 TROGLYTE: My business is to repair. 
 PLASUS: Repair what? 
@@ -118,11 +140,17 @@ PLASUS: I would advise you to increase your knowledge.
 TROGLYTE: That is not possible for a Troglyte. The Stratos city dwellers have said it. 
 PLASUS: Secure him to the rostrum. 
 (But the troglyte breaks free of the sentinels and jumps over the balcony instead.) 
+
+
 PLASUS: How unfortunate. How unfortunate. 
 [Guest accommodation]
 (Kirk is sleeping, Spock is meditating.) 
+
+
 SPOCK [OC]: This troubled planet is a place of the most violent contrasts. Those who receive the rewards are totally separated from those who shoulder the burdens. It is not a wise leadership. Here on Stratos, everything is incomparably beautiful and pleasant. The High Advisor's charming daughter Droxine, particularly so. The name Droxine seems appropriate for her. I wonder, can she retain such purity and sweetness of mind and be aware of the life of the people on the surface of the planet? There, the harsh life in the mines is instilling the people with a bitter hatred. The young girl who led the attack against us when we beamed down was filled with the violence of desperation. If the lovely Droxine knew of the young miner's misery, I wonder how the knowledge would affect her. 
 (Spock hears a sound and goes into the next room. Droxine is preparing refreshments.) 
+
+
 DROXINE: Mister Spock, I thought you had accompanied Captain Kirk to the rest chamber. 
 SPOCK: Your movements awakened me. 
 DROXINE: My apologies. I did not realise they would disturb you. 
@@ -132,6 +160,8 @@ SPOCK: The same may be said of Stratos inhabitants.
 DROXINE: Vulcan eyes are very discerning too. I hear that, intellectually, Vulcans are as highly evolved as Stratos city dwellers. 
 SPOCK: We do pride ourselves on our logic. 
 (Dressed in Stratos fashion, the female miner enters the rest room, armed with her mining tool. She leans over Kirk, but he grabs her, pulls her down onto the bed and disarms her.)
+
+
 KIRK: You again! 
 VANNA: You sleep lightly, Captain. 
 KIRK: Yes, duty is a good teacher. I see you've changed your dressmaker. 
@@ -146,12 +176,16 @@ KIRK: Your word first.
 VANNA: I will answer. 
 (But as soon as he lets go, she grabs for the weapon again and he has to fight her again.) 
 (Meanwhile, in the next room, the ears that heard Droxine don't hear the fighting) 
+
+
 DROXINE: You only take a mate once every seven years? 
 SPOCK: The seven-year cycle is biologically inherent in all Vulcan�s. At that time, the mating drive outweighs all other motivations. 
 DROXINE: And is there nothing that can disturb that cycle, Mister Spock? 
 SPOCK: Extreme feminine beauty is always disturbing, madam. 
 KIRK [OC]: Spock? 
 (In the rest area) 
+
+
 VANNA: I did not come here to kill you, Captain. 
 KIRK: Then why this? 
 VANNA: To take you hostage. 
@@ -177,6 +211,8 @@ DROXINE: But Stratos is for advisors and studiers. What would Troglytes do here?
 VANNA: Live in the sunlight and warmth, as everyone should. 
 DROXINE: The caverns are warm and your eyes are not accustomed to light, just as your minds are not accustomed to logic. 
 (A sentinel takes Vanna away) 
+
+
 KIRK: Unaccustomed to light and warmth? That's necessary to all humanoids. Surely, you don't deny it to the Troglytes. 
 DROXINE: The Troglytes are workers, Captain. Oh surely, you must be aware of that. They mine zenite for shipment, till the soil. Those things cannot be done here. 
 SPOCK: In other words, they perform all the physical toil necessary to maintain Stratos. 
@@ -189,18 +225,24 @@ SPOCK: The surface of the planet is almost unendurable. To restrict a segment of
 DROXINE: The surface is marred by violence, like the Troglytes. But here in Stratos, we have completely eliminated violence. 
 [Council gallery]
 (Vanna is shackled to a granite-looking device) 
+
+
 PLASUS: You still refuse to disclose the names of the other Disrupters. 
 VANNA: There are no Disrupters! 
 PLASUS: Very well, if you prefer the rays. 
 (The curved section of the device, facing Vanna, lights up and makes Vanna glow.) 
 [Guest accomodation]
 (The sound of the rays can be heard in the background) 
+
+
 SPOCK: Troglyte is an abbreviation of an ancient Earth term. Its technical translation is cave dweller. 
 KIRK: Yes, I should have realised. 
 (A scream rings out. Kirk and Spock go to investigate) 
 [Council gallery]
 KIRK: Mister Advisor! 
 (The rays are switched off, and Vanna slumps) 
+
+
 KIRK: You said you were going to question Vanna, not torture her. 
 PLASUS: She's stubborn, and as you yourself pointed out, Captain, the search for your zenite consignment must be short. 
 KIRK: Surely there are better methods than this. 
@@ -228,6 +270,8 @@ SCOTT [OC]: Enterprise, Captain.
 KIRK: Mister Scott, we're ready to beam up. 
 SCOTT [OC]: Aye, sir. 
 (Kirk and Spock are beamed away) 
+
+
 PLASUS: (to sentinel) If Captain Kirk appears again, kill him. 
 Captain's log, star date 5819.0. More than eight hours have passed since the consignment of zenite disappeared and we have still found no trace of it. We've received word from Merak Two that the plague is spreading rapidly. Delivery of the zenite is imperative within twelve hours or all life on the planet will be annihilated. 
 [Bridge]
@@ -253,6 +297,8 @@ MCCOY: No, but a filter mask should remove the exposure.
 KIRK: Find one. Meet us in the transporter room. 
 [Transporter room]
 (Kirk, Spock and McCoy are talking to Plasus on a wall monitor) 
+
+
 KIRK: This mask automatically eliminates all substance injurious to humanoid life, chemical as well as bacterial. We have used these filter masks frequently on 
 PLASUS [on monitor]: Do you really expect me to believe that that mask can achieve intellectual equality for the Troglytes? 
 MCCOY: There's every indication that the effect of the gas is temporary, even after repeated exposure. 
@@ -283,6 +329,8 @@ SPOCK: Allow me to point out that a first officer is more expendable than either
 KIRK: Officially, yes. But this mission is strictly unofficial. Nobody's to have any part in it, any responsibility for it, but myself. That's an order, Spock. You have the conn. Stand by till I contact you. 
 [Vanna's cell]
 (It's a fair size, with a bed and table, and horizontal bars across the doorway) 
+
+
 KIRK: Vanna, I've brought you a gift. There's a dangerous gas in the mines that affects the development of the Troglytes exposed to it for a period of time. This mask will prevent any further damage. 
 VANNA: Gas from zenite? 
 KIRK: Yes. 
@@ -300,11 +348,17 @@ VANNA: Hours can be centuries, just as words can be lies.
 KIRK: Vanna, you must trust me. If you don't, millions of people will die. A whole planet. This zenite is all that can save them. This filter mask is all that can save the Troglytes. Trust me. Please. 
 VANNA: Very well, Captain. I will trust you. The consignment lies deep in the mines in a place known only to Troglytes. I cannot direct you. I must take you there. You asked for my trust, Captain. Are you unwilling to give yours? 
 (They hear footsteps) 
+
+
 VANNA: It's the sentinel with my refreshment. 
 (The sentinel enters, puts down the tray and picks up the mask. Kirk stuns him with his phaser.) 
+
+
 VANNA: Wait. We'll need a transport pass to leave the city. 
 [Mine]
 (Vanna leads Kirk though tunnels, then uses a tool to hit the rock three times. Other Troglytes appear.) 
+
+
 VANNA: Midro. 
 MIDRO: Vanna. 
 VANNA: Anka. 
@@ -329,6 +383,8 @@ KIRK: It takes a while for its effects to be noticed.
 VANNA: Nevertheless, you won't be needing this. Anka, deposit this on the transport platform so Plasus will know we have something more valuable to bargain with than our mortaes and thongs. 
 ANKA: You are clever, Vanna. Very clever. 
 (Anka leaves) 
+
+
 VANNA: Searchers will be coming soon, Midro. Go to the other mines and tell the Troglytes to post watchers. 
 MIDRO: What of him? 
 VANNA: I will see that he doesn't escape. 
@@ -340,6 +396,8 @@ MIDRO: You are not the only Disrupter. I, too, can say.
 VANNA: Can you do nothing but argue? The searchers will be here soon. 
 MIDRO: When Anka returns, we will all say. 
 (Midro leaves) 
+
+
 KIRK: Is that what Disrupters are bargaining for, the right to kill everyone? 
 VANNA: Midro is a child. 
 KIRK: The masks can change that. 
@@ -348,6 +406,8 @@ KIRK: How long do you plan on keeping me here, providing Midro doesn't kill me, 
 VANNA: Until we have help in the mines and our homes are in the clouds. 
 KIRK: That's quite a while. Longer than I expected. 
 (Kirk jumps Vanna, gets the phaser and uses it to cause a rockfall in the tunnel) 
+
+
 VANNA: We're sealed in! 
 KIRK: Completely. 
 VANNA: But soon the atmosphere will go. We'll die. 
@@ -377,6 +437,8 @@ SPOCK: Now that is an exact quote, Mister Scott, and I suggest you handle the tr
 SCOTT: Aye. 
 [Council gallery]
 (Droxine is gazing out from the balcony) 
+
+
 PLASUS: Something's upsetting you, Droxine. 
 DROXINE: No, Father. 
 PLASUS: What is it? Tell me. 
@@ -407,6 +469,8 @@ DROXINE: No, I wasn't thinking of Captain Kirk. It's the one with those exquisit
 PLASUS: Oh, he's no better than his friend. 
 DROXINE: Shall we try? 
 (a sentinel enters) 
+
+
 PLASUS: What is it? 
 SENTINEL: The Disrupter Vanna has disappeared. Her guard was found half unconscious. He'd been attacked by Captain Kirk. 
 PLASUS: Where is Captain Kirk? 
@@ -471,6 +535,8 @@ VANNA: The gas! Captain, you were right. It's taking effect! Captain, you were r
 PLASUS: Are you as brave with mortae as you are with a phaser? 
 KIRK: Both will kill. 
 (Kirk throws his phaser away, and Plasus attacks him with two mortae. Kirk quickly disarms him, and they wrestle instead. Vanna notices the communicator has fallen off Kirk's belt, and picks it up) 
+
+
 VANNA: Enterprise! Enterprise, help! Enterprise! 
 [Transporter room]
 SPOCK: Enterprise, Spock here. 
@@ -480,10 +546,14 @@ VANNA: Help us! Enterprise!
 [Transporter room]
 VANNA [OC]: Enterprise! 
 (Spock activates the transporter. Kirk and Plasus have their hands around each others throats when they materialise. Spock hauls Kirk away from Plasus)
+
+
 SPOCK: Captain, the zenite gas has affected you. Captain! The zenite gas! 
 KIRK: The zenite gas. 
 MCCOY: Look out, Jim! 
 (Plasus attacks, and Kirk knocks him out) 
+
+
 KIRK: Well, it seems my little demonstration was quite a success. 
 [Council gallery]
 DROXINE: I don't like filters, or even masks. I like the word protector much better, don't you? 
@@ -501,6 +571,8 @@ KIRK: They will be very effective. sir. They've been severely tested, and the Tr
 PLASUS: They will all be like her. ungrateful, vindictive. 
 VANNA: Yes. Our demands have just begun. Here is the zenite, Captain, just as I promised. 
 (Sentinels pile the containers on the balcony) 
+
+
 KIRK: Thank you, Vanna. 
 DROXINE: Stratos is so pleasant and so beautiful. I think I'm afraid to leave it. 
 SPOCK: There is great beauty in the knowledge that lies below, and only one way to really experience it. 

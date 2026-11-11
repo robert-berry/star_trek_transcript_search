@@ -5,6 +5,8 @@ Stardate: Unknown
 Original Airdate: 10 Nov, 1967
 [Shuttlecraft]
 (Enterprise shuttlecraft NCC1701/7 is being piloted by Kirk, assisted by Spock. McCoy is tending to a lady in a green dress and headscarf.) 
+
+
 SPOCK: We have reached projected point three, Captain. Adjust to new course two oh one mark one five. 
 KIRK: Thank you, Mister Spock. 
 MCCOY: (offering a drink) Jim. 
@@ -24,10 +26,14 @@ SPOCK: Will you check your automatic scanner, please?
 KIRK: That's odd. I've never seen anything like that before. 
 SPOCK: Nor have I. 
 (They lower the central shutter to view the approaching swirly flashing thing.)
+
+
 SPOCK: Heading directly toward us at warp speed. 
 KIRK: Staying right with us. Sensor readings, Mister Spock. 
 SPOCK: Vaguely like a cloud of ionised hydrogen, but with strong erratic electrical impulses. 
 (Sounds of electrical shorts. The lights flicker.) 
+
+
 KIRK: We've got it. 
 SPOCK: Helm does not answer, Captain. 
 KIRK: Neither do the pods. Communications are dead. Building overload. Cut all power relays. 
@@ -41,6 +47,8 @@ NANCY: I insist you make your scheduled rendezvous with the Enterprise.
 KIRK: Miss Hedford, we'll do what we can, when we can. At the moment, we're helpless. You might as well sit back and enjoy the ride. 
 [Shuttlecraft]
 (The shuttlecraft has landed on a blue and purple planet. It is surrounded by lots of very high cliffs.) 
+
+
 KIRK: Enterprise, this is the Galileo. Come in, please, come in. Enterprise, this is the Galileo. Come in, please. It's no good. We're not transmitting. Bones? 
 MCCOY: Oxygen-nitrogen atmosphere. Some krypton, argon, neon. Temperature seventy five degrees Fahrenheit. Practically identical to Earth atmosphere. 
 KIRK: Spock? 
@@ -51,6 +59,8 @@ KIRK: That's a very good question. I wish I could answer it. All right. Let's go
 [Planet surface]
 KIRK: Take a look around, Bones. 
 (Spock checks the shuttlecraft for damage.) 
+
+
 SPOCK: Most unusual. Unlikely. In fact, Captain, I would say quite impossible. 
 KIRK: Nothing wrong and nothing works. 
 SPOCK: Precisely. 
@@ -58,11 +68,15 @@ KIRK: There must be a reason.
 SPOCK: Obviously. 
 KIRK: Let's look a little further. 
 (Nancy comes out of the shuttlecraft.) 
+
+
 MCCOY: Jim, I just took a tricording sweep, and I got the same readings almost as Spock got when we were pulled off course. 
 SPOCK: The ionised cloud. 
 MCCOY: I think so, only it reads here on the surface with us. It's in that direction, and it doesn't read solid. It's more unstable, tenuous, like a collection of gases. 
 COCHRANE [OC]: Hello! Hello! 
 (A figure in an orange jumpsuit waves and runs towards them.) 
+
+
 SPOCK: Fascinating. 
 KIRK: Bones, get a physiological reading on that, whatever it is. 
 COCHRANE: Hello! Are you real? I mean, I'm not imagining you, am I? 
@@ -93,6 +107,8 @@ KIRK: If you don't mind, Mister Cochrane, I'd like more than just a statement th
 COCHRANE: That's right. That's why I'm so glad to see you. Look, I'll tell you everything you want to know, but not here. Your ship is sure a beauty. 
 KIRK: Yes, she is. And you've been out of circulation quite a while. The principles may be new to you. Mister Spock, why don't you explain our methods of propulsion to Mister Cochrane? 
 (Spock and Cochrane go to the other side of the shuttlecraft.) 
+
+
 MCCOY: Talks a lot, but he doesn't say much. 
 KIRK: I've noticed something else. 
 MCCOY: What's that? 
@@ -103,6 +119,8 @@ MCCOY: No temperature yet, but we've got to get under way soon, Jim. I guarantee
 KIRK: Take Cochrane up on his offer. 
 [Outside Cochrane's home]
 (Not a true vertical in the building, and palms in the garden. It looks quite nice and avant-garde.) 
+
+
 SPOCK: You built this, Mister Cochrane? 
 COCHRANE: Yes. I had tools and supplies left over from my crash. 
 SPOCK: Not bad. 
@@ -112,6 +130,8 @@ KIRK: All the comforts of home indeed, Mister Cochrane. Where'd you get the anti
 COCHRANE: You mean my instruments? I imagine things have changed a lot since I crashed. 
 KIRK: Not that much. 
 (Hands a piece over to Spock to examine.) 
+
+
 NANCY: Must you keep it so terribly hot in here? 
 COCHRANE: The temperature's a constant seventy two degrees. Let me get you something cool to drink. 
 MCCOY: Do you feel hot? 
@@ -122,11 +142,15 @@ MCCOY: Temperature, Captain. First sign.
 KIRK: Yes, I know. It means we're running out of time. 
 SPOCK: Captain, Doctor. 
 (From the doorway, the three see a swirly thing which then disappears. Cochrane comes in with a tray of drinks.) 
+
+
 KIRK: What was that? 
 COCHRANE: Well, sometimes the light plays tricks on you. You'd be surprised what I've imagined I've seen around here sometimes. 
 SPOCK: We imagined nothing, Mister Cochrane. There was an entity out there and I suspect it was the same entity which brought us here. Please explain. 
 COCHRANE: There's nothing to explain. 
 (He hands a drink to Nancy.) 
+
+
 NANCY: Thank you. 
 KIRK: You'll find I have a very low tolerance level where the safety of my people are concerned. We find you out here, where no human has any business being. We were virtually hijacked in space and brought here. Now I'm not just requesting an explanation, Mister. I'm demanding one. 
 COCHRANE: All right. It was the Companion. 
@@ -175,6 +199,8 @@ KIRK: You mean you brought us here?
 COCHRANE: No, the Companion did. I told it I'd die of loneliness. I thought it would release me. Instead, it brought you here. 
 NANCY: No! No! No! That's disgusting! We're not animals! No! Oh, no! It's inhuman! No! No! 
 (Kirk and McCoy take her to a bed and lie her down. McCoy gives her an injection.) 
+
+
 KIRK: Spock, run additional tricorder readings. Learn anything you can. Find me a weapon to use against this thing. 
 SPOCK: You ask me to find a weapon. Do you intend to destroy it? 
 KIRK: I intend to do whatever's necessary to get us off this planet and Commissioner Hedford to the hospital. If the Companion stands in the way, then we push it out of the way. Clear, Spock? 
@@ -201,11 +227,15 @@ KIRK: We've got to try. We're helpless. See if it can do something.
 KIRK: How do you do it? 
 COCHRANE: I just sort of clear my mind and it comes. 
 (He walks to the edge of the garden then stands with his eyes closed. The Companion appears, then moves to envelope him.) 
+
+
 KIRK: Bones, what do you make of that? 
 MCCOY: Almost a symbiosis of some kind, a sort of joining. 
 KIRK: Exactly what I think. Not exactly like a pet owner speaking to a beloved animal, would you say? MCCOY: No, it's more than that. 
 KIRK: Agreed. More like love. 
 (The Companion vanishes, so Kirk and McCoy go over to Cochrane.) 
+
+
 MCCOY: Are you all right? 
 COCHRANE: Yes. It kind of drains me a little, but I'm all right. 
 KIRK: Well? 
@@ -221,6 +251,8 @@ MCCOY: Oh, yes. I'm not a scientist or a physicist, Mister Spock, but am I corre
 SPOCK: Quite correct, Doctor. 
 [Cochrane's home]
 (Spock is demonstrating the device he has put on the table.) 
+
+
 SPOCK: Put this in the proximity of the Companion, throw this switch, and it will scramble every electrical impulse the creature can produce. It cannot fail. 
 KIRK: It troubles you, Cochrane? 
 COCHRANE: The Companion saved my life. It's taken care of me all these years. We've been very close in a way that's hard to explain. I suppose I even have an affection for it. 
@@ -238,17 +270,25 @@ SPOCK: There is some risk, Captain. We do not know the extent of its powers.
 KIRK: Nor it ours. 
 [Outside Cochrane's home]
 (Cochrane 'calls' and the Companion comes just as before. When it has enveloped him, Kirk gives the word.) 
+
+
 KIRK: Now. 
 (The jolt knocks Cochrane out and the Companion comes towards the dwelling, apparently angry.) 
 [Cochrane's home]
 (It enters, blows up Spock's contraption then attacks Kirk and Spock. They are rolling around on the floor inside the sparkly thing, clutching their throats.) 
+
+
 MCCOY: Stop it! You're killing them! Stop it, please! Stop it! You're choking them! Let them go. You're choking them! Stop it! 
 (Outside, Cochrane hears McCoy's shouts, and somehow calms the Companion. It vanishes.) 
+
+
 MCCOY: You all right, Jim? 
 KIRK: Yeah. 
 MCCOY: Spock? 
 SPOCK: All right. 
 (They go to the doorway and see the Companion with Cochrane again.) 
+
+
 KIRK: Cochrane got it off of us, but I don't know whether he did us a favour or not. 
 MCCOY: What kind of talk is that? 
 KIRK: How do you fight a thing like that? I've got a ship up there somewhere, responsibility for four lives here, one of them dying because of me. 
@@ -263,6 +303,8 @@ KIRK: Adjust it, change it. The trouble with immortality is it's boring. Adjusti
 SPOCK: It is possible. If I could widen its pattern of reception 
 KIRK: Right down your alley, Spock. Get it here and get to work. That thing is still out there. Better go that way. 
 (Spock leaves, passing Nancy's bed) 
+
+
 KIRK: Any change? 
 MCCOY: Yes, for the worse. 
 Ship's Log. Stardate 3219.8. Lieutenant Commander Scott recording in the absence of Captain Kirk. A shuttlecraft bearing the Captain, the first officer, Chief Surgeon McCoy, and Assistant Federation Commissioner Hedford is now definitely overdue for a rendezvous with the Enterprise. We are attempting to backtrack it. 
@@ -287,6 +329,8 @@ UHURA: It's a big galaxy, Mister Scott.
 SCOTT: Aye. 
 [Cochrane's home]
 (Spock is working on the Universal Translator. It is basically a metal tube nearly a foot long, that can be held in the hand.) 
+
+
 COCHRANE: What's the theory behind this device? 
 KIRK: There are certain universal ideas and concepts common to all intelligent life. This device instantaneously compares the frequency of brainwave patterns, selects those ideas and concepts it recognises, and then provides the necessary grammar. 
 SPOCK: Then it translates its findings into English. 
@@ -296,6 +340,8 @@ SPOCK: Quite ready, Captain.
 KIRK: Mister Cochrane, call the Companion. 
 [Outside Cochrane's home]
 (Cochrane summons the Companion.) 
+
+
 KIRK: Companion. (It leaves Cochrane) We wish to talk to you. 
 COMPANION: How can we communicate? My thoughts, you are hearing them. This is interesting. 
 KIRK: Feminine. No doubt about it. 
@@ -346,6 +392,8 @@ UHURA: Mister Scott, there are thousands of them out there they could be on, if 
 SCOTT: That's right, Lieutenant. Thousands. And we'll look them over one by one. 
 [Outside Cochrane's home]
 (Another contact session is in progress.) 
+
+
 KIRK: Companion, do you love the man? 
 COMPANION: I do not understand. 
 KIRK: Is he important to you, more important than anything? Is he as though he were a part of you? 
@@ -382,6 +430,8 @@ NANCY: That part of us was too weak to hold on. In a moment, there would have be
 SPOCK: Then you are both here, in the one body? 
 NANCY: We are one. 
 (She goes to Cochrane, who takes a step back.) 
+
+
 NANCY: Zefram, we frighten you. We've never frightened you before. Loneliness. This is loneliness. Oh, what a bitter thing. Oh, Zefram, it's so sad. How do you bear it, this loneliness? 
 KIRK: Spock, check out the shuttlecraft. Engine, communications, everything. 
 NANCY: That will not be necessary, Captain. Your vehicle will operate as before, so will the communications device. 
@@ -409,6 +459,8 @@ SCOTT: What happened, Captain?
 [Outside Cochrane's home]
 KIRK: Interesting story, Scotty. I can't tell you now because, quite frankly, I don't know how it's going to end. Kirk out. 
 (Somewhere in the vicinity, Nancy is holding up her scarf to mimic how she saw Cochrane when she was a swirly thing.) 
+
+
 COCHRANE: Everything will be an eye-opener to you. There's a thousand planets out there, a thousand races, and I'll show everything to you, soon as I learn my way around again. Maybe I can make up a little for everything you've done for me. 
 NANCY: I can't go with you, Zefram. 
 COCHRANE: Of course you can. You have to. 
@@ -424,6 +476,8 @@ SCOTT: We're locked in, Captain. Standard orbit established. Shuttlecraft bay st
 [Outside Cochrane's home]
 KIRK: Stand by, Scotty. 
 (Cochrane and Nancy return.) 
+
+
 KIRK: The Enterprise is waiting, Mister Cochrane. 
 COCHRANE: I can't take her away from here. If I do, she'll die. If I leave her, she'll die of loneliness. I owe everything to her. I can't leave her. I love her. Is that surprising? 
 SPOCK: Not coming from a human being. You are, after all, essentially irrational. 
@@ -435,6 +489,8 @@ KIRK: Are you sure?
 COCHRANE: There's plenty of water here. The climate's good for growing things. I might try to plant a fig tree. A man's entitled to that, isn't he? It isn't gratitude, Captain. Now that I see her, touch her, I know that I love her. We'll have a lot of years together. They'll be happy ones. 
 KIRK: All the best. 
 (They shake hands, and Kirk walks away.) 
+
+
 COCHRANE: Captain, don't tell them about me. 
 KIRK: Not a word, Mister Cochrane. 
 MCCOY: Jim, what about that war on Epsilon Canaris Three? 

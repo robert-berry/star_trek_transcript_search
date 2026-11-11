@@ -167,6 +167,8 @@ KIRK: No. I don't want anyone else to see the
 SPOCK: Captain, you ordered me to tell you. 
 KIRK: Mister Spock, if I'm to be the Captain, I've got to act like one. 
 (they split up to search, and Kirk comes face to face with himself) 
+
+
 KIRK: You can't hurt me. You can't kill me. You can't. Don't you understand? I'm part of you. You need me. I need you. 
 OTHER KIRK: I don't need you. (Spock neck-pinches him, and his phaser fire hits a panel instead) 
 [Sickbay]
@@ -217,6 +219,8 @@ SPOCK: This is Spock, Mister Sulu. You'll have to hold on a little longer. There
 SULU [OC]: Per your training programme, Mister Spock. 
 [Sickbay]
 (other Kirk is screaming) 
+
+
 KIRK: What happened? 
 MCCOY: Apparently the body functioning weakened during the duplication process. A fact I failed to consider. 
 KIRK: He's not dying? 

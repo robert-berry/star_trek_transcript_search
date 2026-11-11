@@ -5,6 +5,8 @@ Stardate: Unknown
 Original Airdate: 6 Oct, 1967
 [Planet surface]
 (Kirk, Scott, McCoy and Uhura are with the local leader, when lightning threatens.) 
+
+
 THARN: We believe what you say, Captain Kirk, but our position has not altered. The Halkan Council cannot permit your Federation to mine dilithium crystals on our planet. 
 KIRK: We have shown the council historical proof that our missions are peaceful. 
 THARN: We accept that your Federation is benevolent at present, but the future is always in question. Our dilithium crystals represent awesome power. Wrongful use of that power, even to the extent of the taking of one life, would violate our history of total peace. To prevent that, we would die, Captain. As a race, if necessary. 
@@ -28,8 +30,12 @@ KIRK: But we won't. Consider that. Enterprise. Transporter room, energise.
 [Transporter room]
 KYLE: Trouble, sir. 
 (Four figures start to materialise, then disappear again. The image of Enterprise in orbit reverses itself. Finally, four figures solidify, wearing strange uniforms with gold sashes. Uhura's midriff is bare.) 
+
+
 KIRK: Spock was right. It was a rough trip. 
 (Spock and Kyle greet their Captain with a semi-Nazi salute. Their uniforms have changes, and Spock has grown a very fetching goatee beard.) 
+
+
 SPOCK: At norm, Mister Kyle. Controls at neutral. 
 KYLE: Yes, sir. 
 SPOCK: Status of mission, Captain? 
@@ -46,6 +52,8 @@ SPOCK: Your agoniser.
 KYLE: No, Mister Spock. 
 SPOCK: Your agoniser, please. 
 (A guard restrains Kyle and takes a device from his belt.) 
+
+
 KYLE: No, Mister Spock! I tried. I really tried. 
 (Spock places the device on Kyle's collar bone, and he writhes in agony. When it is removed, he collapses.) 
 Captain's log, stardate unknown. During an ion storm, my landing party has beamed back to the Enterprise and found it and the personnel aboard changed. The ship is subtly altered physically. Behaviour and discipline has become brutal, savage. 
@@ -87,6 +95,8 @@ SCOTT: Aye, sir.
 KIRK: Then get on this technology. It's all we have to work with if we want to get back home. The intercom may be monitored. Use your communicators for private messages. Subfrequency and scramble. 
 SCOTT: Aye, sir. 
 (Scott leaves) 
+
+
 KIRK: Lieutenant. 
 UHURA: Yes, sir. 
 KIRK: Get to your post. Run today's communication from Starfleet Command. I want to know my exact orders and options, if any. 
@@ -96,22 +106,30 @@ UHURA: Captain, I'm
 KIRK: Uhura, you're the only one who can do it. I'll be right there. 
 UHURA: Yes, sir. 
 (She leaves.) 
+
+
 KIRK: Bones. Let's take a look at the library. We have a lot to learn. 
 [Bridge]
 SULU: Mister Chekov, phaser setting for planetary target A. 
 CHEKOV: Co-ordinates seven one two stroke four, Mister Sulu. 
 SULU: Port batteries locked. 
 (Uhura enters, and goes to her station. Sulu goes over to her. He has a very nasty scar down his face.) 
+
+
 SULU: Still no interest, Uhura? Hmm? I could change your mind. 
 UHURA: You are away from your post, Mister. 
 SULU: Is the captain here? Is Spock here? When the cat's away 
 (She slaps his hand away, then Kirk enters. Everyone salutes him.) 
+
+
 KIRK: Communications status. 
 UHURA: No storm damage, sir. All stations report normal. (quietly) You're ordered to annihilate the Halkans unless they comply. No alternative. 
 SULU: Phasers Locked on target A, Captain. Approaching optimum range. Commence fire, Captain? Captain? 
 KIRK: Stand by, Mister Sulu. 
 [Main Phaser Power Control]
 (The door opens and a burly guard blocks Scott's entrance.) 
+
+
 SCOTT: I've been ordered to check phaser couplings for possible damage by the storm. 
 GUARD: Do you have authorisation from security, sir? 
 SCOTT: Captain's orders. 
@@ -125,6 +143,8 @@ SCOTT: Phaser report, sir. No damage.
 [Bridge]
 KIRK: Very good. Thank you, Mister Scott. Kirk out. 
 (Spock enters the Bridge.) 
+
+
 SPOCK: Planet's rotation is carrying primary target beyond arc of phaser lock. 
 SULU: Shall I correct orbit to new firing position? 
 KIRK: No. 
@@ -151,6 +171,8 @@ SULU: Aye, sir.
 SPOCK: Twelve hours, Captain? That is unprecedented. 
 KIRK: I shall be in my quarters. Lieutenant Uhura, have Doctor McCoy and Mister Scott meet me there. 
 (Chekov presses a couple of buttons on his console, then leaves his post.) 
+
+
 SPOCK: Captain, you've placed yourself in a most grave position. This conduct must be reported. 
 KIRK: You're at liberty to do so, Mister Spock. 
 [Turbolift]
@@ -161,6 +183,8 @@ CHEKOV: (holding a phaser on Kirk) So you die, Captain, and we all move up in ra
 Captain's log, supplemental. I command an Enterprise where officers apparently employ private henchmen among the crew, where assassination of superiors is a common means of advancing in rank. 
 [Corridor]
 (Suddenly, one of Chekov's men turns against him, taking his weapon and shooting another. Kirk throws his final assailant and he gets zapped into molecules too. The turbolift opens and two armed men come out.) 
+
+
 MAN: Your men, Captain. Easy, Farrell. I did your job. Ask the captain. 
 FARRELL: Sir? 
 KIRK: Yes, he did your job. 
@@ -172,12 +196,16 @@ MAN: A commission?
 KIRK: You're in line. You might even make captain. 
 MAN: Yes, sir. 
 (Kirk punches him.) 
+
+
 KIRK: Not on my ship. 
 FARRELL: The booth for this one, sir? 
 KIRK: Yes, the booth. Carry on. 
 (Chekov is taken away.) 
 [Kirk's quarters]
 (The three men enter warily.) 
+
+
 MCCOY: Here. Here. What's this? 
 KIRK: It's called blood. Watch your step. The officers move up by assassination. Chekov tried it on me. 
 SCOTT: Mister Sulu is Security Chief, like the ancient Gestapo. 
@@ -231,12 +259,16 @@ KIRK: Why?
 SPOCK: I do not desire the captaincy. I much prefer my scientific duties. I am frankly content to be a lesser target. 
 KIRK: Logical, as always, Mister Spock. 
 (They arrive at a cylinder containing Chekov, who is writhing in agony.) 
+
+
 SPOCK: The agony booth is a most effective means of discipline. I presume you've ordered full duration. 
 KIRK: I haven't decided. 
 SPOCK: Indeed. His act warrants death. 
 KIRK: I said I haven't decided. 
 SPOCK: That is, of course, your affair. Captain, may I inquire if you intend to persist in your unusual course of action regarding the Halkans? 
 (They continue walking. Farrell joins Spock's personal guard walking behind his master.) 
+
+
 KIRK: You heard my orders. 
 SPOCK: They are, of course, in contradiction to standard Empire procedure. You cannot ignore the consequences. 
 KIRK: Is that a threat? 
@@ -248,23 +280,31 @@ SPOCK: Captain, I do not wish to find myself opposing you, but if you continue o
 KIRK: Is my concern, not yours. You would find me a formidable enemy. 
 SPOCK: I'm aware of that, Captain. I trust that you are aware of the reverse. 
 (Spock and his bodyguard leave.) 
+
+
 FARRELL: Orders, sir? 
 KIRK: Release Chekov. Confine him to quarters. 
 FARRELL: Yes, sir. 
 [Engineering]
 (Scott distracts the guard outside the door so McCoy can give him a hypo.) 
+
+
 MCCOY: That ought to hold him for about six hours. 
 (They go to the upper level, and Scott begins his work. 
 [Kirk's quarters]
 (The room is dark, and a woman is lying on his bed.) 
+
+
 MARLENA: I fell asleep. We had quite a time in the chem lab picking up after the storm. Nothing compared to your day, I gather. I heard about Chekov. 
 KIRK: He gambled, I won. 
 MARLENA: You got lucky. I'm surprised you could be caught off-guard that way. 
 KIRK: I was preoccupied. 
-. MARLENA: You're still in trouble with Starfleet Command. What you've got in mind this time is beyond me. You're scheming, of course. The Halkans have something you want, or, is it all some clever means to advance you to the Admiralty? Kirk. The Cabinet itself? 
+MARLENA: You're still in trouble with Starfleet Command. What you've got in mind this time is beyond me. You're scheming, of course. The Halkans have something you want, or, is it all some clever means to advance you to the Admiralty? Kirk. The Cabinet itself? 
 KIRK: Further than that, if I'm successful. 
 MARLENA: Really? Well, you must know what you're doing. You always do. If I'm to be the woman of a Caesar, can't I know what you're up to? 
 (Their kiss is interrupted by the intercom.) 
+
+
 KIRK: Kirk here. 
 [Spock's quarters]
 SPOCK: Mister Spock, Captain. 
@@ -289,19 +329,27 @@ KIRK: I'll get out of his way.
 MARLENA: Shall I activate the Tantalus field? You'll at least want to monitor him, won't you? 
 KIRK: Yes. 
 (She touches a wall panel and it rises to reveal a screen and a collection of buttons.) 
+
+
 MARLENA: I hate this thing. 
 KIRK: It's not that bad. 
 MARLENA: Of course not. It made you captain. How many enemies have you simply wiped out of existence by the touch of a button? Fifty? A hundred? Now, I always thought that was funny, The great, powerful Captain Kirk who owes everything to some unknown alien scientist and a plundered laboratory. 
 KIRK: Well, if you don't take advantage of your opportunities 
 MARLENA: You don't rise to the command of a starship or even higher. 
 (She switches it on, and Spock is seen sitting at his table.) 
+
+
 MARLENA: That magnificent mind of his. But it can't protect him from this. I press it and he dies. Now? 
 (Kirk switches it off.) 
+
+
 MARLENA: You really mean it. It doesn't matter. If Spock fails his order, he'll be killed anyway. 
 KIRK: I'll see to it that the circumstances of his failure will clear him. 
 MARLENA: You're not even afraid of Starfleet Command. Can your scheme bring you that much power so quickly? And what about me? How does Marlena fit in? 
 KIRK: How does Marlena want to fit in? 
 (She goes into the other room.) 
+
+
 KIRK: Scotty. 
 [Engineering]
 SCOTT: Scotty here, sir. 
@@ -335,6 +383,8 @@ COMPUTER: The Captain and Mister Scott.
 SPOCK: What is the nature of the research? 
 COMPUTER: Programme is classified under voice index log. 
 (A big red light starts flashing.) 
+
+
 SPOCK: Why are you monitoring my communications, Mister Sulu? 
 [Bridge]
 SULU: My security board has detected extensive use of computer, Mister Spock. I was about to inform you. 
@@ -350,6 +400,8 @@ SULU: Correct. It's your play. I hope you succeed, because the order would fall 
 SPOCK: If I am successful, you see yourself a step nearer to the captaincy. I do not want to command the Enterprise, but if it should befall me, I suggest you remember that my operatives would avenge my death and some of them are Vulcans. 
 [Kirk's quarters]
 (Marlena has changed into something more comfortable.) 
+
+
 MARLENA: Oiling my traps, darling. I'm afraid I'm a little out of practice. Maybe that's what happened to us? It's very hard for a working officer to shine as a woman every minute, and you demand perfection. 
 KIRK: I've never seen perfection, but no woman could come closer to it. 
 MARLENA: I remember when you used to talk that way. 
@@ -361,6 +413,8 @@ KIRK: You don't have to do that.
 MARLENA: Are you feeling sorry for me? Do I see hesitation in your eyes about anything? I want one thing, Captain. Transfer me. On the Enterprise, I am humiliated! On another ship, I can hunt fresh game. I've got my rank, and. Don't I? I've been a captain's woman, and I like it. I'll be one again if I have to go through every officer in the fleet. 
 KIRK: You could. (She turns to slap him.) I simply meant that you could be anything you want to be. 
 (They kiss, long and passionate.) 
+
+
 MARLENA: It's been a long time since you've kissed me like that. You're a stranger. Mercy to the Halkans, mercy to Spock, to me. Am I your woman? 
 KIRK: You're the Captain's woman until he says you're not. 
 (She turns on the Tantalus machine and watches him go into a turbolift.) 
@@ -378,8 +432,12 @@ UHURA: You aren't very persistent, Mister Sulu. The game has rules. You're ignor
 SULU: (wrapping his arms around her naked waist) Now you're making sense. 
 UHURA: I was getting bored. Of course this isn't the time. 
 (The board beeps.) 
+
+
 SULU: Any time's a good time. 
 (She slaps him, hard.) 
+
+
 UHURA: I'm afraid I changed my mind. Again. 
 SULU: You take a lot of chances, Lieutenant. 
 UHURA: (drawing her dagger) So do you, Mister. So do you. Take over for me. 
@@ -399,6 +457,8 @@ SPOCK: I have the phaser, Captain, and I do not intend to simply disappear as so
 [Sickbay]
 SPOCK: Yes, of course. The entire landing party. Captain, stand over there. Doctor, it is time for answers. 
 (Kirk knocks the phaser out of Spock's hand, and he and Scott try to fight him. Even Uhura gets pushed around. Finally, she hands Kirk a skull and he smashes it over Spock's head. He falls, unconscious.) 
+
+
 KIRK: How much time, Scotty? 
 SCOTT: Hardly fifteen minutes, sir. The field density between the two universes is starting to close very fast. 
 MCCOY: Help me get him on the table. Well, come on. Help me get him on the table. He'll die without immediate treatment. 
@@ -416,20 +476,30 @@ KIRK: He is very much like our own Mister Spock, isn't he? You've got that minut
 MCCOY [OC]: A little time, he'll live. 
 [Sickbay]
 (Sulu and three henchmen march in.) 
+
+
 KIRK: What is this, Mister Sulu? 
 SULU: Mister Spock has orders to kill you, Captain. He will succeed, apparently. You will also appear to have killed him after a fierce battle. Regrettable, but it will leave me in command. 
 (Then one of the henchmen disappears, and another. Marlena presses the button again and Sulu is alone. Kirk disarms and knocks him out easily.) 
+
+
 SCOTT: Captain, we've barely got ten minutes. 
 KIRK: Let's go, Bones. 
 MCCOY: I can't let him die, Jim. You get on to the transporter room. I'll be there in five minutes. 
 KIRK: No longer. 
 MCCOY: I guarantee it. Now, go on, please. 
 (Kirk, Scott and Uhura leave. McCoy gives Spock an injection.) 
+
+
 SPOCK: (sitting up and grabbing McCoy's arm) Why did the captain let me live? 
 (He pushes him against the wall and does a mind meld.) 
+
+
 SPOCK: Our minds are merging, Doctor. Our minds are one. I feel what you feel. I know what you know. 
 [Transporter room]
 (Marlena is waiting for them.) 
+
+
 KIRK: A friend. Activate the transporter. You saved us back at Sickbay with the Tantalus field. 
 MARLENA: Take me with you. 
 KIRK: I can't. I'm sorry. Our power is balanced for four. There's no guarantee that we'll make it with five. All could die. Scotty? 
@@ -437,8 +507,12 @@ SCOTT: It's working, sir.
 MARLENA: But there are only three of you. 
 KIRK: One is coming. I'd help you if I could, Marlena. Believe that. 
 (She raises her phaser.) 
+
+
 KIRK: If you kill us, you'll still stay. 
 (Uhura disarms Marlena.) 
+
+
 KIRK: Where's McCoy? Time, Scotty. 
 SCOTT: Five minutes, sir. 
 MARLENA: Do you know what they'll do to me? 
@@ -456,8 +530,12 @@ SCOTT: Aye, Captain.
 MARLENA: What about me? 
 KIRK: McCoy. 
 (Spock enters with McCoy.) 
+
+
 SPOCK: I cut the transporter power. It was necessary to delay your beam-out until I could arrive. Take him. 
 (Scott guides McCoy to the transporter pad.) 
+
+
 SPOCK: Engineering, re-activate main transporter circuits. 
 KIRK: You're a man of integrity in both universes, Mister Spock. 
 SPOCK: You must return to your universe. I must have my captain back. I shall operate the transporter. You have two minutes and ten seconds. 
@@ -482,6 +560,8 @@ SPOCK: Captain Kirk, I shall consider it.
 (He beams them away.) 
 [Transporter room]
 (Back on the 'proper' Enterprise, in the right uniforms.) 
+
+
 KIRK: Spock. 
 SPOCK: Welcome home, Captain. 
 [Bridge]
@@ -494,6 +574,8 @@ SPOCK: Indeed, gentlemen. May I point out that I had an opportunity to observe y
 KIRK: I'm not sure, but I think we've been insulted. 
 MCCOY: I'm sure. 
 (A women steps out of the turbolift.) 
+
+
 MARLENA: Captain Kirk. 
 KIRK: Lieutenant, er, Lieutenant? 
 MARLENA: Marlena Moreau. I was just assigned last week. 

@@ -6,17 +6,27 @@ Original Airdate: 11 Oct, 1968
 Captain's Log, stardate 5029.5. Responding to a distress call from our scientific colony on Triacus. We are beaming down to investigate. 
 [Planet surface]
 (On the ground, beneath a purple sky, adults are lying motionless. Kirk, McCoy and Spock investigate. One man gets up from behind a rock.) 
+
+
 KIRK: Professor Starnes? (the man has a phaser, and looks terrified.) It's Kirk. 
 (The man collapses without speaking.) 
+
+
 MCCOY: He's dead, Captain. 
 KIRK: He didn't seem to know me. 
 (Kirk takes the dead man's tricorder, then goes over to a woman and removes a vial from her mouth.) 
+
+
 MCCOY: Cyalodin. 
 KIRK: Self-inflicted. 
 (Kirk replays the tricorder.) 
+
+
 STARNES [OC]: Must destroy ourselves! Alien upon us. The enemy from within. The enemy! 
 KIRK: All this. Self-inflicted. Mass suicide. 
 (The sound of children playing, then the kids run into the scene. There's a girl, three small boys and one older boy.) 
+
+
 MARY: You missed me. 
 STEVE: I did not. 
 TOMMY: Hi. Who are you? 
@@ -26,8 +36,12 @@ MARY: Come on. Play with us. Come on. (They make a circle and dance around Kirk.
 Captain's log, supplementary. We have buried the members of the Starnes exploration party. Everyone has been deeply affected by what has happened here, with some important exceptions. 
 [Planet surface]
 (Grave markers with just surnames stand behind one or two mounds of soil. Kirk plants a UFP standard. The children have had enough.) 
+
+
 MARY: Let's go and play. 
 (They run off to the cave entrance and play tag) 
+
+
 KIRK: No sign of grief? 
 MCCOY: No, Jim. No indication of any kind. 
 KIRK: Or of fear. 
@@ -42,6 +56,8 @@ KIRK: I'll be guided by that opinion, Doctor, for the present. What about questi
 MCCOY: Not until the fabric of the traumatisation weakens or you come up with another explanation for their behaviour. Forcing them to see this experience now could cause permanent damage. 
 KIRK: Accepted, Doctor. 
 (One of the boys knocks over the UFP standard.) 
+
+
 KIRK: Careful. 
 DON: I'm, I'm sorry, Captain Kirk. 
 KIRK: Children. Children, listen to me. It's late and it's time to go up to the ship. 
@@ -79,9 +95,13 @@ SPOCK: Are you all right, Captain?
 KIRK: Yes, I'm fine. I'm fine. Just some sympathetic vibration with what happened here. Let's get back to the ship. I want to check out those tapes from Professor Starnes' tricorder. And I am going to question those children. 
 [Rec room]
 (I assume it is, although there are a lot more plants around the room than we usually see.) 
+
+
 CHAPEL: All right, children. Each card is a different flavour. You take your pick, and the computer will mix your favourite combination. Now, what would you like? Call out your favourites. 
 ALL: Vanilla! Chocolate! Cherry! Banana! 
 (The kids grab cards and dash to the food dispensers.) 
+
+
 CHAPEL: Well, would you like a surprise, Stevie? 
 STEVE: (he gets his ice cream) It's coconut and vanilla. They're both white. 
 CHAPEL: There, there now, Stevie. There are unpleasant surprises as well as pleasant ones. That was your unpleasant surprise. Now, what would you like for your pleasant surprise? 
@@ -102,6 +122,8 @@ MCCOY: Be careful.
 CHAPEL: After this, we can all play games. 
 KIDS: Yeah. 
 (Kirk enters.) 
+
+
 CHAPEL: How do you like getting ice cream out of a computer? 
 MARY: That was fun. 
 KIRK: Well, well, well. You're all having such a good time, I think I'll join you. Is that all right? 
@@ -121,13 +143,19 @@ CHAPEL: Oh, I don't know about that. Parents like children.
 MARY: Ha. That's what you think. 
 KIRK: I'm sure your parents loved you. That's why they took you with them to Triacus. So they wouldn't be so far away from you for such a long time. That would make them very unhappy and miss you. I'm sure that you would miss them, too. 
 (There's a silence, then ) 
+
+
 TOMMY: Busy, busy. 
 ALL: Busy. Busy. Busy! Busy! 
 (The running around starts again.) 
+
+
 DON: Guess what we are. 
 CHAPEL: I know. A swarm of bees. 
 MARY: Watch out. Watch out. I'll sting you. 
 (She rushes at Kirk and he picks her up.) 
+
+
 KIRK: Now wait a minute. 
 TOMMY: Can we have some more ice cream, please? 
 KIRK: No, I don't think so. It'll spoil your dinner. 
@@ -137,6 +165,8 @@ KIRK: All right, children, you've had a busy day. I think you could use some res
 CHAPEL: Very good idea, Captain. 
 MARY: Aw, do we have to? 
 (Chapel ushers the little ones out.) 
+
+
 KIRK: Tommy, Just a moment. I'd like to ask you a question. Come and sit down. Tommy, will you tell me what you saw? 
 TOMMY: Saw where? 
 KIRK: In the cave, on the planet. On Triacus. 
@@ -158,11 +188,17 @@ TOMMY: My parents? They love it down there. Always busy. (he nearly chokes up) T
 KIRK: Yes, certainly. I'll take you. 
 TOMMY: I know the way. 
 (Tommy leaves.) 
+
+
 KIRK: Kirk to security. Post a guard on the children. They're to be kept under constant watch. 
 [Children's quarters]
 (The children are in a circle, chanting.) 
+
+
 ALL: Hail, hail, fire and snow. Call the angel, we will go. Far away, for to see, friendly Angel come to me. Hail, hail, fire and snow. Call the angel, we will go. Far away, for to see, friendly Angel come to me. Hail, hail 
 (a green figure of a large man shimmers into view) 
+
+
 GORGON: (echoy voice) You have done very well, my friends. You have done what must be done. You have come aboard the Enterprise. Now our destination is a Federation settlement. Captain Kirk will undoubtedly choose a closer station. Do not let that deter you. Marcos Twelve has millions of people on it. Nearly a million will join us as our friends. The rest will be our enemies. Together with our other friends who will join us, we will defeat our enemies as we defeated them on Triacus. A million friends on Marcos will make us invincible. No one will tell us where to go, when to sleep, where to eat. The universe will be mine to command, yours to play in. To accomplish this great mission, we must first control the Enterprise. To control the ship, we first must control the crew. You know how to do that. That is your next task. And as you believe, so shall you do, so shall you do. As you believe, so shall you do, so shall you do. As you believe, so shall you do, so shall you do. 
 [Bridge]
 SULU: Maintaining standard orbit, Captain. 
@@ -178,6 +214,8 @@ STARNES [on monitor]: (tense) 5032.4. The feeling of anxiety we've all been expe
 SPOCK: There is another portion, Captain, which I believe you'll find particularly interesting. 
 STARNES [on monitor]: 5038.3. Professor Wilkins finished his excavation today. Although whatever civilisation that might have been here was destroyed by some natural catastrophe, it would appear that one of the race took refuge in the cave. (Tommy enters the Bridge) And, for our efforts, we are becoming only more apprehensive. (Tommy clenches his fist) As if some unseen force were influencing us. 
 (The picture on the monitor breaks up and ends.) 
+
+
 KIRK: What happened? 
 SPOCK: Unknown. 
 KIRK: I didn't see you come in, Tommy. 
@@ -188,9 +226,13 @@ KIRK: I'm sorry, Tommy. Marcos Twelve is not within our patrol area. Mister Spoc
 TOMMY: Captain, can I stay here and watch? I'll be very quiet. 
 KIRK: All right, Tommy. Lieutenant, have Doctor McCoy report to my quarters for a brief conference. Mister Leslie? 
 (Kirk and Spock leave.) 
+
+
 SULU: Hi there. 
 TOMMY: Hi. 
 (Tommy does the fist clenching thing, Sulu blinks and presses some buttons and turns the navigation dial. Enterprise leaves orbit. Mary arrives with her security guard.) 
+
+
 TOMMY: What is that? 
 SULU: (blissfully unaware of reality) The planet Triacus. 
 TOMMY: Will we see that all the time we stay here? 
@@ -199,10 +241,14 @@ MARY: He sees Triacus on the screen.
 TOMMY: He thinks he sees it. 
 UHURA: (seeing reality) Mister Sulu, the screen. We're out of orbit. 
 (Tommy influences her too. The planet is back.) 
+
+
 MARY: Will we reach Marcos Twelve soon? 
 TOMMY: Very soon. 
 [Engineering]
 (Don influences the crew, then Scott walks in.) 
+
+
 SCOTT: When did we change course? 
 MAN: We haven't changed course. 
 SCOTT: What do you mean, we haven't changed course? Look at your bridge control monitor. 
@@ -235,6 +281,8 @@ KIRK: But most legends have their basis in fact, Spock.
 MCCOY: I think I read you, Jim, but as medical officer I must warn you that unless the normal grief is tapped and released from these children, you are treading dangerously. 
 KIRK: I understand your diagnosis, Doctor, and I'll respect it. But not to the exclusion and safety of the Enterprise. Thank you. 
 (McCoy leaves.) 
+
+
 KIRK: Spock, what other expeditions have visited Triacus? 
 SPOCK: According to Federation records, this is the first. 
 KIRK: What was it Professor Starnes said about the unseen force? 
@@ -242,9 +290,13 @@ SPOCK: He said an unseen force was influencing him, that he recognised it, was b
 KIRK: A ship. Yes, a ship for Triacus. But why? By whom? (into comm.) Security detachment. Ready for relief duty on Triacus. Assemble in the transporter room immediately. I'll have some questions for that planet detachment as soon as they're beamed up. I think it's about time we found out whether Professor Starnes' enemy within is on the planet below or here onboard ship with us. Come on. 
 [Transporter room]
 (Two security men are already on the transporter pads.) 
+
+
 KIRK: Your tour of duty will last one hour. Be prepared with your communicators at all times to report any alien beings. Don't wait to investigate. 
 Beam down the guards. 
 (The two men disappear.) 
+
+
 KIRK: Beam up the security detachment from Triacus. (no one appears) Spock? What's wrong? 
 SPOCK: I am unable to lock on to the proper co-ordinates. 
 KIRK: Why not? 
@@ -253,6 +305,8 @@ KIRK: That's impossible. If we're not orbiting Triacus, then the men I beamed do
 SPOCK: Captain, we are no longer orbiting Triacus. 
 KIRK: Activate the bridge monitor screen. 
 (The starfield appears on the wall monitor.) 
+
+
 KIRK: Captain to Bridge. 
 [Bridge]
 KIRK [OC]: Mister Sulu, we're not orbiting Triacus. 
@@ -262,19 +316,27 @@ SULU: With all respects, Captain, you're wrong. I have Triacus on my screen now.
 KIRK: You're off course. I'm coming right up. 
 [Bridge]
 (The children are doing their chant as Kirk and Spock rush onto the bridge.) 
+
+
 ALL: Hail, hail, fire and snow. Call the angel, we will go. Far away, far to see, friendly Angel come to me. 
 KIRK: Sulu! 
 ALL: Fire and snow. Call the angel, we will go. Far away, far to see, friendly Angel come to me. 
 GORGON: Friends we have reached a moment of crisis. The enemy have discovered our operation, but they are too late. They no longer control the ship. We do. We shall prevail. They will take us any place we desire. Go back to your stations. Maintain your controls. If resistance mounts, call upon their beast. Their beast will serve us well. The fear in each one of them is the beast which will consume him. Remember how it was on Triacus. If they resist, so shall it be on the Enterprise. If you need me, call and I will appear. Our new goal is Marcos Twelve. It is our new beginning. We must not falter. 
 (The appararition vanishes.) 
+
+
 TOMMY: Go to your stations. Mary, you remain here with me. 
 KIRK: Helmsman, disregard what you see on the screen, what you think you see on the screen. Set a course for Starbase Four. 
 (Tommy does the fist thing and Sulu sees swords on the viewscreen.) 
+
+
 KIRK: Helmsman, did you hear me? 
 SULU: Yes, sir. 
 KIRK: Lieutenant Uhura, contact Starbase Four. Tell them we're bringing the children there. Tell Starfleet Command I suspect them of being alien in nature, and I want a thorough investigation made upon our arrival. 
 UHURA: Aye, aye, sir. 
 (For some strange reason there is a mirror in front of her, and Tommy changes what she can see in it.) 
+
+
 KIRK: Lieutenant, what are you staring at? 
 UHURA: I see my death. A long death. Disease and pain. I see my death. 
 KIRK: Lieutenant, there's nothing there. 
@@ -289,12 +351,20 @@ KIRK: Complete?
 SPOCK: There is no need. 
 KIRK: Take a look around you. 
 (Spock tries to reach for his controls, but Tommy intervenes.) 
+
+
 SPOCK: I cannot obey your order, Captain. 
 (A vain communications officer who cannot ignore a reflection, a helmsman who thinks he is flying the ship through a tunnel of swords... Kirk goes to the security guard.) 
+
+
 KIRK: Take Mister Sulu to his quarters. He is relieved of duty. 
 (But Tommy stops the guard, and everyone else, from hearing what the captain is saying. It sounds total gibberish. Only Spock manages to clear his mind.) 
+
+
 KIRK: Confine them to quarters. Did you hear me? Did you hear me? 
 (Tommy summons Kirk's beast to haunt him. Loss of confidence and control. Fear of indecision.) 
+
+
 SPOCK: Captain, we must get off this bridge. 
 KIRK: Yes, we must. I'm losing command. I'm losing my ability to command. I'm losing the Enterprise. 
 [Turbolift]
@@ -341,9 +411,13 @@ CHEKOV: I will not disobey now! I cannot disobey!
 KIRK: Ensign, listen to me. You will disobey this order! 
 Starfleet Command supersedes your order, sir! 
 (Spock and Kirk jump them. Tommy's fist is working overtime to try and control the situation, but Kirk and Spock win the fight.) 
+
+
 KIRK: Enough. Take these men to detention then join me on the bridge. 
 [Bridge]
 (Tommy is in the Captain's chair, grinning.) 
+
+
 KIRK: The Enterprise will never reach Marcos Twelve. We will not be landing there. 
 TOMMY: The crew will take us. The crew believes. 
 KIRK: The crew does not understand. When we make them understand as I understand, they won't take you to Marcos. 
@@ -360,10 +434,14 @@ TOMMY: He is our friend.
 KIRK: Then let him show himself. Bring him out! Let him prove to me that he is my friend and I'll follow him to Marcos Twelve and to the ends of the universe! 
 TOMMY: No! 
 (Spock enters the bridge.) 
+
+
 KIRK: Mister Spock, playback the chant the children sang to summon up the Gorgan. 
 ALL [OC]: Hail, hail, fire and snow. Call the angel, we will go. Far away, for to see, friendly Angel come to me. Hail, hail, fire and snow. Call the angel, we will go. (The other children enter the bridge.) Far away, for to see, friendly Angel come to me. 
 KIRK: The time has come to see the world as it is. Come on. 
 (Gorgan appears.) 
+
+
 GORGAN: Who has summoned me? 
 KIRK: I did, Gorgan. My beast is gone. It lost its power in the light of reality. I command again, and I ordered you here. 
 GORGAN: No, Captain. I command here. My followers are strong and faithful and obedient. That's why we take what is ours wherever we go. 
@@ -380,18 +458,26 @@ SPOCK: Why should you fear it?
 GORGAN: I fear nothing. 
 KIRK: So we were told. Mister Spock, the pictures. The children are waiting. 
 (Film of the children playing with their parents appears on Spock's overhead monitor. They smile as they watch themselves having fun. Then they see their parents lying dead, and the smiles are gone.) 
+
+
 GORGAN: They would not help transport us. They were against us. They had to be eliminated. 
 SPOCK: Tommy's father would have destroyed you, but he recognised you too late. 
 GORGAN: You are also too late. The kind ones always are. 
 KIRK: Not always, Gorgan. Not this time. You can't hide from them. They see you as we see you. They know what you are. Even the children learn. 
 GORGAN: You are my future generals. Together we can raise armies of followers. Go to your posts! The first great victories are upon us. You will see. We have millions of friends on Marcos Twelve. We shall exterminate all who oppose us! Our purity of purpose cannot be contaminated by those who disagree, who will not co-operate, who do not understand. They must be annihilated. 
 (But now the children are crying.) 
+
+
 KIRK: Don't be afraid. Look at him. Without you children, he's nothing. The evil remains within him. 
 (Gorgan becomes ugly.) 
+
+
 GORGAN: I command you! I command you! To your posts! Carry out your duties, or I will destroy you! You will be swept aside to make way for the strong. 
 KIRK: Look how ugly he really is. Look at him and don't be afraid. 
 GORGAN: Death. Death to you all. Death to you all. Death to you all. Death to you all. 
 (Gorgon fades away. Sulu's swords vanish. McCoy enters.) 
+
+
 KIRK: It's all right. 
 MCCOY: They're crying, Jim. I don't know how it happened, but it's good to see. 
 KIRK: It's all right, Mary. It's all right. It's all right, isn't it, Doctor? 
@@ -400,6 +486,8 @@ SULU: Marcos Twelve dead ahead, sir.
 KIRK: Reverse course, Mister Sulu. 
 SULU: Aye, sir. 
 (McCoy leads the children off the bridge.) 
+
+
 SULU: Course reversed, Captain. 
 KIRK: Set course for Starbase Four, Mister Sulu. 
 SULU: Yes, sir. 

@@ -5,6 +5,8 @@ Stardate: 4842.6
 Original Airdate: 4 Oct, 1968
 [Planet surface]
 (Conifers stand on the slopes down to a lake, where three figures beam down onto a trackway.) 
+
+
 MCCOY: Look at those pine trees. 
 KIRK: And that lake. 
 MCCOY: I swear that's honeysuckle I smell. 
@@ -12,6 +14,8 @@ KIRK: I swear that's a little orange blossom thrown in. It's unbelievable. Growt
 SPOCK: Astronomical, Captain. The relative size, age and composition of this planet makes it highly improbable that it would evolve similarly to Earth in any way. 
 MCCOY: What in blazes is that? 
 (A bizarre structure on a dais, with steps leading up to it.) 
+
+
 KIRK: Analysis, Spock. 
 SPOCK: An alien metal of some kind. An alloy resistant to probe. Readings can't even measure its age accurately. These incised symbols are fascinating. Evidently, some form of writing. 
 KIRK: Any theories about what it is? 
@@ -25,6 +29,8 @@ KIRK: You did say thirty minutes?
 SPOCK: Yes, sir. 
 KIRK: Then let's go. Let's find out what life forms are blessed by this environment. 
 (Standing on the opposite side of the lake from a collection of tipis and a lodge.) 
+
+
 MCCOY: Why, they look like. I'd swear they're American Indians. 
 SPOCK: They are, Doctor. A mixture of Navajo, Mohican, and Delaware, I believe. All among the more advanced and peaceful tribes. 
 KIRK: It's like discovering Atlantis or Shangri-la. Mister Spock, is it possible there's a more evolved civilisation somewhere else on this planet, one capable of building that obelisk or developing a deflector system? 
@@ -34,12 +40,16 @@ KIRK: Tell them what? That an asteroid's coming to smash their world into atoms?
 SPOCK: Too primitive to grasp the concept of space flight, Doctor. Our appearance here would only confuse and frighten them. 
 KIRK: We've got a job to do. Let's get back to the Enterprise. 
 (Along the path.) 
+
+
 MCCOY: What's the matter, Jim? 
 KIRK: What? Oh, nothing. It's just so peaceful, uncomplicated. No problems, no command decisions. Just living. 
 MCCOY: Typical human reaction to an idyllic natural setting. Back in the twentieth century, we referred to it as the Tahiti Syndrome. It's particularly common to over-pressured leader types, like starship captains. 
 KIRK: Ah, the Tahiti Syndrome. Let's go take care of that asteroid. But first I want another look at that obelisk. 
 [Obelisk]
 (Kirk walks up to it as McCoy scans with the tricorder.) 
+
+
 SPOCK: Doctor? 
 MCCOY: Yes. 
 SPOCK: I suggest that any further research on your part be delayed until after we have diverted the asteroid. 
@@ -49,6 +59,8 @@ CHEKOV [OC]: Yes, sir.
 Captain's Log, stardate 4842.6. First Officer Spock commanding. Numerous search parties and repeated sensor probes of the area have failed to locate Captain Kirk. 
 [Obelisk]
 (Spock is standing where Kirk was when he disappeared.) 
+
+
 SPOCK: Spock to Enterprise. 
 SCOTT [IC]: Enterprise. Come in, Mister Spock. 
 SPOCK: Prepare to beam us up, Mister Scott. We're warping out of orbit. 
@@ -69,6 +81,8 @@ KIRK [OC]: (dazed and confused) Where am I? What place is this? What are these? 
 (Two young women are approaching, carrying baskets of food.);
 MIRAMANEE: Wait. 
 (They kneel at the sight of Kirk. Then one gets up and walks up the steps to him, and puts his hand to her forehead.) 
+
+
 KIRK: Who are you? 
 MIRAMANEE: We are your people. We've been waiting for you to come to us. 
 Captain's log, stardate 4843.6. First Officer Spock commanding. We've been en route to the asteroid for several hours. Our delay on the planet's surface has made it imperative that we proceed at maximum warp speed for a period which exceeds the recommended safety margin. 
@@ -94,8 +108,12 @@ MIRAMANEE: Salish, a terrible thing has happened. The boy was attending the fish
 SALISH: There is no sound in the body. There is no light in the eyes. He will move no more. 
 KIRK: Wait a moment. 
 (Kirk gives the kiss of life.) 
+
+
 ELDER: Wait. 
 (Kirk massages the boy's legs and he coughs, waking up.) 
+
+
 KIRK: He'll be all right now. 
 ELDER: My people are grateful. 
 KIRK: It's a simple technique. It goes way back. Way back. 
@@ -103,6 +121,8 @@ ELDER: Only a god can breathe life into the dead. Do you still question? Give hi
 Miramanee takes the headband with the metal disc from Salish's head and puts it on Kirk. They all salute him. 
 [Bridge]
 (The Enterprise has arrived at the asteroid.) 
+
+
 CHEKOV: Deflection point minus seven. 
 [Engineering]
 SPOCK [OC]: Full power, Mister Scott. 
@@ -124,12 +144,16 @@ SPOCK: Prepare to activate deflectors.
 SULU: Aye, sir. 
 CHEKOV: Power dropping, sir. 
 (The lights dim.) 
+
+
 SPOCK: Engineering, maintain full power. Full power. 
 SCOTT [OC]: Dilithium crystal circuit's failing, sir. We'll have to replace it. 
 SPOCK: Not now. 
 CHEKOV: Zero. Deflection point now, sir. 
 SPOCK: Activate deflectors. 
 (A beam shoots out and pulses against the big lump of rock.) 
+
+
 CHEKOV: Power dropping, sir. 
 SPOCK: Degree of deflection, Mister Sulu. 
 SULU: Not enough, Mister Spock. It's only point zero zero one three degrees. 
@@ -145,6 +169,8 @@ MCCOY: Jim won't be able to get out of its path.
 SPOCK: That, Doctor, is another calculated risk we must take. 
 [Lakeside]
 (Miramanee has just filled a skin with water.) 
+
+
 SALISH: Miramanee. What are you doing? 
 MIRAMANEE: I must see to the needs of the god, as is my duty. 
 SALISH: You should be working on our ritual cloak. 
@@ -161,6 +187,8 @@ SALISH: Miramanee, if you could choose, would you choose me?
 (She lowers her eyes and walks away.) 
 [Lodge]
 (Kirk is carving a hole in a gourd.) 
+
+
 MIRAMANEE: Perhaps you would like to bathe now. 
 KIRK: Miramanee, tell me about the Wise Ones. 
 MIRAMANEE: Tell? But a god knows everything. 
@@ -173,10 +201,14 @@ MIRAMANEE: Yes. How does this open?
 KIRK: Well, why doesn't Salish use it? Why are the people in danger? 
 MIRAMANEE: His father did not wish to share his power too soon. He died before he told Salish the secret. 
 (Two young women enter with trays of fruit, then the tribal elder comes in.) 
+
+
 ELDER: Our people rejoice and wish to honour your name, but I did not know what you wish to be called. What may I tell them? 
 KIRK: Ki, Kir 
 ELDER: Kirok? 
 (The women leave.) 
+
+
 ELDER: Have we displeased you? 
 KIRK: No, no, everything is fine. 
 ELDER: Then it must be ourselves, the way we live. Perhaps we have not improved as quickly as the Wise Ones wish. 
@@ -184,6 +216,8 @@ KIRK: Your land is rich, your people happy. Who could be displeased with that?
 ELDER: But there is something. Tell us. We will change it. 
 KIRK: I can't tell you anything. All I can tell you is that I'm happy and peaceful here. I'm not sure, but I think I've never felt that way before. 
 (The elder leaves.) 
+
+
 KIRK: Why are they so sure I can help them? 
 MIRAMANEE: Well, you came from the stone metal. Did you not bring life to the child? 
 KIRK: Yes, but I. I need time to remember. 
@@ -210,9 +244,13 @@ SULU: Phaser four firing. All phasers fired, sir.
 SPOCK: Rig for simultaneous firing, Mister Sulu. Commence simultaneous bombardment. 
 [Engineering]
 (There are flashes and a sizzling sound from the engines, then they go dark.) 
+
+
 SCOTT: My bairns. My poor bairns. 
 [Lodge]
 (Kirk is dressed in decorated buckskins.) 
+
+
 MIRAMANEE: The ritual cloak is finished. If it pleases you, I would like to name the Joining day. 
 KIRK: The Joining day? 
 MIRAMANEE: I'm the daughter of the chief. Tribal law betroths me to our leader. If there is another, I will step aside. 
@@ -223,6 +261,8 @@ MIRAMANEE: The sooner our happiness together begins, the longer it will last. To
 (They kiss.) 
 [Spock's quarters]
 (An image of the obelisk is on the monitor. Spock looks as if he is meditating upon it.) 
+
+
 SCOTT [OC]: Don't ask for anymore warp nine speeds, Mister Spock. Our star drive is completely burned out. The only thing we have left is impulse power. 
 SPOCK: Estimated repair time? 
 {Engineering]
@@ -240,23 +280,35 @@ MCCOY: Well then what's the use? We might not be able to save the captain even i
 SPOCK: Another calculated Vulcan risk, Doctor. 
 [lodge]
 (Miramanee is attended by three young women, preparing her for her wedding.) 
+
+
 WOMAN: This joining means the end of darkness. 
 MIRAMANEE: It's a time for joy for all my people. 
 [Obelisk]
 (Kirk is having ritual signs painted on his face.) 
+
+
 ELDER: You will wait until I walk the holy path to the earth lodge first, to give me time to tell the priestess that you follow and that the Joining will take place. 
 (He leaves Kirk to rejoice in his new life.) 
+
+
 KIRK [OC]: I have found paradise. Surely no man has ever attained such happiness. 
 [Path]
 (Salish blocks Kirk's way. He has a knife.) 
+
+
 KIRK: Get out of my way, Salish. 
 SALISH: Even though you be a god, Kirok, I cannot permit this Joining. 
 KIRK: Nobody's asking for your permission. 
 SALISH: Then you must strike me dead. 
 KIRK: I have no intention of striking you dead. 
 (Salish cuts Kirk's hand.) 
+
+
 SALISH: You bleed. You bleed, Kirok. Behold a god who bleeds! Behold a god who bleeds! 
 (They fight, and Kirk gets Salish pinned to the ground.) 
+
+
 SALISH: Kill me. Kill me, Kirok, for I will not rest until I prove to my people that you are no god. 
 (Kirk throws down the knife and walks away.) 
 (In the Earth Lodge, Kirk is dressed in the cloak of many coloured feathers, and he and Miramanee stand in front of the elder.) 
@@ -273,8 +325,12 @@ MCCOY: Well, my diagnosis is exhaustion brought on from overwork and guilt. You'
 (Spock goes and lies on his bed. McCoy leaves. Spock gets up again and returns to his study of the symbols.) 
 [Forest]
 (Bare-chested Kirk is chasing laughing Miramanee through the trees.) 
+
+
 KIRK: Miramanee. Come here. Miramanee. 
 (He catches her and they kiss.) 
+
+
 MIRAMANEE: Each time your arms hold me is as joyous as the first. 
 KIRK: I'm happy. I'm so happy. If it weren't for the dreams, my mind would be completely at peace. 
 MIRAMANEE: I thought you no longer had the dreams, that you no longer saw the strange lodge which moves through the sky. 
@@ -284,11 +340,15 @@ KIRK: A gift? What?
 MIRAMANEE: It may make you happy. Wait. 
 KIRK [OC]: These last few weeks, my love for Miramanee grows stronger with each passing day. However, the dreams return every night. Fragments of memories. I can almost get hold of them, and then 
 (Miramanee returns with what native american women carry their babies in.) 
+
+
 MIRAMANEE: I bear your child. 
 KIRK: You! 
 (They embrace again.) 
 [Lodge]
 (Kirk has made a puddle in the mud floor of their home and is explaining irrigation to Miramanee.) 
+
+
 KIRK: A canal. And with it we'll bring the water from the lake right to the lodge. And we can expand the system, and irrigate the fields and double the food supply. 
 MIRAMANEE: And with the power of the lamp. Lamp? 
 KIRK: Lamp. 
@@ -299,6 +359,8 @@ KIRK: Preserve.
 MIRAMANEE@ For times of famine. That is why you made the lamp, Kirok, so that I would never know when it was night, and I would be forever cooking. 
 KIRK: Oh, no. No, no, no, no, no. That's not why I made the lamp at all, to keep you forever cooking. 
 (Thunder and lightning as they kiss, then a wind starts up.) 
+
+
 KIRK: It's only the wind and the thunder. 
 MIRAMANEE: I act like a stupid child. I have nothing to fear. You are here. (she looks outside) It is time. 
 KIRK; Time? 
@@ -321,10 +383,14 @@ SALISH: Well, what do you wait for, god? Your robes?
 KIRK: Take care of Miramanee. 
 [Obelisk]
 (Salish watches from a distance as Kirk beats on the obelisk's wall trying to work out how to get inside.) 
+
+
 KIRK: I am Kirok! I have come! I am Kirok! 
 (Salish smiles at his failure.) 
 [Spock's quarters]
 (Spock is playing his lyre.) 
+
+
 MCCOY: I prescribed sleep. 
 SPOCK: You prescribed rest, Doctor. The symbols on the obelisk are not words. They are musical notes. 
 MCCOY: Musical notes? You mean it's nothing but a song? 
@@ -339,10 +405,16 @@ MCCOY: And we have to find that deflector and put it back into working order, ot
 SPOCK: Precisely, Doctor. 
 [Obelisk]
 (Salish has brought a crowd armed with stones.) 
+
+
 SALISH: There's the false one! 
-(They throw their stones at Kirk.) ALL: Die! Die! Die! 
+(They throw their stones at Kirk.) 
+
+ALL: Die! Die! Die! 
 MIRAMANEE: No! No! Don't hurt him! 
 (Salish holds her back.) 
+
+
 KIRK: Miramanee! 
 MIRAMANEE: Don't hurt him! He can save us! 
 SALISH: He's false! 
@@ -350,6 +422,8 @@ MIRAMANEE: I belong to him.
 SALISH: Then go. Go die with your false god. 
 ALL: You'll be killed! Kill him! We're all doomed! Die, impostor! You lied to us! You're not a god! We'll kill you now! 
 (Spock and McCoy beam down as Miramanee and Kirk fall under the hail of stones. The crowd runs away when they see them. McCoy checks Kirk first.) 
+
+
 MCCOY: I need Nurse Chapel. 
 SPOCK: Spock to Enterprise. 
 SCOTT [OC]: Come in, Mister Spock. 
@@ -358,8 +432,12 @@ KIRK: My wife. Is she all right?
 MCCOY: Wife? 
 SPOCK: Hallucinations? 
 (Chapel beams down.) 
+
+
 KIRK: Miramanee. 
 (Spock rolls Miramanee onto her back, and Chapel gives her an injection.) 
+
+
 SPOCK: The nurse has given you something to ease the pain. Why were you being stoned? 
 MIRAMANEE: Kirok could not get back into the temple. 
 SPOCK: Naturally, since he did not come from there. 
@@ -373,6 +451,8 @@ SULU [OC]: Tracking report, sir. Sixty five minutes to end of safety margin.
 SPOCK: Report noted. Doctor, is he strong enough for the Vulcan mind fusion? 
 MCCOY: We have no choice. 
 (So Spock places his hands on Kirk's face and starts the procedure.) 
+
+
 SPOCK: I am Spock. You are James Kirk. Our minds are moving closer. Closer, closer, closer, James Kirk. Closer. 
 KIRK: No! 
 SPOCK: James Kirk. 
@@ -383,15 +463,21 @@ SPOCK: I am Kir
 KIRK: I am Kirok! I am 
 SPOCK: Spock! 
 (He breaks the link) 
+
+
 MCCOY: What is it? 
 SPOCK: His mind. He is an extremely dynamic individual. 
 KIRK: It worked. 
 (Kirk goes to Miramanee.) 
+
+
 SPOCK: Captain, were you inside this structure? 
 KIRK: Yes. What's inside is loaded with scientific equipment. 
 SPOCK: This obelisk is one huge deflector mechanism. It is imperative that we get inside immediately. Captain, we do not have much time. 
 KIRK: McCoy. 
 (McCoy and Chapel start tending to Miramanee.) 
+
+
 KIRK: I don't know how to get inside. 
 SPOCK: If we are not able to gain entry and activate the deflector mechanism within the next fifty minutes, this entire planet will be destroyed. 
 KIRK: The key must be in these symbols. We've got to decipher them. 
@@ -403,6 +489,8 @@ SPOCK: If you could remember your exact words, Captain.
 KIRK: (flipping open the communicator) Kirk to Enterprise. 
 SCOTT [OC]: Aye, Captain. 
 (The hatch slides open, with Miramanee still lying on it.) 
+
+
 KIRK: Scotty, if the deflector isn't activated within twenty minutes, get out of orbit. Get the Enterprise out of the danger zone. The landing party is expendable. The Enterprise isn't. Kirk out. Miramanee. Bones, stay with her. Do what you can. 
 [Obelisk Chamber]
 SPOCK: It is similar to deflector panels I've seen, Captain, but far more complicated. 
@@ -424,5 +512,7 @@ KIRK: If that's what you want.
 MIRAMANEE: We will live long and happy lives. I will bear you many strong sons. I'll love you always. 
 KIRK: And I'll love you, Miramanee. Always. 
 (He kisses her.) 
+
+
 MIRAMANEE: Each kiss is as the first. (she dies) 
 

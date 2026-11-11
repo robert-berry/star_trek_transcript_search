@@ -14,6 +14,8 @@ MCCOY: The Intrepid is manned by Vulcans, isn't it?
 KIRK: Yes, that's right, Bones. 
 UHURA: Enterprise calling Starbase Six. Enterprise calling Starbase Six. Come in. Come in. 
 (Spock suddenly jerks upright, his face a picture of horror.) 
+
+
 KIRK: Spock? 
 MCCOY: What is it, Spock? Are you in pain? 
 SPOCK: Captain, the Intrepid. It just died. And the four hundred Vulcans aboard, all dead. 
@@ -24,6 +26,8 @@ SPOCK: Captain.
 KIRK: No, no, no. That's an order. 
 SPOCK: Yes, sir. 
 (McCoy leads him away.) 
+
+
 UHURA: Captain, I have Starbase Six readable now. Switching to audio, sir. 
 KIRK: Kirk here. Go ahead. 
 STARBASE [OC]: You will divert immediately to sector three nine J. 
@@ -36,9 +40,13 @@ KIRK: Dead? It's a fourth magnitude sun. There are billions of inhabitants there
 CHEKOV: It is dead. 
 [Sickbay]
 (Spock is on a biobed, being scanned.) 
+
+
 SPOCK: I assure you, Doctor, I am quite all right. The pain was momentary. It passed quickly. 
 MCCOY: All of my instruments seem to agree with you if I can trust these crazy Vulcan readings. Spock, how can you be so sure the lntrepid was destroyed? 
 (Spock gets off the bed.) 
+
+
 SPOCK: I sensed it die. 
 MCCOY: But I thought you had to be in physical contact with a subject before 
 SPOCK: Doctor, even I, a half-Vulcan, could hear the death scream of four hundred Vulcan minds crying out over the distance between us. 
@@ -60,6 +68,8 @@ KYLE: Magnification factor three, sir.
 UHURA: Exactly what are we looking for, Mister Spock? 
 SPOCK: I would assume that. 
 (In the middle of the viewscreen is a black blob.) 
+
+
 KIRK: What is that? 
 CHEKOV: Perhaps an interstellar dust cloud. 
 SPOCK: Not very likely, Ensign. 
@@ -72,11 +82,15 @@ CHEKOV: Aye, sir. Probe ready. Switching data feed to library computer.
 KIRK: Launch probe. 
 CHEKOV: Probe launched, sir. 
 (A high pitched sound comes over the speakers.) 
+
+
 KIRK: What was that? 
 UHURA: The telemetry probe, sir. There's no signal from it. 
 KIRK: Speculation, Spock. 
 SPOCK: I have none, Captain. Insufficient data. 
 (Chekov is still groaning and Uhura looses her balance.) 
+
+
 SPOCK: Lieutenant. 
 UHURA: I'm just dizzy. I'll be all right. I'm fine, sir. 
 MCCOY [OC]: Sickbay to Captain Kirk. McCoy here. 
@@ -87,6 +101,8 @@ MCCOY: Not unless she's feeling ill. I've got an emergency here.
 [Sickbay]
 KIRK [OC]: What's wrong? 
 (Crew are queued out of the door, getting shots from Chapel.) 
+
+
 MCCOY: There's nothing organic. They all seem to be nervous, weak, and irritable. They say it happened suddenly, like a balloon popping. 
 KIRK [OC]: Can you handle it, Bones? 
 MCCOY: I'm giving them stimulants to keep them on their feet. 
@@ -109,6 +125,8 @@ UHURA: Yes, sir.
 KIRK: Notify the Starfleet that we're going to attempt to probe the area of darkness to gain further information. 
 UHURA: Aye, aye, sir. 
 (Kirk pauses, exhausted on his way back to his chair.) 
+
+
 SPOCK: Captain? 
 KIRK: I'm all right. Distance from zone of darkness, Mister Kyle? 
 KYLE: One hundred thousand kilometres, sir. 
@@ -120,12 +138,18 @@ CHEKOV: Penetration of the zone in one minute, seven seconds, sir.
 KIRK: Red Alert. Deflectors full power. Phaser banks ready. 
 CHEKOV: Phasers standing by. Deflectors at full power, sir. 
 (That eardrum splitting sound comes again.) 
+
+
 UHURA: It's not coming from communications, sir. 
 KIRK: Spock! 
 SPOCK: Analysing now, Captain. 
 (The sound goes.) 
+
+
 CHEKOV: Captain, the stars are gone! 
 (The viewscreen is completely blank.) 
+
+
 KIRK: Malfunction, Mister Spock? 
 SPOCK: Negative, Captain. All systems functioning properly. 
 KIRK: Then kindly tell me what happened to the stars. 
@@ -144,6 +168,8 @@ SCOTT: Aye, if we don't lose any more. Don't ask me how it happened.
 [Bridge]
 KIRK: I am asking how, mister. I want answers. Kirk out. 
 (McCoy enters with a nurse, and starts injecting the crew.) 
+
+
 KIRK: What's that? 
 MCCOY: A stimulant. 
 KIRK: Bones, how bad is it? 
@@ -151,6 +177,8 @@ MCCOY: Two thirds of the personnel are affected.
 KIRK: Why? How? Do you have any answers? 
 MCCOY: No. You know you'll get everything I can tell you. But when there is nothing, what should I say? 
 (The man at the engineering station collapses.) 
+
+
 MCCOY: Nurse. 
 KIRK: This ship is in trouble. We'd better start solving problems faster than we pick up new ones. We seem to be in the middle of a creeping paralysis. Mister Spock, analysis of that last burst of noise before we started losing power. 
 SPOCK: That sound was turbulence caused by the penetration of a boundary layer, Captain. 
@@ -184,6 +212,8 @@ MCCOY [OC]: We're all dying.
 Captain's log, stardate 4308.8. It is now ten minutes since we entered the zone of darkness. We have stopped engines while we seek a defence against the energy drain which seems to pervade the zone. 
 [Engineering]
 (Kirk enters and is promptly thrown sideways by a massive jolt to the ship.) 
+
+
 KIRK: Are you all right? 
 SCOTT: Yes. 
 KIRK: What was that? 
@@ -229,6 +259,8 @@ SCOTT: Aye, Captain, but I'll reserve some for the shields in case we don't get 
 SPOCK: I submit, Mister Scott, if we do not get out, the shields would be extraneous. It would only prolong our wait for death by a short period of time. 
 KIRK: Use whatever power is necessary to get us out of here, Scotty. Report to your stations, continue your research. Dismissed. 
 (The department heads leave Kirk and Spock alone.) 
+
+
 SPOCK: Captain, the Intrepid would have done all these things too, and yet they were destroyed. 
 KIRK: Well, they may not have done all of these things. You just pointed out how illogical this situation is. 
 SPOCK: True. It is also true they never knew what was killing them. Their logic would not have permitted them to believe they were being killed. 
@@ -240,6 +272,8 @@ KIRK: And what do you think they felt?
 SPOCK: Astonishment. 
 [Engineering]
 (Scott is working on the upper level)
+
+
 SCOTT: That ought to do it. Engineering to Captain Kirk. 
 [Bridge]
 KIRK: Kirk here. What is it, Scotty? 
@@ -256,6 +290,8 @@ KIRK [OC]: Into one giant forward thrust
 [Bridge]
 KIRK: In the hope that it will yank us out of the zone. Prepare yourselves. All right, Scotty. Let's get on with it. 
 (Everybody braces themselves against the g-forces that are created by the acceleration. What happened to the inertial dampers? Then there's a sudden jolt and people get thrown around. Chapel is flung into McCoy's arms for example.)
+
+
 KIRK: Scotty! 
 SCOTT [OC]: It's no good, sir. The best we can do is to maintain thrust against the pull and hold our position. 
 KIRK: Are we still losing power? 
@@ -267,6 +303,8 @@ SCOTT: At this rate, plus the drain on all systems, two hours.
 KIRK: Maintain thrust, Scotty. While we're maintaining our distance, Mister Spock, have you ascertained yet what we're maintaining our distance from? 
 SPOCK: I cannot say what it is, Captain, but I would say it has found us. 
 (The viewscreen is no longer black. It contains a multicoloured image rather like an abalone.) 
+
+
 KIRK: Prepare to launch a probe, Mister Chekov. 
 CHEKOV: Aye, sir. Probe ready for launch, sir. 
 SPOCK: Getting very confused readings, Captain, but this is definitely the source of the energy drain. 
@@ -275,6 +313,8 @@ CHEKOV: Probe launched, sir.
 SPOCK: Probe will impact in seven point three seconds. 
 KYLE: Six, five, four, three, two, one. 
 (The ship shudders.) 
+
+
 KIRK: Are we still in contact with the probe? 
 CHEKOV: Yes, sir. Data being relayed to Mister Spock. 
 SPOCK: Readings coming in now, Captain. Length, approximately eleven thousand miles. Width varying from two thousand to three thousand miles. Outer layer studded with space debris and waste. Interior consists of protoplasm, varying from a firmer gelatinous layer to a semi-fluid central mass. Condition, living. 
@@ -283,6 +323,8 @@ CHEKOV: Magnification four, sir.
 SPOCK: That is what is drawing us toward it, Captain. The same way it drew the Intrepid to her death. 
 [Laboratory]
 (There is an image of a single-celled organism on a screen.) 
+
+
 MCCOY: That is an amoeba. 
 KIRK: Yes, I remember my basic biology, Doctor. You mean to tell me that that thing is a giant single-celled animal? 
 MCCOY: Yes, for lack of a better term. It's a very simple form of life. In fact it's a much simpler form of life than what you're looking at now. But that thing can apparently perform all the functions that qualify it as a living organism. It can reproduce, it can breathe, it can eat, although I don't know what. 
@@ -324,6 +366,8 @@ SCOTT: You asked me to keep you informed on the power drain. All levels are down
 [Kirk's quarters]
 SCOTT [OC]: And still draining. We can maintain thrust for another hour and fifteen minutes. 
 (Spock and McCoy enter.) 
+
+
 KIRK: Very well. Prepare the shuttlecraft for launching. 
 SCOTT [OC]: Sir? 
 KIRK: Doctor McCoy will tell you what special equipment to put in. Kirk out. I'm sorry, Mister Spock. 
@@ -338,6 +382,8 @@ SPOCK: This is not a competition, Doctor. Whether you understand it or not, gran
 MCCOY: Vulcan dignity? How can I grant you what I don't understand? 
 SPOCK: Then employ one of your own superstitions. Wish me luck. 
 (Silence and stares, then McCoy opens the hangar deck door. Spock walks across and into the Galileo. The doors shut.) 
+
+
 MCCOY: Good luck, Spock. 
 [Bridge]
 SCOTT: All systems clear for shuttlecraft launch. sir. 
@@ -352,6 +398,8 @@ SPOCK: Power drain is enormous and growing worse.
 [Bridge]
 KIRK: Chekov. 
 (Chekov goes to the science station.) 
+
+
 SPOCK [OC]: Diverting all secondary power to the shields. (McCoy enters) I'll continue communications as long as there is power to transmit. 
 SCOTT: Captain, h e won't have enough power to get back out if he diverts it to his shields. KIRK: Spock. 
 SPOCK [OC]: I heard, Captain. 
@@ -362,6 +410,8 @@ SPOCK: Slowing now. Contact in eighteen point three seconds. Brace yourselves. T
 [Bridge]
 SPOCK [OC]: In six seconds. 
 (Spock is thrown around in the shuttlecraft, everyone on the ship just feels a jolt.) 
+
+
 KIRK: Report, Mister Spock. Spock, report. 
 SPOCK [OC]: I am undamaged, Captain. Relay to Mister Scott I had three percent power reserve before the shields stabilised. 
 [Shuttlecraft]
@@ -386,6 +436,8 @@ SPOCK [OC]: I'm losing voice contact I will transmit internal co-ordinates of ch
 KIRK: Spock, come in. Come in. 
 UHURA: Contact lost, sir. 
 (The ship shakes.) 
+
+
 KIRK: He's alive! He's kicked it in the side to let us know. 
 UHURA: Captain, I'm getting telemetry. 
 KIRK: Mister Chekov, telemetry analysis as it comes in. 
@@ -430,6 +482,8 @@ SCOTT: Cut the engine thrust? We'd be sucked into that thing like being caught i
 [Kirk's quarters]
 KIRK: Exactly. Prepare to divert power on my signal. Kirk out. 
 (Kirk leans against the monitor, tired. McCoy scans him.) 
+
+
 KIRK: Have you got something to say? 
 MCCOY: Technically, no. Medically, yes. Between the stimulants and the pressure, I would suggest you try to stay off your feet for a few minutes. 
 KIRK: I don't have a few minutes, Bones. Maybe none of us do. Let's go. 
@@ -439,6 +493,8 @@ KIRK: Ready, Scotty.
 SCOTT: Switching power to shields. Impulse in reserve. Cutting thrust to zero, now! 
 KYLE: Impact five seconds. 
 (There's a big bump and people are thrown all over the place. Then there is calm.) 
+
+
 CHEKOV: We're through, sir. 
 KIRK: I believe everybody is aware of that, Mister Chekov. 
 UHURA: Damage control parties report minimal damage, sir. Repairs are being initiated. 
@@ -483,6 +539,8 @@ KIRK: Launch probe at zero acceleration. Forward thrust off, one tenth of a seco
 KYLE: Forward thrust off, sir. 
 CHEKOV: Probe launched, sir. 
 (There's a little jolt.) 
+
+
 MCCOY: Despite what Spock said, it's still plenty sensitive. 
 CHEKOV: Probe confirmed. It is lodged in the nucleus, near the chromosome bodies. 
 KIRK: Mister Kyle, back us out the way we came in. Mister Chekov, a nice, straight line. Don't waste any time. 
@@ -512,6 +570,8 @@ KIRK: Maintaining tractor beams on shuttlecraft, Mister Scott?
 SCOTT: Aye, sir. I can't guarantee it'll hold when the warhead explodes. The power levels are (looks at readout) The power levels are dead, sir. 
 KIRK: You may have just written our epitaph, Mister Scott. 
 (The warhead must have exploded, because everyone goes flying around the bridge again.) 
+
+
 KIRK: Activate main viewing screen. (they see stars.) Mister Chekov, report. 
 CHEKOV: The organism is destroyed, sir. The explosion must have ruptured the membrane and thrown us clear. 
 SCOTT: Power's coming back, sir. 

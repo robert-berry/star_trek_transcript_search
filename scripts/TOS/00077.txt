@@ -21,11 +21,17 @@ UHURA: Aye, aye, sir.
 SULU: Completing final orbit, sir. 
 KIRK: Prepare to warp us out. 
 (The red light on the navigation console flashes, and the lights dim) 
+
+
 KIRK: Alert status. 
 SPOCK: We're being scanned, Captain. A deep probe, incredibly swift. 
 (The lights come back up, and the planet disappears from the viewscreen) 
+
+
 MCCOY: Jim! 
 (On the screen is the image of a man sitting in a large leather chair, and wearing a stove-pipe hat) 
+
+
 LINCOLN [on viewscreen]: Captain Kirk, I believe. A pleasure to make your acquaintance, sir. 
 KIRK: Uhura 
 LINCOLN [on viewscreen]: No need to check your voice telegraph device. Do I gather that you recognise me? 
@@ -42,6 +48,8 @@ LINCOLN [on viewscreen]: Do you still measure time in minutes?
 KIRK: We can convert to it, sir. 
 LINCOLN [on viewscreen]: Then you should be directly over my position in. There. Exactly twelve and one half minutes. Until then, Captain. 
 (And the orange planet is back in view) 
+
+
 KIRK: (signing a PADD) Thank you, Mister Mulney. 
 SPOCK: Small change occurring there, Captain. 
 KIRK: Magnification four, helm. 
@@ -54,13 +62,19 @@ MCCOY: Jim, do you really believe he's Abraham Lincoln?
 KIRK: It's obvious he believes it. Doctor McCoy, Mister Spock, full dress uniforms. 
 [Transporter room]
 (Scott is in kilt and plaid, the three security guards look smart) 
+
+
 SCOTT: Full dress? Presidential honours? What is this nonsense, Mister Dickerson? 
 DICKERSON: I understand President Lincoln's coming aboard, sir. 
 SCOTT: Ha! You're daft, man. 
 DICKERSON: All I know is what the captain tells me, and he says he'll have the hide of the first man that so much as smiles. 
 (McCoy enters) 
+
+
 SCOTT: I'd have expected sanity from the ship's surgeon, at least. President Lincoln, indeed. No doubt to be followed by Louis of France and Robert the Bruce. 
 (Kirk and Spock enter) 
+
+
 KIRK: If so, we'll execute appropriate honours to each, Mister Scott. 
 SCOTT: Aye, sir. 
 KIRK: Gentlemen, I don't for a moment believe that President Lincoln is actually coming aboard, but we're dealing with an unknown and apparently highly advanced life-form. Until we know, when in Rome, we'll do as the Romans do. 
@@ -73,6 +87,8 @@ DICKERSON: Phaser team, set ready for a heavy stun.
 SPOCK: Band honours ready, Captain. 
 KIRK: Energise. 
 (A tall, lean figure in a black frock coat is beamed aboard to drum beat and a bosun's whistle) 
+
+
 KIRK: The USS Enterprise is honoured to have you aboard, Mister President. 
 LINCOLN: Strange. Where are the musicians? 
 KIRK: That's taped music, sir. A starship on active duty never carries an honour detachment. 
@@ -86,6 +102,8 @@ LINCOLN: Mister Spock, Mister Scott, Mister Dickerson. Gentlemen, I hope to talk
 KIRK: Lieutenant Dickerson, you and your men may return to quarters. Mister President. 
 LINCOLN: A most interesting vessel. 
 (Kirk, Lincoln, Spock and security leave) 
+
+
 MCCOY: Just what was it you locked onto before you beamed him aboard? 
 SCOTT: You heard Mister Spock yourself. Mineral he called it, like living rock. 
 MCCOY: And that became Lincoln? 
@@ -116,6 +134,8 @@ KIRK: Forgive me again. We'll rejoin you shortly.
 MCCOY: Where the devil are they? 
 SCOTT: Why, they're probably looking up a plate of haggis in the galley. They've been everywhere else. 
 (Kirk and Spock enter) 
+
+
 KIRK: Sorry to have been delayed, gentlemen. 
 MCCOY: Jim, I would be the last to advise you on your command image. 
 KIRK: I doubt that, Bones, but continue. 
@@ -157,9 +177,13 @@ MCCOY: If they�re wrong and they do beam into a pool of lava
 SCOTT: Then they're dead men. I couldna pull them back in time. 
 KIRK: All right, Mister Scott, energise. 
 (Lincoln, Kirk and Spock are beamed away, but - ) 
+
+
 MCCOY: Scotty. 
 [Planet surface]
 (Sandy ground, big rocks, orange sky) 
+
+
 SPOCK: Captain. Our phasers and tricorders did not beam down with us. 
 KIRK: Kirk to Enterprise. Enterprise? Enterprise, come in. Kirk to Enterprise. Enterprise, come in. 
 SPOCK: Undamaged, yet something is preventing them from functioning. 
@@ -183,6 +207,8 @@ UHURA: All decks report status. All decks report status.
 SULU: Bridge to Engineering. Come in. What's happening to our power? Bridge to Engineering, report. 
 ENGINEER [OC]: Everything's out. We've switched to reserve power. Lost all power in the warp engines. 
 (Scott and McCoy enter) 
+
+
 SCOTT: How is it, Mister Sulu? 
 SULU: No answer yet on what caused it. They're standing by. 
 SCOTT: Shut down all but the most necessary systems. 
@@ -202,12 +228,16 @@ SPOCK: As I turned and my eyes beheld you, I displayed emotion. I beg forgivenes
 SURAK: The cause was more than sufficient. Let us speak no further of it. In my time, we knew not of Earth men. I am pleased to see that we have differences. May we together become greater than the sum of both of us. 
 KIRK: Spock, we'll not go along with these charades any longer. 
 (A rock changes into a creature with heavy fore-claws) 
+
+
 ROCK: You'll have an answer soon, Captain. Our world is called Excalbia. Countless who live on that planet are watching. Before this drama unfolds, we give welcome to the ones named Kirk and Spock. 
 KIRK: We know nothing of your world or your customs. What do you mean, drama about to unfold? 
 ROCK: You're intelligent life form, but I'm surprised you do not perceive the honour we do you. Have we not created in this place on our planet a stage identical to your own world? 
 KIRK: We perceive we were invited to come here, and we came in friendship. And you have deprived us of our instruments to examine your world, to defend ourselves, to communicate with our vessel. 
 ROCK: Your objection is well taken. We shall communicate with your vessel so your fellow life forms may also enjoy and profit from the play. Behold. 
 (More people arrive. A human, a Mongol, an alien woman and a Klingon) 
+
+
 ROCK: Captain, Mister Spock, some of these you may know through history. Genghis Khan, for one. And Colonel Green, who led a genocidal war early in the 21st century on Earth. Zora, who experimented with the body chemistry of subject tribes on Tiburon. Kahless the Unforgettable, the Klingon who set the pattern for his planet's tyrannies. We welcome the vessel Enterprise 
 [Bridge]
 ROCK [on viewscreen]: To our solar system and to our spectacle. 
@@ -233,6 +263,8 @@ ROCK: Do you wish further clarification? Your choice of action is unlimited, as 
 KIRK: Mister Spock and I refuse to participate. 
 ROCK: You will decide otherwise. 
 (And changes back into a real lump of rock) 
+
+
 KIRK: Analysis, Spock. Why do they want us to fight? 
 SPOCK: It may be exactly as explained, Captain. Our concept of good and evil is strange to them. Perhaps they wish to determine which is strongest. 
 KIRK: And they'll get their answers if it kills us. 
@@ -250,6 +282,8 @@ GREEN [on viewscreen]: That we combine forces, and reason some way to overcome i
 KIRK [on viewscreen]: You were notorious, Colonel Green, for striking at your enemies in the midst of negotiating with them. 
 GREEN [on viewscreen]: But that was centuries ago, Captain, and not altogether true. No, there is much I would change now if I could. Don't let prejudice and rumour sway you. 
 (Meanwhile, the other three baddies split up and start to circle around) 
+
+
 SULU: Captain! How can we warn him? 
 (Khan throws a rock at Spock, and a fight starts until the bad guys run off) 
 [Planet surface]
@@ -344,6 +378,8 @@ KIRK: The weapons, gentlemen. In case he fails.
 [Bad guy base]
 KAHLESS: Colonel! 
 (They watch Surak approach. Zora makes to throw a spear) 
+
+
 GREEN: No. Let's hear what he has to say. We may find it useful. Stop there, Vulcan. State your purpose. 
 SURAK: I come in peace to propose peace. 
 GREEN: Are you surrendering? 
@@ -363,16 +399,22 @@ SURAK: Your life and the lives of the others. You said yourself, Colonel, that w
 KAHLESS: Why don't we kill him? 
 GREEN: No. He's our means to finish them all. 
 (Kahless and Khan circle around) 
+
+
 SURAK: Colonel, surely you accept the logic of this. What is your answer? 
 GREEN: You're very persuasive, Vulcan. I'd like to come out of this with a whole skin. Perhaps I can convince my associates that it would be to their advantage also. 
 [Good guy base]
 (Kirk, Spock and Lincoln are also sharpening sticks as spears) 
+
+
 KIRK: Your Surak is a brave man. 
 SURAK: Men of peace usually are, Captain. On Vulcan, he is revered as the father of our civilisation. The father image holds much meaning for us. 
 KIRK: You show emotion, Spock. 
 SPOCK: I deeply respect what he has accomplished. 
 KIRK: I hope he accomplishes something here, and soon. 
 (A scream rings out)
+
+
 KIRK: Surak? 
 SURAK [OC]: Help me, Spock! Spock, help me! 
 GREEN [OC]: Mister Spock, your friend wants you. He seems to be hurt. 
@@ -408,23 +450,37 @@ KIRK: Your campaign, Mister President.
 [Bad guy base]
 GREEN: They should be coming soon. 
 (Green and Khan see Kirk and Spock duck down behind a large rock, carrying a lot of spears) 
+
+
 GREEN: Zora! Kahless! No, wait! 
 (Spock throws the first spear) 
+
+
 GREEN: How many do you see? 
 KAHLESS: Two. 
 GREEN: Zora. 
 (She goes to circle around. Khan and Kirk throw rocks at each other. Meanwhile, a very stealthy Lincoln has found Surak.) 
+
+
 LINCOLN: Surak. 
 (Green and Kahless arrive) 
+
+
 LINCOLN: Surak, the others have drawn them away. We will circle around. It was a worthy effort, Surak. Worthy. No need to blame yourself before its failure. 
 (But once untied, Surak is revealed to be dead.) 
+
+
 KAHLESS: (as Surak) Help me, Spock. Help me, Spock. 
 GREEN: Now can you cry like Lincoln? 
 KAHLESS: (as Lincoln) Help me, Kirk. Help me, Kirk! 
 (Lincoln walks towards Kirk and Spock) 
+
+
 KIRK: Mister Lincoln! 
 LINCOLN: James, stay back. 
 (Lincoln finally topples forward, a big spear in his back. Now the close fighting begins, with Green letting his 'associates' do the hard work. Zora runs off. Kirk deals with Kahless and helps Spock with Khan. The bad guys retreat. Kirk chases and catches Green who ends up falling on his own dagger.) 
+
+
 ROCK: You are the survivors. The others have run off. It would seem that evil retreats when forcibly confronted. However, you have failed to demonstrate to me any other difference between your philosophies. Your good and your evil use the same methods, achieve the same results. Do you have an explanation? 
 KIRK: You established the methods and the goals. 
 ROCK: For you to use as you chose. 

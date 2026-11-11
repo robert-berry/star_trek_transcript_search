@@ -12,6 +12,8 @@ KIRK: Someone or something has succeeded. Our distress signal relays have been a
 SPOCK: I do not know. Not even a Vulcan can know the unknown, Captain. We are hundreds of light years past where any Earth ship has ever explored. 
 SULU: Planet dead ahead, Captain. Becoming visual. 
 (There's a yellow and gold planet on the viewscreen.) 
+
+
 SPOCK: Class M planet, Captain. 
 KIRK: Close to Earth conditions. 
 SPOCK: With two very important exceptions. It's much older than Earth, and about a half million years ago, its atmosphere was totally ripped away by some sort of cataclysm. The planet has evidently been dead since then. Sensors detect no life of any kind. 
@@ -44,9 +46,13 @@ KIRK: Spock.
 SPOCK: Captain, I do wish to inspect whatever this is that lived that long ago. 
 KIRK: And I would like to have my science officer with me on something as unusual as this, but it is full of unknowns and we can't risk both of us being off the ship. 
 (The lights go out.) 
+
+
 SULU: All power gone, sir. 
 KIRK: On the other hand, perhaps this Sargon would like you to come with us. 
 (Power is restored.) 
+
+
 SPOCK: Fascinating. 
 SULU: All normal. No damage at all. 
 KIRK: I see. Will you transport down with us, Mister Spock? 
@@ -92,6 +98,8 @@ MULHALL: All readings are off the scale, Captain.
 MCCOY: The air seems fresh. It must be re-circulated somehow. 
 KIRK: Is that for us, or does it need fresh air? 
 (A panel slides back to reveal a much larger area, with rock walls, and a glowing sphere elegantly poised on an angled support.) 
+
+
 SARGON: (the glowing sphere) Welcome. I am Sargon. 
 SPOCK: Sargon, would it harm you if I 
 SARGON: You may use your tricorder, Mister Spock. Your readings will show energy but no substance. Sealed in this receptacle is the essence of my mind. 
@@ -112,6 +120,8 @@ KIRK: I don't understand.
 SARGON: One day our minds became so powerful, we dared think of ourselves as gods. 
 KIRK: You said you wanted our help. What is it you wish? 
 (Kirk staggers back slightly, then there is a high-pitched sound as his head is flung back.) 
+
+
 SPOCK: Just a moment, Doctor. 
 KIRK: I am Sargon. 
 MCCOY: Where's our captain? Where's Jim Kirk? 
@@ -119,6 +129,8 @@ KIRK: He is unharmed. I have taken his body to demonstrate
 MCCOY: (drawing his phaser) I won't go along with this. Back to where you were, Sargon, or whatever you are. 
 SPOCK: And if he refuses, Doctor, what do you propose to do with your phaser? That is still Jim's body. 
 (Kirk convulses briefly, and the sphere has dimmed a lot.) 
+
+
 KIRK: Lungs filled with air again. To see again. Heart pumping, arteries surging with blood again. A half a million years. To be again. Your captain has an excellent body, Doctor McCoy. I compliment you both on the condition in which you maintained it. 
 SPOCK: What are your plans for it? Can you exchange places again when you wish? 
 KIRK: Have no fear. Your captain is quite unharmed, although his mind generates insufficient energy for him to speak from there as I do. 
@@ -130,6 +142,8 @@ SPOCK: What is it you want of us?
 KIRK: In the next room, there are other receptacles. The other two of us that survived. You, Doctor Ann Mulhall, and you, Mister Spock, we require your bodies also. We must have Captain Kirk and you so that we may live again. 
 [Small chamber]
 (There are a group of boxes on the wall, containing spheres. Only two are alight.) 
+
+
 KIRK: Even for us, a half million years is almost too long to wait. Two others still survive. Henoch and Thalassa. Thalassa, my Thalassa. I am pleased you survived with me. Forgive me. It has been so very long. 
 SPOCK: When the struggle came which devastated your planet 
 KIRK: Only the best minds were chosen to survive. Thalassa, my wife, as you may have guessed. Henoch, from the other side. Realising our mistake, we attempted to perpetuate both sides. We built this chamber here in order to preserve our essence in this fashion. 
@@ -148,6 +162,8 @@ KIRK: No. Our methods, our skills are far beyond your abilities. It is time.
 (They help him back to Sargon's sphere.) 
 [Chamber]
 (Kirk briefly convulses with pain, then the sphere glows bright again, and he falls to his knees.) 
+
+
 MCCOY: Is it you, Jim? (a nod) Good, his metabolic rate is back to normal. 
 SPOCK: Captain, do you know what happened? Do you remember any part of it? 
 KIRK: Yes. Sargon borrowed my body. I was floating in time and space. 
@@ -182,11 +198,15 @@ MCCOY: Then I'll still want one question answered to my satisfaction. Why? Not a
 KIRK: They used to say if man could fly, he'd have wings. But he did fly. He discovered he had to. Do you wish that the first Apollo mission hadn't reached the moon, or that we hadn't gone on to Mars and then to the nearest star? That's like saying you wish that you still operated with scalpels and sewed your patients up with catgut like your great-great-great-great-grandfather used to. I'm in command. I could order this. But I'm not because, Doctor McCoy is right in pointing out the enormous danger potential in any contact with life and intelligence as fantastically advanced as this. But I must point out that the possibilities, the potential for knowledge and advancement is equally great. Risk. Risk is our business. That's what the starship is all about. That's why we're aboard her. You may dissent without prejudice. Do I hear a negative vote? (silence around the table) Engineer, stand by to beam aboard three receptacles. 
 [Sickbay]
 (The three volunteers are lying on beds, with the spheres on tables beside them.) 
+
+
 MCCOY: The extreme power of the alien mind will drive the heart action dangerously high, and The body functions will race many times their normal metabolism, so we're going to have to monitor this very carefully. 
 CHAPEL: Yes, sir. 
 MCCOY: Well, I guess we're as ready as we'll ever be, Jim. 
 KIRK: Ready, Sargon. 
 (The spheres emit a brilliant light, the patients twitch, then the spheres dim.) 
+
+
 KIRK: (with echoy Sargon voice) The transference is complete. 
 CHAPEL: Metabolic rate is double and rising, Doctor. 
 SPOCK: (with a grin and echoy voice) Hello. Oh, you are a lovely female. A pleasant sight to wake up to after half a million years. 
@@ -199,12 +219,18 @@ KIRK: And I too am pleased, beloved.
 MULHALL: After so long. So very long. 
 KIRK: Kiss. 
 (So they do.) 
+
+
 SPOCK: This is an excellent body, Doctor. I seem to have received the best of the three. Strength, hearing, eyesight, all far above your human norms. I'm surprised the Vulcans never conquered your race. 
 MCCOY: Vulcans worship peace above all, Henoch. 
 SPOCK: Yes, of course, Just as we do, Doctor. 
 (Mulhall/Thalassa collapses and they help her back onto the bed.) 
+
+
 MCCOY: Nurse! 
 (Then Kirk/Sargon gets dizzy.) 
+
+
 CHAPEL: Doctor? 
 MCCOY: Henoch, you'd better get back to bed too. 
 SPOCK: It will be unnecessary, Doctor. This Vulcan body is accustomed to the higher metabolism. 
@@ -216,8 +242,12 @@ KIRK: Henoch, your condition?
 SPOCK: I can continue in this body for several hours. 
 KIRK: Fortunate. We will vacate at once. 
 (And they are as good as their word.) 
+
+
 SPOCK: This woman will assist me. (to Chapel) You will take me to your pharmacology laboratory. 
 (They leave.) 
+
+
 KIRK: Bones, what? 
 MCCOY: It was close, Jim. You both barely got back alive. Unless the formula works, we can't risk it again. 
 [Pharmacy]
@@ -230,6 +260,8 @@ CHAPEL: This hypo does not contain the same formula.
 SPOCK: No, that's correct. But since I will arrange for you to administer each of the injections, no one else will notice. 
 CHAPEL: Without the same formula, Captain Kirk will die. 
 (He touches her forehead.) 
+
+
 SPOCK: What were you saying? 
 CHAPEL: I. I was. I wanted to say something. I've forgotten what it was. 
 SPOCK: Yes. Well, you were about to say that you watched me prepare the formula and fill each of the hypos. 
@@ -240,6 +272,8 @@ Enterprise Medical Log. Stardate 4769.1. Three alien minds now inhabit the bodie
 MCCOY: As planned, the construction of android robots is underway. All is proceeding as expected and as promised. I can find no reason for concern, but yet I am filled with foreboding. 
 [Laboratory]
 (Sargon and Thalassa are working, when their hands touch.) 
+
+
 MULHALL: Sargon, I remember a day long ago. We sat beside a silver lake. The air was scented with the flowers of our planet. 
 KIRK: I remember. You held my hand like this. 
 (He kisses it, as Spock comes in.);
@@ -250,6 +284,8 @@ MULHALL: What is it, Sargon?
 KIRK: Nothing. Our next injection will renovate me. Do not be concerned. 
 [Sickbay]
 (Chapel is holding the hypos and trying to remember something very important.) 
+
+
 MCCOY: Nurse, how are the last metabolic readings on our patients? 
 CHAPEL: You'll find them excellent, Doctor. Well within normal. 
 MCCOY: Is something wrong, Miss Chapel? 
@@ -261,12 +297,16 @@ CHAPEL: Tired? Well, not at all, Doctor. Thank you for asking.
 (Leaves a puzzled McCoy.) 
 [Laboratory]
 (Mulhall/Thalassa is looking at her reflection in a metallic surface when Scott comes in with a small doo-dad.) 
+
+
 MULHALL: Thank you. Have you prepared the negaton hydracoils for the drawing Sargon supplied? 
 SCOTT: For all the good it'll do you. It's a fancy name, but how will something that looks like a drop of jelly make this thing work? You'll need microgears and a pulley that does what a muscle does. 
 MULHALL: That would be highly inefficient. 
 SCOTT: I tell you, lady, this thing won't work. 
 SPOCK: It will have twice the strength and agility of your body, engineer, and will last a thousand years. That is, assuming you'll stop wasting your time and allow us to complete it. 
 (Scott leaves as 'Spock' laughs.) 
+
+
 SPOCK: A thousand-year prison, Thalassa. And when it wears out we'll build another one, and we'll lock ourselves into it for another thousand years. And another, and another. Sargon has closed his mind to a better way. With these bodies. 
 MULHALL: They're not ours, Henoch. 
 SPOCK: When you awoke in this body, Thalassa, you said how good it was to breathe again, to have eyes and to see again. To feel. To live and feel again, Thalassa. Just think how much we can do for mankind. Are these bodies too much to ask for in return? Would you prefer this? 
@@ -277,10 +317,14 @@ KIRK: Sickbay.
 MCCOY [OC]: Sickbay. McCoy. 
 KIRK: Sargon here, McCoy. I'm in your deck six briefing room. 
 (Mulhall enters.) 
+
+
 MCCOY [OC]: You sound terrible. Wait there for me. 
 MULHALL: Sargon, what is it? 
 KIRK: Nothing of importance. Fatigue perhaps. 
 (She sees what is on the monitor.) 
+
+
 MULHALL: Henoch's formula. 
 KIRK: Yes. I wanted to be certain there was no error. Formula is correct. Don't be concerned. It is an excellent body. There. You see? I feel better already. 
 MULHALL: In time, a host body will become accustomed to us, husband. Injections will no longer be necessary. 
@@ -291,16 +335,22 @@ MULHALL: Beloved. What will that word mean to a machine?
 KIRK: Our thoughts will intertwine. 
 MULHALL: Will they, husband? Will they intertwine like this? Can two minds press close like this? Can robot lips do this? (they kiss, then Kirk falls gently to the floor) Sargon, what is it? 
 (McCoy and Chapel enter.) 
+
+
 MCCOY: Hypo. 
 MULHALL: Doctor, help him! 
 MCCOY: He's dead. 
 Medical Log. Stardate 4770.3. Do I list one death or two? When Kirk's body died, Sargon was too far distant from his receptacle to transfer back. Sargon is dead. But is Captain Kirk dead? His body is, but his consciousness is still in the receptacle into which it was transferred earlier. 
 [Sickbay]
 (The medical team hook Kirk's body up to a life support machine.) 
+
+
 NURSE: All his vital organs are now working, Doctor. 
 MCCOY: Yes, we can keep them going for a few weeks, or a month. For all the good it'll do. 
 [Laboratory]
 (There is a shiny plastic person on the table now.) 
+
+
 MULHALL: Why pretend to work on that thing, Henoch? You know you never intended to leave Spock's body. 
 SPOCK: This is your new home, Thalassa. Once occupied, I'll add female features and some texturing. You no doubt want the mechanism to at least appear to be a woman. (he tests its hand movement.) It is ready, Thalassa. 
 MULHALL: No! 
@@ -330,37 +380,59 @@ CHAPEL: Doctor.
 MULHALL: Doctor, leave us. Sargon has a plan. We have much work to do. 
 [McCoy's office]
 (McCoy leaves the room, and the door shuts and locks behind him. The ship shakes as he activates his desk monitor.) 
+
+
 MCCOY: This is Sickbay. Get me 
 (The door opens, and Chapel walks out, staring blankly ahead.) 
+
+
 MCCOY: Nurse Chapel, what in the devil? 
 [Sickbay]
 (He goes back into the ward.)
+
+
 MCCOY: Jim? Are you all right? 
 KIRK: Yes, I'm fine, Bones. 
 MCCOY: Thalassa? 
 MULHALL: She is now with Sargon, Doctor. I'm Ann Mulhall, back in my own body. 
 (Then we see the three blackened and broken spheres.) 
+
+
 MCCOY: Jim, the receptacles. Spock's consciousness was in one of them. 
 KIRK: It was necessary. 
 MCCOY: What are you talking about? There is no Spock to return to his body. You've killed a loyal officer, your best friend. 
 KIRK: Bones, prepare a hypo. The fastest, deadliest poison to Vulcans. Spock's consciousness is gone. We must kill his body, the thing in it. 
 [Bridge]
 (Uhura is screaming in terror before collapsing across her console. Chapel is standing rigid by the Captain's chair.) 
+
+
 SPOCK: Must I make an example of you, too, Helm? 
 (Kirk, Mulhall and McCoy enter.) 
+
+
 SPOCK: Pain, Captain. And you, my dear? 
 (As Kirk and Mulhall double over, McCoy dashes to Spock's side, ready to inject him.) 
+
+
 SPOCK: Fortunately, Doctor, I know every thought of every mind around me. See? (to Chapel) Take the hypo from him. And inject him with it. 
 (But she injects Spock/Henoch instead! He leaps from his seat.) 
+
+
 SPOCK: Fools. I'll simply transfer to another place, another body. 
 (He whirls around.) 
+
+
 SPOCK: Sargon! No, Sargon, please. Let me. Let me transfer. 
 (He falls to the floor and his victims are freed from their pain.);
 KIRK: Spock. My friend Spock. If there'd only been another way. 
 SARGON [OC]: I could not allow your sacrifice of one so close to you. 
 (Lights dim and glow, then Chapel wobbles.) 
+
+
 MCCOY: Jim. 
 (Spock stands up.) 
+
+
 KIRK: You're alive. 
 MCCOY: There was enough poison in that hypo to kill ten Vulcans. 
 SARGON [OC]: No, Doctor. I allowed you to believe that to be true so that Henoch would read your thoughts and believe it also. 
@@ -374,11 +446,15 @@ SARGON [OC]: We now know we cannot permit ourselves to exist in your world, my c
 KIRK: Is there any way we can help you, Sargon? 
 SARGON: Yes, my son. You can allow Thalassa and me to share your bodies again. A last moment together. 
 (Mulhall nods, and they go over to the science station for the light trick and voice change.) 
+
+
 MULHALL: Oblivion together does not frighten me, beloved. Promise we'll be together. 
 KIRK: I promise, beloved. 
 MULHALL: Together forever. 
 KIRK: Forever beloved. Forever. 
 (They embrace and kiss, and the light thing happens again during it.) 
+
+
 KIRK: Well, I'm sure that Sargon appreciated your co-operation, Doctor Mulhall. 
 MULHALL: Yes. I was happy to co-operate, Captain. 
 CHAPEL: It was beautiful. 

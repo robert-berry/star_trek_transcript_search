@@ -23,8 +23,12 @@ KIRK: Full power to the shields, Mister Scott.
 SCOTT: Giving them all we got. 
 KIRK: All hands, Red Alert. Phaser banks stand by. Photon torpedoes to Condition Red, Condition Red. 
 (The viewscreen fills with a ball of bright light.) 
+
+
 SULU: It's going to hit. 
 (Everyone gets thrown around a lot, and the lights go out for a short while.) 
+
+
 SCOTT: Shields still holding, sir. 
 KIRK: Good. 
 SPOCK: Temporarily, Captain. Our shields absorbed energy equivalent to ninety of our photon torpedoes. 
@@ -37,6 +41,8 @@ KIRK: Mister Spock, pinpoint the source. Mister Sulu, evasive manoeuvres.
 SULU: Aye, sir. 
 KIRK: Lieutenant, contact Starfleet Command. Patch in my log. Tell them what has happened. Tell them the entire Malurian race seems to have been destroyed by an unknown agency, and that we are under attack by an unidentified force. 
 (Another ball of light is on the viewscreen) 
+
+
 KIRK: Helmsmen, I said evasive manoeuvres. 
 SULU: We're losing power, sir. 
 KIRK: Scotty? 
@@ -47,6 +53,8 @@ KIRK: Then we can't out run them. Good, Scotty. You're doing the right thing. (a
 SPOCK: Unknown, Captain. Nothing within sensor range. (a third bolt approaching) Something now, Captain. Very small. Bearing one two three degrees, mark one eight. Range ninety thousand kilometres. 
 KIRK: That's our target, Mister Sulu. Prepare photon torpedo. 
 (The third bolt hits) 
+
+
 SCOTT: Shields still holding, sir, but the drain on the engines is reaching the critical point. Ach, we lost warp manoeuvreing power. Switching to impulse. 
 SULU: Photon torpedoes armed, sir. 
 KIRK: Has the target changed location, Mister Spock? 
@@ -64,6 +72,8 @@ SULU: Sir, they've fired another.
 KIRK: Can we take it, Mister Scott? 
 SCOTT: That's problematical, sir. 
 (It hits.) 
+
+
 SPOCK: Captain, shields are down. We cannot survive another hit. 
 KIRK: Anything, Lieutenant? 
 UHURA: I'm trying, sir. 
@@ -92,6 +102,8 @@ SPOCK: It's a formula, Captain. They're sending us a mathematical message and re
 KIRK: Tie in the ship's translator to the communication channel. Let them take it at their own speed. 
 UHURA: Aye, Captain. 
 (Suddenly one of Spock's console monitor's burns out.) 
+
+
 SPOCK: Cut power, Lieutenant. Overloaded and burned out. 
 KIRK: I guess they can take it faster than we give it. 
 UHURA: Captain, the message is coming in now. 
@@ -114,6 +126,8 @@ MCCOY: They've got the co-ordinates, Jim. It's locked in.
 KIRK: Energise. 
 SCOTT: Energising. 
 (What looks like a satellite - antenna at the top, engine at the bottom and flashing lights on the side - is hanging in mid air over the transporter pad.) 
+
+
 KIRK: Sensor readings, Mister Spock. 
 SPOCK: Negative, Captain. It has a protective screen. I cannot get through. 
 MCCOY: What do we do now, go up and knock? 
@@ -126,7 +140,7 @@ KIRK: If you care to leave your ship, we'll provide the necessary life support s
 NOMAD: Non sequitur. Your facts are uncoordinated. 
 MCCOY: Jim, I don't think anybody's in there. 
 NOMAD: I contain no parasitical beings. I am Nomad. 
-. SCOTT: In my opinion, that's a machine. 
+SCOTT: In my opinion, that's a machine. 
 SPOCK: It is reacting much like a highly sophisticated computer. 
 NOMAD: I am Nomad. What is opinion? 
 SPOCK: An opinion is a belief, a view, a judgment. 
@@ -140,11 +154,15 @@ KIRK: I will bring them.
 NOMAD: I have the capability of movement within your ship. 
 KIRK: This way. 
 (Nomad glides along slowly, in mid-air) 
+
+
 KIRK: Now, Scotty, get our warp power up to full capacity. 
 SCOTT: Aye, sir. 
 KIRK: Spock, Bones, come with us. 
 [Auxiliary control]
 (A bemused young Indian officer watches the performance.) 
+
+
 SPOCK: Chart 14A, sir? 
 KIRK: 14A. (a diagram of our solar system comes up on a screen) Nomad, can you scan that? 
 NOMAD: Yes. 
@@ -188,6 +206,8 @@ SPOCK: Presumed destroyed by a meteor collision. I submit that it was badly dama
 KIRK: I heard some lectures at the Academy on the Nomad probe. Its mission was essentially peaceful. 
 [Auxiliary control]
 (Nomad is quietly ticking to itself, then suddenly a light comes on at its apex.) 
+
+
 SINGH: Did I disturb you? Did you wish anything? 
 UHURA [OC]: Bridge to auxiliary control room. Check in, please. 
 SINGH: Lieutenant Singh here. 
@@ -219,6 +239,8 @@ SPOCK: Captain, Mister Singh reports that Nomad is no longer in the auxiliary co
 KIRK: Security, cancel that order. Implement a full search for the mechanism. All decks report to me here. 
 [Bridge]
 (The turbolift doors open and Nomad floats out, one antenna extended. Uhura is still singing) 
+
+
 UHURA: Where my heart is, Where a scented miracle 
 SCOTT: (whispering) Bridge to Captain. 
 KIRK [OC]: Captain here. 
@@ -227,6 +249,8 @@ SCOTT: That mechanical beastie is up here.
 KIRK: On my way, Scotty. 
 [Bridge]
 (Nomad retracts its antenna and takes the most direct path to Uhura, who is leaning against the navigation station. Sulu has to move out of its way.) 
+
+
 UHURA: Tomorrow the path along the way, There's where my love 
 NOMAD: What is the meaning? 
 UHURA: What? 
@@ -238,12 +262,16 @@ NOMAD: What is music? (a ray of light envelopes her head) Think about music.
 SCOTT: Lieutenant! Keep away from that 
 KIRK: Scotty! 
 (A blast of energy sends Scott flying backwards into a bulkhead.) 
+
+
 KIRK: Bones. 
 MCCOY: He's dead, Jim. 
 KIRK: Why did you kill him? 
 NOMAD: The unit touched my screens. 
 KIRK: That unit was my Chief Engineer. (silence) Lieutenant. Lieutenant, are you all right? 
 (Uhura just gazes blankly ahead.) 
+
+
 KIRK: Sickbay. What did you do to her? 
 NOMAD: That unit is defective. Its thinking is chaotic. Absorbing it unsettled me. 
 SPOCK: That unit is a woman. 
@@ -259,6 +287,8 @@ KIRK: All right, Nomad. Repair the unit.
 NOMAD: I require tapes on the structure. 
 MCCOY: Well, he'll need tapes on general anatomy, the central nervous system, and then one on the physiological structure of the brain. We'd better give it all the neurological studies we have, as well as tracings of Scotty's hyperencephalogram. 
 (Spock loads up the data.) 
+
+
 SPOCK: Nomad, I have arranged the tapes for flash feed at the top speed of the computer. Please do not draw the information faster than the machine's capacity. 
 NOMAD: Proceed. (a few moments later) Creator, the unit Scott is a primitive structure. Insufficient safeguards built in. Breakdown can occur from many causes. Self-maintenance systems of low reliability. 
 KIRK: It serves me as it is, Nomad. Repair it. 
@@ -267,12 +297,18 @@ MCCOY: The body is in Sickbay.
 NOMAD: Show me Sickbay. 
 KIRK: Doctor McCoy will show you. 
 (McCoy and Nomad enter the turbolift,) 
+
+
 KIRK: Security. I want a twenty four hour, two man armed surveillance on Nomad. Pick it up in Sickbay. 
 [Sickbay]
 (Nomad and McCoy are standing by the biobed with Scott's body on it, and Chapel is scanning it. Kirk and Spock enter.) 
+
+
 CHAPEL: No reaction, Doctor. 
 MCCOY: I could have told you that without looking. 
 (Suddenly, a heart beat, and the indicators rise into the green area.) 
+
+
 SCOTT: What are the lot of you staring at me for? 
 MCCOY: It's unbelievable. 
 SPOCK: Fascinating. 
@@ -290,6 +326,8 @@ MCCOY: Nurse, I want him prepared for a full physical examination.
 CHAPEL: Yes, sir. 
 KIRK: Nomad, come here.
 (They all go to the doorway to the medical bay. Uhura is in bed, still staring blankly) 
+
+
 KIRK: Repair that unit. 
 NOMAD: Not possible. 
 KIRK: You restored Scott. He had much more extensive damage. 
@@ -300,6 +338,8 @@ MCCOY: Yes. I'll get on it right away. Oh, and in spite of the way you repaired 
 SPOCK: Does the creator wish Nomad to wait elsewhere? 
 KIRK: Yes. Nomad, you will go with these units. (the two red-shirts) They will take you to a waiting area. Take it to the top security cell. 
 (Nomad and its escort leave.) 
+
+
 SPOCK: Doctor, I interrupted you because Nomad would not have understood your anger. It has great technical skill, but its reaction to emotion is unpredictable. It almost qualifies as a life-form. 
 MCCOY: That's a laugh. 
 SPOCK: The study of it would be of great use, Captain. 
@@ -307,6 +347,8 @@ KIRK: It's a killer, Spock. I intend to render it harmless. Get down to the Brig
 SPOCK; Yes, sir. 
 [Brig]
 (Spock is sitting with arms crossed as Nomad floats in front of him.) 
+
+
 KIRK: What's the problem? 
 SPOCK: An almost human stubbornness, Captain. I have been unable to convince Nomad to lower its screens for analysis. Without its co-operation, I can do nothing. 
 KIRK: Nomad, you will allow Mister Spock to probe your memory banks and structure. 
@@ -319,6 +361,8 @@ SPOCK: Thank you.
 NOMAD: You may proceed. 
 [Sickbay]
 (Uhura is sitting up in bed, and reading from a monitor.) 
+
+
 UHURA: See the dog. See the dog, 
 CHAPEL: Sound it out. 
 UHURA: R, r, run! 
@@ -343,6 +387,8 @@ SPOCK: There is a risk, but I have formed a partial hypothesis. I must check it 
 KIRK: Nomad, the unit Spock will touch you. It is not an attack. It is a form of communication. You will permit it. 
 NOMAD: I will permit it, Creator. 
 (Spock puts one hand on Nomad's head, where the antenna are, and the other on its body where the lights and ticking are coming from.) 
+
+
 SPOCK: I. Am. Nomad. I am performing my function. Deep emptiness, It approaches. Collision. Damage. Blackness. I. Am. The other. I am Tan Ru, Tan Ru. Nomad. Tan Ru. Error. Flaw. Imperfection. Must sterilise. Rebirth. We are complete. Much power. Gun ta. Noo. Icka. Tan Ru. The creator instructs. Search out. Identify. Sterilise imperfections. We are Nomad. We are Nomad. We are complete. We are instructed. Our purpose is clear. Sterilise imperfections. (he lets go of Nomad) Sterilise imperfections. Nomad. Sterilise. Sterilise. Nomad, sterilise, 
 KIRK: Spock. Spock! Nomad! You're in contact with the unit Spock. Stop! Stop! 
 NOMAD: Acknowledged. 
@@ -364,11 +410,15 @@ Yes.
 (They leave. Nomad flies through the forcefield. The two guards fire their phasers at it but it's screens are back up. Nomad zaps them into oblivion.) 
 [Engineering]
 (Nomad floats in.) 
+
+
 SCOTT: Notify the captain. What are you doing here? Watch your panels, everyone. Watch that polymass. Roger, help with the interfactor. Leave that alone. 
 NOMAD: This primitive matter-antimatter propulsion system is the main drive? 
 SCOTT: Aye. 
 NOMAD: Inefficiency exists in the antimatter input valve. I will effect repair. 
 (The indicator board goes crazy.) 
+
+
 SCOTT: How are you doing that? 
 NOMAD: The energy release controls are also most inefficient. I shall effect repair. 
 ENGINEER: Warp eight, Mister Scott, and increasing. 
@@ -385,6 +435,8 @@ NOMAD: Acknowledged. It is reversed as ordered, Creator.
 KIRK: Mister Scott, give Sulu warp two and keep her there. 
 SCOTT: Aye, sir. 
 (Spock enters, leaving two guards outside.) 
+
+
 SPOCK: Captain. I've examined the brig. The forcefield door on the security cell is damaged and the guards have vanished. I must assume they are dead. 
 KIRK: You killed two of my 
 NOMAD: Creator, your biological units are inefficient. 
@@ -395,6 +447,8 @@ NOMAD: I am programmed to investigate.
 KIRK: I have given you new programming and you will implement it. 
 NOMAD: There is much to be considered before I return to launch point. I must re-evaluate. 
 (Nomad follows the guards down the corridor away from Engineering.) 
+
+
 KIRK: Reevaluate? 
 SPOCK: I suspect it is about to re-evaluate its creator. Captain, it may have been unwise to admit to Nomad that you are a biological unit. In Nomad's eyes, you must now undoubtedly appear imperfect. 
 KIRK: It was a foolish mistake. 
@@ -407,16 +461,24 @@ KIRK: And it will carry out its prime directive. Sterilise.
 Captain's log, stardate 3541.9. The presence of Nomad aboard my ship has become nightmarish. Now it apparently means to return to Earth. Once there, it would automatically destroy all life. 
 [Corridor]
 (The guards, who are now behind Nomad, turn right. Nomad goes straight on.) 
+
+
 GUARD: Hey. Nomad, stop. Nomad, this way. 
 (They fire at it, and the inevitable follows. Strike two more red-shirts. Nomad uses the access tubes between decks instead of the turbolift.)
 (In another corridor.) 
+
+
 MCCOY [OC]: Captain Kirk to Sickbay. Emergency. 
 (Kirk and Spock run to a door labeled 'Leonard McCoy, MD' but it does not open automatically for them.) 
+
+
 KIRK: Manual controls. 
 SPOCK: No response. 
 (The doors open and Nomad comes out. KIRK: Nomad. Nomad? Stop. Nomad, stop! Nomad. 
 [Sickbay]
 (McCoy is cradling Chapel in his arms.) 
+
+
 KIRK: Is she all right? 
 MCCOY: I think so. Looks like some kind of shock. 
 KIRK: What happened? 
@@ -437,6 +499,8 @@ MCCOY: Jim, with all the systems out we'll only have enough air and heat for
 KIRK: Get Scotty, some antigravs and meet me in Engineering. 
 [Engineering]
 (Everyone appears to be unconscious as Kirk runs in alone.) 
+
+
 KIRK: Nomad? Stop what you're doing and effect repairs on the life-support systems. 
 NOMAD: Stop. 
 KIRK: You're programmed to obey the orders of your creator. 
@@ -452,8 +516,12 @@ NOMAD: You are the Creator.
 KIRK: But I admit I'm imperfect. How could I have created such a perfect thing as you? 
 NOMAD: Answer unknown. I shall analyse. 
 (Spock enters, with Scott, two engineers and the requested anti-grav units) 
+
+
 NOMAD: Analysis complete. Insufficient data to resolve problem, but my programming is whole. My purpose remains. I am Nomad. I am perfect. That which is imperfect must be sterilised. 
 (The engineers remove the unconscious men and take their places at the controls.) 
+
+
 KIRK: Then you will continue to destroy that which thinks and lives and is imperfect? 
 NOMAD: I shall continue. I shall return to launch point Earth. I shall sterilise. 
 KIRK: You must sterilise in case of error? 
@@ -473,6 +541,8 @@ NOMAD: I shall analyse error. Analyse error,
 KIRK: Now. Get those antigravs on it. 
 NOMAD: Examine error. Error. 
 (The anti-gravs are not stopped by any forcefields.) 
+
+
 KIRK: We've got to get rid of it while it's trying to think. 
 SPOCK: Your logic was impeccable, Captain. We are in grave danger. 
 KIRK: Scotty, the transporter room. 

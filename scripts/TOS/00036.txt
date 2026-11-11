@@ -5,6 +5,8 @@ Stardate: 3614.9
 Original Airdate: 22 Dec, 1967
 [Cafe]
 (A woman is doing a belly-dance, complete with finger-cymbals, while the patrons lounge on cushions. The audience are appreciating the show.) 
+
+
 SCOTT: Captain, I think I'm going to like Argelius. 
 KIRK: Obviously a man of good taste. 
 SCOTT: You mean to tell me all these women, that all this is 
@@ -15,11 +17,17 @@ SCOTT: Aye. Why shouldn't I?
 KIRK: Good. I've invited her to join us at the table. I thought you might like to meet her. 
 SCOTT: Now that's what I call a real Captain. Always thinking of his men. 
 (The dancer comes over, bends over backwards then does a shimmy before returning to the small stage to finish. Scotty bangs on the table in applause.) 
+
+
 KIRK: Scotty, Scotty. In Argelius they use the lights. 
 SCOTT: Now no one has to tell an old Aberdeen pub-crawler how to applaud, Captain. 
 (She comes over, but the man at the next table doesn't look too pleased with the situation.) 
+
+
 KIRK: Have one of our pillows? 
 (The man leaves as she sits.) 
+
+
 SCOTT: 'Tis a fine foggy night tonight, and I doubt if anyone's ever told you of the marvellous fogs we have in Aberdeen. 
 KARA: Never a word, but I'm dying to learn. 
 SCOTT: Well then, why don't I show you? There's nothing like a walk in the fog with a bonny lass. 
@@ -35,6 +43,8 @@ KIRK: Mission accomplished as far as Scotty is concerned. Bones, I know a little
 MCCOY: Oh yes. I know the place. Let's go. 
 [Street]
 (The fog hangs very low on Argelius - somewhere just below knee level. Couples are meandering along lost in each other. Kirk works out which way to go, then suddenly - a scream splits the night. They run towards it and find the dancer on the ground.) 
+
+
 MCCOY: She's dead, Jim. 
 KIRK: Stabbed, a dozen times. 
 (And standing by a wall, groaning, with a bloody knife in his hand, is Montgomery Scott. 
@@ -64,6 +74,8 @@ HENGIST: So I've been informed by the staff. They're being located and we will q
 KIRK: What's the law in these cases? 
 JARIS: The law of Argelius is love. 
 (An elegant grey-haired man enters, with a woman.) 
+
+
 HENGIST: Gentlemen, our prefect, Jaris. Sir, Captain Kirk, Doctor McCoy. 
 JARIS: And this is my wife, Sybo. 
 HENGIST: And this man is Scott, the one I sent you the message about. 
@@ -76,6 +88,8 @@ HENGIST: Prefect, don't you think this should be handled in an official manner t
 JARIS: It shall be handled in an official manner, Mister Hengist, since I am the highest official. Gentlemen, let us proceed to my home where, with the aid of my wife, we shall learn the truth. Please. 
 [Jaris' home]
 (The middle eastern theme continues with spiral columns, onion-dome arches, latticed windows and plenty of cushions.) 
+
+
 KIRK: Depending on your wife's empathic abilities is all very well, Prefect, but there's only one way we can find out what it is Mister Scott cannot remember. Since you find it impossible to let us go back up to our ship, I can beam down a technician with a psycho-tricorder. 
 MCCOY: Prefect, it will give us a detailed account of everything that's happened to Mister Scott in the last twenty four hours. 
 HENGIST: Oh, I'd advise against it, Prefect. This is purely an Argelian matter. 
@@ -96,11 +110,15 @@ JARIS: Yes. I believe it's the only one in the quadrant. (hands out drinks) Capt
 HENGIST: There are other people we should question. Perhaps I should go expedite their arrival here? 
 JARIS: Yes, please do so, Mister Hengist. Anyone with any connection with this murder should be present at the ceremony. 
 (A woman beams down as Hengist leaves.) 
+
+
 KAREN: Lieutenant Karen Tracy reporting as ordered, Captain. 
 KIRK: Lieutenant, I want a twenty four hour regressive memory check made on Mister Scott. 
 KAREN: Yes, Captain. Where shall I set up? 
 JARIS: If you'll Just follow me, Lieutenant. 
 (Jaris and Karen leave.) 
+
+
 KIRK: Scotty, co-operate completely with Lieutenant Tracy. Maybe we'll clear this thing up. 
 SCOTT: I certainly hope so, sir. I can't stand this not knowing. (leaves) 
 MCCOY: Captain, under normal conditions, Scotty would have never done such a thing. 
@@ -109,6 +127,8 @@ MCCOY: Of course, there's another possibility.
 KIRK: Explain. 
 MCCOY: Hysterical amnesia. When a man feels guilty about something, something too terrible to remember, he blots it out of his conscious memory. 
 (Jaris returns and crosses to another doorway.) 
+
+
 JARIS: Are you ready, Sybo? 
 SYBO: I am ready. May I have the knife, please? 
 JARIS: Certainly. Among other gifts, Sybo has the ability to receive impressions from inanimate objects. Do you have it, Captain? 
@@ -117,6 +137,8 @@ JARIS: But I put it here when we arrived. It's gone.
 (A woman's scream fills the air.) 
 [Chamber]
 (Karen Tracy is lying face down on the floor, and Scott is slumped unconscious in a chair.) 
+
+
 KIRK: Scotty. 
 MCCOY: She's dead, Jim. Just like the other one. 
 KIRK: Stabbed over and over again. 
@@ -138,6 +160,8 @@ JARIS: Yes, there's a door that leads into the garden, but it's been locked for 
 MCCOY: Locks can be picked, Jim. 
 KIRK: Check it. 
 (McCoy leaves and Hengist enters. He is accompanied by the man from the next table and one of the musicians.) 
+
+
 HENGIST: Prefect, both of these men were at the cafe the night of the murder. 
 KIRK: Where've they been during the past few minutes? 
 HENGIST: Captain, if you don't mind please. 
@@ -171,10 +195,14 @@ HENGIST: Need I remind you of the circumstances, Captain? In both cases, your fr
 SYBO: I am ready, Jaris. 
 JARIS: Gentlemen, sit down please. 
 (Everyone sits around the central brazier.) 
+
+
 KIRK: On one condition, Prefect. That the room be sealed so that no one can leave or enter while the ceremony is going on. 
 JARIS: (he flicks a row of switches and the doorways are closed) The room is sealed. 
 SCOTT: Captain, you mean my neck is going to have to depend on some spooky mumbo jumbo? 
 (Kirk's communicator beeps.) 
+
+
 KIRK: Kirk here. 
 SPOCK [OC]: Spock here, Captain. May I have a word with you? 
 KIRK: Yes. Excuse me, gentlemen. (moves away from the group) Yes, Mister Spock? 
@@ -191,6 +219,8 @@ SPOCK: Quite clear, Captain.
 [Jaris' home]
 KIRK: I don't like it any more than you do, Spock, but there's nothing we can do about it. Kirk out, 
 (Everyone is holding hands around the brazier.) 
+
+
 SYBO: Let us begin. Let the circle not be broken. Concentrate upon the flame which burns upon the altar of truth. 
 Yes, there is something here. Something terrible. I feel its presence. Fear, anger, hatred. Anger feeds the flame. Oh! Oh! There is evil here. Monstrous, terrible evil. Consuming hunger. Hatred of all that lives. Hatred of women. A hunger that never dies. It is strong, overpowering. An ancient terror. It has a name. Beratis, Kesla, Redjac! Devouring all life, all light. A hunger that will never die! Redjac! Redjac! 
 (The lights go out, and she screams. When the lights come on again, the flame has gone out. Scott is standing holding Sybo in his arms, then he lets her go and she falls forward across McCoy's lap. There is a knife in her back. 
@@ -221,8 +251,12 @@ Captain's log, stardate 3615.4. With Mister Scott in a technical state of arrest
 [Briefing room]
 KIRK: Each testifier will sit here, place his hand on this plate. Any deviation from factual truth will be immediately detected and relayed to this computer which will in turn notify us. Doctor McCoy has already fed the computer his medical reports. Our laboratory experts are examining the murder weapon and will give their data to the computers for analysis. Shall we begin? 
 (Jaris nods.) 
+
+
 KIRK: Mister Scott, will you take the stand? 
 (Scott sits on the raised chair and puts his right hand on the sensor plate. Yet at no time does the camera let us see all his finger.) 
+
+
 KIRK: Computer, identify verification. 
 COMPUTER: Working. Lieutenant Commander Montgomery Scott. Serial number SE-19754-T. Verified. 
 KIRK: Subject's present physical condition. 
@@ -270,6 +304,8 @@ HENGIST: Prefect, I know you mean well, but I've had experience
 JARIS: For the time being, we will accept Captain Kirk's explanation of the machine's accuracy as factual. I do, however, reserve to myself the right to make the final determination. 
 KIRK: We can ask no more. Mister Morla, will you take the stand? 
 (He does so.) 
+
+
 KIRK: Where were you at the time that Kara was murdered? 
 MORLA: I'm not sure. Walking home, I assume. I was angry. 
 SPOCK: Anger is a relative state, sir. Were you angry enough to do violence? 
@@ -336,6 +372,8 @@ SPOCK: Captain, those places are aligned directly between Argelius and Earth.
 KIRK: Yes. When man moved out into the galaxy, that thing must've moved with him. Computer, identify the proper names Kesla and Beratis. 
 COMPUTER: Working. Kesla. Name given to unidentified mass murderer of women on planet Deneb Two. Beratis. Name given to unidentified mass murderer of women on planet Rigel Four. Additional data. Murders on Rigel Four occurred one solar year ago. 
 (All heads turn towards Mister Hengist) 
+
+
 KIRK: You come from Rigel Four. 
 HENGIST: Well, many people do. It's not a crime. 
 KIRK: No, but what we're investigating is. Would you mind taking the stand, Mister Hengist? 
@@ -354,11 +392,17 @@ SPOCK: Specify. Point of origin.
 COMPUTER: Artefact produced by hill people of Argus River region, planet Rigel Four. 
 KIRK: Now then, Mister Hengist 
 (But Hengist tries to make a break for it, even landing a very good kick on Kirk, who repays him with an even better right cross. Hengist falls to the floor.) 
+
+
 MCCOY: He's dead, Jim. 
 KIRK: But that's impossible. 
 (The lights dim eerily.) 
+
+
 VOICE [OC]: Redjac! Redjac! Redjac! Redjac! Redjac! (maniacal laughter) 
 (The lights come back.) 
+
+
 SPOCK: The computer will not respond to these controls. The entity is unquestionably controlling it. 
 KIRK: And the computer controls the ship. 
 VOICE [OC]: Redjac! Redjac! Redjac! Redjac! 
@@ -367,6 +411,8 @@ SPOCK: It's no use, Captain. The bypass circuits are blocked.
 KIRK: Audio cut off, Spock. 
 SCOTT: Captain! 
 (The viewscreen has an image of hot swirling flames or lava. Anyway, it is fear-inducing.) 
+
+
 TANKRIS: (a lady yeoman) What's happening, Captain? 
 JARIS: What does it mean? 
 KIRK: It means that thing can control the entire operation of the ship, including the life support systems. 
@@ -384,12 +430,18 @@ KIRK: That ought to do it.
 [Turbolift]
 KIRK: Spock! 
 (The door nearly closes before he is inside.) 
+
+
 SPOCK: Apparently our friends learned very quickly. 
 KIRK: Too quickly. Bridge. 
 (But the lights indicate they are going down quickly, not up.) 
+
+
 SPOCK: Freefall! 
 KIRK: Out of control. Put it on manual. Bridge. 
 (They start going up, then an alarm goes off.) 
+
+
 KIRK: That was due to be next. Life-support malfunction. 
 SPOCK: We don't have much time, Captain. 
 KIRK: You said it yourself, Spock. It wants terror, not just death. 
@@ -405,12 +457,16 @@ SULU: This is the first time I heard a malfunction threaten us.
 KIRK: Man your post, Mister Sulu. (to all the crew) Prepare your manual overrides. You may need them. 
 SULU: Aye, sir. 
 (Kirk crouches down by Spock under the life-support station.) 
+
+
 KIRK: Spock. 
 SPOCK: Normal environmental levels have been restored, Captain, but it will not last long. A few hours at best. 
 KIRK: That should be enough time. Let's get at it. 
 SULU: What's going on, Captain? 
 KIRK: Never mind, Mister Sulu. 
 (A nurse enters.) 
+
+
 KIRK: Tranquilliser? 
 NURSE: Yes, sir. 
 KIRK: Everyone, including yourself. 
@@ -436,6 +492,8 @@ KIRK: Yes, that should keep that thing busy for a while. The Argelians will be t
 SULU: I wonder who it is we're not supposed to be afraid of. 
 [Briefing room]
 (McCoy is in the process of inoculating the group. Scott feels no pain, that's for sure.) 
+
+
 SCOTT: Well, sir? 
 KIRK: I doubt very much whether the computers will be inhabited by more than a group of figures for a while. 
 SPOCK: There is resistance, Captain, but the directive is succeeding. Bank after bank is turning to the problem. 
@@ -443,6 +501,8 @@ MCCOY: If you drive it out of the computers, it'll have to go somewhere else.
 KIRK: How are you doing? 
 MCCOY: I'm almost finished. Just Jaris and me. 
 (Maniacal laughter over the intercom.) 
+
+
 SPOCK: Complete computer control, Captain. The entity has fled. 
 KIRK: Yes, but where to? Bones, what would happen if that thing entered a tranquillised body? 
 MCCOY: Well, it might take up knitting, but nothing more violent than that. 
@@ -452,27 +512,41 @@ KIRK: Well, I'm willing to take a chance on Mister Spock. Better give yourself a
 MCCOY: No, I don't think so. I think I ought to stay clear. 
 KIRK: Do as I say. 
 (McCoy injects himself.) 
+
+
 KIRK: Extend your arm, Mister Jaris. 
 JARIS: (grabs Kirk's throat) No, no, kill you all! Die! Make you suffer! 
 (Spock administers a neck-pinch. Hengist comes back to life, snatches up the knife and grabs Yeoman Tankris.) 
+
+
 HENGIST: Everybody keep back or I'll kill her! I'll kill her! Keep back! 
 MCCOY: You'd better be careful. You're going to hurt somebody with that thing. 
 (Hengist pushes his hostage at McCoy then tries to attack Kirk. He's easily defeated.) 
+
+
 HENGIST: You'll suffer! You'll suffer. (Spock injects him) I'll kill all of you. 
 KIRK: Let's get him to the Transporter Room, quick! 
 HENGIST: You'll die, die, die. Everybody will die. 
 [Corridor]
 (Kirk carries the giggling Hengist in a fireman's lift, while Spock follows.) 
+
+
 HENGIST: Kill, kill, kill you all. 
 [Transporter room]
 KIRK: Deep space. Full power. Widest angle of dispersion. Maintain. 
 KYLE: No need to get excited, Captain. I'll do it. 
 (They lay Hengist on the pad.) 
+
+
 KIRK: You do it, Spock. 
 HENGIST: Everybody die. You'll all suffer. 
 (He is beamed out.) 
+
+
 KYLE: You didn't have to shove me, Mister Spock. I'd have gotten round to it. 
 (McCoy and Scott enter, with big grins.) 
+
+
 MCCOY: Well, Jaris is all right. 
 SCOTT: What did you do with that thing, Captain? Did you send it back to the planet? 
 KIRK: No. We beamed it out into open space, Scotty. Widest possible dispersion. 
@@ -489,5 +563,7 @@ MCCOY: I know the place, Jim.
 SCOTT: Let's go see! 
 KIRK: You, gentlemen? In your condition? Don't be ridiculous. Mister Spock, this cafe has women that are so. (met with a Look) No, I guess not. Alone? 
 (Kirk goes to the door and gestures for everyone to leave.) 
+
+
 KIRK: Gentlemen. 
 

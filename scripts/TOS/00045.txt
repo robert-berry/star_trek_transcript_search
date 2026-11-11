@@ -5,11 +5,15 @@ Stardate: 4211.4
 Original Airdate: 2 Feb, 1968
 [Planet surface]
 (Doctor McCoy is sampling the local vegetation when his communicator beeps.) 
+
+
 MCCOY: Yes, Jim. 
 KIRK [OC]: How much longer, McCoy? 
 MCCOY: Oh, about another thirty minutes. I've come across some most interesting organic compounds. Hey, Starfleet was right. 
 [Rocky outcrop]
 (Kirk is also on the planet.) 
+
+
 MCCOY [OC]: These roots and soil cultures can be a medical treasure house. Any problems there? 
 KIRK: No sign of the inhabitants so far. Kirk out. 
 SPOCK: Large prints. The ape-like carnivore in the reports? 
@@ -20,21 +24,31 @@ SPOCK: Class M in all respects. Quite Earth-like.
 KIRK: Except these people stayed in their Garden of Eden. Bows and arrows for hunting, but absolutely no fighting among themselves. Remarkably peaceful and tranquil. 
 VOICE [OC]: Ho! Take cover here! 
 (Kirk and Spock dash off to investigate, and see three dark-haired locals laying an ambush, armed with long-barreled guns.) 
+
+
 SPOCK: Bows and arrows, Captain? 
 KIRK: Villagers with flintlocks? That's impossible. They hadn't progressed nearly that far. 
 SPOCK: Captain, look. 
 (A group of blond hunters is approaching. They do have bows and arrows.) 
+
+
 KIRK: One of those men walking into ambush is Tyree. The friend I lived with here. (He draws his phaser.) 
 SPOCK: Captain, use of our phasers is expressly forbidden. 
 (So instead Kirk throws a rock which startles a villager into firing his weapon early.) 
+
+
 TYREE: Villagers! 
 (There's a chase, hunters after the villagers, and the villagers pursuing Kirk and Spock. A shot is fired, which McCoy hears.) 
 [Planet surface]
 MCCOY: Enterprise, alert! Stand by to beam up landing party. 
 (Kirk and Spock come running, then Spock gets shot in the back.) 
+
+
 KIRK: Spock? Your phaser. (it is missing, so Kirk prepares to use his to defend his friend.) 
 SPOCK: No, Captain. I can travel. 
 (They join McCoy.) 
+
+
 KIRK: Beam us up, quickly. 
 MCCOY: Now, Scotty. Have medics stand by. 
 (They beam out just before the villagers arrive.) 
@@ -98,6 +112,8 @@ KIRK: I understand. We'll arrange a rendezvous schedule. Kirk out.
 Captain's log, stardate 4211.4. Keeping our presence here secret is an enormous tactical advantage, therefore I cannot risk contact with Starfleet Command. I must take action on my own judgment. I've elected to violate orders and make contact with planet inhabitants. 
 [Planet surface]
 (McCoy and Kirk are dressed in the leathers of hill people.) 
+
+
 KIRK: Perfect. Tyree's camp's a quarter of a mile away. 
 MCCOY: Want to think about it again, Jim? Starfleet's orders about this planet state no interference with 
 KIRK: No interference with normal social development. I'm not only aware of it, it was my survey thirteen years ago that recommended it. 
@@ -105,12 +121,16 @@ MCCOY: I read it. Inhabitants superior in many ways to humans. Left alone, they 
 KIRK: Indeed. And I intend to see that they have that chance. You coming with me? 
 MCCOY: Do I have a choice? 
 (So they make their way down the slope, and Kirk gets pounced on by a big white ape with a large horn on it's head and spines down it's back. It easily throws off McCoy as it concentrates on it's first victim, biting him, Throwing rocks makes it stand up, then McCoy vaporizes it with his phaser.) 
+
+
 KIRK: (shaking) Contact ship. Took full poison. Fangs. 
 MCCOY: Enterprise, McCoy. Emergency. Come in. Enterprise, come in. McCoy! Emergency! 
 KIRK: They left. Out of orbit. 
 MCCOY: (giving an injection) Jim, there is no antitoxin for this poison. I can only keep you alive a few hours with this. 
 KIRK: Tyree. Some of his men. Cure. 
 (Three men are standing in front of them.) 
+
+
 MCCOY: Are you hill people? Do you know a hunter named Tyree? A mugato attacked him. He's James Kirk. He's a friend of Tyree's. Blast it! Do something! He's dying! 
 (Kirk passes out.) 
 {Tyree's camp]
@@ -118,9 +138,13 @@ YUTAN: Take him to the cave. I bring Tyree.
 [Cave]
 MCCOY [OC]: Medical log, stardate 4211.8. Kirk is right about the people here. Despite their fear and our strangeness, they're compassionate and gentle. I've learned the hunter Tyree is now their leader. He is expected to return shortly with his wife, who they say knows how to cure this poison. My problem. The captain is in deep shock. I must keep him warm and alive until then. 
 (McCoy wraps plenty of furs around Kirk.) 
+
+
 MCCOY: You and your Garden of Eden. 
 [Hillside]
 (A man and a dark-haired woman come out of hiding after two armed villagers pass.) 
+
+
 NONA: We must obtain the same firesticks, husband. You could be killing them instead. We could take their houses, their goods. 
 TYREE: Nona, enough. In time the villagers will return to their ways of friendship. 
 NONA: In time? They kill your people! I am a Kahn-ut-tu woman. In all this land, how many are there? Men seek us because through us they become great leaders. 
@@ -129,9 +153,13 @@ NONA: And I have spells that help me keep you. Remember this leaf? The night we 
 TYREE: The night of madness. 
 NONA: Oh, Tyree, did you really hate that madness? 
 (She rubs the leaf down his arm, scratching him and leaving pieces attached to his skin.) 
+
+
 TYREE: No, Nona. No! It brought up evil beasts from my soul. 
 NONA: Only one lovely beast, Tyree, my huge, angry man. 
 (They kiss passionately.) 
+
+
 YUTAN: Forgive me.;
 NONA: What is it? 
 YUTAN: There are strangers in our camp. One has taken the mugato bite. He dies. 
@@ -147,6 +175,8 @@ NONA: The stranger, where is he?
 (McCoy is heating another couple of rocks when she arrives. The sight of such a powerful weapon stops her from going in.) 
 [Tyree's camp]
 (Tyree arrives, running.) 
+
+
 TYREE: Nona, where's Kirk? The cave? 
 NONA: Tyree, you wish me to save him? 
 TYREE: You must. He is the one I told you of. The friend of my younger days. 
@@ -157,6 +187,8 @@ TYREE: Nona
 NONA: Quickly! Or he dies. 
 [Sickbay]
 (The indicators over Spock's bed are very low. Chapel is holding his hand, but puts it down quickly when the door opens.) 
+
+
 M'BENGA: Don't let these low panel readings bother you. I've seen this before in Vulcans. It's their way of concentrating all their strength, blood, and antibodies onto the injured organs. A form of self-induced hypnosis. 
 CHAPEL: You mean he's conscious? 
 M'BENGA: Well, in a sense. He knows we're here and what we're saying, but he can't afford to take his mind from the tissue he's fighting to heal. I suppose he even knows you were holding his hand. (leaves) 
@@ -166,23 +198,33 @@ TYREE: I am Tyree.
 NONA: And I'm Tyree's woman. 
 TYREE: It is Kirk. She will cure him. 
 (Nona takes a strange object out of her bag. It is moving slightly.) 
+
+
 MCCOY: What's that? 
 NONA: A mahko root. 
 MCCOY: A plant? It moves. 
 NONA: For those who know where to find it, how to use it, how to pick it. 
 (She holds out her hand, and Tyree cuts it with his knife. Then she starts writhing for a few moments before putting the mahko root onto Kirk's wound and holding it there with her bleeding hand.) 
+
+
 NONA: Take this of my soul. This of my soul. Thine own. Into thine. Deeply. Together. Your pain is mine. All mine. Your soul and mine, together! Return. It is past. Return. Return! 
 (Tyree beats a drum then she collapses, exhausted, across Kirk's bare chest. The root is shriveled. Kirk wakes up.) 
+
+
 KIRK: Bones. I had the strangest dream. 
 MCCOY: How do you feel, Jim? 
 KIRK: Tired. Very tired. You did a fine job, Bones. I think I'll sleep. 
 (McCoy removes the root. The would has healed completely.)
+
+
 MCCOY: I want to thank you for saving his life. (Nona's hand is healed too) I would like to learn more about this. 
 NONA: Our blood has passed through the mahko root together. Our souls have been together. He is mine now. 
 TYREE: She must sleep also. 
 MCCOY: He is hers? 
 TYREE: When a man and woman are joined in this manner, he can refuse her no wish. But it is only legend. 
 (Later, McCoy wakes to find Jim is out of bed. He finds him by Nona's bed.) 
+
+
 MCCOY: Jim. 
 KIRK: Bones. What are you doing here? (their voices wake Tyree) Tyree. My old friend. 
 TYREE: Yes, James! James, it's good to see you. 
@@ -196,6 +238,8 @@ NONA: And of things to be done.
 TYREE: Come. (the men leave, but he stops Nona from following.) We will speak of it. 
 [Sickbay]
 (The markers on the indicator board above Spock's head are going up and down like crazy.) 
+
+
 CHAPEL: The readings are beginning to fluctuate. 
 M'BENGA: Just as they should. This is Doctor M'Benga. There will be someone with you constantly now. When the time comes, I'll be called. (to Chapel) As soon as he shows any signs of consciousness, call me immediately. 
 CHAPEL: Yes, Doctor. 
@@ -231,16 +275,22 @@ MCCOY: What's bothering you, Jim? If we find the Klingons have helped the villag
 KIRK: That's what's bothering me. The something we may have to do. 
 [Village]
 (Smooth walled buildings with tiled roofs, shrubs in terracotta jars. An armed guard patrols in front of one with a verandah.) 
+
+
 TYREE: The guard. We must wait. 
 KIRK: Tyree, supposing you had to fight? What then? 
 MCCOY: Jim, this man believes in the same thing we believe in. That killing is stupid and useless. 
 KIRK: Tyree? 
 TYREE: Now. Come. 
 (Kirk sneaks around behind the guard and puts a sleeper hold on him.) 
+
+
 KIRK: The gun. Ammunition. Doctor. 
 (McCoy and Kirk run off while Tyree picks up the flintlock.) 
 [Building]
 (A Klingon is sitting behind a simple wooden table.) 
+
+
 KRELL: You are late, my friend Apella. 
 APELLA: A quarrel by my people. A division of some skins and a hill woman taken this morning. It's hard to divide one woman. 
 KRELL: Give her to the man who killed the most of her people. The others will see the profit in bravery. I'll make a Klingon of you yet. 
@@ -253,16 +303,24 @@ MCCOY: Jim. Coal for forge, sulphur for gun powder.
 KIRK: Let's take a look inside. 
 [Forge]
 (A big bellows runs straight into the base of the fire.) 
+
+
 KIRK: Well, here's your forge. People's exhibit number one. A chrome steel drill point. 
 MCCOY: (scanning) This pig iron is almost carbon-free. That village furnace certainly didn't produce it. People's exhibit number two. Cold-rolled gun barrel rod fashioned to look homemade. You were right about the Klingons, Jim. KIRK: Make recorder and scanner tapes of everything. 
 MCCOY: Right. It's a pity we can't include a live Klingon. That'd just about wrap it 
 (He is interrupted by voices from outside. They hide.) 
+
+
 APELLA [OC]: Is it difficult to cut grooves into the barrels? 
 KRELL [OC]: It's quite simple. I'll show you. 
 (Apella and Krell enter the forge.) 
+
+
 APELLA: I thought my people would grow tired of killing. But you were right. They see that it is easier than trading and it has pleasures. I feel it myself. Like the hunt, but with richer rewards. 
 KRELL: You will be rich one day, Apella, beyond your dreams. The leader of a whole world. A governor in the Klingon Empire. 
 (Then McCoy's scanner whistles. So Kirk jumps the Klingon while McCoy hits Apella with the steel rod he took.) 
+
+
 KIRK: Bones! 
 (They open the door, but there are two more armed villagers outside. Nevertheless, they knock them out and get away.) 
 [Village]
@@ -271,18 +329,24 @@ KIRK: (to Tyree) Move! Fast!
 (Shots are fired as the three run for their lives out of the village.) 
 [Sickbay]
 (Spock starts gasping for air.) 
+
+
 SPOCK: Nurse. 
 CHAPEL: Yes? 
 SPOCK: Hit me. The pain will help me to consciousness. Hit me.
 CHAPEL: Hit you? No! I can't 
 SPOCK: Blast you, strike me! If I don't regain consciousness soon, it may be too late. Hit me. (she slaps his face) Harder! 
 (She does, with tears in her eyes.) 
+
+
 SPOCK: Again. Continue. The pain will help me to consciousness. 
 SCOTT: (running in and dragging her away) What are you doing, woman? 
 CHAPEL: Leave me alone! 
 SCOTT: Have you gone daft? 
 CHAPEL: Mister Spock needs me! Let go! 
 (M'Benga rushes in and helps Spock to sit up before giving him some pretty vicious hits across the face. Scott stares, astonished. Finally Spock grabs M'Benga's arm.) 
+
+
 SPOCK: That will be quite enough. Thank you, doctor.;
 M'BENGA: Please, release her. 
 SCOTT: What's this all about? 
@@ -293,6 +357,8 @@ SPOCK: Thank you, nurse. I'm quite fully recovered.
 CHAPEL: Yes, I see you are. 
 [Tyree's camp]
 (Just slightly away from the tents, Kirk is giving a rifle shooting lesson.) 
+
+
 KIRK: Men, this is the pan. This is the hammer. The hammer striking the pan causes a spark, ignites the powder, and fires the flintlock. Now aim it as I showed you. Hold your breath and squeeze the trigger gently. (Tyree shoots the clay pot target) Well done. Very, very, very good. 
 MCCOY: Jim, I want to talk to you. 
 KIRK: Not here, Bones. In the cave. Yutan, your turn. 
@@ -330,49 +396,73 @@ NONA: Yes. They always believe they come of free will. Tyree thought the same wh
 KIRK: Nona 
 NONA: Can you smell this fragrance? Some find it pleasing. 
 (It is the same planet that she used on Tyree.) 
+
+
 KIRK: I'd like to talk to you. 
 NONA: Again. Some find it soothing. Yes. 
 KIRK: I would like 
 NONA: Happy. Yes. You feel good. 
 (Tyree overhears her, and he is carrying a gun.) 
+
+
 KIRK: I feel dizzy. Yes, you are lovely. You're beautiful. 
 (Tyree takes aim.) 
+
+
 NONA: Kiss me. 
 (Kirk gives in, but Tyree cannot bring himself to squeeze the trigger. He throws the gun down in disgust and runs. Nona and Kirk are interrupted by the shriek of a mugato. Kirk is so besotted that Nona has difficulty getting out of his embrace and trying to escape. Eventually Kirk thinks to draw his phaser and kill the attacking creature. She decides to hit him over the head to get the phaser for herself.) 
 [Tyree's camp]
 (Tyree returns.) 
+
+
 MCCOY: Where's Captain Kirk? Tyree, the firestick. Where is it? 
 TYREE: There! I left it there. 
 MCCOY: That's a fine thing to leave lying around. Show us where it is. 
 [Countryside]
 (Nona has just left when McCoy, Tyree and Yutan arrive. Yutan picks up the rifle.) 
+
+
 TYREE: I do not want it. 
 MCCOY: Jim? Jim. Who hit you? 
 KIRK: Nona. 
 [Hillside]
 (Nona greets a band of villagers.) 
+
+
 NONA: I bring you victory for Apella! 
 ) MAN 1: Tyree's woman. 
 MAN 2: She's a Kahn-ut-tu. 
 MAN 1: We won't trust this division to Apella. 
 NONA: Take me to him. He will have the strength to use this new weapon. 
 (Villager number one grabs Nona, and she slaps him off.) 
+
+
 NONA: Touch me again, and this small box will kill you. 
 (They don't believe her, and all four men struggle with her. 
 [Countryside]
 (McCoy is about to give Kirk an injection to go with the headache pills.) 
+
+
 KIRK: No, no. I'm all right. My phaser. She took it. 
 [Hillside]
 NONA: This weapon I bring you is far greater than your firesticks. 
 (Still, all the men want is to have their wicked way with her, and she screams. Kirk, Tyree and McCoy come running over the brow.) 
+
+
 TYREE: Nona! 
 MAN 4: Hill people! 
 MAN 1: It's a trap. The woman's tricked us. 
 (He stabs her. Another man shoots McCoy in the arm. Yutan fires back, then there is a good old-fashioned hand-to-hand struggle. Tyree smashes one man's head repeatedly with a large rock, until Kirk stops him. He goes to his wife.) 
+
+
 MCCOY: She's dead. 
 (Tyree picks up a rifle.) 
+
+
 TYREE: I want more of these, Kirk. Many more! Yutan, two of those who killed my wife have escaped. Track them down. I will kill them. 
 (McCoy finds the phaser in the dirt nearby.) 
+
+
 MCCOY: Here. 
 KIRK: Tomorrow in the palm of her hands. 
 MCCOY: Well, you got what you wanted. 

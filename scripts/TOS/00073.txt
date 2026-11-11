@@ -24,6 +24,8 @@ SULU: Captain, I'm picking up a high intensity reading.
 KIRK: Is that Memory Alpha? 
 SULU: No, sir. 
 (There's a bright thing in the middle of the viewscreen.) An engineer touches Scott's arm to attract his attention.) 
+
+
 SCOTT: Excuse me. 
 KIRK: Magnification eight. What is that? 
 SPOCK: Indications are a storm, Captain, although I've never seen one of such great intensity or strange confirmation. 
@@ -36,12 +38,18 @@ KIRK: Deflectors on. Condition yellow.
 UHURA: Condition yellow, sir. 
 SULU: Shields activated, Captain. 
 (The bright thing 'invades' the ship with sparkles. Only Mira does not shield her eyes from it. Then the sparkles withdraw.) 
+
+
 KIRK: Mister Sulu, get us the devil out of here! Full scan on the disturbance that penetrated the Bridge. Lieutenant, all decks, damage report. 
 (Mira gently falls to the floor.) 
+
+
 SCOTT: Mira! 
 KIRK: Doctor McCoy to the Bridge. Emergency. Emergency. 
 SCOTT: Mira! Mira! (her eyes and mouth are open) What's that you're saying'? 
 (McCoy enters) 
+
+
 MCCOY: Was she hurt by the fall or the action of the disturbance? 
 KIRK: I don't know. Did you notice, Scotty? 
 SCOTT: Well, after the disturbance was over, she just collapsed. How's she doing, Doctor? 
@@ -78,6 +86,8 @@ MCCOY: Are the readings corresponding, Nurse?
 CHAPEL: Everything appears normal, Doctor. 
 MCCOY: Thank you. 
 (Scott enters) 
+
+
 MIRA: What's that you're doing, Nurse? 
 CHAPEL: Recording your responses in this computer. 
 MIRA: But why? I haven't had a single response worth noting. 
@@ -101,8 +111,12 @@ SCOTT: Come on now, Mira. We must help the doctor. Tell us what happened.
 MCCOY: Perhaps you can explain to her that any career she hopes for in Starfleet requires discipline and co-operation. 
 SCOTT: I'm sure that's what the lieutenant wants. She just didn't understand. Did you now, lass? 
 (McCoy leaves) 
+
+
 CHAPEL: With a bedside manner like that, Scotty, you're in the wrong business. 
 (Chapel leaves) 
+
+
 MIRA: When the record of this is forwarded, I'll be sent back, won't I. 
 SCOTT: Oh, you will not! That's ridiculous. This getting used to space travel, that takes some doing. And not everybody takes to it. 
 MIRA: Did you? 
@@ -161,9 +175,13 @@ KIRK: Damage report, Spock.
 SPOCK: A disaster for the galaxy, Captain. The central brain is damaged. The memory core is burned out. The loss to the galaxy may be irretrievable. 
 SCOTT: Captain! 
 (They go into the next area and find the body we saw in Mira's eye, along with others.) 
+
+
 SPOCK: A very faint life reading in the immediate vicinity, Captain. 
 KIRK: Locate him and keep him alive. We need more information about this enemy. 
 (McCoy finds her on the floor around a corner) 
+
+
 MCCOY: Over here, Captain! 
 KIRK: Bones, can you do something? 
 MCCOY: Not a thing, Jim. (the woman's mouth is moving) The same garbled sounds Lieutenant Romaine made when she fainted after the storm. 
@@ -174,6 +192,8 @@ SULU [OC]: Sulu here.
 KIRK: Beam down Lieutenant Romaine immediately. 
 SULU [OC]: Yes, sir. 
 (The woman's face turns different vivid colours.) 
+
+
 KIRK: Spock, have you seen anything like that before? 
 SPOCK: Negative. 
 KIRK: Bones? 
@@ -186,6 +206,8 @@ MCCOY: Each had a different centre of brain destroyed, cause unknown.
 KIRK: A different centre of the brain, you say? 
 MCCOY: Yes, Captain. I can be more detailed when we return to the ship and use the ship's computers. 
 (Mira beams in) 
+
+
 SCOTT: Mira! The captain has some questions.
 MIRA: Yes, Captain. 
 KIRK: Lieutenant, when you were unconscious, you were speaking. 
@@ -196,6 +218,8 @@ KIRK: They sounded exactly like the last words spoken by the technician.
 MIRA: What technician? 
 MCCOY: We found one person in there just barely alive. The rest were dead, and we 
 (Mira runs to see) 
+
+
 KIRK: Lieutenant. Lieutenant. 
 MIRA: We must get back to the ship! 
 KIRK: Why? Tell me why. 
@@ -214,6 +238,8 @@ SULU [OC]: Coming back in this direction.
 KIRK: Beam us up. 
 [Transporter room]
 (The four men materialise on the pads.) 
+
+
 KIRK: Mister Sulu, this is the captain. Get the Enterprise out of here. 
 SCOTT: Wait, Captain. We've lost Mira. 
 KIRK: Delay that order, Mister Sulu! 
@@ -221,6 +247,8 @@ SCOTT: Stabilise her!
 KYLE: Something's interfering with the transporter signal. I have her co-ordinates, but she's suspended in transit. 
 SCOTT: Let me. 
 (Finally Mira arrives, feeling dizzy) 
+
+
 KIRK: All right, Mister Sulu, get us out of here. Mister Scott, check emergency manual monitor for transporter control. 
 [Bridge]
 SULU: Captain, it's changing course. 
@@ -299,6 +327,8 @@ SULU: Locked in, sir.
 KIRK: Fire. 
 [Engineering]
 (Mira falls to the floor, clutching her stomach in pain) 
+
+
 MIRA: Scotty! 
 SCOTT: Mira! Mira. 
 [Bridge]
@@ -328,6 +358,8 @@ KIRK: Have the Lieutenant and Mister Scott in the briefing room as quickly as po
 MCCOY: Go easy on her, Jim. She's in a pretty bad state. 
 KIRK: I'll try. 
 (Scott and Mira enter) 
+
+
 KIRK: Lieutenant Romaine. 
 MIRA: I didn't mean to be unco-operative, Doctor. 
 MCCOY: Of course you didn't. I told the Captain. 
@@ -359,6 +391,8 @@ KIRK: That's impossible!
 MCCOY: That's what I was taught. But the BCP is just as consistent as fingerprints. 
 KIRK: Let's see it. 
 (A jagged graph comes up on the monitor. Spock raises an eyebrow) 
+
+
 SPOCK: Doctor McCoy, according to your records, Lieutenant Romaine showed no abnormal telepathic powers. 
 MCCOY: That's right, Spock. But exceptional pliancy was indicated. That might be a factor. 
 SPOCK: And you are sure that this is the correct slide? 
@@ -367,6 +401,8 @@ SPOCK: Gentlemen, it also happens to be tape H, the impulse tracking obtained fr
 MCCOY: Nurse Chapel followed this every step of the way. There can be no error. 
 KIRK: Check it, Spock. 
 (Spock puts his computer disc in, and the two patterns overlap and match exactly.) 
+
+
 SPOCK: As I said, Captain, this is the tracking obtained during the last shielded run. Computer, run a detailed comparison brain circuitry patterns, tape D and tape H. 
 COMPUTER: Comparison tape D's brain circuitry patterns of Lieutenant Mira Romaine and tape H, brain circuitry patterns of alien life unit, identical. Identical. 
 SPOCK: Fascinating. 
@@ -415,8 +451,12 @@ SECURITY [OC]: General quarters. Security condition three. Intruder alert. Repea
 [Medical lab]
 KIRK: As soon as she has entered the gravity chamber, secure all ports. 
 (The pretty lights enter the room) 
+
+
 MIRA: Don't touch me, Scotty! Stay away. 
 (Then enter Mira. She changes colour and makes the strange noise) 
+
+
 SCOTT: We've lost her to them. 
 KIRK: Stay where you are. 
 MCCOY: She could kill us all in this state. 
@@ -463,6 +503,8 @@ KIRK: We must get her into the pressure chamber.
 MCCOY: Jim, you realize the pressure needed to kill the Zetars might kill the girl too. 
 SCOTT: Mira will not kill me. 
 (Scott picks her up and gets her into the chamber before being thrown across the room) 
+
+
 SCOTT: I told you she wouldn't kill me. 
 KIRK: Secure the chamber. Neutralise gravity. 
 MCCOY: The Zetars are growing stronger. 
@@ -471,11 +513,17 @@ KIRK: Pressurise the unit. Bring pressure to two atmospheres and then increase o
 MCCOY: The pressure is dangerously high, Captain. It may damage her. 
 KIRK: Continue, Spock. 
 (The lights leave Mira) 
+
+
 KIRK: Pressure! 
 (The lights fizzle away) 
+
+
 MCCOY: We've done it, Jim. They're gone. 
 SCOTT: (intercom) It's all right, Mira. They're gone. They're gone! 
 (She looks at him and smiles) 
+
+
 MCCOY: Reduce the pressure very, very gradually, Spock. 
 SPOCK: We may tax Mister Scott's patience, Doctor. 
 MCCOY: Lie perfectly still, Lieutenant. Try not to move at all. Take deep, regular breaths. Now, don't hold it. Continue to breathe deeply. In, out. In, out. That's it. Now, you'll be in there another twenty minutes, so why don't you just try to relax? 

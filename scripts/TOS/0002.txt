@@ -138,6 +138,8 @@ MITCHELL: You know, everybody, everybody seems worried that I don't have some ki
 DEHNER: How did you do that? 
 MITCHELL: I'm not sure, I, I just thought of making it happen, and it does. It's, hey, er hey watch this, Doc. 
 (indicators plummet, Mitchell collapses) 
+
+
 DEHNER: Stop it. Stop it! You were dead for almost twenty two seconds. There were no readings at all. 
 MITCHELL: Yeah. Oh, boy. You, you know, Doc, there have been other things too, like going halfway through the ship's library in hardly a day. Yeah. Oh, what's happening to me? 
 DEHNER: Do you remember everything you read that quickly? 
@@ -207,6 +209,8 @@ MITCHELL: I can sense mainly worry in you, Jim. Safety of your ship.
 KIRK: What would you do in my place? 
 MITCHELL: Probably just what Mister Spock is thinking now. Kill me while you can. 
 (He zaps Kirk and Spock with electric bolts) 
+
+
 DEHNER: Stop it, Gary! 
 MITCHELL: I also know we're orbiting Delta Vega, Jim. I can't let you force me down there. I may not want to leave this ship, not yet. I may want another place. I'm not sure yet just what kind of a world I can use. 
 DEHNER: Use? 
@@ -315,12 +319,20 @@ MITCHELL: Your last chance, Kirk.
 KIRK: Do you like what you see? Absolute power corrupting absolutely. (Dehner zaps Mitchell, he returns fire, she continues and his eyes return to normal)
 DEHNER: Hurry. You haven't much time. 
 (The two men punch and wrestle until Kirk raises a rock over his head)
+
+
 KIRK: Gary, forgive me. 
 (Mitchell's eyes glow again)
+
+
 MITCHELL: For a moment, James, but your moment is fading. 
 (They both fall into the grave, but Kirk leaps out first, grabs the rifle and brings the boulder down to entomb Mitchell)
+
+
 DEHNER: I'm sorry. You can't know what it's like to be almost a god. 
 (She dies) 
+
+
 KIRK: Enterprise from Captain Kirk, come in. 
 [Bridge]
 KIRK: Captain's log, Star date 1313.8. Add to official losses, Doctor Elizabeth Dehner. Be it noted she gave her life in performance of her duty. Lieutenant Commander Gary Mitchell, same notation. I want his service record to end that way. He didn't ask for what happened to him. 

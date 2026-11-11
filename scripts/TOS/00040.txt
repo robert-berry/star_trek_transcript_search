@@ -5,6 +5,8 @@ Stardate: 3478.2
 Original Airdate: 8 Dec, 1967
 [Settlement]
 (Kirk, Spock, McCoy, Scott, Chekov and Galway beam down to a group of pre-fabricated buildings. The sky is orange.) 
+
+
 KIRK: Where is everyone? 
 MCCOY: Perhaps they weren't expecting us. 
 SPOCK: Our arrival was scheduled well in advance, Doctor. The annual check of every scientific expedition is routine. 
@@ -12,11 +14,15 @@ KIRK: I had a subspace contact with a Robert Johnson, the leader of this expedit
 MCCOY: Did he report anything wrong? 
 KIRK: No, yet there was something wrong. I can't pin it down. His conversation was disjointed, his thoughts a little foggy, unrelated. Chekov, check that building. Mister Spock and I will check this one. The rest of you, take a look around. See if you can find anyone. 
 (Chekov goes into the dark building - it has no windows - and the light comes on as he bumps up against a table bearing the body of a very old man. He panics and runs out again.) 
+
+
 CHEKOV: Captain! Captain! Captain! Captain! 
 KIRK: What is it? 
 CHEKOV: A man, sir. In there. A dead man. 
 [Building]
 (Again, the lights only come on when the party reaches the table in the middle of the room.) 
+
+
 KIRK: Well? 
 MCCOY: Exactly what it looks like. Death by natural causes. Old age. 
 SPOCK: Quite impossible, Doctor. I ran a personnel check on this expedition before we beamed down. I assure you that none of them were 
@@ -54,6 +60,8 @@ STOCKER: I'm sure you understand that I'm anxious to get to Starbase Ten to assu
 KIRK: Yes, Commodore. We'll do everything we can to make sure you make your duty. 
 STOCKER: Thank you, sir. 
 (Everyone leaves, but Doctor Wallace remains seated.) 
+
+
 KIRK: Doctor, is there something I can do for you? 
 WALLACE: Well, be a little less the cool, efficient Captain and a little more the old friend. 
 KIRK: How long has it been? 
@@ -98,6 +106,8 @@ SPOCK [on monitor]: Acknowledged.
 (Kirk turns to put on a clean shirt and jerks, putting a hand to his back.) 
 [Sickbay]
 (McCoy and Chapel are putting a sheet over the face of a patient.) 
+
+
 MCCOY: The last one. Robert Johnson. Cause of death, old age. 
 KIRK: You did what you could. 
 MCCOY: Which adds up to absolutely nothing. 
@@ -112,6 +122,8 @@ KIRK: Shoulder. Just a twinge. Probably muscular strain.
 MCCOY: You're probably right, Doctor. By the way, I don't like how you've been running this ship lately. 
 KIRK: All right. Reprimand received. Go ahead. 
 (McCoy scans his arm, then takes hold of a finger. Kirk pulls back in pain.) 
+
+
 MCCOY: Jim, I think we better'd run a complete physical on you. 
 KIRK: Why? Just muscular strain, isn't it? 
 MCCOY: No, Jim. It's advanced arthritis, and it's spreading. 
@@ -122,6 +134,8 @@ KIRK: Scotty!
 Captain's log, stardate 3579.4. The Enterprise personnel who beamed down to the planet's surface, Doctor McCoy, Engineer Scott, Mister Spock, Lieutenant Galway, and myself are all showing definite signs of aging. Only Ensign Chekov appears to be normal. 
 [Sickbay]
 (Chekov is on the stamina machine, Spock is on a bio-bed, Kirk and McCoy are definitely looking older. Chapel and Wallace are also present.) 
+
+
 KIRK: Report, Bones. 
 MCCOY: All of us who went down to the surface, with the exception of Chekov, are aging at various rates. Approximately thirty years for each day. I don't know what's causing it. A virus, a bacteria, or evil spirits, but I'm trying to find out. 
 KIRK: Spock, could I ask for some figures? 
@@ -136,11 +150,15 @@ SCOTT: Captain, can I go back to my station?
 KIRK: You feel up to it? 
 SCOTT: Of course I do. I just need a wee bit of rest, that's all. 
 (He leaves, with Spock giving him a hand.) 
+
+
 MCCOY: You can leave, too, Lieutenant Galway. Lieutenant Galway? 
 GALWAY: What? You spoke to me, Doctor? 
 MCCOY: Yes, I spoke to you. I said that you could leave, too. Now why don't you go down to your quarters and get some sleep. 
 GALWAY: No. I don't want to sleep. Can't you understand? If I sleep, what will I find when I wake up? 
 (Camera finally pans over to show us an old woman with a dowagers hump.) 
+
+
 KIRK: Lieutenant Galway, assume your position. Start your duties. 
 GALWAY: Thank you, sir. (on her way out) What a stupid place to hang a mirror. 
 KIRK: She's ten years younger than I am, and she looks, 
@@ -158,6 +176,8 @@ WALLACE: Yes, sir. (leaves)
 KIRK: I'll be on the Bridge. Keep me posted as to Chekov. 
 [Corridor]
 (Doctor Wallace is waiting for Kirk.) 
+
+
 KIRK: I thought you were on your way to the biochemistry lab, Doctor. 
 WALLACE: We both go in the same direction. 
 KIRK: So we do. 
@@ -185,10 +205,14 @@ SULU: You'll live.
 CHEKOV: Oh, yes. I'll live, but I won't enjoy it. 
 SULU: Maintaining standard orbit, Captain. 
 (Kirk enters.) 
+
+
 KIRK: Increase orbit to twenty thousand perigee, Mister Sulu. 
 SULU: Aye, aye, sir. 
 ATKINS: (a blonde yeoman) Will you sign this, sir? 
 (He drops the pen, she starts to stoop to pick it up.) 
+
+
 KIRK: Yeoman. (picks the pen up) You have a reason for being on the Bridge, Commodore Stocker? 
 STOCKER: I'd hoped for a few words with you at your convenience. 
 KIRK: I have very little time. 
@@ -204,6 +228,8 @@ ATKINS: I gave it to you. You signed it.
 KIRK: If I'd signed it, I wouldn't have asked for it, now would l? 
 ATKINS: Your signature, Captain. 
 (Later, everyone is tip-toeing around an obviously sleeping Captain in his comfy chair. Spock enters, unaware.) 
+
+
 SPOCK: Captain, I believe (notices, and wakes him gently) Captain. Captain. 
 KIRK: Mister Spock. I was just thinking. 
 SPOCK: Yes, sir. Quite understandable. 
@@ -259,12 +285,16 @@ STOCKER: It's not a matter of choice. When a captain is unfit, physically or men
 SPOCK: Very well, sir. The hearing shall convene at fourteen hundred hours. 
 [Sickbay]
 (Chekov is back on the biobed.) 
+
+
 MCCOY: Now this isn't going to hurt a bit. 
 CHEKOV: That's what you said the last time. 
 MCCOY: Did it hurt? 
 CHEKOV: Yes. 
 GALWAY: Doctor. 
 (She collapses in Kirk's arms.) 
+
+
 KIRK: Bones. 
 MCCOY: She's dead. Her metabolism caused her to age more rapidly than the rest of us, but the same thing's going to happen to us unless 
 KIRK: How long have we got, Bones? 
@@ -348,6 +378,8 @@ SULU: Across the Neutral Zone?
 STOCKER: Immediately, Mister Sulu. All officers are to return to their posts. 
 [Kirk's quarters]
 (Wallace and Spock enter.) 
+
+
 KIRK: Spock? 
 SPOCK: Yes, Captain. 
 KIRK: So, I've been relieved. 
@@ -368,6 +400,8 @@ KIRK: Are you refusing a direct order?
 SPOCK: No, sir. Only Commodore Stocker can give a command order onboard this ship. 
 KIRK: You traitorous, disloyal, you stab me in the back the first chance you get? Spock. Get out. I never want to have to look at you again. 
 (Spock leaves.) 
+
+
 KIRK: Jan, Jan. 
 WALLACE: Oh, Jim. I'm sorry. Truly I am. 
 KIRK: I made a fool of myself in there. I shouldn't have let them confuse me, rattle me. 
@@ -394,6 +428,8 @@ MCCOY: Don't just stand there jawing, Spock. You and Doctor Wallace get cracking
 SULU: Entering Romulan Neutral Zone, sir. All sensors on maximum. 
 STOCKER: Thank you, Mister Sulu. Lieutenant Uhura, let me know if we contact any Romulan. 
 (The ship is shaken by an impact.) 
+
+
 UHURA: I think we just made contact, sir. 
 SULU: Romulans approaching from both sides. We're bracketed, sir. 
 UHURA: Engineering wants instructions, sir. 
@@ -421,6 +457,8 @@ WALLACE: Jim, if I have to give you a shot
 MCCOY: Jim-boy, you just lay quiet. You can't do no good. We're both through. 
 KIRK: No. No. My ship. My ship. 
 (Spock totters in carrying a small beaker.) 
+
+
 SPOCK: Doctor, I made the necessary computations and produced this serum. It is crude and dangerous, but we have no time for refinements. 
 MCCOY: All right. Let's, let's go. 
 SPOCK: It could cure or kill, Doctor. 
@@ -437,6 +475,8 @@ KIRK: Quickly. Quickly.
 SULU: Sir, they've fired another. 
 [Sickbay]
 (As the Enterprise continues to be battered, Kirk is writhing and groaning.) 
+
+
 MCCOY: Well, well, what's happening? 
 WALLACE: The ageing process has stopped. His bodily functions are getting stronger. 
 [Bridge]
@@ -468,6 +508,8 @@ STOCKER: Captain, I just wanted to assure you that I did what I thought best to 
 KIRK: Noted. You should know, however, that there's very little a Starbase can do that a starship can't. 
 STOCKER: If I may say so, Captain, I am now quite aware of what a starship can do with the right man at the helm. 
 (McCoy enters) 
+
+
 KIRK: You're looking good, Doc. 
 MCCOY: Feeling fine. So is Scotty. The serum worked. He pulled a muscle during the reaction, but otherwise he's feeling fine. 
 KIRK: And yourself? 
@@ -477,6 +519,8 @@ MCCOY: Because of your Vulcan physique, I have prepared an extremely potent shot
 SPOCK: That is very considerate of you, Doctor. 
 MCCOY: I thought you'd be pleased to hear that. 
 (Spock, McCoy and Stocker leave as Wallace enters.) 
+
+
 KIRK: Well, gentlemen, all and all, an experience we'll remember in our old age. Which won't be for some while, I hope. Take over, Mister Sulu. Steady as she goes. 
 SULU: Steady as she goes, Captain. 
 KIRK: I thought I said that. 

@@ -6,6 +6,8 @@ Original Airdate: 14 Mar, 1969
 Captain's log, Stardate 5943.7. We have calculated that Beta Niobe will go nova in approximately three and a half hours. Its only satellite, Sarpeidon, is a Class M planet, which at last report was inhabited by a civilised humanoid species. Now our instruments show that no intelligent life remains on the planet. 
 [Library]
 (Kirk, McCoy and Spock have beamed down) 
+
+
 SPOCK: The power source we detected is in this building, Captain. 
 KIRK: Any sign of survivors? 
 SPOCK: No signs of sapient life forms. 
@@ -16,6 +18,8 @@ KIRK: Then we're certainly in the right place to find out what happened, where t
 MCCOY: Well, that's fine. Where do we start? 
 ATOZ: May I help you? I am the librarian. May I be of assistance? 
 (A silver-haired man, called A to Z - perfect for a librarian) 
+
+
 KIRK: Perhaps you can, Mister 
 ATOZ: Mister Atoz. I confess that I'm a little surprised to see you. I had thought that everyone had long since gone. But the surprise is pleasant one. After all, a library serves no purpose unless someone is using it. 
 KIRK: You say everyone is gone? Where'd they go? 
@@ -23,12 +27,16 @@ ATOZ: It depended on the individual, of course. If you wish to trace a specific 
 MCCOY: No, no particular person, just people in general. Where did they go? 
 ATOZ: Ah, you find it difficult to choose, is that it? Yes, a wide range of alternatives is a mixed blessing, but perhaps I can help. Would you step this way, please? 
 (They walk away from Atoz, and another one steps in front of them from between a range of shelves) 
+
+
 ATOZ: May I help you? You may select from more than twenty thousand verism tapes, several hundred of which have only recently been added to the collection. I'm sure you'll find something here that pleases you. You, sir, what is your particular field of interest? 
 KIRK: What about recent history? 
 ATOZ: Really? Oh, that's too bad. We have so little on recent history. There was no demand for it. 
 KIRK: It doesn't have to be extensive, Just the answers to a few questions. 
 ATOZ: Of course. Reference services available at the desk. 
 (Where another Mr. Atoz is sitting) 
+
+
 ATOZ: You're very late. Where have you been? 
 KIRK: You're a very agile man, Mister Atoz. Just how many of you are there? We came as soon as we knew what was happening. 
 SPOCK: Forgive me, sir. It is my fault. I must have miscalculated. Our readings indicated that there was no one here at all. 
@@ -49,8 +57,12 @@ SPOCK: Three hours, thirteen minutes.
 KIRK: This gentleman is not 
 ATOZ: You, sir. I think you�ll find something interesting over here. 
 (He leads Kirk to his desk) 
+
+
 ATOZ: Now, if these won't do, I can bring you another file. 
 (Atoz goes off to a machine, while Kirk puts a disc on the player and sees a town scene with horse-drawn carriages and a sedan chair. Spock goes over to Mister Atoz, leaving McCoy browsing images of a snow-covered waste) 
+
+
 ATOZ: Have you made your selection, sir? 
 SPOCK: Exactly what is it that I'm expected to select? 
 ATOZ: I'm sure I was clear. The period in which you're interested. 
@@ -59,9 +71,13 @@ ATOZ: Ah, this is the atavachron.
 SPOCK: Interesting nomenclature. How does it work? May I 
 ATOZ: Oh, no, sir, no. I must ask you not to touch the controlling mechanism. Return and make your selection. When you have chosen, I will prepare you through the atavachron. 
 SPOCK: Thank you, Mister Atoz. 
-(Kirk hears a woman scream from behind a doorway) KIRK: Spock. Bones. 
+(Kirk hears a woman scream from behind a doorway) 
+
+KIRK: Spock. Bones. 
 ATOZ: Wait! I haven't prepared you. 
 (Kirk runs through the doorway and disappears. He appears in a street where people dressed as cavaliers are manhandling a wench) 
+
+
 ATOZ: You must be prepared! 
 (Spock and McCoy go through the doorway) 
 [Ice Age]
@@ -70,8 +86,12 @@ SPOCK: Yes, and where is the captain?
 [17th Century]
 WENCH: You dirty thing. Let go of me! 
 (She gets spanked with a sword) 
+
+
 MAN: Vile vixen! 
 (Kirk grabs his weapon) 
+
+
 MAN: Come when you are bidden, slave! (Kirk pushes him down) You need a lesson in how to use your betters. Who's your master? 
 KIRK: I'm a free man, sir. 
 MAN 2: Then you want better manners, free man. Defend yourself! 
@@ -150,6 +170,8 @@ KIRK Keep talking now!
 MCCOY: Jim, what's the matter? Jim sounded like he was in trouble. 
 SPOCK: We may be in trouble ourselves. We must find shelter. 
 (They walk on until McCoy collapses) 
+
+
 SPOCK: In this severe cold, we cannot survive much longer. 
 MCCOY: Leave me here, Spock. 
 SPOCK: We go together or not at all. 
@@ -159,8 +181,12 @@ MCCOY: You stubborn, thickheaded Vulcan!
 (A figure wearing a full length fur coat with hood approaches, then turns to walk away. Spock helps McCoy to follow) 
 [Cave]
 (It's quite homely, with the stalagmites and skins laid down, the lovely smooth floor and handy bed for Spock to put McCoy down on) 
+
+
 SPOCK: He's suffering from the severity of your weather. Unfortunately, he is the doctor, not I. I'll avoid giving him any medication at this time. Perhaps, if he's kept quiet and warm, he may recover naturally. It is agreeably warm here. 
 (Their benefactor has pushed back the hood to reveal that it is a young woman) 
+
+
 ZARABETH: What are you called? 
 SPOCK: I'm called Spock. 
 ZARABETH: Even your name is strange. Forgive me. I've never seen anyone who looks like you. Why are you here? Are you prisoners too? 
@@ -176,6 +202,8 @@ ZARABETH: Oh, I've been here for so long, alone. When I saw you out there, I cou
 LAW: Here. There's the mort. And there's the mort's henchman. 
 JUDGE: Open up. Rouse him. 
 (The somberly clothed judge sits on a stool opposite Kirk) 
+
+
 JUDGE: You're the thief who talks to spirits. 
 KIRK: I'm a stranger. 
 JUDGE: Where are you from? 
@@ -204,6 +232,8 @@ JUDGE: I know nothing of this, nothing of these matters! I will not hear him!
 KIRK: Let me speak to you! 
 JUDGE: I will not hear him. 
 (Judge and law man leave) 
+
+
 KIRK: At least let me talk to you! 
 WENCH: Witch! Witch! Witch! They'll burn ya. 
 [Cave]
@@ -216,8 +246,12 @@ MCCOY: Jim. What about Jim?
 SPOCK: Doctor, you're in no condition to get up. You lie down and rest. I shall attempt to find the captain. 
 MCCOY: You find him, Spock. Don't you worry about me. You just find him. 
 (Spock and Zarabeth leave him to sleep) 
+
+
 ZARABETH: Spock, who is this Jim? 
 (She removes the fur coat to reveal she is wearing little more than a leather bikini with boots) 
+
+
 SPOCK: He's our commanding officer and our friend. 
 ZARABETH: I saw only the two of you. I did not know there was another. 
 SPOCK: He did not come with us. He was sent through the time portal to another period in history much later than this one. If I am to find him, there is only one possible avenue. Zarabeth, will you show me where the time portal is? 
@@ -247,8 +281,12 @@ Captain's log, stardate 5943.9. The people of this time believe in witches, and 
 LAW: No supper for you, love. (lets the wench out of her cell) Come on. Up you go. 
 JAILOR: Give me your cup. 
 (Kirk manages to grab his arm and pull him against the bars) 
+
+
 KIRK: Cry out and I'll break it. Don't move. 
 (He takes the keys and unlocks his own cell, lets himself out, knocks out the jailor and drags in inside, shutting the door behind him. The Judge comes down the steps) 
+
+
 JUDGE: Jailor! Jailor! 
 KIRK: I'm being falsely accused. You know that. 
 JUDGE: You will come with me before the inquisitional tribunal. There the matter of your witchcraft will be decided. 
@@ -257,6 +295,8 @@ JUDGE: Jailor! That is sacrilege. If they hear you, they will burn you for such 
 KIRK: You're the only one that can hear me, and that's the truth. There are no witches. Why do you deny it? 
 JUDGE: Do not let them hear you. There are witches! There are! You yourself may be discovered to be a witch by the inquisitor. No! What are you doing? No! 
 (Kirk drags him inside the cell) 
+
+
 JUDGE: Help! Help! 
 KIRK: I'll denounce you to the inquisitor. You came here from the future just as I did. Therefore, you, too, are a witch. 
 JUDGE: I beg you. Do not implicate me. They would burn me. 
@@ -285,6 +325,8 @@ MCCOY: I wonder where she is.
 SPOCK: Five thousand years in the future. 
 MCCOY: Thank you. 
 (Zarabeth leaves them) 
+
+
 MCCOY: I wonder where Jim is. 
 SPOCK: Who knows. We can only hope that he is well, wherever he is. 
 MCCOY: What do you mean, we can only hope? Haven't you done anything about it? 
@@ -304,8 +346,12 @@ SPOCK: Nothing that shouldn't have happened long ago.
 MCCOY: Long ago. Of course. Long ago. 
 [17th Century]
 (Back in the street, at the wall Kirk came through) 
+
+
 JUDGE: This is where it is. I can't remember the exact spot. 
 (Kirk feels along the wall until his hand disappears into it) 
+
+
 JUDGE: That's it! That is the portal. I cannot wait any longer. 
 (The judge hurries away, and Kirk slips through the wall back into the library) 
 [Library]
@@ -323,10 +369,16 @@ KIRK: No. I want to find the exact disc that they were viewing.
 ATOZ: Please, go back! 
 KIRK: I'm sorry, Mister Atoz. Mister Atoz! 
 (They tussle) 
+
+
 ATOZ: I must prepare to escape. 
 (Kirk pushes him into a side room and shuts the door, then turns to face another Atoz) 
+
+
 KIRK: I'll let you out in a minute. Still up to your little game of replicas? Which are you this time, real or not? 
 (He knocks this one out) 
+
+
 ATOZ: You are evidently a suicidal maniac. I don�t understand what you're trying to do, but if you continue, both of us will die. and I for one, do not wish death. 
 KIRK: If you help me, we won't die. I promise you that. 
 ATOZ: I don't trust you. 
@@ -346,18 +398,26 @@ SPOCK: Naturally, because of the climate. What is the source of heat in the shel
 ZARABETH: There's an underground hot spring. 
 SPOCK: Excellent. Then it will be possible to build a greenhouse of sorts. Meanwhile, this will have to do as the only source of nourishment. 
 (He takes a bite) 
+
+
 ZARABETH: There aren't many luxuries around here. Zor Kahn only left me what was necessary to survive. 
 SPOCK: But he evidently intended that you continue living. 
 ZARABETH: Yes. He gave me weapons, a shelter, food. Everything I needed to live except companionship. He did not want it said that he had me killed. But to send me here alone, if that is not death, what is? A very inventive mind, that man. 
 SPOCK: But insensitive, to send such a beautiful woman into exile. The cold must've affected me more than I realised. Please pay no attention. I'm not myself. I'm behaving disgracefully. I have eaten animal flesh and I have enjoyed it. What is wrong with me? I tell you you're beautiful. But you are beautiful. Is it so wrong to tell you so? 
 ZARABETH: I have longed to hear you say it. 
 (They kiss, then he picks her up and smiles broadly) 
+
+
 SPOCK: You are beautiful. More beautiful than any dream of beauty I've ever known.
 (He lays her down and .... sets the scene for many fan-fictions) 
 [Library]
 (Kirk wakes up lying on a sled, which Atoz is pushing towards the portal) 
+
+
 ATOZ: Just stay where you are, sir. I'll see you get to safety. 
 (Kirk rolls off, so Atoz tries to push him through. He fails, and gets overpowered) 
+
+
 KIRK: Now, you're going to help me look for my friends. 
 ATOZ: You're a most determined man. 
 KIRK: Kirk here. 
@@ -379,6 +439,8 @@ SPOCK: She would not jeopardise other lives.
 MCCOY: She would do anything to prevent that life of loneliness. She would lie. She would cheat. She would even murder me, the captain, the entire crew of the Enterprise to keep you here with her. Go ahead, Zarabeth, tell Spock the truth. Go ahead. Tell Spock you would kill! 
 SPOCK: What are you doing to her? 
 (Spock pins McCoy against the cave wall) 
+
+
 MCCOY: Are you trying to kill me, Spock? Is that what you really want? Think. What are you feeling? Rage? Jealousy? Have you ever had those feelings before? 
 SPOCK: This is impossible. Impossible. I am a Vulcan. 
 MCCOY: The Vulcan you knew won't exist for another five thousand years. Think, man. What's happening on your planet right now, this very moment? 
@@ -399,11 +461,15 @@ ATOZ: Please, there's no time left. Let me go.
 KIRK: Try again. 
 [Ice Age]
 (Zarabeth and Spock join McCoy at the ice cliff) 
+
+
 SPOCK: There's no portal here, Doctor. It's hopeless. 
 MCCOY: I suppose you're right. 
 SPOCK: You're too ill to remain out here any longer. Give it up. 
 [Library]
 (Atoz views another disc) 
+
+
 KIRK: Bones. Spock! 
 [Ice Age]
 MCCOY: It�s Jim! Here we are, Jim. 
@@ -430,6 +496,8 @@ SCOTT [OC]: You've got to come aboard now.
 [Ice Age]
 MCCOY: Come on, Spock, now! 
 (Spock pushes McCoy towards the cliff, but he doesn't go through) 
+
+
 MCCOY: Something's wrong. 
 [Library]
 KIRK: What's the matter? Why can't he get through? 
@@ -442,6 +510,8 @@ KIRK [OC]: Spock, McCoy, hurry through the portal. Time is running out.
 (Zarabeth turns and leaves them) 
 [Library]
 (McCoy and Spock return without their furs. Atoz switches discs and runs through the portal) 
+
+
 KIRK: He had his escape planned. I'm glad he made it. Kirk to Enterprise. 
 SPOCK: There's no further need to observe me, Doctor. As you can see, I've returned to the present in every sense. 
 MCCOY: But it did happen, Spock. 

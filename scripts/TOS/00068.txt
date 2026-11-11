@@ -8,6 +8,8 @@ Ship's log, stardate 5710.5. Lieutenant Commander Scott reporting. While explori
 KIRK [OC]: Kirk to Enterprise. 
 [Scalos]
 (A blue background of extraordinary architecture, and a humanoid statue.) 
+
+
 KIRK: What do your sensors read? 
 SCOTT [OC]: They register something, sir, but I'm blessed if I can figure out what it is. 
 KIRK: Specify. 
@@ -17,6 +19,8 @@ KIRK: You do that. Lieutenant Uhura, does the location of the distress call corr
 KIRK [OC]: Exactly? 
 UHURA: Yes, sir. I am still receiving visual contact. I can see them, but I can't see you. 
 (The viewscreen has five people standing in an area with the same architecture behind them.) 
+
+
 KIRK [OC]: Check co-ordinates. Is it the same area? 
 UHURA: Co-ordinates correspond, Captain. 
 [Scalos]
@@ -34,6 +38,8 @@ KIRK: Something was here. We saw them on the screen. Lieutenant Uhura is still g
 SPOCK: Unknown at present, Captain. 
 KIRK: Mister Spock, I want you to run a survey, a complete survey of the planet using all ship's available instruments. 
 (McCoy turns to hear a buzz then his assistant disappears.) 
+
+
 MCCOY: Compton! 
 KIRK: What happened? 
 MCCOY; I was looking at him. I was looking right at him, and he. And he just wasn't there! 
@@ -50,6 +56,8 @@ SULU: Yes, sir.
 UHURA: The tape is ready, sir. 
 KIRK: Play it. 
 (Spock enters as the viewscreen displays Scalos and that statue.) 
+
+
 RAEL [on viewscreen]: To any and all space travellers passing within range of the planet Scalos, I send you an urgent appeal for help. My comrades and I are the last surviving members of what was once a thriving civilisation. Those of us who are left have taken shelter in this area. We have no explanation for what has been happening to us. Our number is now five. We were once a nation of nine hundred thousand. 
 KIRK: Freeze it. 
 SPOCK: It is logical to assume that this distress call was pre-recorded. What we received was evidently a delayed taped message. 
@@ -79,6 +87,8 @@ MCCOY: All perfectly normal. Whatever happened to Compton down there apparently 
 KIRK: Any of them report any unusual experience since beaming? 
 MCCOY: No. There's no mention of it. 
 (The buzzing sound. Kirk starts to sit up.) 
+
+
 MCCOY: I'm not finished yet. 
 KIRK: Hold on. Bones, could something be making me hallucinate? 
 MCCOY: What do you mean? 
@@ -95,19 +105,27 @@ SPOCK: I have a reading from Life Support centre. Alien substances being introdu
 KIRK: Meet me there on the double. 
 [Corridor]
 (Spock hands Kirk a phaser. The two security men running ahead hit a forcefield and fall down.) 
+
+
 KIRK: Spock? 
 SPOCK: It is a force field, Captain, the nature of which I'm not familiar with. I'm getting readings of an alien presence similar to those obtained on the planet's surface, but they seem to have no exact location. 
 KIRK: Phasers on stun. Sweep the area. 
 (The corridor goes green as they fire. Then they all walk forward, but the two security men are stopped again by the force field.) 
+
+
 SPOCK: It would seem, Captain, that they intend to allow only the two of us to enter. I should advise caution. 
 [Environmental Engineering]
 (There is a contraption hooked up to Life Support.) 
+
+
 KIRK: What is it? 
 SPOCK: Unknown, Captain. But it is evidently a device of alien origin. 
 KIRK: Hooked into the life support. Designed to affect it. 
 SPOCK: Life support is still operating. I would say that the installation is incomplete. 
 KIRK: Disconnect it. (Spock gets a shock from it) Destroy it. 
 (Their phasers disappear from their hands, then they are pushed backwards.) 
+
+
 KIRK: That was no force field. Something shoved me back. They're in here. You! What are you doing on my ship? Show yourselves! 
 SPOCK: It seems that we may look at it, Captain, but that is all. 
 KIRK: A show of strength. 
@@ -136,6 +154,8 @@ KIRK: Mister Spock?
 SPOCK: Your recommendations, Captain? 
 KIRK: Yeoman, is that coffee available, or have those circuits been damaged as well? (takes a cup from her tray) My recommendation? Make them take the next step. 
 (Kirk hears that buzzing again. We see his coffee bubble briefly. He takes a drink, grimaces (it is black coffee) then everything around him slows down and finally stops.) 
+
+
 KIRK: Spock? 
 DEELA: (the woman from the distress call) Captain. 
 KIRK: Would you mind explaining (she kisses him) Who are you? 
@@ -153,6 +173,8 @@ DEELA: Changed you. So you are like me now. Your crew cannot see you or any of u
 KIRK: Why? 
 DEELA: Because I like you. Didn't you guess? Or are you so accustomed to being kissed by invisible women? 
 (She kisses him again, but he doesn't respond.) 
+
+
 KIRK: Deela. Is this why you sabotaged my ship? 
 DEELA: Oh, but it has not been sabotaged. We we had to make some changes in it to adjust it to us. 
 KIRK: You said we? 
@@ -162,12 +184,16 @@ DEELA: Oh, in a few of their moments, they will realise that you've vanished. Th
 KIRK: (draws his phaser) This won't kill you, but the stun effect is not very pleasant. 
 DEELA: But that won't work. You go ahead and try. Point it right at me. 
 (She sidesteps the slow phaser beam easily.) 
+
+
 DEELA: My reactions are much too fast for such a crude weapon. And I am quite good at self-defense, too. This can be set for stun and destroy, too, like yours. (his phaser goes flying) Please, accept what has happened. There is nothing you can do to change it. 
 KIRK: If I agree to go with you, will you set this ship to rights? Take out that device in the life-support system? 
 DEELA: Don't be so silly. You'll feel better about it all in a little while. It always happens this way. They are very upset at first, then it wears off and they, they learn to like it. You will, too. 
 (Kirk leaves} 
 DEELA: He's on his way to you. Be gentle with him. 
 (Meanwhile, in our normal time-frame) 
+
+
 UHURA: Captain. Captain Kirk! He's gone! 
 SPOCK: Lieutenant, did you see what happened? 
 UHURA: Well, he was sitting there. He'd just drunk his coffee and set his cup down. You see it's still there. And then he vanished. 
@@ -189,8 +215,12 @@ KIRK: All right, Compton.
 (Kirk turns away, then quickly disarms Compton and enters) 
 [Environmental Engineering]
 (Two Scalosian males are there.) 
+
+
 RAEL: Stun. 
 (Kirk falls gently to the floor. Compton enters and attacks the man with the weapon. He is knocked down for his loyalty.) 
+
+
 RAEL: You were ordered to stop him. Why did you disobey? 
 COMPTON: I tried to stop him. You hurt him. 
 RAEL: He was violent. He had to be subdued. 
@@ -209,6 +239,8 @@ SCOTT: By that time it'll be too late.
 SPOCK: I suggest that we recall the captain's words, Make them take the next step. It would seem they have taken it. And we must determine effective countermeasures. Mister Scott, you have the conn. I shall be in the medical lab. 
 [Environmental Engineering]
 (Deela is kneeling next to the still-unconscious Kirk.) 
+
+
 DEELA: I hate what happens to them when they're damaged. You're going to have to learn to control your temper, Rael. I do not want that to happen to this one. If they are so stubborn a species, perhaps they will last longer. 
 RAEL: It may be. 
 DEELA: I hope so. They all go so soon. I want to keep this one a long time. He's pretty. 
@@ -219,6 +251,8 @@ DEELA: I can allow myself anything I want. Oh, Rael, don't be like that. Am I je
 RAEL: I do my duty. 
 DEELA: So do I. And sometimes I allow myself to enjoy it. 
 (Kirk wakes up.) 
+
+
 DEELA: Hello. 
 KIRK: What is that device doing on my ship? 
 RAEL: Deela will explain it. 
@@ -227,15 +261,21 @@ KIRK: Approve of it? We're your prisoners.
 DEELA: Hardly. You're free to go anywhere you want to. 
 RAEL: Go ahead, Captain. It is not yet completely linked to your support system, but it is in operating order. Study it if you wish. I suggest that you do not touch it. 
 (Kirk touches the device briefly, then clamps both hands firmly onto it in an act of defiance. Deela pulls them off.) 
+
+
 DEELA: He told you not to touch it. Look at your hands. They're almost frozen, aren't they? It will pass. 
 RAEL: The unit has its own self-defence mechanism, as you see. You should've heeded me. 
 (Kirk sees Compton on the floor. The young man now looks very old.) 
+
+
 RAEL: In your struggle with Compton, some of his cells were damaged. Those newly accelerated to our level are sensitive to cell damage. They age rapidly and die. 
 KIRK: He was so young. 
 RAEL: Was. 
 KIRK: This is what you have planned for us? 
 DEELA: We all die, even on Scalos. 
 (Kirk leaves.) 
+
+
 DEELA: Why did you lie to him? He did not damage that one, you did. 
 RAEL: Perhaps he will be less violent now. 
 DEELA: I see no reason to make him feel any worse than he has to. 
@@ -244,11 +284,17 @@ DEELA: Rael, he's not one of us. He's temporary. (getting a message via her coll
 RAEL: I have noted that. 
 DEELA: I wonder if they will demonstrate it to us. Oh, Rael, stop sulking. Accept it. We've had to accept it all our lives. Don't make it worse. 
 (Rael kisses Deela) 
+
+
 DEELA: Go back to work. 
 [Medical Lab]
 (In fast time. Kirk is using a computer console whilst McCoy, Chapel and Spock are motionless at another bench, examining test results.) 
+
+
 KIRK: Kirk to Spock, I have fed all the ascertainable facts into the computer banks. 
 (Deela enters.) 
+
+
 DEELA: Go ahead. You won't accomplish anything, but it may be historically valuable. 
 KIRK: Hyperacceleration is the key. I have counted only five of them aboard, but they have taken over the ship, and we are under their control due to this acceleration. They are able to speed others up to their level, as they did Compton and me. Presumably, this is enslavement? Those so treated exist at this accelerated level, becoming docile eventually. But when 
 DEELA: Damaged. 
@@ -276,14 +322,20 @@ RAEL [OC]: Go to the transporter room, Deela. Signal me when you're there and be
 DEELA: With the captain? 
 RAEL [OC]: Yes. I'll activate our unit and follow you. I'm setting it to allow all of us time to get off the ship. Please don't delay. 
 (Meanwhile, Kirk slips his computer tape into the machine Spock is working at. Then he slips out.) 
+
+
 DEELA: Just what makes you think I would do that? The captain's gone. 
 [Environmental Engineering]
 RAEL: Go after him, Deela. 
 [Medical Lab]
 (in real time) 
+
+
 MCCOY: There's no question about it, Spock. I want you to take a look at this. The same substance is in the captain's coffee as in the Scalosian water, and there's no trace of it in any other cups. 
 [Transporter room]
 (Kirk removed a vital component from the control console before Deela enters. She draws her weapon.) 
+
+
 DEELA: Why did you run? 
 KIRK: I panicked. 
 DEELA: I don't believe that. 
@@ -292,6 +344,8 @@ DEELA: (into her comm. unit) We're in the transporter room. You can activate.
 RAEL [OC]: Beam him down at once. 
 DEELA: Captain. 
 (Kirk stands on the transporter pad. Deela activates the controls but nothing happens.) 
+
+
 DEELA: What have you done to the transporter, Captain? 
 KIRK: It was working before. Try it again. 
 DEELA: (into her comm. unit) The transporter isn't working. 
@@ -321,6 +375,8 @@ KIRK: A bit.
 DEELA: It was quite delightful kissing you when you couldn't see me. But now 
 KIRK: But now. 
 (He kisses her, then takes her hands but she dodges away. He was trying to get the weapon from her sleeve.) 
+
+
 DEELA: No. I wouldn't allow you to take that no matter how much we trust each other. But I would've been disappointed if you hadn't tried. 
 KIRK: Was I too crude? 
 DEELA: Just don't try it again. You're far too vulnerable to skin damage. All I have to do is scratch you. 
@@ -336,12 +392,16 @@ KIRK [on viewer]: What happened?
 MCCOY [on viewer]: I was looking at him. I was looking right at him, and then he just wasn't there 
 RAEL [on viewer]: Those of us who are left have taken shelter in this area. We have no explanation for what's happening to us. (Spock slows down the playback, then speeds it up) Those of us who are left have taken shelter in this area. We have no explanation for what's happening to us. Nation of nine hundred thousand. City alone holding one hundred thirteen thousand. On which existed several culturally enlightened Indigenous population 
 (Finally it is speeded up to the familiar buzz or whine the crew have been hearing.) 
+
+
 KIRK [on viewer]: There is an insect life. 
 MCCOY [on viewer]: My tricorder doesn't register it. 
 KIRK [on viewer]: My ears register it. 
 MCCOY [on viewer]: This is a barren world. Limited vegetation, no apparent animal life. 
 [Medical lab]
 (McCoy discovers there is already a computer tape in the machine slot. He plays it and just hears that whine.) 
+
+
 MCCOY: McCoy to Spock. 
 SPOCK [OC]: Spock here. 
 MCCOY: I've found a tape in the computer down here, and when I try to read it, all I get is a whine. 
@@ -357,14 +417,22 @@ SCOTT: Can we find some way of coping with them on theirs?
 SPOCK: That is a very logical suggestion. Stand by in the transporter room. 
 [Transporter room]
 (Scott is in the doorway of the room, as the Scalosians try to fix the transporter.) 
+
+
 EKOR: There's nothing wrong elsewhere, sir. Sufficient energy for beaming down. 
 RAEL: This is the only damage? Go get the others and bring them up here. (into comm.) Deela. Deela? Deela! 
 [Kirk's quarters]
 (Kirk is putting on his boots as Deela combs her hair. Draw your own conclusions. Rael runs in as the couple indulge in another kiss.) 
+
+
 DEELA: Rael! 
 (Rael takes a swing at Kirk.) 
+
+
 DEELA: Rael, stop. 
 (Kirk uses a chair as a shield, then Deela shoots Rael, stun level, twice.) 
+
+
 KIRK: No. 
 DEELA: Now, stop it. Did he damage you, Captain? 
 KIRK: No. 
@@ -374,6 +442,8 @@ DEELA: I don't care what your feelings are. I don't want to know that aspect of 
 RAEL: No. I have more work to do. 
 DEELA: Don't you think you'd better do it? 
 (Rael leaves.) 
+
+
 DEELA: He loves me. I adored him when I was a child. I suppose I still do. I must say, you behaved better than he did. 
 KIRK: Yes, I hope so. 
 DEELA: What did you say? 
@@ -403,10 +473,14 @@ SPOCK: By drinking the Scalosian water. (and does so)
 MCCOY: Spock, you don't know what that'll do to you. 
 SPOCK: It is somewhat stimulating. You seem to be moving very slowly, Doctor. Fascinating. 
 (Spock leaves, and we jump back to normal time.) 
+
+
 CHAPEL: He's gone. 
 MCCOY: Just like Compton. 
 [Transporter room]
 (The transporter is repaired and the three other Scalosians are beamed down.) 
+
+
 RAEL: I've beamed the others down. 
 DEELA [OC]: Is it repaired already? 
 [Kirk's quarters]
@@ -420,19 +494,29 @@ DEELA: Rael, wait. I'm sorry.
 [Transporter room]
 RAEL: I know. 
 (Kirk and Deela walk past Scott, still in the doorway.) 
+
+
 DEELA: Well, come, Captain. It's time to leave your pretty ship. 
 [Environmental Engineering]
 (Rael switches on the refrigerator unit.) 
+
+
 RAEL: The unit is activated, Deela. Beam down at once. 
 [Transporter room]
 DEELA: Your crew will be all right. You said so yourself. 
 (Kirk takes her weapon from her sleeve.) 
+
+
 KIRK: I'm sorry. 
 (Kirk leaves.) 
+
+
 DEELA: (into comm.) He's broken away. He's armed. 
 [Environmental Engineering]
 RAEL; I'm ready for him. 
 (Kirk meets Spock in the corridor, and they stand either side of the door. Rael fires once, turns, and Kirk fires at him. This time Rael falls slowly to the floor. Then Kirk destroys the unit. Deela arrives and all three enter the room properly.) 
+
+
 DEELA: You are very clever, Captain. You tricked me. I should've known that you would never adjust. What shall we expect from you now? 
 KIRK: We could put you in suspended animation until we determine what to do with you. 
 DEELA: Your survival does not depend on that. 
@@ -444,6 +528,8 @@ KIRK: Yes, I suppose it would.
 DEELA: And we will die and solve your problem that way. And ours. 
 [Transporter room]
 (Scott is a little further into the room.) 
+
+
 DEELA: Now, what about your problem, Captain, and your Vulcan friend? 
 SPOCK: If you will devote yourself exclusively to the concerns of Scalos, madam, we shall be pleased to remain and take care of the Enterprise. 
 DEELA: You could still find life on Scalos very pleasant. 
@@ -451,9 +537,13 @@ KIRK: And very brief.
 DEELA: It'll be just as brief here. You cannot get back to your own level. No answer, Captain? Do I displease you so much? 
 KIRK: Oh, no. I can think of nothing I'd rather do than stay with you. Except staying alive. 
 (Deela joins Rael on the transporter pad.) 
+
+
 KIRK: Energise. 
 DEELA: Goodbye, Captain. 
 (They are beamed away.) 
+
+
 KIRK: Well, Mister Spock, what have you got? 
 SPOCK: Doctor McCoy and I have synthesised a possible counteragent to the Scalosian water. Regrettably, we did not have the opportunity to test it. 
 KIRK: Let's test it. (drinks the contents of a small vial) Nothing's happening. 
@@ -472,6 +562,8 @@ KIRK: Cancel Red Alert, Mister Sulu.
 SULU: Aye, sir. 
 KIRK: Open all channels. Captain to crew. Repairs are now being effected by Mister Spock. The ship will resume normal operations almost immediately. 
 (Spock returns to normal time.) 
+
+
 KIRK: Mister Spock, my compliments to your repair work and yourself. 
 SPOCK: Thank you, Captain. I found it an accelerating experience. 
 KIRK: Yes. No malfunctions anywhere? (sees the Scalosians on the viewscreen) Lieutenant. 

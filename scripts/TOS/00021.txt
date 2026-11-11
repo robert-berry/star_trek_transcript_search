@@ -19,11 +19,15 @@ CAPTAIN: Watch the scope, Webb. Air Defence will want to send somebody up for a 
 Captain 's log Stardate 3113.2. We were en-route to Starbase 9 for resupply when a black star of high gravitational attraction began to drag us toward it. It required all warp power in reverse to pull us away from the star. But, like snapping a rubber band, the breakaway sent us plunging through space, out of control, to stop here, wherever we are. 
 [Bridge]
 (The crew are picking themselves and their chairs up off the floor) 
+
+
 KIRK: Mister Spock. 
 SPOCK: Except for secondary systems, everything is out, sir. We're on impulse power only. 
 KIRK: Auxiliaries? 
 SPOCK: If Mister Scott is still with us, auxiliaries should be on momentarily. (Uhura is just stirring on the floor) Are you all right, Lieutenant? 
 (He helps her back to her seat, and the lights come on.) 
+
+
 SPOCK: Mister Scott is still with us. 
 KIRK: This is the Captain. Damage control parties on all decks, check in. All departments tie in with the record computer. Report casualties and operational readiness to the First Officer. Kirk out. Lieutenant Uhura, contact Starfleet Control. I want them alerted to the position of that black star that's in the area of Starbase 9. 
 UHURA: Yes, sir. 
@@ -32,6 +36,8 @@ KIRK: Orbit where?
 SPOCK: Earth, Captain. We were on a general course in this direction when we were pulled in by the star. Apparently the breakaway threw us on in the same direction. 
 KIRK: Screen on. 
 (A full view of north America is on screen, with not a cloud in sight.) 
+
+
 SPOCK: We are too low in the atmosphere to retain this orbit, Captain. Engineering reports we have sufficient impulse power to achieve escape velocity. 
 KIRK: Give us some altitude, Mister Sulu. 
 SULU: Yes, sir. Helm answering. She's sluggish, sir. 
@@ -39,6 +45,8 @@ UHURA: Captain, normal Starfleet channel has nothing but static. I'm getting som
 KIRK: Put it on audio. 
 MAN [OC]: This is the five thirty news summary. Cape Kennedy. The first manned Moon shot is scheduled for Wednesday, six am Eastern Standard Time. All three astronauts who are to make this historic 
 (Kirk signals it cut off) 
+
+
 KIRK: Manned Moon shot? That was in the late 1960s. 
 SPOCK: Apparently, Captain, so are we. 
 KIRK: What? 
@@ -65,12 +73,16 @@ KIRK: Scotty, activate tractor beam. Lock onto that aircraft and hold it out the
 SPOCK: Captain, this type of aircraft might be too fragile to take our tractor beam. 
 SCOTT [OC]: Tractor beam on, sir. We have the target. 
 (The bright light of the tractor beam forces Captain Christopher to lower his visor) 
+
+
 SPOCK: Aircraft is breaking up, Captain. 
 KIRK; Transporter room. Can you lock onto the cockpit of that aircraft? 
 KYLE: Scanning area, sir. 
 KIRK: Try and beam that pilot aboard. Take over, Mister Spock. 
 [Transporter room]
 (From his seated position strapped into his fighter, Captain Christopher is beamed aboard standing up.) 
+
+
 KIRK: Welcome aboard the Enterprise. 
 CHRISTOPHER: You speak English. 
 KIRK: That's right. You can step off the transporter 
@@ -112,6 +124,8 @@ KIRK: What about him?
 SPOCK: We cannot return him to Earth, Captain. He already knows too much about us and is learning more. I do not specifically refer to Captain Christopher, but suppose an unscrupulous man were to gain certain knowledge of man's future? Such a man could manipulate key industries, stocks, and even nations. and in so doing, change what must be. And if it is changed, Captain, you and I and all that we know might not even exist. 
 KIRK: Your logic can be most annoying. 
 (Goes over to Christopher, who is talking to Uhura.) 
+
+
 KIRK: That flight suit must be uncomfortable. (to Spock) Why don't you have the quartermaster issue him something more suitable? Then I want to meet you and him in my quarters. 
 SPOCK: Yes, sir. 
 {Captain's quarters]
@@ -119,6 +133,8 @@ KIRK: Computer on. Record.
 COMPUTER: (in a low, breathy voice) Recording. 
 KIRK: Come. 
 (Spock enters with Christopher, who is now dressed in Command gold) 
+
+
 KIRK: Captain's log, supplemental. Engineering Officer Scott informs warp engines damaged, but can be made operational and reenergised. 
 COMPUTER: Computed and recorded, dear. 
 KIRK: Computer, you will not address me in that manner. Compute. 
@@ -217,6 +233,8 @@ CHRISTOPHER: Well, I'd like to help. I could sketch a layout of the place for yo
 (Kirk hands him a PADD) 
 [498 Airbase Group Air Defence Command]
 (It's nighttime, and a guard is patrolling the corridors when Kirk and Sulu beam in. They smile at the quaint notice board and trophy cupboard before breaking into the Statistical Services Division by means of a sort of sonic screwdriver. Kirk's torch lights up a bank of magnetic tapes)
+
+
 KIRK: Primitive computer. I've seen them demonstrated in museums. 
 SULU: Me, too. If this one's like those, it'll make the devil's noise if you start it. 
 KIRK: I don't intend to start it. 
@@ -229,20 +247,28 @@ MCCOY: Shouldn't you be working on your time warp calculations, Mister Spock?
 SPOCK: I am. 
 [ADC Statistical Services]
 (They've just taken the magnetic tape when the lights go on and an armed guard confronts them) 
+
+
 SERGEANT: Hold it. Get your hands up. Now, one at a time, hand me those belts. 
 (They hand over the belts with the phasers attached to them) 
+
+
 SERGEANT: And the bag. 
 [Transporter room]
 MCCOY: It's been too long. Jim should have at least signaled by now. 
 SPOCK: You may be correct, Doctor. Open communicator channel. 
 [ADC Statistical Services]
 (There's a beeping sound) 
+
+
 SERGEANT: What was that? 
 KIRK: What was what? 
 SERGEANT: That noise. 
 SULU: I didn't hear anything. 
 SERGEANT: That noise. It's coming from one of these things. 
 (He has a communicator in his hand, so he puts down the bag and belts and opens it.) 
+
+
 SULU: The emergency signal. 
 SERGEANT: Stay right where you are. 
 [Transporter room]
@@ -251,6 +277,8 @@ SPOCK: Beam up immediately.
 MCCOY: Only one signal. What happened? 
 SPOCK: We'll know in a moment, Doctor. 
 (The Sergeant is beamed aboard.) 
+
+
 KIRK [OC]: Kirk to Enterprise. 
 SPOCK: Spock here. Are you all right, Captain? 
 [ADC Statistical Services]
@@ -262,6 +290,8 @@ KIRK: Your surprise package is an Air Police sergeant from the base.
 KIRK [OC]: I want you to keep him in the transporter room. No sense in letting him see more of the ship than is necessary. 
 SPOCK: I don't believe there'll be trouble in that respect, Captain. 
 (The Sergeant still hasn't hardly moved a muscle when McCoy gently takes the gun and communicator out of his hands.) 
+
+
 SPOCK: Our guest seems quite satisfied to remain where he is. 
 [ADC Statistical Services]
 KIRK: Kirk out. (returns to the magnetic tapes) What was the chronometer reading when we first sighted Christopher's jet? 
@@ -272,13 +302,19 @@ KIRK: Put it at the end of these tapes, will you? Get them all.
 KIRK: We'll try the darkroom. 
 [Guard room]
 (On the monitor board, a light flashes on the board, indicating someone has entered the Photo Section) 
+
+
 FELLINI: Photo lab. 
 [Dark room]
 (Kirk is checking reels of film) 
+
+
 KIRK: Yes, that's it. That's all of them. Signal Mister Spock that we're almost ready to beam up. I'll make a check of the files just in case. 
 SULU: Yes, sir. 
 [Photo lab]
 (Kirk walks out into the main lab just as security walk in. He shuts the door behind him and fights the three men, making lots of noise so Sulu can hear what is going on. He's eventually restrained, and the Colonel takes a look in the dark room. It's empty.) 
+
+
 FELLINI: All right. Where's the other one? 
 KIRK: What other one? 
 FELLINI: Your partner. I saw you looking that was and I saw somebody move in there. 
@@ -306,6 +342,8 @@ KIRK: For the fourth time, my name is James T. Kirk.
 FELLINI: And how did you get inside a top security installation, James T. Kirk? 
 KIRK: I told you, you wouldn't believe me. 
 (The Colonel picks up the communicator) 
+
+
 KIRK: Colonel, would you mind being careful with that? 
 FELLINI: That worries you a little bit, huh? What is that, a radio? Transmitter of some kind? 
 KIRK: Of some kind. 
@@ -339,25 +377,37 @@ SPOCK: In fact, I do. But only to a certain point.
 [Transporter room]
 SPOCK: Energise. 
 (The party are beamed down) 
+
+
 SERGEANT: Do they do that all the time? 
 KYLE: Are you hungry? 
 SERGEANT: Uh-huh. 
 KYLE: What would you like? 
 SERGEANT: Maybe some chicken soup. 
-(Kyle puts a card in the slot and the hatch slides up to reveal a bowl on a tray. The Sergeant dips his finger in to taste it.) SERGEANT: It is. 
+(Kyle puts a card in the slot and the hatch slides up to reveal a bowl on a tray. The Sergeant dips his finger in to taste it.) 
+
+SERGEANT: It is. 
 [Air Base - Corridor]
 (Captain Christopher walks past the guard on duty) 
+
+
 GUARD: Just a minute, sir. Hold it. 
 (Sulu karate-chops him into unconsciousness) 
 [Guard room]
 (There's a knock at the door) 
+
+
 FELLINI: See what that is, airman. 
-(It's Spock, who neck-pinches the hapless airman. Kirk punches Lt. Colonel Fellini's lights out.) SPOCK: Don't you find that painful, Captain? 
+(It's Spock, who neck-pinches the hapless airman. Kirk punches Lt. Colonel Fellini's lights out.) 
+
+SPOCK: Don't you find that painful, Captain? 
 KIRK: Yes, I do. What's he doing here? 
 SPOCK: He knew the exact beam down co-ordinates for this section of the base. It was necessary to bring him along. 
 KIRK: I see. No harm done. Mister Sulu, did you check out those tapes? 
 SULU: Mister Spock ran them through. They were the right ones. We got them all. 
 (Spock goes into the Colonel's office) 
+
+
 CHRISTOPHER: They know you've been here. 
 KIRK: All they have is a mystery and no answers. Mister Sulu, signal the Transporter Chief. Four to beam up. 
 SULU: Yes, sir. 
@@ -368,8 +418,12 @@ KIRK: You can't explain your presence on the base.
 CHRISTOPHER: I told you it's my duty to report everything I've seen. That's explanation enough. Spock! 
 KIRK: You'll go home, Christopher but you'll do it our way. 
 (Spock appears in the doorway behind Christopher) 
+
+
 CHRISTOPHER: Over my dead body. 
 (So he gets neck-pinched into unconsciousness) 
+
+
 SPOCK: I suspected he might not wish to return with us. 
 KIRK: Four to beam up, Mister Sulu. 
 SULU: Yes, sir. 
@@ -386,6 +440,8 @@ SCOTT: Braking control, sir. If I can't stop us soon enough, we may overshoot ou
 KIRK: Well, gentlemen, we all have to take a chance. Especially if one is all you have. Assume your stations. 
 [Bridge]
 (Enterprise leaves orbit, and we watch the pretty blue and white globe receding on the viewscreen.) 
+
+
 KIRK: Ahead warp factor three, Mister Sulu. 
 SULU: Warp factor three, sir. 
 CHRISTOPHER: I never thought I'd make it into space. I was in line to be chosen for the space programme but I didn't qualify. 
@@ -395,10 +451,14 @@ KIRK: Mister Spock.
 SPOCK: Since we've passed Mercury, the sun's pull on us has increased greatly. From here, we'll move even faster. And Captain, notice the chronometers. They've started backward. Minute by minute, the speed of time passage will now increase. 
 KIRK: Get your gear. Report to the transporter room. And Captain Christopher, you only have about fifteen years, so you'd better hurry. 
 (Christopher leaves, and time passes.) 
+
+
 SPOCK: Approaching breakaway point. On the countdown. Ten, nine, eight, seven, six, five, four, three, two, one. 
 KIRK: Now, Mister Sulu. (the ship lurches sideways) More power, Mister Sulu. 
 SULU: It's maximum now, sir. She's fighting it. 
 (Then everyone's thrown forward) 
+
+
 SPOCK: We've broken free and heading back. 
 SULU: Gaining speed now, Captain. We're now at warp four, warp seven. Eight. Off the dial, sir. 
 SPOCK: Chronometers moving forward again, Captain. 
@@ -415,6 +475,8 @@ CHRISTOPHER: Captain, thanks for the look ahead.
 [Bridge]
 KIRK: Our pleasure, Captain. Bridge out. 
 (The blue planet grows larger on the viewscreen) 
+
+
 SPOCK: Twenty minutes, sir. It'll be close. 
 KIRK: Bridge to transporter room. Prepare to energise. 
 SPOCK: Ten minutes. Nine, eight, seven, six, five, four, three, two, one. 
@@ -422,6 +484,8 @@ KIRK: Energise.
 [Jet Fighter]
 FLIGHT: You should be close enough for a visual contact. 
 (Captain Christopher is beamed into himself. He has a look around, but Enterprise has vanished.) 
+
+
 FLIGHT: Bluejay Four. Can you see it? What is it? Bluejay 4. Come in. We've lost the image. 
 CHRISTOPHER: Blackjack, this is Bluejay Four. I could have sworn there was some kind of ship, but nothing could have moved that fast. 
 FLIGHT: We don't track mirages. 
@@ -432,6 +496,8 @@ KIRK: Bridge to transporter room, prepare to energise.
 SPOCK: Now. 
 KIRK: Energise. 
 (The sergeant is beamed into himself as he is about to look through the glass door of the Statistical Services Division. There's no one there, so he continues on his round.) 
+
+
 SULU: Past Pluto, sir. 
 KIRK: What's our reading, Mister Spock? 
 SPOCK: Approaching our century, Captain. Braking should begin now. 
@@ -448,11 +514,15 @@ SULU: Engines cutting back, sir. No decrease in speed.
 SPOCK: Forty, thirty. 
 KIRK: Never mind, Mister Spock. 
 (Once again, everyone gets thrown around) 
+
+
 SULU: The engines! 
 [Engineering]
 SCOTT: Engine room to Bridge. Engines are on full reverse. They're buckling! Bridge! 
 [Bridge]
 (Things return to normal) 
+
+
 KIRK: Mister Scott is still with us. 
 UHURA: Captain. 
 STARFLEET [OC}: Starfleet Control calling Enterprise. Come in, Enterprise. 

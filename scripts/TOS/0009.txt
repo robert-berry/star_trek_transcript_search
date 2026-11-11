@@ -11,6 +11,8 @@ KIRK: Kirk here.
 SPOCK [OC]: Still no answer from Earth Outpost number two, Captain, and now number three's gone silent. 
 KIRK: Maintain course to outpost four. Keep me informed. Kirk out. 
 (At the door, a young lady in gold uniform and a pretty head-dress takes Scott's arm and is escorted into the room, to the strains of 'Here Comes The Bride'. Kirk goes to the rostrum.) 
+
+
 KIRK: Since the days of the first wooden vessels, all shipmasters have had one happy privilege. That of uniting two people in the bonds of matrimony. We are gathered here today with you, Angela Martine, and you, Robert Tomlinson, in the sight of your fellows, in accordance with our laws and our many beliefs so that you may pledge your 
 SULU [OC]: Alert! Alert! All decks alert! Alert! Alert! Captain to the Bridge. All decks alert. 
 KIRK: Kirk here. 
@@ -88,17 +90,23 @@ HANSEN [OC]: Negative. It seems to have disappeared somehow. I have you on my sc
 KIRK: Tie us in. 
 UHURA: Tied in, sir. 
 (The viewscreen shows a man in a wrecked room, surrounded by fires) 
+
+
 HANSEN [on viewscreen]: Enterprise, can you see it? My command post here. We're a mile deep on an asteroid. Almost solid iron. And even through our deflectors, it did this. Can you see? 
 KIRK: Affirmative. You're visual, Hansen. What do you have on the intruder? 
 HANSEN [on viewscreen]: No identification. No answer to our challenge. Only a glimpse of it. Then they fired something at us, some form of high-energy plasma. Fantastic power. And then the whole vessel disappeared. But it's out there somewhere. Our sensors show that much. Enterprise, something coming on our viewing screen, coming at us fast. 
 KIRK: Lock us onto your screen. 
 HANSEN [on viewscreen]: Switching. Can you see it, Enterprise? Can you see it? It's becoming visible in the centre of my screen. 
 (A ship appears from nowhere on the screen) 
+
+
 KIRK: Do you have phaser capacity? We're still out of range. 
 HANSEN: Negative. Phasers gone. Weapons crew dead. 
 KIRK: Make a challenge. Warn that ship off. 
 UHURA: Trying to, sir. They don't acknowledge. 
 (The alien ship fires a big red plasma ball, and the viewscreen switches to Hansen as the outpost is hit, then just bright light. Back to the attacking ship, which then vanishes.) 
+
+
 SPOCK: Outpost four disintegrated, Captain. 
 KIRK: Position of the intruder, Mister Spock. 
 SPOCK: Disappeared. Interesting how they became visible for just a moment. 
@@ -133,7 +141,9 @@ KIRK: Pipe it in.
 UHURA: Sounds like code, sir. 
 SPOCK: I have a fix on it, Captain. I believe I can lock on it, get a picture of their Bridge. 
 KIRK: Put it on the screen. 
-(Up shimmers an image of a group of four humanoids around a console. One leaves his post and salutes the figure with his back to us. That figure then turns, and we see someone who looks just like - a Vulcan. Both Spock's eyebrows hit the ceiling. There's a long silence and a lot of stares.) KIRK: Decoding? 
+(Up shimmers an image of a group of four humanoids around a console. One leaves his post and salutes the figure with his back to us. That figure then turns, and we see someone who looks just like - a Vulcan. Both Spock's eyebrows hit the ceiling. There's a long silence and a lot of stares.) 
+
+KIRK: Decoding? 
 UHURA: Cryptography is working on it, sir. 
 STILES: Give it to Spock. 
 KIRK: I didn't quite get that, Mister Stiles. 
@@ -151,6 +161,8 @@ KIRK: Stay with him, helm.
 SULU: Turning, sir. 
 [Romulan ship]
 (We're given a lovely shot of the bird painted on it's belly) 
+
+
 COMMANDER: We grow visible. Attend the cloaking system. 
 ROMULAN: It consumes much power, Commander. With no enemy to concern us. 
 COMMANDER: That Earth outpost called to an Earth vessel. Now it follows us. 
@@ -182,6 +194,8 @@ KIRK: Bring it to the briefing room. Are you ready, gentlemen?
 [Briefing room]
 SPOCK: From the outpost's protective shield. Cast rodinium. This is the hardest substance known to our science. 
 (He crushes it with his hand) 
+
+
 SPOCK: Lab theorises an enveloping energy plasma forcing an implosion. 
 KIRK: Comments? 
 SPOCK: Obviously, their weaponry is superior to ours, and they have a practical invisibility screen. 
@@ -260,19 +274,29 @@ KIRK: He did exactly what I would have done. I won't underestimate him again. No
 ROBERT: Phaser one, fire. 
 CREWMAN: Phaser one, fire. 
 (Pulse phaser shots go into the darkness, rocking the Romulan ship) 
+
+
 ROBERT: Phaser two, fire. 
 CREWMAN: Phaser two, fire. 
 [Romulan ship]
 (The Centurion pushes his Commander out of the way of a falling beam) 
+
+
 COMMANDER: Divert all power to weapons. 
 [Bridge]
 SULU: Phaser overload. Control circuit burnout. 
 (Spock goes under his station to put out the flames) 
+
+
 SPOCK: It'll take time to correct, sir. 
 SULU: Captain, are they surrendering? 
 (The Romulan ship has become visible) 
+
+
 KIRK: Full astern! Emergency warp speed! 
 (A red plasma blast is heading towards them) 
+
+
 KIRK: Do we have emergency warp? 
 SULU: Full power, sir. It's still overtaking us. If we can get one phaser working, sir, one shot might detonate it. 
 KIRK: Navigation? 
@@ -286,8 +310,12 @@ RAND: Yes, sir.
 SULU: Ten seconds to impact. Captain, It's dissipating, sir. 
 STILES: It must have a range limit. 
 (Rand stands as close as humanly possible to Kirk) 
+
+
 SULU: Five, four, three, two, one. Impact! 
 (Everyone gets thrown about a bit) 
+
+
 KIRK: Limited range. 
 SPOCK: Phasers operational, Captain. Intruder bearing one eleven mark fourteen. 
 KIRK: Back to his old course. 
@@ -297,6 +325,8 @@ SPOCK: Intruder holding steady. Course one eleven mark fourteen.
 KIRK: Same as before, Mister Sulu. Stay with him. 
 {Romulan ship]
 (The Commander tends to his injured friend) 
+
+
 ROMULAN: Commander, the reflection returns. 
 COMMANDER: Activate our cloak. 
 ROMULAN: Commander, our fuel runs low. 
@@ -346,6 +376,8 @@ SPOCK: Nothing, sir. No motion out there at all. We've lost them, Captain.
 Captain's log, Stardate 1709.6. We are at the Neutral Zone. Have lost contact with the intruder. No reaction on our motion sensors but believe the Romulan vessel to be somewhere close by; With all engines and systems shut down, the Enterprise is also playing the silent waiting game in hope of regaining contact. 
 [Bridge]
 (The lights are being dimmed and systems shut down as they rig for silent running) 
+
+
 SPOCK: Captain, I must make further repairs on the transfer coil. It's giving out again. 
 KIRK: All right, Mister Spock, work quietly. 
 [Romulan ship]
@@ -354,16 +386,22 @@ COMMANDER: Shh. He is there, somewhere. I feel it.
 Captain's log, supplemental. Now motionless for nine hours, forty seven minutes. 
 [Kirk's quarters]
 (Yeoman Rand walks in without knocking, to find the Captain lying on his bed.) 
+
+
 RAND: Can I get you something from the galley, sir? Coffee, at least? 
 KIRK: Thank you, Yeoman. Bring it to the Bridge. I'll be there in a moment. 
 RAND: Yes, sir. 
 (McCoy walks in unannounced, and Rand leaves.) 
+
+
 KIRK: I wish I were on a long sea voyage somewhere. Not too much deck tennis, no frantic dancing, and no responsibility. Why me? I look around that Bridge, and I see the men waiting for me to make the next move. And Bones, what if I'm wrong? 
 MCCOY: Captain, I 
 KIRK: No, I don't really expect an answer. 
 MCCOY: But I've got one. Something I seldom say to a customer, Jim. In this galaxy, there's a mathematical probability of three million Earth-type planets. And in all of the universe, three million million galaxies like this. And in all of that, and perhaps more, only one of each of us. Don't destroy the one named Kirk. 
 [Bridge]
 (Spock carefully closes the cover on his repairs, and is reaching up to his station to help himself up when he accidentally touches a button, turning on a system) 
+
+
 STILES: What? 
 KIRK: It's all right. It's all right. 
 [Romulan ship]
@@ -377,6 +415,8 @@ KIRK: Phasers, fire.
 STILES: Phasers, fire. 
 [Romulan ship]
 (They are taking damage) 
+
+
 DECIUS: How, Commander. How? 
 COMMANDER: He's a sorcerer, that one. He reads the thoughts in my brain. Our fuel supply all but gone and he stays out of reach. 
 DECIUS: We are beaten. Can it be true? The Praetor's finest and proudest flagship beaten. 
@@ -428,23 +468,33 @@ STILES: Negative.
 SPOCK: Will you require assistance here? 
 STILES: This time, we'll handle things without your help, Vulcan. 
 (Spock leaves. then Stiles notices purple gas escaping from a seal) 
+
+
 STILES: Tomlinson! 
 [Bridge]
 SULU: Enemy vessel becoming visible, sir. 
 KIRK: Forward phasers, stand by. (the Romulan becomes a clear image) Fire! Fire! Stiles, can you hear me? Fire! 
 [Corridor]
 (Spock is walking slowly when he hears the Captain's commands over the intercom) 
+
+
 KIRK [OC]: Fire! Stiles, can you hear me? Fire! 
 (Spock turns and runs back to Phaser Control) 
+
+
 KIRK [OC]: Fire! 
 [Phaser Control]
 (The room is full of purple smoke) 
+
+
 KIRK: Stiles, can you hear me? Fire! Stiles! 
 (Spock enters just as Stiles tries and fails to reach the firing button. He activates the controls and the phaser pulses hit the Romulan ship) 
 [Bridge]
 KIRK: Mister Sulu, prepare to move in on the Romulan vessel. Ship-to-ship, Uhura. Put this on the screen. 
 UHURA: (still at the navigation station) Hailing frequencies open, sir. 
 (The viewscreen shows a wrecked room and just the Commander still on his feet) 
+
+
 KIRK: Captain. Standing by to beam your survivors aboard our ship. Prepare to abandon your vessel. 
 COMMANDER [on viewscreen]: No. No, that is not our way. I regret that we meet in this way. You and I are of a kind. In a different reality, I could have called you friend. 
 KIRK: What purpose will it serve to die? 
@@ -459,10 +509,14 @@ SPOCK: I saved a trained navigator so he could return to duty. I am capable of n
 KIRK: How many men did we lose, Bones? 
 MCCOY: Only one. Tomlinson. The boy who was getting married this morning. His fianc�e is at the chapel. 
 (Kirk turns to go, and Rand enters) 
+
+
 RAND: We finally received an answer from Command base, sir. They say they'll support whatever decision you have to make. 
 (Kirk leaves) 
 [Ship's Chapel]
 (Angela is kneeling in front of the altarpiece, crying, when Kirk enters. She gets up and hugs him.) 
+
+
 KIRK: It never makes any sense. We both have to know that there was a reason. 
 ANGELA: I'm all right. 
 

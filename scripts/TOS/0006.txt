@@ -69,6 +69,8 @@ CRATER: Why, I thought the machine
 MCCOY: The machine is capable of almost anything but I'll still put my trust in a healthy set of tonsils. Now, open your mouth. (a woman screams, they dash out, Kirk with his phaser drawn)
 [Planet surface]
 (Darnell is lying on a rock, Nancy is standing by him) 
+
+
 KIRK: (removing a piece of plant from Darnell's mouth) McCoy. 
 MCCOY: Dead, Jim. Strange. A red mottling all over his face. 
 KIRK: What happened? 
@@ -178,14 +180,20 @@ KIRK: Arrange quarters for Professor and Mrs. Crater. Did you get the plant anal
 SPOCK [OC]: It is the Borgia variety, Captain. Could not have caused Darnell's death. 
 MCCOY: Jim, he's run off.
 (Crater finds Sturgeon's body) 
+
+
 CRATER: Nancy! You! Salt! I've got salt! Smell it! Smell it, Nancy! 
 (Nancy is kneeling by Green's body. She stands at the call) 
+
+
 KIRK [OC]: Professor Crater! Professor Crater! 
 MCCOY [OC]: Professor Crater! 
 KIRK: Professor Crater! Professor! Professor! 
 MCCOY: Jim! Jim, it's Sturgeon. He's dead. 
 KIRK: We'd better locate Crewman Green. Green! Green! Crewman Green, report! Green! 
 (Nancy changes into Green) 
+
+
 MCCOY: Crewman Green, report! Green! Green, where are you? Could it be Crater? He came this way. 
 KIRK: I don't know. Green! (Green arrives) Did you see this? 
 GREEN: Yes, sir. Sturgeon was dead when I found him. I was circling to find whatever it was. 
@@ -221,6 +229,8 @@ KIRK: Expand search radius.
 SPOCK: Yes, sir.
 [Corridor]
 (Green is following Rand) 
+
+
 RAND: Why don't you go chase an asteroid? 
 REDSHIRT: Hey, Janice, is that for me? 
 RAND: Don't you wish it was? 
@@ -239,6 +249,8 @@ RAND: He is not an inanimate object. He's so animate he makes me nervous. In fac
 SULU: Hello, Green. 
 RAND: He's not talking today. You been nipping saurian brandy or something? 
 (Beauregard starts screeching and slithers down into it's stem. Green rushes out) 
+
+
 SULU: (stroking plant) Take it easy. Calm down. Very sensitive. 
 RAND: He's the real spook. Suppose he's going space happy or something?
 [Corridor]
@@ -263,6 +275,8 @@ KIRK: All right. We'll triangulate on him. We'll let Professor Crater explain wh
 UHURA: Yes, Captain.
 [McCoy's quarters]
 (Uhura's crewman has found McCoy's quarters, and transforms into Nancy) 
+
+
 MCCOY: Nancy. Well, come in. come in. I've been worried sick about you. I wonder why Jim didn't tell me he found you. 
 NANCY: I'm so happy to see you, Leonard. The others, they, I, I don't relate to them as much as you. You have such strong memories of me. 
 MCCOY: Well. 
@@ -273,6 +287,8 @@ MCCOY: You're as bad as Jim Kirk. He's been telling me to take these.
 NANCY: I think you should. I'll get you some water.
 [Corridor]
 (a crewman lies dead, with mottles on his face) 
+
+
 RAND: Look at his face! 
 SULU: Bridge. Sulu. Trouble on deck nine, section two. We need a medical team.
 Captain's log, Stardate 1513.8. I am now certain that the violent death of my crewmen was caused by some strange life-form.
@@ -326,6 +342,8 @@ SULU: The creature?
 MCCOY: Or whatever it is that's killing the crewmen. Perhaps I can help. Fill me in.
 [Planet surface - ruins]
 (Spock and Kirk are circling around Crater from different directions) 
+
+
 KIRK: Set.
 SPOCK: Acknowledged. Crater! (Kirk fires his phaser) 
 KIRK: Your wife, Professor. Where is she? Your wife, Professor. Where is she? 
@@ -421,6 +439,8 @@ KIRK: McCoy, get out of the way!
 MCCOY: Are you out of your mind? 
 KIRK: Get out of the way. 
 (McCoy and Kirk struggle for the phaser while Nancy grabs and eats the salt tablets. McCoy wins and is pushed away, then she transfixes Kirk and reaches for his face) 
+
+
 SPOCK: It's killing the Captain. Shoot it, Doctor, quickly! 
 MCCOY: No! No! 
 (They struggle for the phaser. Spock 
@@ -433,9 +453,13 @@ MCCOY: Stop it! Stop it, Spock! Stop it! (Nancy sends Spock flying with one slap
 SPOCK: Is that Nancy, Doctor? 
 MCCOY: No. (she goes to Kirk again) No! 
 (She transforms into her natural state.;Kirk screams, McCoy fires the phaser, she changes back into Nancy) 
+
+
 NANCY: Leonard. Leonard, no. Leonard, please. 
 MCCOY: Lord, forgive me. 
 (He fires again and she dies) 
+
+
 KIRK: I'm sorry, Bones.;
 [Bridge]
 SULU: Ready to leave orbit, Captain. 

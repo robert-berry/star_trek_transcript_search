@@ -22,6 +22,8 @@ PAINTER: We've established orbit, sir, and I've pinpointed a settlement.
 KIRK: Thank you, Mister Painter. Mister Spock, equip a landing party of five to accompany me to the planet's surface. Include Doctor McCoy and a biologist. I'll want them in ten minutes. 
 [Farm yard]
 (The group beam down into a farm, complete with wooden fence and a tarmacadamed paths. There are clap-board buildings and even a stable block.) 
+
+
 KIRK: Another dream that failed. There's nothing sadder. It took these people a year to make the trip from Earth. They came all that way and died. 
 ELIAS: Hardly that, sir. Welcome to Omicron Ceti Three. I'm Elias Sandoval. 
 Captain's log, stardate 3417.3. We thought our mission to Omicron Ceti Three would be an unhappy one. We had expected to find no survivors of the agricultural colony there. Apparently, our information was incorrect. 
@@ -38,6 +40,8 @@ SPOCK: There's also no question of the fact that Berthold rays are incontroverti
 KIRK: Gentlemen, we're debating in a vacuum. Let's go get some answers. 
 [Farmhouse]
 (Elias leads the way into a comfortable room with wooden furniture and gingham curtains.) 
+
+
 ELIAS: There are two other settlements, but we have forty five colonists here. 
 KIRK: What was the reason for the dispersal? 
 ELIAS: We felt three groups would have better potential. If disease were to strike one group, the others would be less likely to be affected. You see, Omicron is an ideal agricultural planet. We determined not to suffer the fate of expeditions that went before us. 
@@ -52,6 +56,8 @@ ELIAS: Make yourselves at home, gentlemen.
 KELOWITZ: What exactly are we looking for anyway, sir? 
 SULU: Whatever doesn't look right, whatever that is. When it comes to farms, I wouldn't know what looked right or wrong if it were two feet from me. 
 (You mean like that weird alien plant right next to you?) 
+
+
 KELOWITZ: (opening up the barn door) Hey. 
 SULU: What is it? 
 KELOWITZ: No cows. This barn isn't even built for them, Just for storage. 
@@ -67,11 +73,17 @@ ELIAS: Would you like him to stay with us now, to be as one of us?
 LEILA: There is no choice, Elias. He will stay. 
 [Drawing room]
 (In another part of the farmhouse, McCoy is conducting medical examinations.) 
+
+
 MCCOY: That'll be all. Thank you very much. 
 (The man leaves, Kirk enters.) 
+
+
 KIRK: Anything? 
 MCCOY: I've examined nine men so far, varying in ages from twenty three to fifty nine. They're all in perfect condition. Text book responses. Heart, lungs, excellent. Co-ordination, excellent. Reflexes, excellent. If there are many more of them, I could throw away my shingle. 
 (Communicator beeps) 
+
+
 KIRK: Kirk here. 
 [Pasture]
 SPOCK: Spock here, Captain. There seems to be a total absence of life on the planet, with the exception of the colonists and various types of flora. 
@@ -84,6 +96,8 @@ KIRK: Yes, especially in view of the fact that the records for this expedition i
 MCCOY: I'd like to see the medical records on the expedition. 
 KIRK: Yes, I thought you might. 
 (Hands over a computer disc) 
+
+
 ELIAS: Captain, I've been looking for you. You haven't seen our fields and crops. I'd like to show you and the Doctor what we've accomplished here. 
 MCCOY: I'm afraid I'll have to bow out. I have to continue with these medical examinations. However, if I find everyone else's health to be as perfect as yours, I 
 KIRK: He promised to throw away his shingle. 
@@ -93,12 +107,16 @@ ELIAS: This is the reason, Captain. This soil will grow anything we plant in it.
 LESLIE: Pardon me, Captain. Biology report ready, sir. 
 ELIAS: I have work to attend to myself, Captain. 
 (He leaves them.) 
+
+
 KIRK: Go ahead, Lieutenant. 
 LESLIE: I heard Sandoval saying they could grow anything here. That's true, sir. They've got a variety of crops in. Grains, potatoes, beans. 
 KIRK: Make your point. 
 LESLIE: Well, sir, for an agricultural colony, they have actually very little acreage planted. There's enough to sustain the colony, but very little more. 
 KIRK: It's like a jigsaw puzzle all one colour. No key to where the pieces fit in. Why? 
 (Communicator beeps) 
+
+
 KIRK: Kirk here. 
 MCCOY: This is McCoy, Jim. I think you'd better get back here. 
 KIRK: Trouble? 
@@ -112,6 +130,8 @@ KIRK: Instrument malfunction?
 MCCOY: No. I thought of that and tested it on myself. It accurately recorded my lack of tonsils and those two broken ribs I had once. It did not record the scar tissue on Sandoval's lungs, but it did record a healthy appendix where one was supposedly removed. 
 [Field]
 (Spock is scanning amongst the rows of dry-looking somethings.) 
+
+
 SPOCK: Nothing. Not even insects. Yet your plants grow, and you've survived exposure to Berthold rays. 
 LEILA: That can be explained. 
 SPOCK: Please do. 
@@ -137,6 +157,8 @@ KIRK: That doesn't answer my question, sir. Why did all your animals die?
 ELIAS: Captain, you stress very unimportant matters. We will not leave. 
 [Pasture]
 (The grass is brown and dry, but the pink flowers are growing.) 
+
+
 LEILA: It's not much further. 
 SPOCK: You've not yet explained the nature of this thing. 
 LEILA: Its basic properties and elements are not important. What is important is it gives life, peace, love. 
@@ -144,12 +166,16 @@ SPOCK: What you're describing was once known in the vernacular as a happiness pi
 LEILA: Come. I was one of the first to find them. The spores. 
 SPOCK: Spores? 
 (One of the pink flowers shoots things at him. Spock clutches his head and falls to the ground in pain.) 
+
+
 SPOCK: No. 
 LEILA: It shouldn't hurt. 
 SPOCK: No, I can't. Please, don't! 
 LEILA: Not like this. It didn't hurt us. 
 SPOCK: I am not like you. 
 (Suddenly the pain is gone.) 
+
+
 LEILA: Now. Now, you belong to all of us and we to you. There's no need to hide your inner face any longer. We understand. 
 SPOCK: I love you. I can love you. 
 (They kiss.) 
@@ -173,11 +199,15 @@ SULU: Yes, sir.
 KIRK: Spock? 
 [Pasture]
 (Spock's communicator is beeping to itself while he is lying in Leila's lap, looking at the clouds. He has changed out of his uniform into an overall.) 
+
+
 SPOCK: That one looks like a dragon. You see the tail and the dorsal spines? 
 LEILA: I've never seen a dragon. 
 SPOCK: I have. On Berengaria Seven. But I've never stopped to look at clouds before. Or rainbows. You know, I can tell you exactly why one appears in the sky, but considering its beauty has always been out of the question. 
 LEILA: Not here. 
 (She picks up the communicator and it opens.) 
+
+
 KIRK [OC]: Spock! 
 SPOCK: Yes, what did you want? 
 [Farmyard]
@@ -198,6 +228,8 @@ SPOCK: I don't think so, sir.
 KIRK: Spock, report to me immediately. 
 [Pasture]
 (But the communicator drops to the ground during another kiss) 
+
+
 KIRK [OC]: Spock? Acknowledge. 
 [Farmyard]
 KIRK: Spock. The frequency is open, but he doesn't answer. 
@@ -211,9 +243,13 @@ MCCOY: How will you find Spock?
 KIRK: The frequency is open. It'll act as a homing device. Contact DeSalle. Have him meet you here. Make sure the landing party work in teams of two. I don't want anybody left alone down here. 
 [Pasture]
 (They find the communicator, and hear laughter. Spock is hanging upside down from a branch of a nearby tree.) 
+
+
 KIRK: Spock. (clears throat) Mister Spock. 
 [Beam-down point]
 (Items are being collected to be taken up to the ship. DeSalle has brought some of the pink plants.) 
+
+
 MCCOY: What are you doing with those things, DeSalle? 
 DESALLE: I want you to take a close look at these, Doc. They're very interesting. 
 [Pasture]
@@ -224,14 +260,20 @@ SPOCK: There'll be no evacuation, Jim, but perhaps we should go back and get you
 KIRK: Mister Sulu, Mister Spock is under arrest, and he's in your custody until we get back to the Enterprise. 
 SPOCK: Very well. Come with me. 
 (He takes Leila's hand and leads the group to a clump of the plants, where they all get sprayed with spores.) 
+
+
 KIRK: What's? 
 SPOCK: Mister Sulu understands, don't you, Mister Sulu? 
 SULU: Yes, I see now. Of course we can't remove the colony. It'd be wrong. 
 KIRK: I don't know what these plants are or how they work, but you're all going back to the settlement with me, and those colonists are going aboard the ship. 
 (Kirk leaves them.) 
+
+
 SPOCK: I can see the Captain is going to be difficult. 
 [Another pasture]
-(No equipment or colonists now, just plants going up to the ship.) MCCOY: (with an extreme southern drawl) Ready to beam up. Hiya, Jimmy boy! Hey, I've taken care of everything. All y'all gotta do is relax. Doctor's orders. 
+(No equipment or colonists now, just plants going up to the ship.) 
+
+MCCOY: (with an extreme southern drawl) Ready to beam up. Hiya, Jimmy boy! Hey, I've taken care of everything. All y'all gotta do is relax. Doctor's orders. 
 KIRK: How many of those did you beam up? 
 MCCOY: Oh, must be nigh onto a hundred by now. 
 CHIEF [OC]: Hey, Doc, I'm ready to energise. Everything okay with those plants? 
@@ -248,6 +290,8 @@ UHURA: I short-circuited them, except ship to surface. We'll need that for a whi
 (She leaves the Bridge. Kirk finds a plant and throws it angrily across the helm console before storming out himself.) 
 [Corridor]
 (There's a long queue of crewmembers lounging against the wall outside the transporter room.) 
+
+
 KIRK: Get back to your stations. Get back to your stations. 
 CREWMAN: I'm sorry, sir. We're all transporting down to join the colony. 
 KIRK: I said get back to your station. 
@@ -272,9 +316,13 @@ MCCOY [OC]: McCoy out.
 KIRK: Bones. Bones. 
 [Farmhouse]
 (Spock is pouring tea.) 
+
+
 SPOCK: Almost the entire ship's complement has beamed down. 
 ELIAS: I'm very pleased. The entire landing operation is proceeding quite well. 
 (Kirk enters) 
+
+
 KIRK: Where's McCoy? 
 SPOCK: He went off to create something called a mint julep. That's a drink, Jim. 
 ELIAS: Captain, why don't you join us? 
@@ -293,10 +341,16 @@ SPOCK: You don't understand, Jim, but you'll come around sooner or later. Join u
 KIRK: I'm going back to the ship. 
 [Bridge]
 (All the panels are lit, the lights are on, but nobody is home except one.) 
+
+
 KIRK: Engineering? Scotty? Biochemistry lab? Security? Is there anyone on board? This is the Captain. 
 (He sits in his chair.) 
+
+
 KIRK: Captain's log, stardate 3417.7. Except for myself, all crew personnel have transported to the surface of the planet. Mutinied. Lieutenant Uhura has effectively sabotaged the communications station. I can only contact the surface of the planet. The ship can be maintained in orbit for several months, but even with automatic controls, I cannot pilot her alone. In effect, I am marooned here. I'm beginning to realise just how big this ship really is, how quiet. I don't know how to get my crew back, how to counteract the effect of the spores. I don't know what I can offer against paradise. 
 (The plant that he had thrown earlier, now sprays him with spores.) 
+
+
 KIRK: Enterprise to Mister Spock. 
 [Pasture]
 SPOCK: Yes, Jim. What is it now? 
@@ -313,6 +367,8 @@ KIRK [OC]: Kirk out.
 (He packs a suitcase with a smile on his face, then goes to the safe and gets out his medals. He loses the smile.) 
 [Transporter room]
 (Kirk puts his suitcase on the transporter pad and goes over to the controls.) 
+
+
 KIRK: No. No! I can't leave! (he's very relieved) Emotions. Violent emotions. Needs. Anger. Captain's log, supplemental. I think I've discovered the answer, but to carry out my plan entails considerable risk. Mister Spock is much stronger than the ordinary human being. Aroused, his great physical strength could kill. But it's a risk I'll have to take. 
 [Field]
 KIRK [OC]: Enterprise to Mister Spock. 
@@ -333,6 +389,8 @@ SPOCK: Ready to beam up, Jim.
 [Transporter room]
 KIRK: (with a large metal bar in his hand) Energising. 
 (Spock materialises.) 
+
+
 KIRK: All right, you mutinous, disloyal, computerised, half-breed, we'll see about you deserting my ship. 
 SPOCK: The term half-breed is somewhat applicable, but computerised is inaccurate. A machine can be computerised, not a man. 
 KIRK: What makes you think you're a man? You're an overgrown jackrabbit, an elf with a hyperactive thyroid. 
@@ -347,6 +405,8 @@ KIRK: You're a traitor from a race of traitors. Disloyal to the core, rotten lik
 SPOCK: That's enough. 
 KIRK: Does she know what she's getting, Spock? A carcass full of memory banks who should be squatting in a mushroom, instead of passing himself off as a man? You belong in a circus, Spock, not a starship. Right next to the dog-faced boy. 
 (Spock bends the metal bar with one blow, and throws Kirk around the transporter room with ease. Fortunately, Kirk is able to dodge the blows that damage the walls and equipment until finally...) 
+
+
 KIRK: Had enough? I didn't realise what it took to get under that thick hide of yours. Anyhow, I don't know what you're so mad about. It isn't every first officer who gets to belt his Captain several times. 
 SPOCK: You did that to me deliberately. 
 KIRK: Believe me, Mister Spock, it was painful in more ways than one. 
@@ -365,6 +425,8 @@ LEILA: I'm waiting for Mister Spock and the Captain to transport down. They had 
 MCCOY: Well, now, I think I can fix that for you. Enterprise? 
 [Bridge]
 (Spock is back in uniform and under the console when it beeps.)
+
+
 SPOCK: Enterprise. Spock here. 
 [Field]
 LEILA: This is Leila. I borrowed the doctor's communicator. I was worried something might have happened to you. 
@@ -384,6 +446,8 @@ KIRK: Mister Spock, Miss Kalomi is strictly your concern, but should you talk to
 SPOCK: I'll be back shortly, Captain. 
 [Transporter room]
 (Once she's materialised she rushes to put her arms around him, but he doesn't respond.) 
+
+
 LEILA: You're no longer with us, are you? I felt something was wrong. 
 SPOCK: It was necessary. 
 LEILA: Come back to the planet with me. You can belong again. Come back with me, please. 
@@ -405,9 +469,13 @@ DESALLE: More like you're clumsy.
 SULU: If you hadn't gotten in my way 
 (They fight with their spades.) 
 (Elsewhere around the settlement, fights are breaking out.) 
+
+
 KELOWITZ: Come on. Break it up. Break it up. 
 [Pasture]
 (McCoy is resting under a tree, with a tall glass of mint julep in his hand.) 
+
+
 ELIAS: Well, Doctor, I've been thinking about what sort of work I could assign you to. 
 MCCOY: What do you mean, what sort of work? I'm a doctor. 
 ELIAS: Not any more, of course. We don't need you. Not as a doctor. 
@@ -431,6 +499,8 @@ ELIAS: Oh, Captain, as I understood it, you were to transport us to Starbase Twe
 KIRK: Start making preparations, Mister Sandoval. We'll begin transporting your people aboard as soon as more of our crew checks in. 
 [Bridge]
 (Later, when everyone is back on duty.) 
+
+
 MCCOY: Well, Jim, I've just examined the last of the colonists, and they're all in absolutely perfect, perfect health. A fringe benefit left over by the spores. 
 KIRK: Good. 
 MCCOY: Well, that's the second time man's been thrown out of paradise. 

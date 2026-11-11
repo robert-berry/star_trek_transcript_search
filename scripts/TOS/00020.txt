@@ -5,15 +5,21 @@ Stardate: 3087.6
 Original Airdate: 30 Mar, 1967
 [Bridge]
 (Enterprise is orbiting a red and white planet.) 
+
+
 KIRK: Well, Mister Spock? 
 SPOCK: Very typical, Captain. Iron-silicon base, oxygen-hydrogen atmosphere, largely arid, no discernible life. No surprises. 
 KIRK: Photographic section, begin scanning. Tie in to visual section 988-TG, computer bank 22. Kirk out. About four more orbits ought to do it, Mister Lesley. That'll wrap it up. Lay in a course for Starbase 200. 
 LESLEY: Aye, aye, Captain. 
 SPOCK: Captain. 
 (Something suddenly rocks the ship. We see a shot of a nebula along with the crew.) 
+
+
 KIRK: Mister Spock! 
 SPOCK: Incredible, Captain. 
 (And again.) 
+
+
 KIRK: What was that? 
 SPOCK: What my instruments read is totally unbelievable, Captain. Twice, for a split second each time, everything within range of our instruments seemed on the verge of winking out. 
 KIRK: I want facts, not poetry. 
@@ -37,6 +43,8 @@ KIRK: Lieutenant Uhura, notify Security to have an armed detachment of men ready
 Captain's log, stardate 3087.6. While investigating an uncharted planet, the Enterprise and at least this entire quadrant of space, has been subjected to violent, unexplained stress and force. Sensors have reported the presence of a human being on the planet below who might be connected with the phenomenon. With my first officer and a security team, I have set out in search of him. 
 [Planet surface]
 (Kirk, Spock and four armed red-shirts arrive on a rocky terrain with a few scrubby bushes. They walk on a little way until they spot a strange craft on the ground. A one-man flying saucer with a perspex dome cockpit. As they reach it, a man calls out from a ridge.) 
+
+
 LAZARUS: You came! Thank the heavens. There's still time. It's not too late. We can still stop him. But I, but I, need, need your help. 
 (He falls.) 
 [Bridge]
@@ -94,6 +102,8 @@ LAZARUS: Then you'll join me in my holy cause? Help me in visiting justice and v
 KIRK: My only cause is the safety of my ship and the mission we're on. You'll beam down with me and I'll check your story out. 
 [Planet surface]
 (The flying saucer is being minutely examined) 
+
+
 KIRK: Spock, find anything? 
 SPOCK: Negative, Captain. Anything from our guest? 
 KIRK: According to him, there's a creature of some sort down here, a humanoid. 
@@ -102,12 +112,16 @@ LAZARUS: Captain, you yourself said there were no other explanations. Why do you
 SPOCK: I fail to comprehend your indignation, sir. I've simply made the logical deduction that you are a liar. 
 KIRK: Let's have it. The truth this time. 
 (Another one of those 'nebula overlay' events happens, and Lazarus starts shouting then runs off.)
+
+
 LAZARUS: No! You've come back in, is it? Well, don't stop. Here I am. Come at me again. We'll finish it! 
 KIRK: Can you identify that? 
 SPOCK: I'm trying, Captain. 
 KIRK: Lazarus! You stay here. All personnel, security red. 
 LAZARUS: Come! Come! It'll do you no good. I'll chase you to the very fires of hell! 
 (We're treated to a negative image of Lazarus suddenly being pounced on by another person. They fight as the picture keeps being rotated to make you dizzy. Then it all ends and Lazarus staggers back on the planet surface again.)
+
+
 KIRK: Lazarus, what happened? 
 LAZARUS: I saw it again. The thing. It attacked me. 
 KIRK: Let's get out of here. 
@@ -140,6 +154,8 @@ KIRK: Where is he?
 MCCOY: I don't know, Jim. This is a big ship. I'm just a country doctor. 
 [Rec room]
 (Lazarus is sitting nearby when the following conversation takes place.) 
+
+
 ENGINEER: Hi. 
 MASTERS: Hi. Coffee? 
 ENGINEER: Is that an order, Lieutenant? 
@@ -148,9 +164,13 @@ ENGINEER: Yes. Ready and waiting.
 (They leave, then Lazarus follows.) 
 [Corridor]
 (Lazarus has some sort of seizure and we get the nebula effect, the fight, and then... he has a plaster on his forehead again. Kirk and McCoy exit the turbolift and spot him.) 
+
+
 KIRK: Lazarus, are you all right? 
 LAZARUS: Yes. But impatient. Have you decided to help me yet? 
 (McCoy removes the plaster to show the cut.) 
+
+
 LAZARUS: Is something wrong? 
 KIRK: No. I have a ship's physician with a strange sense of humour. 
 MCCOY: This is no joke, Jim. I know what I saw. 
@@ -164,8 +184,12 @@ KIRK: On my way. Lazarus, you're with me. Bones, if I had time, I'd laugh.
 SPOCK: Main screen on, Lieutenant. 
 UHURA: Screen on, sir. 
 (Kirk and Lazarus enter.) 
+
+
 SPOCK: Source of radiation, Captain. 
 (A bright flashing light on the planet.) 
+
+
 KIRK: How is it the scanners didn't pick it up before? 
 SPOCK: Because it is not there. 
 KIRK: Another riddle? First Doctor McCoy, then you? 
@@ -191,10 +215,16 @@ ENGINEER: Lieutenant Masters, Captain's calling.
 MASTERS: Masters here. 
 KIRK [OC]: Lieutenant, can you prepare an experimentation chamber in ten minutes? All dilithium crystals, full power. 
 (We see Lazarus jump the engineer, out of her sight.) 
+
+
 MASTERS: I'll check, sir. 
 (She goes into the room where Lazarus is hiding, checks a panel and leaves again.) 
+
+
 MASTERS: Captain. The chamber will be ready in ten minutes, sir. My assistant and I will 
 (Lazarus injects her neck with something.) 
+
+
 MASTERS: Captain! Captain! 
 KIRK [OC]: Lieutenant, what is it? What's wrong? Lieutenant? 
 [Bridge]
@@ -202,6 +232,8 @@ UHURA: Captain, Security reports Lazarus missing.
 Captain's log, stardate 3088.7. We are no closer to finding an answer to the strange phenomenon than we were at the beginning. Not only have two of my crewmen been attacked, two of our dilithium crystals are missing, and without them the Enterprise cannot operate at full power. They must be found. 
 [Briefing room]
 (This Lazarus has his head injury back again.) 
+
+
 KIRK: Fact. You said you needed the crystals. Fact. An hour after you said you must have them, they were missing. Fact. Two of my crewmen were attacked. 
 LAZARUS: And fact, Captain. I didn't take the crystals. I'm not the one. Find my enemy, find the beast, and you'll find the crystals. 
 KIRK: How'd this beast get aboard my ship? 
@@ -221,6 +253,8 @@ KIRK: Why not? You had it spotted on the Enterprise.
 SPOCK: It has simply disappeared, Captain. 
 KIRK: I want every inch of this terrain checked. Look for footprints, movement, anything. Call out if you spot anything. Don't be afraid to use your weapons. 
 (The entire party leave the little spaceship. The Starfleet group splits into two and take different lines along a rocky outcrop. Lazarus heads off on his own and has one of his nebula moments. There's a fight in negative space and then it's over again. Kirk sends his two security men on ahead, and for some reason Lazarus decides to climb down a cliff face. He dislodges a rock and it goes tumbling. Lazarus calls out, then follows it.) 
+
+
 LAZARUS: Captain, look out! 
 [Sickbay]
 MCCOY: He's coming out of it now. 
@@ -250,6 +284,8 @@ LAZARUS: I told you, he's got them. He took them. The thing! The thing!
 MCCOY: He's got to get some rest, Jim. And would you get that muscleman out of my Sickbay. (gestures at the security guard) 
 KIRK: Dismissed. 
 (The guard leaves.) 
+
+
 MCCOY: He's in a lot of pain. 
 KIRK: Sometimes pain can drive a man harder than pleasure. I'm sure you know that, Doctor. 
 MCCOY: Well, don't worry, he's not going anywhere. Not this time. 
@@ -292,6 +328,8 @@ KIRK: Of everything that exists, everywhere.
 (Lazarus is prowling when he spots a High Voltage access panel. He opens it, removes a couple of transistors then puts one back to short it out. He leaves the area as smoke billows forth.) 
 [Engineering]
 (Smoke starts to come from the main control panels.) 
+
+
 MASTERS: The energiser has shorted. Get out of here. Sound the alarm. 
 ENGINEER: Come on. You, too, Lieutenant. 
 MASTERS: No, I've got to stay 
@@ -305,6 +343,8 @@ UHURA: Fire, Captain. Engineering. Situation critical.
 KIRK: All available personnel, on the double. Spock, with me. 
 [Corridor]
 (Two firefighters in protective gear are entering Engineering) 
+
+
 KIRK: Report. 
 ENGINEER: Under control, sir, but it couldn't have started by itself. 
 SPOCK: Lazarus. A trick to get the crystals. 
@@ -314,10 +354,14 @@ LAZARUS: Oh, I didn't know.
 (He knocks the poor lad out, then sets co-ordinates and is beamed to the planet carrying a bundle.) 
 [Corridor]
 (Kirk and Spock exit Engineering.) 
+
+
 KIRK: He's probably beaming down with the crystals right now. I'm going after him. You organise a security detail. Follow me as soon as you can. 
 SPOCK: Spock to Bridge. 
 [Planet surface]
 (Lazarus climbs into his saucer and unwraps the crystals.) 
+
+
 LAZARUS: I'll get you now. I have a threshold. Run, run. I'll get you now. 
 [Transporter room]
 KIRK: Energise. 
@@ -326,8 +370,12 @@ LAZARUS: It's done, it's done! Finished, finished. It's done. It's done. It's do
 KIRK: Lazarus. 
 LAZARUS: Done. No! Don't! Not you! 
 (Kirk leans into the saucer - and vanishes.) 
+
+
 LAZARUS: No! 
 (Kirk goes into that negative space and finds that there is nowhere to run to. Then suddenly he's on the ground on the planet again. Or is he? He walks over to the saucer and is greeted by uninjured Lazarus.) 
+
+
 LAZARUS: Welcome, Captain. I wasn't expecting you. 
 KIRK: No, him. 
 LAZARUS: Yes, him. You understand. 
@@ -362,12 +410,20 @@ LAZARUS: Is it such a large price to pay for the safety of two universes?
 KIRK: I'm ready. 
 LAZARUS: Send him to me. I'll be waiting. 
 (Lazarus activates his crystals manually, and Kirk vanishes, then reappears on 'our' planet and gestures to Spock who has come down with two guards.) 
+
+
 SPOCK: Lazarus. 
 (Kirk jumps him while he is distracted and knocks him down.)
+
+
 KIRK: Stand back. 
 (But Lazarus has him in a bear hug, and they struggle together for a while until Kirk finally gets the upper-hand again.) 
+
+
 LAZARUS: No! No! No, I'm not ready! I'm not ready! 
 (Kirk throws him through the threshold.) 
+
+
 SPOCK: Take these crystals to the Enterprise. 
 KIRK: I must destroy that ship completely. 
 SPOCK: What of Lazarus? 
@@ -377,9 +433,13 @@ KIRK: Activate phaser banks.
 LESLEY: Phaser banks activated. 
 KIRK: Stand by to fire. 
 (The bright dot appears on the planet surface.) 
+
+
 LESLEY: Phasers standing by, sir. 
 KIRK: Fire phasers. 
 (A sustained burst hits the little saucer, while the two Lazarus' wrestle in non-space. Finally it disappears.) 
+
+
 KIRK: All right, Mister Lesley, let's get out of here. Ahead warp factor one. 
 LESLEY: Warp one, sir. 
 KIRK: Everything's all right, Mister Spock, for us. 

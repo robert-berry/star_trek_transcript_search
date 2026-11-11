@@ -75,6 +75,8 @@ UHURA [OC]: Repeat, Enterprise to Starbase. Orders received. We need operating c
 UHURA: Come in, Starbase. Come in, Captain Kirk. 
 [Starbase Computer Centre]
 (Spock inserts data chip) 
+
+
 KIRK [OC]: This is Captain Kirk. You have confirmation, Miss Uhura. 
 [Bridge]
 HANSEN: Hansen here, Captain. 
@@ -319,6 +321,8 @@ PITCAIRN: Yes, sir. There's a canyon to the left. We can set you there completel
 PIKE: Right. 
 [Planet surface]
 (the group explores until they find a rough settlement) 
+
+
 CREWMAN: Sir.
 OLD MAN: They're men. They're humans.
 PIKE: Captain Christopher Pike, United Space Ship Enterprise.
@@ -328,6 +332,8 @@ PIKE: The same old Earth, and you'll see it very soon.
 TYLER: And you won't believe how fast you can get back. Well the time barrier's been broken. Our new ships can
 HASKINS: This is Vina. Her parents are dead. She was born almost as we crashed.
 (The reunion is being watched on another screen, by people with big bald heads) 
+
+
 PIKE: (as the survivors pack up the settlement) Enterprise.
 NUMBER ONE [OC]: Landing party, come in.
 PIKE: We'll begin transporting the survivors and their effects up to you very shortly.
@@ -342,6 +348,8 @@ VINA: I think it's time to show the Captain our secret.
 BOYCE: Their health is excellent, almost too good.
 HASKINS: There's a reason for our condition, but we've had some doubt if Earth is ready to learn the secret. Let the girl show you. We'll accept your judgment.
 (Pike follows Vina up a slope to a ledge by a rock face) 
+
+
 VINA: You're tired, but don't worry. You'll feel much better soon. Don't you see it? Here and here.
 PIKE: I, I don't understand.
 VINA: You will. You're a perfect choice. 
@@ -364,6 +372,8 @@ MENDEZ: And you're aware a Captain is responsible for everything that occurs on 
 SPOCK: Sir, I respectfully decline.
 MENDEZ: Very well. You've earned the consequences. This court is in recess.
 (Mendez and yeoman leave, Scott and McCoy wheel Pike out after him)
+
+
 KIRK: Do you know what you're doing? Have you lost your mind?
 SPOCK: Captain, Jim, please don't stop me. Don't let him stop me. It's your career and Captain Pike's life. You must see the rest of the transmission.
 KIRK: Lock him up. 

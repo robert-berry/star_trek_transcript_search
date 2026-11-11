@@ -6,6 +6,8 @@ Original Airdate: 2 Feb, 1967
 Captain's Log, Stardate 2947.3. We have been through a severe ion storm. One crewman is dead. Ship's damage is considerable. I have ordered a non-scheduled layover on Starbase Eleven for repairs. A full report of damages was made to the commanding officer of Starbase Eleven, Commodore Stone. 
 [Stone's Office]
 (Kirk is not in his usual gold shirt, but a green one with gold braiding.) 
+
+
 STONE: Maintenance Section Eighteen. The section is working on the Intrepid. Reschedule. The Enterprise is on priority one. That makes three times you've read it, Jim. Is there an error? 
 KIRK: No. But the death of the crewman. 
 STONE: Regulations, Captain. And the extract from your ship's computer log confirming this sworn deposition? 
@@ -19,24 +21,34 @@ KIRK: Kirk out.;
 STONE: It's a great pity. The service can't afford to lose men like Lieutenant Commander Finney. 
 KIRK: I agree. I waited until the last possible moment. We were on Red Alert. The storm got worse. I had to jettison the pod. 
 (The two man transporter alcove in the corner activates.) 
+
+
 KIRK: What took you so long, Mister Spock? 
 SPOCK: Captain, I believe I 
 STONE: I'll take that. 
 (As he puts the data card into his computer, the door opens and a teenage girl dressed in blue enters.) 
+
+
 KIRK: Jamie. 
 JAMIE: There you are. I just wanted one more look at you. The man who killed my father. 
 KIRK: That's not so. He was my friend. 
 JAMIE: Your friend? You hated him all your life! That's why you killed him, you murderer! You murderer! You murderer! 
 (She dissolves into tears.) 
+
+
 STONE: Mister Spock, would you please? 
 SPOCK: Miss Finney, come with me, please. 
 (They leave.) 
+
+
 STONE: Captain Kirk, you say you jettisoned the pod after the Red Alert? 
 KIRK: You have my sworn deposition.;
 STONE: Then, Captain, I must presume you've committed willful perjury. This extract from your computer log says you jettisoned the pod before going to Red Alert. Consider yourself confined to the base. Official inquiry will determine whether a general court martial is in order. 
 Captain's Log, Stardate 2948.5. Starship Enterprise remains in orbit around Starbase Eleven. Full repairs in progress. I've been ordered to stand by on Starbase Eleven until the inquiry into the death of Lieutenant Commander Finney can be conducted. I'm confident of the outcome. 
 [Starbase Club]
 (Kirk and McCoy enter, and go to the bar.) 
+
+
 KIRK: Timothy, I haven't seen you since the Vulcanian expedition. (no reply) Well, I see our graduating class from the Academy is well represented. Corrigan. Teller. How you doing, Mike? 
 MIKE: (An older man in a gold shirt) I'll get by, Jim. 
 TIMOTHY: (Dark hair, red shirt) I understand you're laying over for repairs. Big job? 
@@ -53,6 +65,8 @@ KIRK: Go on. I'm waiting to hear the rest.
 MIKE: Why don't you tell us? 
 KIRK: What would be the point? You've already made up your minds. Excuse me, Bones. 
 (Leaves, just as a lady in a floaty green dress enters.) 
+
+
 MCCOY: If you have any doubt, that was indeed Captain James Kirk of the Enterprise. 
 SHAW: Yes, I know. Are you a friend of his? 
 MCCOY: In these trying times, one of the few. Doctor Leonard McCoy. And you?;
@@ -102,6 +116,8 @@ KIRK: Draw it? I demand it. And right now, Commodore Stone. Right now.
 Captain's Log, Stardate 2948.9. The officers who will comprise my court-martial board are proceeding to Starbase Eleven. Meanwhile, repairs on the Enterprise are almost complete. 
 [Starbase Club]
 (Kirk goes to the table of the lady in green, and kisses her hands.) 
+
+
 KIRK: Areel. Doctor McCoy said you were here. I should have felt it in the air, like static electricity. 
 SHAW: Flattery will get you everywhere. 
 KIRK; It's been, how long has it been? 
@@ -130,6 +146,8 @@ KIRK: Areel, you still haven't told me how you know so much about what the prose
 SHAW: Because, Jim Kirk, my dear old love, I am the prosecution, and I have to do my very best to have you slapped down hard. Broken out of the service, in disgrace. 
 [Kirk's room]
 (Kirk is about to pour himself a drink.) 
+
+
 COGLEY: You Kirk? 
 KIRK: Yes. (Notices the piles of books everywhere) What is all this? 
 COGLEY: I figure we'll be spending some time together, so I moved in. 
@@ -146,6 +164,8 @@ COGLEY: Right on both counts. Need a lawyer?
 KIRK: I'm afraid so. 
 [Courtroom]
 (There are four officers in dress uniform on the bench, including Stone.)
+
+
 STONE: This court is now in session. I have appointed as members of this court Space Command Representative Lindstrom, Starship Captains Krasnovsky and Chandra. Captain Kirk, I direct your attention to the fact that you have a right to ask for substitute officers if you feel that any of these named harbour any prejudiced attitudes to your case. 
 KIRK: I have no objections, sir. 
 STONE: Do you consent to the service Lieutenant Shaw as prosecuting officer and to myself as president of the court? 
@@ -156,6 +176,8 @@ KIRK: Not guilty.
 STONE: Proceed, Lieutenant. 
 SHAW: I call Mister Spock. 
 (Spock hands over his data chip, sits down and puts his hand on the lie detector.) 
+
+
 COMPUTER: Spock, serial number S179-276SP. Service rank, Lieutenant Commander. Position, First officer, science officer. Current assignment, USS Enterprise. Commendations, Vulcanian Scientific Legion of Honour. Awards of valour. Twice decorated by Starfleet command. 
 SHAW: Mister Spock, as a First officer, you know a great deal about computers, don't you? 
 SPOCK: I know all about them. 
@@ -247,6 +269,8 @@ COGLEY: Your witness, Miss Shaw.
 SHAW: The prosecution does not wish to dishonour this man, but facts are facts. I must invite the attention of the court and Captain Kirk to this visual extract from the Enterprise computer log. Play back. What you are about to see is precisely what took place on the Enterprise bridge during the ion storm. 
 [Bridge]
 (On the courtroom viewscreen) 
+
+
 UHURA: Meteorology reports ion storm upcoming, Captain. 
 KIRK: We'll need somebody in the pod for readings. 
 SPOCK: Mister Finney is top of duty roster, Captain. 
@@ -255,6 +279,8 @@ SPOCK: Attention, Commander Finney, report to pod for reading on ion plates.
 FINNEY [OC]: Message Received. 
 SPOCK: Officer posted, Captain. 
 (The ship suddenly judders) 
+
+
 KIRK: Stand by on alert status, Mister Spock. 
 SPOCK: Acknowledged. 
 HANSON: Approaching ion storm, sir. 
@@ -265,6 +291,8 @@ HANSON: Warp one, sir.
 SHAW: Reverse. Stop. Go forward with magnification on the panel. Freeze that. Captain Kirk is now signalling a Yellow Alert. Go forward, normal view. 
 [Bridge]
 (On courtroom viewscreen.) 
+
+
 UHURA: Call from the pod, sir. 
 KIRK: Tie in. 
 FINNEY [OC]: Finney here, Captain. Ion readings in progress. 
@@ -296,6 +324,8 @@ COGLEY: You did. Your professional career.
 KIRK: I spent my whole life training for decisions just like that one. My whole life. Is it possible that when the moment came? No. I know what I did. You can pull out if you want to. 
 COGLEY: There's no place to go, except back to court and hear the verdict. 
 (Communicator beeps) 
+
+
 KIRK: Kirk here. 
 SPOCK: Captain. 
 [Bridge]
@@ -314,6 +344,8 @@ KIRK: No. It's not all bad, Mister Spock. Who knows. You may be able to beat you
 SPOCK: Chess. 
 [Kirk's room]
 (The door opens) 
+
+
 KIRK: Jamie. This is Lieutenant Commander Finney's daughter. 
 JAMIE: Mister Cogley, we've got to stop this. Make him take a ground assignment. I realise it wasn't his fault. I won't make any trouble. Make him change his plea. 
 KIRK: It's too late for that, Jamie, but I'm glad you don't blame me anymore for what happened. 
@@ -346,6 +378,8 @@ SHAW: Sir, the prosecution rests.
 STONE: Counsel for the defence? 
 COGLEY: Sir, the defence rests. 
 (McCoy and Spock run in and whisper to Kirk and Cogley) 
+
+
 STONE: Mister Cogley. Mister Cogley! 
 COGLEY: Sir, some new evidence has just been brought to my attention. I'd like to ask the court to 
 SHAW: Objection! Counsel for the defence has rested his case. 
@@ -397,23 +431,33 @@ COGLEY: I have an errand ashore of vital importance to the purpose of this court
 STONE: Very well. 
 COGLEY: Thank you, sir. 
 (Leaves with the spare crew members.) 
+
+
 STONE: Captain, are you maintaining an engine crew aboard? 
 KIRK: Our impulse engines have been shut down. We'll maintain orbit by momentum. 
 KRASNOVSKY: And when the orbit decays? 
 KIRK: We hope to be finished long before that. 
 (A little later) 
+
+
 KIRK: Ready, Mister Spock? 
 SPOCK: Affirmative, Captain. 
 KIRK: Gentlemen, this computer has an auditory sensor. It can, in effect, hear sounds. By installing a booster, we can increase that capability on the order of one to the fourth power. The computer should bring us every sound occurring on the ship. 
 CREWMAN [OC]: All personnel have left the ship as ordered, sir. 
 KIRK: Doctor McCoy? All right, Mister Spock. 
 (A cacophony of heartbeats comes over the bridge speakers.) 
+
+
 KIRK: Turn it down a little. Gentlemen, that sound is caused by the heartbeats of all the people on board the ship. Doctor McCoy will use this white sound device to mask out each person's heartbeat so that it will be eliminated from the sounds we are hearing. 
 MCCOY: First, the Captain. Mister Spock. 
 (He goes around the assembled group one at a time) 
+
+
 MCCOY: And lastly, myself. 
 KIRK: That's all of us, except for crewman in the transporter room. Mister Spock, eliminate his heartbeat. That accounts for everyone. 
 (But still one heart beats over the speakers.) 
+
+
 STONE: Finney. 
 KIRK; Localise that. 
 SPOCK: B deck, in or near Engineering. 
@@ -423,6 +467,8 @@ STONE: So Finney is alive.
 KIRK: It would seem so. Commodore, this is my problem. I'd appreciate it if no one left the bridge. 
 [Corridor]
 (Armed with a phaser, Kirk makes his way alone.) 
+
+
 KIRK [OC]: Sam Cogley had gone a shore to bring Jamie Finney on board. We felt Jamie's presence would make Finney easier to handle in the event Finney really were alive. 
 KIRK: Ben. 
 [Bridge]
@@ -447,8 +493,12 @@ FINNEY [OC]: Robbed me of my own command?
 [Engineering]
 FINNEY [OC]: I'm a good officer, as good as you. I've watched you for years. The great Captain Kirk. 
 (We finally see the man, as he jabs a phaser into Kirk's back) 
+
+
 FINNEY: They told you to do it to me. You all conspired against me. You ruined me, but you won't do it anymore. 
 (He disarms Kirk and throws the weapon away. Kirk turns to face him.) 
+
+
 KIRK: Put the phaser down, Ben. 
 FINNEY: Oh, I wouldn't kill you, Captain. Your own death would mean too little to you, But your ship 
 KIRK: What about my ship? 
@@ -480,6 +530,8 @@ FINNEY: What do you mean?
 KIRK: She's on board by now. Yes. She's on board. 
 FINNEY: What? Why did you do that? Why did you bring her here? I'll kill you! 
 (Kirk takes his opportunity to grapple with the bigger man. There's a fight in which Kirk's shirt gets torn. Finney swings at Kirk with a wrench, but finally has his lights punched out.) 
+
+
 KIRK [OC]: Beaten and sobbing, Finney told me where he had sabotaged the prime energy circuits. 
 [Jefferies tube]
 KIRK [OC]: The damage he'd caused was considerable, but not irreparable. With luck, I would be able to effect repairs before our orbit decayed completely. 
@@ -488,6 +540,8 @@ KIRK [OC]: The damage he'd caused was considerable, but not irreparable. With lu
 HANSON: Power returning, Mister Spock. Up fourteen points and rising. 
 SPOCK: Activate port impulse engines. One third power. 
 (Uhura takes navigation) 
+
+
 HANSON: One third power. 
 UHURA: Variants fading. 
 HANSON: Orbit stabilising. 
@@ -495,6 +549,8 @@ UHURA: All secure, sir.
 STONE: Unless the prosecution has an objection, I rule this court to be dismissed. 
 SHAW: Absolutely no objection, sir. 
 (Later, Kirk is in a fresh new shirt, and talking quietly to Areel in front of the turbolift doors. Around them it is business as usual.) 
+
+
 SHAW: How long will it be this time before I see you again? 
 KIRK: At the risk of sounding like a mystic, that depends on the stars. 
 SHAW: Sam Cogley asked me to give you something special. It's not a first edition, just a book. Sam says that makes it special. 
@@ -507,6 +563,8 @@ SHAW: And so must the Enterprise. Goodbye, Jim.
 KIRK: Goodbye, Areel. Better luck next time. 
 SHAW: I had pretty good luck this time. I lost, didn't l? 
 (She leaves, blowing him a final kiss. He pulls himself together, goes to his chair and sits between two stony-faced officers.) 
+
+
 KIRK: She's a very good lawyer. 
 SPOCK: Obviously. 
 MCCOY: Indeed she is. 

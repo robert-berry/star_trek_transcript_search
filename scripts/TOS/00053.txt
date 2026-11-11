@@ -5,6 +5,8 @@ Stardate: 4729.4
 Original Airdate: 8 Mar, 1968
 [Bridge]
 (Enterprise approaches a space station.) 
+
+
 SULU: Standard orbit, Captain. 
 KIRK: Not now, Leslie. Lieutenant, contact the space station. 
 UHURA: Captain, the station is calling us. 
@@ -15,6 +17,8 @@ ENWRIGHT [OC]: The explanation is beaming aboard now, Captain. He may already be
 KIRK: Spock. 
 [Transporter room]
 (A silver-haired man in command gold has beamed in.) 
+
+
 KIRK: Bob. 
 WESLEY: Are you surprised? 
 KIRK: I'll say. Spock, this is 
@@ -69,6 +73,8 @@ MCCOY: Doctor Leonard McCoy, senior medical officer.
 DAYSTROM: Well, I'm sorry, but this is a security area. 
 KIRK: I wouldn't worry, Doctor. Doctor McCoy has clearance throughout the ship. 
 (Harper and Scott connect the unit, and the warp drives fluctuate.) 
+
+
 MCCOY: Is it supposed to do that? 
 SPOCK: If I can be of assistance, Doctor. 
 DAYSTROM: No, no, no. Thank you. I can manage. There's nothing wrong, Captain. Just a few minor settling-in adjustments to make. As you can see, all is in order now. 
@@ -93,6 +99,8 @@ KIRK: Am I afraid of losing command to a computer? Daystrom's right. I can do a 
 MCCOY: Jim, if you have the awareness to ask yourself that question, you don't need me to answer it for you. Why don't you ask James T. Kirk? He's a pretty honest guy. 
 [Bridge]
 (The Captain's Chair has a new box with two switches and two lights on it. Kirk flips the switches.) 
+
+
 KIRK: The M-5 computer is now disengaged. 
 SULU: We're coming back on our original course, Captain. 
 SPOCK: M-5 has performed admirably so far. 
@@ -108,6 +116,8 @@ KIRK: If you don't mind, I'll make my own recommendations.
 DAYSTROM: Well, if you feel you need the exercise, go on, Captain. 
 KIRK: M-5 is committed. 
 (Enterprise approaches the planet) 
+
+
 KIRK: Standard orbit, Mister Sulu. 
 SULU: Captain, the M-5 has calculated that. The orbit is already plotted. 
 KIRK: Oh, yes. 
@@ -170,6 +180,8 @@ CHEKOV: Enemy vessel closing with us.
 SULU: Main phasers firing. A hit, sir. Two more. 
 CHEKOV: Changing course to two eight mark four two. 
 (Pavel feels as fed up and useless as Kirk as the machine does his job for him.) 
+
+
 SULU: Phasers firing again. 
 CHEKOV: Turning to one one three mark five. Warp four speed. 
 SULU: Firing again. 
@@ -191,9 +203,13 @@ MCCOY: Dunsel? Who the blazes is Captain Dunsel? (everyone else knows) What does
 SPOCK: Dunsel, Doctor, is a term used by midshipmen at Starfleet Academy. It refers to a part which serves no useful purpose. 
 [Kirk's quarters]
 (Kirk is working on a device when McCoy comes in with a covered tray.) 
+
+
 KIRK: I'm not interested in eating, Bones. 
 MCCOY: This isn't chicken soup. I may be just a ship's doctor, but I make a Finagle's Folly that's known from here to Orion. I strongly prescribe it, Jim. 
 (They each take a liqueur glass with dark green liquid.) 
+
+
 KIRK: I've, I've never felt this way before. At odds with the ship. I sat there and watched my ship perform for a mass of circuits and relays, and felt useless. Unneeded. To Captain Dunsel. 
 MCCOY: To James T. Kirk, Captain of the Enterprise. 
 KIRK: Thank you, Doctor. (drinks) That's one of your better prescriptions. 
@@ -227,9 +243,13 @@ DAYSTROM: (enters) Captain, what is it?
 KIRK: These controls are locked. We can't disengage the computer. 
 SPOCK: Captain, photon torpedoes locking on target. Full power. 
 (Kirk leaps to Sulu's console and starts flicking switches.) 
+
+
 SULU: I already tried, sir. 
 KIRK: Daystrom, release that computer control! 
 (Photon torpedoes are fired, destroying the Woden.) 
+
+
 CHEKOV: Returning to original course and speed. 
 SPOCK: All systems report normal, Captain. 
 MCCOY: Normal? That thing's trying to tell us nothing has happened. 
@@ -243,6 +263,8 @@ KIRK: Bones. Disengage the computer. Lieutenant, contact Starfleet Command. Tell
 [Engineering]
 KIRK: All right, Daystrom, let's turn this thing off. 
 (But as he approaches the unit, he is thrown sideways by a green forcefield.) 
+
+
 KIRK: Force field? 
 DAYSTROM: It's not my doing, Kirk. 
 SPOCK: I would say, Captain, that M-5 is not only capable of taking care of this ship, it is also capable of taking care of itself. 
@@ -257,6 +279,8 @@ SCOTT: Captain, I suggest we disconnect it at the source.
 DAYSTROM: Give me a few moments with it. 
 KIRK: No! Stay here. All right, Scotty. Turn it off. 
 (Scott and an engineer get the device they use to attach M-5's power supply to the ship, and head over to the junction box. But as soon as the engineer steps in between M-5 and it's power, he is disintegrated.) 
+
+
 KIRK: That wasn't a minor difficulty. That wasn't a robot. That thing murdered one of my crewman and you tell me you can't turn it off? 
 DAYSTROM: It wasn't a deliberate act. M-5's analysis told it it needed a new power source. The ensign simply got in the way. 
 KIRK: And how long will it be before all of us simply get in the way? 
@@ -318,6 +342,8 @@ SPOCK: Mister Scott is ready to apply the circuit disrupter. As he does so, I sh
 KIRK: Good, go ahead. 
 DAYSTROM: No! No, no, no. You can't take control from the M-5. 
 (He tries to get into the Jefferies tube, and Kirk struggles to restrain him.) 
+
+
 KIRK: Daystrom, we're going to do our best. 
 DAYSTROM: You can't do it. Now let me work with it for a while, please. Please. 
 KIRK: Spock. 
@@ -367,6 +393,8 @@ MCCOY: But M-5 doesn't know it's a game.
 KIRK: Correction, Bones. Those four ships don't know it's M-5's game. And M-5 is going to destroy them. 
 [Bridge]
 (Four starships just like Enterprise are in formation as Kirk, Spock and McCoy arrive on the bridge.) 
+
+
 UHURA: Enterprise to USS Lexington. Come in, Lexington. Sir, I can't raise them. M-5 is blocking all frequencies, including automatic distress. Just a minute, sir. Captain, I'm getting audio signal from the Lexington. 
 KIRK: Put it on. 
 WESLEY [OC]: Enterprise from USS Lexington. This is an M-5 drill. Repeat. This is an M-5 drill. Acknowledge. 
@@ -442,11 +470,17 @@ MCCOY: Jim, he's on the edge of a nervous breakdown, if not insanity.
 KIRK: The M-5 must be destroyed. 
 DAYSTROM: Destroyed, Kirk? No. We're invincible. Look what we've done. Your mighty starships, Four toys to be crushed as we choose. 
 (Spock neck-pinches Daystrom.) 
+
+
 KIRK: Security, take him to Sickbay. 
 (Daystrom is carried off the Bridge.) 
+
+
 SPOCK: Fascinating. 
 KIRK: Take care of him, Doctor. 
 (McCoy leaves) 
+
+
 KIRK: Battle status? 
 SULU: The other three ships are holding station out of range. The Excalibur looks dead. 
 UHURA: Captain, Lexington is receiving a message from Starfleet. They 
@@ -478,12 +512,16 @@ M5: Death.
 KIRK: And how will you pay for your acts of murder? 
 M5: This unit must die. 
 (It disconnects itself from the power feed in Engineering and goes dark.) 
+
+
 KIRK: M-5? 
 CHEKOV: Sir, deflector shields have dropped. 
 SULU: All phaser power gone, sir. 
 SPOCK: M-5 is leaving itself open to attack. The machine is committing suicide to atone for the sin of murder. 
 KIRK: Scotty, Spock, before it changes its mind. Get down to Engineering, pull out every hook up that makes M-5 run. Pull out the plug, Spock. 
 (Scott and Spock leave.) 
+
+
 KIRK: Lieutenant. 
 UHURA: Aye, sir. 
 KIRK: Intership communications. This is the captain speaking. In approximately one minute, we'll be attacked by Federation starships. The M-5 no longer controls the ship, but neither do we control it. The M-5 has left itself, and us, open for destruction. For whatever satisfaction we may get from the knowledge, our nineteen lives will buy the survival of over one thousand of our fellow starship crewmen. 
@@ -513,6 +551,8 @@ MCCOY: He'll have to be committed to a total rehabilitation centre. Right now he
 SPOCK: I would say his multitronic unit is in approximately the same condition. 
 KIRK: That's exactly the situation I was hoping for when I forced the M-5 to realise it had committed murder. 
 (The group walk out of the medical bay to McCoy's office.) 
+
+
 KIRK: Daystrom felt such an act was against the laws of God and man. The computer that carried his engrams also believed it. 
 SPOCK: Captain, why did you feel the attacking ships would not fire when they saw the Enterprise apparently vulnerable? Logically, that is the sort of trap M-5 should have set. 
 KIRK: I wasn't sure. Any other commander would have simply followed orders and destroyed us, but I knew Bob Wesley. 

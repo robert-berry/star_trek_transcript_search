@@ -5,10 +5,14 @@ Stardate: 3025.3
 Original Airdate: 29 Dec, 1966
 [Bridge]
 (Enterprise is orbiting a very green planet, and a young female Yeoman is getting a signature from the Captain.) 
+
+
 KIRK: Anything from the landing party? 
 SPOCK: They should be sending up a report momentarily, Captain. (Kirk stretches and groans) Something wrong?
 KIRK: A kink in my back. (behind his back the Yeoman starts to massage it) That's it. A little higher, please. Push. Push hard. Dig it in there, Mister 
 (Spock steps forward and Kirk realises who is massaging his lower back) 
+
+
 KIRK: Thank you, Yeoman. That's sufficient.
 TONIA: You need sleep, Captain. If it's not out of line
 KIRK: I have enough of that from Doctor McCoy, Yeoman. Thank you.
@@ -24,26 +28,40 @@ SULU: He'd like it.
 MCCOY: He needs it. You've got your problems, I've got mine. He's got ours, plus his, plus four hundred and thirty other people's. Where are you going?
 SULU: To get some cell-structure records. A blade of grass, a bush, a tree, a flower petal. With these, we can tell the whole planet's biology.
 (As Sulu crouches down behind some pampas grass, McCoy turns and looks straight at a white rabbit in a check jacket, yellow waistcoat, and looking at a gold pocket-watch.)
+
+
 RABBIT: Oh, my paws and whiskers! I'll be late. 
 (It heads off down a hole. Then a young girl comes running up, wearing a blue dress with a white apron.)
+
+
 ALICE: Excuse me, sir. Have you seen a rather large white rabbit with a yellow waistcoat and white gloves here about?
 (Wordlessly, McCoy points in the direction the rabbit went. The girl curtseys nicely) 
+
+
 ALICE: Thank you very much. 
 (She runs off after the rabbit) 
+
+
 MCCOY: Sulu!
 SULU: What is it? What's the matter?
 MCCOY: Did you see them?
 SULU: See what? I don't see anything. What is it, Doc? 
 [Kirk's quarters]
 (The Captain is dictating his log in the presence of Yeoman Tonia Barrows) 
+
+
 KIRK: Captain's log. Stardate 3025 er, point 3. We are orbiting an uninhabited planet in the Omicron Delta region. A planet remarkably like Earth, or how we remember Earth to be. Park-like, beautiful, green, flowers, trees, green lawn, quiet and restful. Almost too good to be true. 
 TONIA: Sir, I don't see your name in any of the shore parties.
 KIRK: I may be tired, Yeoman, but I'm not falling apart. Dismissed.
 TONIA: Aye, aye, sir.
 (She leaves, and Spock enters) 
+
+
 KIRK: Mister Spock, we're beaming down the starboard section first. Which section would you like to go with?
 SPOCK: Not necessary in my case, Captain. On my planet, to rest is to rest, to cease using energy. To me, it is quite illogical to run up and down on green grass using energy instead of saving it.
 (Intercom whistles) 
+
+
 KIRK: Kirk here.
 UHURA [OC]: Doctor McCoy calling from the planet, Captain.
 KIRK: Yes. Open a channel, Uhura.
@@ -75,23 +93,33 @@ KIRK: A crewman's right ends where the safety of the ship begins. That man will 
 SPOCK: James Kirk. Enjoy yourself, Captain. It's an interesting planet. You'll find it quite pleasant. Very much like your Earth. 
 [Planet surface]
 (An establishing shot of a landscape) 
+
+
 SPOCK [OC]: Scouts have detected no animals, artefacts, or force fields of any kind. Only peace, sunshine, and good air. You'll have no problems.
 (But as these words are spoken, a rock raises itself to reveal a classic western-style six shooter gun.) 
 (Elsewhere, a man and a woman are taking scans of the vegetation) 
+
+
 TELLER: (the woman) Does it always have to be work with you? There's so much loveliness. 
 RODRIGUEZ: You won't find all this so lovely if our report for the Captain isn't ready when he asks for it, which shouldn't be long.
 (Kirk and Barrows beam down) 
+
+
 KIRK: Rodriguez, Teller, everything all right?
 RODRIGUEZ: Yes, sir. We've completed the specimen survey.
 KIRK: Good. That should be sufficient. Beam it up to Mister Spock when you're ready, and start enjoying yourselves.
 RODRIGUEZ: Thank you, sir. And sir, I think you'll find Doctor McCoy and Mister Sulu that way.
 KIRK: Thank you.
 (Walking along) 
+
+
 KIRK: Restful. After what we've been through, it's hard to believe a place this beautiful exists. 
 TONIA: It is beautiful. So lovely, and restful. I mean, affirmative, Captain. 
 KIRK: McCoy! McCoy! 
 MCCOY: Over here. Over here.
 (They meet up by the lake) 
+
+
 KIRK: Bones, know any good rabbit jokes lately?
 MCCOY: As a matter of fact, I do, but this is not one of them. Look at this. (a pair of large tracks in the soil) I saw what I saw, or maybe I hallucinated it, but I want you to take a look and tell me what you think about it. 
 KIRK: Footprints. Could be a rabbit. It would have to be an unusual creature to make this size tracks. What about Mister Sulu? Will he confirm what you saw?
@@ -111,6 +139,8 @@ KIRK: Neither can I. I admit it looks harmless. It probably is harmless. But bef
 (They hear a gunshot. Kirk draws his phaser and they head off in the direction of the shot. More are fired.) 
 [Woodland path]
 (They find Sulu target practising) 
+
+
 KIRK: What do you think you're doing?
 SULU: Target shooting, Captain. Isn't it a beauty? Haven't got anything like this in my collection.
 KIRK: Where did you get it, Mister Sulu?
@@ -123,6 +153,8 @@ KIRK: Are you sure our instruments didn't show any animal life on this planet?
 MCCOY: Absolutely. No birds, no mammals, no insects, nothing. I'm certain our readings weren't off.
 KIRK: I'd like to believe this is an elaborate gag, but. Yeoman Barrows, you accompany Mister Sulu. Find out where those tracks came from. Doctor, you come with me back to the glade. I'd like another look at that area. 
 (As they head back, an aerial comes up in front of our point of view and follows them.) 
+
+
 KIRK: This is turning out to be one very unusual shore leave.
 MCCOY: Well, it could have been worse.
 KIRK: How?
@@ -136,16 +168,24 @@ MCCOY: A girl's footprints. The young blonde girl I saw chasing it.
 KIRK: Yes. You follow the rabbit. I'll backtrack the girl. I'll meet you around the other side of the hill.
 MCCOY: Good. I've got a personal grudge against that rabbit, Jim. 
 (They split up, and then suddenly there's a young man leaning against a tree trunk) 
+
+
 FINNEGAN: (in a dreadful cod-Irish accent) Jim.
 KIRK: Finnegan? I can't believe it. 
 FINNEGAN: You never know when I'm going to strike, huh, Jim? (hits him on the jaw) How's this? Come on, come on. It's me, Finnegan. All right, Jimmy boy. (maniacal laughter) Go ahead, lay one on me. That's what you always wanted, isn't it? Come on. Come on. 
 KIRK: All right, let's try that one again. Go! 
 (He just lays hands on Finnegan for a good fight, when they hear screams. Kirk runs off to investigate) 
+
+
 FINNEGAN: Go! Any excuse, Jim baby. Run away! Run away! Run away! 
 (Along the path, he meets McCoy) 
+
+
 MCCOY: What was it?
 KIRK: Yeoman Barrows. 
 (They arrive on the scene to find Tonia disheveled, her uniform torn, hugging a tree) 
+
+
 KIRK: What happened?
 TONIA: I don't know. I mean I do know. I was following the tracks, and there he was.
 KIRK: Who was?
@@ -160,13 +200,21 @@ KIRK: Mister Sulu was with you. Where is he now?
 TONIA: He ran after him.
 KIRK: Stay with her, Doctor.
 (He heads off in the direction she indicates) 
+
+
 KIRK: Mister Sulu! Sulu! 
 (An aerial comes up from a rock and monitors him as he runs along the path) 
+
+
 KIRK: Mister Sulu! Sulu! 
 [Rocky outcrop]
 (The Captain runs across a barren piece of ground towards a rocky outcrop, which suddenly gains palms and banana plants when he gets there.)
+
+
 KIRK: Sulu!
 (He picks an orange flower, and becomes wistful. And there she is, blonde and lovely, her dress half white, half black and roses.) 
+
+
 KIRK: Ruth? Ruth.
 RUTH: Jim, darling, it is me. It is Ruth. 
 (She kisses him) 
@@ -175,6 +223,8 @@ Captain's log. Stardate 3025.8. Investigation of this increasingly unusual plane
 KIRK: (into communicator) McCoy, do you read me? Ruth. Ruth, how can it be you? How could you possibly be here? You haven't aged. It's been fifteen years.
 RUTH: It doesn't matter. None of that matters.
 (His communicator beeps) 
+
+
 KIRK: Kirk here.
 MCCOY [OC]: Did you find Mister Sulu, Captain?
 KIRK: What?
@@ -198,6 +248,8 @@ KIRK: You haven't told me. You haven't told me
 RUTH: Do what you have to do, and I'll be waiting.
 KIRK: Ruth. 
 (communicator beeps) 
+
+
 KIRK: Kirk here.
 SPOCK [OC]: Captain.
 KIRK: Yes, Mister Spock. 
@@ -214,6 +266,8 @@ KIRK: Keep me posted, Mister Spock. We'll continue our investigation down here. 
 (He walks off) 
 [Woodland path]
 (Meanwhile, back at the tree where Tonia met Don Juan, something is monitoring them. The couple go walking arm in arm through the tropical plants.) 
+
+
 MCCOY: Feeling better?
 TONIA: A little, but I wouldn't want to be alone here.
 MCCOY: It's a beautiful place. A little strange, I'll admit.
@@ -221,6 +275,8 @@ TONIA: That's just it. It's almost too beautiful. I was thinking, even before my
 MCCOY: I see what you mean, but then you'd have whole armies of Don Juans to fight off. And me, too.
 TONIA: Is that a promise, Doctor? 
 (He takes her hands in his, and they gaze into each others eyes for a long second. Then she spots her dream clothing hanging on some shrubs) 
+
+
 TONIA: Oh, Doctor, they're lovely. Look at me, Doctor. A lady to be protected and fought for. A princess of the blood royale.
 MCCOY: You are all of those things and many more. They'll look even lovelier with you wearing them.
 TONIA: Doctor, I'm afraid.
@@ -228,11 +284,15 @@ MCCOY: Now, look, I don't know how or why, but the dress is here. I'd like to se
 TONIA: All right, but you stay right there. Don't peek.
 MCCOY: My dear girl, I am a doctor. When I peek, it's in the line of duty.
 (he turns his back on her, and his communicator beeps) 
+
+
 RODRIGUEZ [OC]: Calling Doctor McCoy.
 MCCOY: McCoy here. I can't read you very well. Is this Rodriguez?
 RODRIGUEZ [OC]: This is all the volume I can get on this thing. Can't read you well, either. Captain's orders. Rendezvous at that glade where he first found you.
 MCCOY: Right. What the devil's wrong with communications? Esteban. Esteban.
 (But Esteban and Teller have problems of their own - a tiger has them trapped) 
+
+
 RODRIQUEZ: Doctor. Doctor. Doctor McCoy! 
 (The tiger gets bored and leaves. Tonia emerges from her changing room looking lovely, and happy in her Disney fantasy creation.) 
 [Bridge]
@@ -260,6 +320,8 @@ KIRK: Negative. Our people here are armed with phasers. Besides, there's yet to 
 [Rocky outcrop]
 KIRK: McCoy. McCoy, do you read me? Kirk to McCoy. Come in. 
 (Sulu comes running over the rocks towards him) 
+
+
 SULU: Captain, take cover! There's a Samurai after me. 
 KIRK: A what? 
 SULU: I mean, there was. (no one is chasing him now) Captain, you've got to believe me.
@@ -267,7 +329,9 @@ KIRK: I do. I've met some interesting personalities myself. Have you seen any of
 SULU: Got a call a few minutes ago. Rodriguez. Said you were rendezvousing back at the glade.
 KIRK: I hope he got through to everybody. Communications are almost out.
 SULU: That's not all. So's my phaser. 
-(Kirk checks his own weapon - nothing) KIRK: Yeah. We'd better get to the glade.
+(Kirk checks his own weapon - nothing) 
+
+KIRK: Yeah. We'd better get to the glade.
 SULU: Yes, sir. (sound of a transporter beam) Look. Someone beaming down from the bridge.
 KIRK: Trying to. Something's obstructing it. (finally the familiar shape fully materialises) Mister Spock, my orders were no one was to leave the ship. 
 SPOCK: Necessary, Captain. Unable to contact you by communicator, and the transporter is useless to us now. As I told you before, there's an unusual power field down here. It's soaking up all the energy at the source. I calculated the rate of its growth, and reasoned that I just might be able to transport one more person.
@@ -281,11 +345,17 @@ TONIA: Don't talk like that.
 MCCOY: A princess shouldn't be afraid, not with a brave knight to protect her. 
 [Rocky outcrop]
 (The trio hear the snarl of a big cat) 
+
+
 KIRK: That way. Spread out. Let's find it. 
 [Glade]
 (A knight in armour on a black horse has appeared, and is coming towards them.) 
+
+
 MCCOY: These things cannot be real. Hallucinations can't harm us. Go back to where you were. 
 (Kirk and Spock arrive on the scene. The knight lowers his lance, charges, and runs McCoy through. Tonia screams. Spock draws his phaser, and Kirk the gun he confiscated from Sulu. He shoots the knight from his horse, then they run to McCoy.) 
+
+
 TONIA: He's dead. 
 Captain's log, supplemental. All contact with the Enterprise has been lost. We're trapped here. Our ship's surgeon, my personal friend, is dead. We're certain now that whatever we're facing is terribly real. 
 [Glade]
@@ -296,6 +366,8 @@ KIRK: Yeoman! We're in trouble. I need every crewman alert and thinking.
 TONIA: Aye, aye, sir.
 SULU: (at the knight's body) Captain! Captain!
 (Kirk goes over) 
+
+
 SULU: You'd better have a look at this, sir. (the knight is a plastic dummy) I don't understand.
 KIRK: Neither do I, Mister Sulu, but before we leave this planet, I will.
 SULU: It's like a dummy, Captain. It couldn't be alive.
@@ -318,9 +390,13 @@ RODRIGUEZ: Not unless it makes a strafing run.
 TELLER: A what?
 RODRIGUEZ: The way they used to attack people on the ground. (the plane descends) Come on.
 (They run along the path, as a second plane joins the first, straight into a clump of trees. Angela falls to the ground having hit the tree.) 
+
+
 RODRIGUEZ: Angela. 
 [Glade]
 (Everyone has been watching the air show, then Sulu notices...) 
+
+
 SULU: Captain!
 KIRK: McCoy's body? 
 SULU: He's gone. Dragged off. 
@@ -333,35 +409,51 @@ KIRK: I was, I was thinking about the Academy. My days
 FINNEGAN: Hey, Jim baby! I see you brought out reinforcements. Ha! Well, I'm waiting for you, Jimmy boy.
 KIRK: Finnegan. Finnegan! What's been happening to my people?
 (Finnegan laughs and runs off) 
+
+
 KIRK: Take Sulu. Find McCoy's body. This man is my problem.
 SPOCK: Captain, wait.
 KIRK: That's an order, Mister Spock.
 (He runs off after Finnegan) 
+
+
 FINNEGAN: Here I am! Run! 
 [Rocky outcrop]
 FINNEGAN: Jim! Find me! Can't you see me? Come and get me! Here I am! Come on. You never could find your head with both hands! Like it used to be, Jimmy. Remember? (finally Kirk catches up to him, because he's lounging on a ledge) Hey, Jim 
 KIRK: I want some answers.
 FINNEGAN: Coming up. 
 (He jumps on Kirk and they have a fight. Finnegan knocks Kirk down) 
+
+
 FINNEGAN: Get up. Get up. Get up. Always fight fair, don't you? True officer and gentleman, you. You stupid underclassman. I've got the edge. I'm still twenty years old. Look at you. You're an old man.
 (The fight resumes, and Kirk punches Finnegan till he falls down a rocky slope and ends up writhing in pain) 
+
+
 FINNEGAN: I can't move me leg. I can't feel me leg. My back is broken. You've broken me back. 
 KIRK: Can you feel that? 
 (He gets kicked to the ground) 
+
+
 FINNEGAN: Can you feel that, now? (Kirk passes out) Sleep sweet, Jimmy boy. Sleep as long as you like. Sleep forever, Jim boy. Forever and forever. 
 (A little later, Kirk regains consciousness) 
+
+
 FINNEGAN: Won't you ever learn, Jim boy? You never could take me, you know.
 KIRK: Finnegan. One thing
 FINNEGAN: Sure. Name it.
 KIRK: Answers.
 FINNEGAN: Earn them! 
 (He throws dirt in Kirk's face and the exchange of punches resumes until they're both too tired to continue.) 
+
+
 FINNEGAN: Not bad. Kind of makes up for things, huh, Jim?
 KIRK: A lot of things. What's been happening to my people?
 FINNEGAN: I never answer questions from plebes, Jimmy boy.
 KIRK: I'm not a plebe. This is today, fifteen years later. What are you doing here?
 FINNEGAN: I'm being exactly what you expect me to be, Jimmy boy.
 (Kirk lands the final haymaker that knocks Finnegan out cold) 
+
+
 SPOCK: Did you enjoy it, Captain?
 KIRK: Yes, I enjoyed it. After all these years. (realisation dawns) I did enjoy it. The one thing I wanted to do after all these years was to beat the tar out of Finnegan.
 SPOCK: Which supports a theory I've been formulating. 
@@ -373,16 +465,24 @@ KIRK: Difficult.
 SPOCK: The force field we encountered is obviously underground, manufacturing these things. Passages lead to the surface. Just for example, when Rodriguez thought of a tiger 
 KIRK: Spock. 
 (The tiger is behind them, the chain around it's neck tethering it to the spot clearly visible) 
+
+
 KIRK: We've got to get back to the landing party and warn them. 
 (They start to run back to the glade. The aircraft strafe them, Kirk elbows the Samurai out of his way) 
 [Glade]
 (Tonia has changed back into her uniform when Don Juan sneaks up behind her and grabs her, warding off Sulu and Rodriquez with his sword) 
+
+
 KIRK: Sulu, Rodriguez, Barrows. Front and centre.
 (Don Juan runs off) 
+
+
 SULU: Sir. 
 KIRK: Don't ask any questions, Sulu. Face front, everyone. Don't talk. Don't breathe. Don't think. You're at attention. Concentrate on that and only that. Concentrate.
 SPOCK: Captain.
 (A smiling grey-haired man in a long green robe walks up to Kirk) 
+
+
 KIRK: Who are you?
 CARETAKER: I'm the caretaker of this place, Captain Kirk.
 KIRK: You know my name?
@@ -403,11 +503,15 @@ MCCOY: Oh. Them. Well I, er, I was thinking about a little cabaret I know on Rig
 TONIA: And so am l.
 MCCOY: Oh, yes. So you are. Well, girls, I suppose you can turn something up.
 (The cabaret girls go to Sulu and Spock.) 
+
+
 CARETAKER: We regret that some of you've been made uncomfortable.
 KIRK: You say your people built all this. Who are you? What planet are you from?
 CARETAKER: My impression is that your race is not yet ready to understand us, Captain.
 SPOCK: I tend to agree.
 (a communicator beeps) 
+
+
 KIRK: Kirk here.
 UHURA [OC]: This is the bridge, Captain. Our power systems have just come back in. Do you require assistance?
 KIRK: No, everything is in order, Lieutenant. Stand by.

@@ -5,6 +5,8 @@ Stardate: 4040.7
 Original Airdate: 15 Mar, 1968
 [Bridge]
 (Everyone on the Bridge is staring at Spock's back, as he analyses some sensor data.) 
+
+
 SPOCK: No doubt about it, Captain. The space debris comes from the survey vessel SS Beagle. 
 KIRK: Missing for six years, and now this junk in space. 
 SPOCK: Portions of the antimatter nacelles, personal belongings. Captain, no signs of bodies whatsoever. 
@@ -18,6 +20,8 @@ SPOCK: SS Beagle. Small class four stardrive vessel. Crew of forty seven, comman
 KIRK: Yes, at the academy. He was dropped in his fifth year. He went into the merchant service. 
 CHEKOV: Coming up on the planet, captain. 
 (A planet with lots of water, some land masses and just s few wispy white clouds.) 
+
+
 KIRK: Put it on the screen. 
 CHEKOV: Definitely class M, somewhat similar to Earth. 
 KIRK: Yes, similar. But the land masses and oceans are quite different, however. 
@@ -31,17 +35,25 @@ SPOCK: Television was the colloquial term.
 KIRK: Put it on the screen. 
 UHURA: Aye. 
 (A black and white image of people watching as police in crash helmets arrest someone. There is a car in the foreground. Very 1950s or 60s.) 
+
+
 VOICE [OC]: Today police rounded up still another group of dissidents. Authorities are as yet unable to explain these fresh outbreaks of treasonable disobedience by well-treated, well-protected, intelligent slaves. Now turning to the world of sports and bringing you the taped results of the arena games last night. (a sword fight) The first heat involved amateurs. They're petty thieves from City Prison. Conducted, however, with traditional weapons, it provided some amusement for a few moments. In the second heat, a slightly more professional display in the spirit of our splendid past, when gladiator Claudius Marcus killed the last of the barbarians, William B. Harrison, in an excellent example of 
 (The picture of an old Roman fight with net and short sword is lost.) 
+
+
 UHURA: Transmission lost, sir. Shall I try to get it back? 
 KIRK: Slaves and gladiators. What are we seeing, a twentieth-century Rome? 
 SPOCK: Captain, the one described as the barbarian is also listed here. Flight officer William B. Harrison of the SS Beagle. At least there were some survivors down there. 
 KIRK: Ready the transporter room, Mister Spock. We're beaming down. 
 [Hillside]
 (The landing party of three is beamed onto a ridge, nicely silhouetted against the clear blue sky.) 
+
+
 KIRK: You could have selected a more convenient place, Mister Spock. 
 SPOCK: But hardly more practical, captain. Close to the city we located, but not populated. We should not be observed. 
 (They head down the steep slope. Spock takes some tricorder scans.) 
+
+
 SPOCK: Fascinating. This atmosphere is remarkably similar to your twentieth century. Moderately industrialised pollution containing substantial amounts of carbon monoxide and partially consumed hydrocarbons. 
 MCCOY: The word was smog. 
 SPOCK: Yes, I believe that was the term. I had no idea you were that much of a historian, Doctor. 
@@ -55,13 +67,19 @@ MCCOY: One, just once, I'd like to be able to land someplace and say, Behold, I 
 SPOCK: I fail to see the humour in that situation, Doctor. 
 MCCOY: Naturally. You could hardly claim to be an angel with those pointed ears, Mister Spock. But say you landed someplace with a pitchfork. 
 (A gunshot rings out.) 
+
+
 FLAVIUS [OC]: Don't move! Hands in the air! 
 SPOCK: Complete Earth parallel. The language here is English. 
 (Kirk tries to go for his phaser, and another shot hits the ground near his feet.) 
+
+
 FLAVIUS [OC]: I said, don't move! 
 KIRK: I think he means it, Spock. 
 SPOCK: There would seem to be evidence to that effect. 
 (Four men appear from behind rocks. They are wearing t-shirts with a short chain motif at the neck. The leader is barefoot and wearing shorts.) 
+
+
 FLAVIUS: Who are you? 
 KIRK: We come from another province. 
 FLAVIUS: (to Spock) Where are you from? What do you call those? 
@@ -98,6 +116,8 @@ SEPTIMUS: Tell me the empire has a device like that, Flavius, and you may kill t
 Captain's log, stardate 4040.7. On the surface of planet four, system eight nine two, the landing party has won the confidence of what obviously is a group of runaway slaves. They dwell in caves not far from a large city, wear rags, live under primitive conditions. But they are creatures of a heavily industrialised twentieth-century type planet very much like Earth. An amazing example of Hodgkins's law of Parallel Planet Development. But on this Earth, Rome never fell. A world ruled by emperors who can trace their line back two thousand years to their own Julius and Augustus Caesars. 
 [Cave]
 (The landing party are given water, and Spock leafs through some magazines.) 
+
+
 SEPTIMUS: No, Captain. I'm sure I would have heard of the arrival of other men like you. 
 KIRK: Perhaps you've heard, let's say, an impossible story or a rumour of men who came from the sky or from other worlds. 
 SEPTIMUS: There are no other worlds. 
@@ -113,6 +133,8 @@ KIRK: Septimus, we need your help. We must go into the city. We know that one of
 SEPTIMUS: My advice to you is to leave. Go back where you came from. 
 KIRK: We can't do that. Perhaps you know his name. Merik. Captain Merik. 
 (General consternation and animosity from the other slaves) 
+
+
 SEPTIMUS: Merikus? 
 KIRK: Yes. He's the leader of our friends. 
 SEPTIMUS: Merikus is first citizen. Butcher. 
@@ -123,15 +145,21 @@ FLAVIUS: Almost six. I was there when he became lord of the games. If he is your
 KIRK: Septimus, wherever we may be from, you must believe that it is one of our most important laws that none of us interfere with the affairs of others. If Captain Merik is Merikus, then he has violated that law, and he must be taken away and punished. Will you help us get to the truth of all this? 
 SEPTIMUS: First I must discuss it with the others. 
 (The men leave.) 
+
+
 SPOCK: Curious, Captain, the similarity in names. Were you told why Merik was dropped from the Space Academy? 
 KIRK: He failed a psycho-simulator test. All it takes is a split second of indecision. Hardly the type to become a political strongman. 
 MCCOY: Odd that these people should worship the sun. 
 SPOCK: Why, Doctor? 
 MCCOY: Because, my dear Mister Spock, it is illogical. Rome had no sun worshipers. Why should they parallel Rome in every way except one? 
 (The men return.) 
+
+
 SEPTIMUS: We have decided. Flavius will guide you. We will provide you with suitable clothing. I caution you, take great care. The police are everywhere. May the blessings of the sun be upon you. 
 [Countryside]
 (Dressed as slaves in jeans and t-shirts, the landing party are lead towards the city. Spock wears his obligatory woollen hat. They stop by a small thicket of trees.) 
+
+
 FLAVIUS: We'll wait here until dark. 
 KIRK: Are you a slave, Flavius? 
 FLAVIUS: You are barbarians indeed not to know of Flavius Maximus. For seven years, I was the most successful gladiator in this province. 
@@ -139,20 +167,28 @@ KIRK: Then you heard the word of the sun?
 FLAVIUS: Yes. The words of peace and freedom. It wasn't easy for me to believe. I was trained to fight. But the words, the words are true. 
 KIRK: There are many things I'd like to know 
 (he's interrupted by rapid gunfire.) 
+
+
 MAXIMUS: Hold! Don't move! Hands in the air! 
 (Armed police round them up.) 
 Four fleeing fish. A fine haul. Flavius Maximus. 
 (Flavius attacks him and gets knocked down.) 
+
+
 MAXIMUS: You have been too long absent from the games, Flavius. The first citizen will be pleased. Runaway slaves are always welcome. (removes Spock's hat) No, not slaves. Barbarians. It's been a long time since I've watched barbarians die in the arena. 
 Captain's log, stardate 4040.9. Uniformed police like those of Earth, a great city like Rome with automobiles. Astonishing similarities to twentieth-century Earth, down to the fine carbon steel in the bars. 
 [Prison]
 (Spock and McCoy carry Flavius into a cell.) 
+
+
 KIRK: Tell Merikus I'd like to see him. 
 MAXIMUS: The first citizen? Why would he bother with arena bait like you? 
 KIRK: Tell him it's Jim Kirk. Perhaps a friend. 
 MAXIMUS: Perhaps? 
 KIRK: Well, if I am a friend and you don't tell him, do you really want to risk that? 
 (They are locked in and left alone. McCoy tends to Flavius's head wound.) 
+
+
 KIRK: But if there have been slaves for over 2,000 years, hasn't there always been discontent, runaways? 
 FLAVIUS: Long ago there were rebellions, but they were suppressed. And with each century, the slaves acquired more rights under the law. They received rights to medicine, the right to government payments in their old age, and they slowly learned to be content. 
 SPOCK: Even more fascinating. Slavery evolving into an institution with guaranteed medical payments, old-age pensions. 
@@ -165,10 +201,14 @@ KIRK: I'm not sure they're sure. When the slaves began to worship the sun, they 
 FLAVIUS: Long ago. Perhaps as long ago as the beginning of the empire. The message of the sun, that all men are brothers, was kept from us. Perhaps I'm a fool to believe it. It does often seem that man must fight to live. 
 KIRK: You go on believing it, Flavius. All men are brothers. 
 (The guards return.) 
+
+
 MAXIMUS: Flavius. Your friends are waiting for you. You've already been matched for the morning games. Come. 
 FLAVIUS: I will not fight. I'm a Brother of the Sun. 
 MAXIMUS: Put a sword in your hand, and you'll fight. I know you, Flavius, you're as peaceful as a bull. 
 (Two guards take Flavius away.) 
+
+
 MAXIMUS: You three come with us. 
 KIRK: Three against three. We may never get a better chance. 
 MAXIMUS: No talking. Outside. 
@@ -178,6 +218,8 @@ MAXIMUS: Outside!
 KIRK: All right, but he'll double over before we get very far. (Spock and Kirk take McCoy's arms.) 
 MCCOY: No, I think I can walk. I'll try. 
 (McCoy suddenly doubles over in pain and two guards are sent in to help. One gets neck-pinched, the Roman is karate-chopped and the last guard is punched by the invalid.) 
+
+
 KIRK: Let's go. 
 MERIK: (blue eyed, red haired) Well done, Jim. (Armed guards appear.) I'm afraid it isn't that easy. They've been handling slaves here for two thousand years. 
 CLAUDIUS: But it was exciting. They'd do well in the arena. 
@@ -189,8 +231,12 @@ KIRK: I agree.
 MERIK: Don't judge me before you know the facts. Come on, we can talk freely here. The Proconsul knows who and what we are. 
 [Chamber]
 (Some small animal skins on the floor, a brass brazier, an urn and busts on plinths, and a girl preparing drinks.) 
+
+
 MERIK: You can leave us. 
 (The guards leave.) 
+
+
 MERIK: Well, a celebration. A meeting of old friends. 
 CLAUDIUS: Prepare food for our friends. They've come from a great distance. A great distance indeed. So, this is a Vulcan. Interesting. From what I've heard, I wish I had fifty of you for the arena. 
 MERIK: This other is your ship's surgeon? 
@@ -198,6 +244,8 @@ KIRK: McCoy.
 MERIK: It's a pity we can't let him loose in our hospitals. Our level of medicine would improve immeasurably, I'm sure. 
 CLAUDIUS: Come. You must be hungry. Gentlemen? 
 (They sit at a table, and the girl brings over a plate.) 
+
+
 CLAUDIUS: Oh, try the sparrow broiled in garum. Delicious. Or perhaps some of this roast kid. Lovely thing, isn't she? 
 KIRK: All right, what happened? 
 MERIK: We had meteor damage, Jim. I went ashore with a landing party to look for iridium ore for repairs, and I met this gentleman. 
@@ -227,10 +275,14 @@ MERIK: They're going to be arriving soon, anyway, Jim. A recon party, then a res
 KIRK: Do you really believe I could be made to order my own people down? 
 CLAUDIUS: I believe this, Captain. That you would do almost anything rather than see these two dear friends put slowly to death. 
 (Kirk takes the communicator.) 
+
+
 MCCOY: Jim. 
 KIRK: Kirk to Enterprise. 
 SCOTT [OC]: Bridge. Scott here. 
 (Armed guards enter.) 
+
+
 KIRK: Scotty, if you have a fix. (guns are pointed at his head) Stand by, Scotty. 
 CLAUDIUS: Very wise of you, Captain. No point in sending up bullet-ridden corpses. 
 KIRK: Yet on the other hand, my chief engineer's standing by for a message. 
@@ -254,30 +306,44 @@ CHEKOV: That may take some time.
 SCOTT: Let it take time, lad. They're in trouble, and I'm under orders not to interfere. However, no order can stop me from frightening them. It may do no good, but it may suggest to someone just what a starship can really do. Aye. 
 [Arena]
 (Actually, a painted backdrop in the Empire TV television studio. The commentator sits on scaffolding next to a camera operator.) 
+
+
 ANNOUNCER: Good evening, ladies and gentlemen. Live and direct from City Arena, and in colour, we bring you Name the Winner, brought to you tonight by your Jupiter Eight dealers from coast to coast. In just a moment, tonight's first heat. We're in a taped commercial, Proconsul. Forty seconds, then we'll be back live. 
 (Claudius, Merik and Kirk take seats on a raised platform. Kirk is manacled, and there are two armed guards behind him. Spock and McCoy are brought out by two guards in full traditional dress.) 
+
+
 ANNOUNCER: Stand by. Ten seconds. And first tonight, ladies and gentlemen, a surprise extra. In the far corner, a pair of highly aggressive barbarians. Strong, intelligent, with strange ways, and I'm sure full of a lot of surprises. And facing them, two favorites here from previous encounters, Achilles and Flavius. (The canned applause is turned up by a bored sound effects man) Victory or death? And for which of them? Well, ladies and gentlemen, you know as much about that at this moment as I do because this is your programme. You name the winner. 
 FLAVIUS: I don't mind fighting, but why you? 
 VOICE [OC]: Begin! 
 (Achilles takes on Spock. They are well matched. McCoy is against Flavius, and doesn't know what to do with a short sword.) 
+
+
 ANNOUNCER: Flavius may be getting off to a slow start, but he's never disappointed this crowd. A close one. The barbarian with the pointed ears seems to be in trouble. 
 SPOCK: I tell you I'm well able to defeat you. 
 ACHILLES: Fight, barbarian! 
 MERIK: Most of my men went the same way. I hoped I would feel it less with yours. 
 SPOCK: I do not want to injure you. 
 (The cat-calls and hisses are amplified. Flavius gets a taste of the whip.) 
+
+
 MASTER: Fight, you two. You bring this network's ratings down, Flavius, and we'll do a special on you. 
 (McCoy puts more effort into it.) 
+
+
 CLAUDIUS: Question, Captain? 
 KIRK: The rules. If Spock should finish his man off first, would he be able to help 
 CLAUDIUS: We believe men should fight their own battles. Only the weak will die. My word as a Roman. Ready to order your men down, Captain? 
 MERIK: Maybe now you understand why I gave in. The Romans have always been the strongest, and they've had practice for over two thousand years in enslaving men, using them, killing them. 
 CLAUDIUS: Quite true, Captain Kirk. The games have always strengthened us. Death becomes a familiar pattern. We don't fear it as you do. 
 (Flavius gets whipped again) 
+
+
 FLAVIUS: At least defend yourself. 
 MCCOY: I am defending myself! 
 FLAVIUS: Not like that, you fool. Hold your weapon higher. 
 (The cat-calls are replaced by cheers) 
+
+
 CLAUDIUS: Admit it. You find these games frightening, revolting. 
 KIRK: Proconsul, in some parts of the galaxy I have seen forms of entertainment that makes this look like a folk dance. 
 CLAUDIUS: Certain this isn't different, Captain? Those are your men dying, not strangers. 
@@ -291,12 +357,16 @@ MCCOY: Whatever gave you that idea?
 ACHILLES: Fight, you pointed-ear freak! 
 MCCOY: You tell him, buster. Of all the completely ridiculous, illogical questions I ever heard in my life! 
 (McCoy falls, and is vulnerable. Achilles is distracted so Spock punches him out then goes and neck-pinches Flavius.) 
+
+
 MASTER: A clear foul, Proconsul. Your decision? 
 CLAUDIUS: Your opinion, Merikus? After all, they're like yourself. 
 MERIK: It's your decision, Proconsul. 
 CLAUDIUS: Your opinion, Captain Kirk? Would you like me to kill them now? An easy death? Then you'd gladly accept whatever happens to you. Take them back to their cage. Well, it won't go that easily for them, Captain, nor for you. Take him to my quarters. 
 [Chamber]
 (Kirk is alone in the room, and is startled when a curtain is pulled back and the blonde girl appears, wearing very little.) 
+
+
 DRUSILLA: I was told to wait for you and provide wine, food, whatever you wish. I am Proconsul's slave Drusilla. Although for this evening. (pause) For this evening I was told I am your slave. Command me. 
 KIRK: It won't work. 
 DRUSILLA: What will not work? 
@@ -304,6 +374,8 @@ KIRK: Whatever he has in mind, whatever tricks. You hear that, Proconsul? It won
 DRUSILLA: We're alone. Please believe me. I've never lied to one who owns me. 
 [Jail]
 (Spock is checking the iron bars of their prison.) 
+
+
 MCCOY: Angry, Mister Spock, or frustrated, perhaps? 
 SPOCK: Such emotions are foreign to me, Doctor. I'm merely testing the strength of the door. 
 MCCOY: For the fifteenth time. Spock. Spock, I know we've had our disagreements. Maybe they're jokes. I don't know. As Jim says, we're not often sure ourselves sometimes, but what I'm trying to say is 
@@ -317,20 +389,28 @@ SPOCK: Really, Doctor?
 MCCOY: I know. I'm worried about Jim, too. 
 [Chamber]
 (The wine is being poured.) 
+
+
 KIRK: Very good. (he tries a grape) Excellent. 
 DRUSILLA: I was concerned. I am ordered to please you. 
 KIRK: I've been in some strange worlds with strange customs. Perhaps this is considered torture here. 
 DRUSILLA: Torture? I do not understand. I do not wish to see you tortured in any way. (she kisses him) At the first sign of pain, you will tell me? 
 KIRK: You'll be the first to know. 
 (Later, when the oil lamp has burnt out, and Kirk is asleep) 
+
+
 CLAUDIUS: Captain. (Kirk wakes with a start) I'm sorry I was detained. Should we have our little talk now? So far on this planet we've kept you rather busy. I don't wonder you slept through the afternoon. By the way, one of the communicators we took from you is missing. Was it my pretty Drusilla by any chance? 
 (Merik enters. There are guards in the room now too.) 
+
+
 CLAUDIUS: See if he has it. Not that I would have punished her. I would have blamed you. You're a Roman, Kirk, or you should have been. It's not on his person? 
 MERIK: No, Proconsul. 
 CLAUDIUS: I am sorry I was detained. I trust there was nothing further you required? 
 KIRK: Nothing except perhaps an explanation. 
 CLAUDIUS: Because you're a man, I owe you that. You must die shortly, and because you are a man (pauses) Would you leave us, Merik? The thoughts of one man to another cannot possibly interest you. 
 (Merik leaves.) 
+
+
 CLAUDIUS: Because you are a man, I gave you some last hours as a man. 
 KIRK: I appreciate that. 
 CLAUDIUS: Unfortunately, we must demonstrate that defiance is intolerable. 
@@ -353,18 +433,28 @@ SCOTT: Now, Mister Chekov. Activate.
 CLAUDIUS: Guards, don't let him escape! Guards! 
 [Jail]
 ( When the lights come on again, he's by McCoy and Spock's cell.)
+
+
 MCCOY: Jim! 
 KIRK: Stand back. 
 (He shoots the lock out.) 
+
+
 KIRK: Obsolete, but effective. 
 MCCOY: What happened, Jim? 
 SPOCK: What did they do to you? 
 KIRK: They threw me a few curves. No time to explain. 
 (Claudius and guards come in from two different entrances.) 
+
+
 CLAUDIUS: Hold! We're in each other's line of fire. I pity you, Captain Merik, but at least watch and see how men die. Swords only! 
 (So the fight starts, and Spock acquires a sword very quickly. The cell door is a defensible position.) 
+
+
 MERIK: (into communicator) Starship, lock in on this. Three to beam 
 (Claudius stabs him, but Merik manages to throw the communicator into the cell with the landing party.) 
+
+
 SCOTT [OC]: Enterprise to Captain Kirk. Ready to beam up three. 
 (They disappear in a hail of bullets.) 
 Captain's log, stardate 4041.7. Note commendation, Engineering Officer Scott. Despite enormous temptation 
@@ -373,6 +463,8 @@ Captain's log, stardate 4041.7. Note commendation, Engineering Officer Scott. De
 KIRK: And strong personal feelings, he obeyed the Prime Directive. His temporary blackout of the city below resulted in no interference with the society and yet saved the lives of myself and the landing party. 
 SCOTT: Thank you, Captain. 
 (Scott leaves as McCoy and Spock enter the Bridge.) 
+
+
 KIRK: Gentlemen. 
 MCCOY: Captain, I see on your report Flavius was killed. I am sorry. I liked that huge sun worshiper. 
 SPOCK: I wish we could have examined that belief of his more closely. It seems illogical for a sun worshiper to develop a philosophy of total brotherhood. Sun worship is usually a primitive superstition religion. 

@@ -16,12 +16,16 @@ OXMYX [OC]: Toward the edge of what?
 KIRK: I'll explain it in more detail when I see him. The ship won't land, but we'll transport several people down. Well, that's a little difficult for you to understand, too. I'll explain it in more detail when I see you. Where will be convenient? 
 OXMYX [OC]: Well, there's an intersection just at the end of the block, near a yellow fire plug. Think you can find it? 
 (Kirk goes over to the engineering station.) 
+
+
 KIRK: Scotty, do you have the co-ordinates? 
 SCOTT: Located, sir. 
 KIRK; Good. Mister Oxmyx, we have your intersection located. Will five minutes be all right? 
 OXMYX [OC]: Fine. Fine. I'll have a reception committee there to meet you. 
 KIRK: Good. I'll be looking forward to it. Kirk out. Scotty, you have the conn. 
 (McCoy and Spock enter from the turbolift.) 
+
+
 KIRK: Spock, McCoy, we're beaming down. Standard equipment. 
 [Turbolift]
 KIRK: The Horizon's contact came before the Non-Interference Directive went into effect. 
@@ -37,15 +41,21 @@ SPOCK: The damage has been done, Doctor. We are here to repair it.
 KIRK: Let's not argue about it. Let's go study it. Energise. 
 [Street]
 (There's a yellow fire hydrant, litter, a girl in a 1930's dress, motor cars, shops, and men standing around carrying machine guns. Welcome to Chicago.) 
+
+
 SPOCK: Fascinating. 
 MCCOY: This is like coming home. 
 KIRK: Home was never like this. I've seen pictures of the old days that look like this. 
 SPOCK: Interesting, Captain. Passers-by are carrying, I believe, firearms. 
 (They are approached by two men in neat suits with machine guns.) 
+
+
 KALO: (in a brown suit) Okay, you three, let's see you petrify. 
 SPOCK: Sir, would you mind explaining that statement, please? 
 KALO: I want to see you turn to stone. Put your hands over your head, or you ain't going to have no head to put your hands over. 
 (They are deprived of their phasers and communicators.) 
+
+
 KALO: What's this? 
 KIRK: That's a weapon. Be careful with that. 
 KALO: A heater, huh? Hey, the boss will love that. (puts it in his pocket) 
@@ -62,6 +72,8 @@ KALO: I never heard such stupid questions in my life.
 MCCOY: Well, since this Oxmyx asked us down here, don't you think we should see him? 
 KALO: All right. Get moving. Down the street. 
 (Just then a car comes hurtling around the corner. Everyone dives for cover, and gunfire rings out. The silent man in the blue suit gets shot. Kalo returns fire as the car speeds away.) 
+
+
 KALO: Krako's getting more gall all the time . 
 KIRK: Is this how you greet all your guests? 
 KALO: It happens, pal. 
@@ -70,6 +82,8 @@ KALO: Yeah? We ain't playing for peanuts. What's the matter, you guys never saw 
 SPOCK: Sir, there are several questions I would like to ask. 
 KALO: Ask the boss. I don't know nothing. Get moving. 
 (They leave the crowd to deal with the deceased.) 
+
+
 MCCOY: This is the contamination you're looking for, Jim. 
 KIRK: Yes, but the Horizon crew wasn't composed of cold-blooded killers. They didn't report this culture in this state, either. What happened? 
 WOMAN: Hey, Kalo. Hey, when's the boss going to do something about the crummy street lights around here, eh? A girl ain't safe. 
@@ -82,6 +96,8 @@ KIRK: Is this the way your citizens do business, their right of petition?
 KALO: They pay their percentages and the boss takes care of them. 
 [Oxmyx's office]
 (It's a lovely high-ceilinged room with wood paneling, tiled floor with a carpet and substantial furniture. A buzzer sounds.) 
+
+
 OXMYX: (a silver haired man in a suit) Hit that button. (the girl sitting on his desk obeys) Yeah? 
 KALO [OC]: Got them, Boss. No sweat. 
 OXMYX: All right. Bring them in. (he goes to the pool table and picks up a cue) Which one of you is the captain? 
@@ -104,6 +120,8 @@ KALO: He hit us, Boss.
 OXMYX: Okay. You hit him back, you hear? Hard. 
 KALO: I'll take care of it. 
 (Spock has discovered a book on a lectern.) 
+
+
 SPOCK: Captain? Gangsters. Chicago. Mobs. Published in 1992. Where'd you get this? 
 OXMYX: Hey, wait a minute. That's the Book. 
 KIRK: I know it's a book. 
@@ -121,6 +139,8 @@ SPOCK: Fascinating, but quite impossible.
 KIRK: Mister Oxmyx, my orders are quite explicit. Under no circum 
 OXMYX: I ain't interested in your orders. From now on, you're gonna take orders from me. I'm gonna give you just eight hours to give me the things I want. If I don't have those tools by then, I'm gonna call up your ship and have them pick you up in a box. Is that understood, pal? 
 (Kalo and another henchman put their guns to Kirk's head.) 
+
+
 KALO: Hey, Boss, this here's a heater, and I don't know what this is. (tosses them to his leader) 
 OXMYX: Let's see how this thing works. 
 KIRK: Don't do that. You could knock out the side of the building. 
@@ -133,6 +153,8 @@ KIRK: It's locked onto my ship's systems.
 OXMYX: Kalo, take them to the warehouse and put them in a bag. Keep a sharp eye on them, you hear. 
 KALO: In the bag, Boss. Come on. 
 (The landing party and the gunmen leave) 
+
+
 OXMYX: (into communicator) Hey, you. In the ship up there. 
 [Bridge]
 OXMYX [OC]: Hey, you in the ship. 
@@ -149,6 +171,8 @@ OXMYX [OC]: You understand?
 SCOTT: I don't know. (Oxmyx ends the transmission, laughing) Lieutenant Hadley, check the language banks and find out what a heater is. 
 [Warehouse]
 (The guards are sitting at a makeshift table playing cards whilst the landing party sit on various barrels and crates.) 
+
+
 MCCOY: One book on the gangs of Chicago did all this. It's amazing. 
 SPOCK: They evidently seized upon that one book as the blueprint for an entire society. 
 MCCOY: It's the Bible. 
@@ -183,8 +207,12 @@ SPOCK: I have never computed them, Captain.
 KIRK: Well, they're astronomical, believe me. Now, for the last card. We'll call it a kronk. You got that? 
 KALO: What? 
 (Kirk 'accidentally' drops the card on the floor) 
+
+
 KALO: I'll get it. 
 (As he bends down, Spock nock-pinches him while McCoy and Kirk punch out the other two men. McCoy is quicker than Kirk.) 
+
+
 KIRK: Spock, find the radio station. Uhura's monitoring the broadcasts. Cut in and have yourselves beamed up to the ship. 
 SPOCK: Surely, you're coming, Captain. 
 KIRK: I will, but I'm bringing Bela Oxmyx with me. 
@@ -192,6 +220,8 @@ MCCOY: Jim, you can't
 KIRK: Bones, this mess is our responsibility. You have your orders. Let's go. 
 [Alleyway]
 (Kirk is running along, carrying a machine gun, when a voice rings out. A man in a light grey suit and straw boater accosts him.) 
+
+
 ZABO: Hold it! Okay, pally, we're going for a ride. 
 KIRK: If you don't mind, I'd rather walk. 
 ZABO: Listen, pally, this could either be a taxi or a hearse. You know what I mean? 
@@ -199,6 +229,8 @@ KIRK: I'm beginning to get the idea.
 (They climb into the back of a very nice car.) 
 [Radio station]
 (A woman is about to put the needle onto a record when Spock neck-pinches her.) 
+
+
 MCCOY: You do that very well. Now, how are you with primitive radio equipment? 
 SPOCK: Very simple. Amplitude modulation transmission. I simply adjust the frequency, throw this switch, and the Enterprise should answer. 
 VOICE [OC]: That was the Jailbreakers with their latest recording on Request Time, brought to you by Bang-Bang, the makers of the sweetest little automatic in the world 
@@ -212,6 +244,8 @@ UHURA: Mister Spock, what are you doing on this frequency?
 SPOCK: A very long and complicated story, Lieutenant. Notify the transporter room, Two to beam up, these co-ordinates. 
 [Krako's office]
 (The brass plaque by the front door of the building proclaims 'JoJo Krako, Boss, Southside Territory'. The straw boaters are the badge of his organisation. JoJo is practising throwing darts over his shoulder at a poster of Oxmyx. Kirk is brought in. There's a copy of the Book on a lectern here too.)
+
+
 KRAKO: So you're the Fed, huh? Well, well, well, well, well. 
 KIRK: And you? 
 KRAKO: Krako. JoJo Krako. I'm the head of the whole Southside Territory. Hey, glad to see you. 
@@ -222,6 +256,8 @@ KRAKO: Hey, I like that. That is sharp. That's sharp, eh, Zabo?
 ZABO: Sharp, Boss. 
 KRAKO: That's right, a deal. I want you to help me. 
 (He snaps his fingers, and the girl walks over to Kirk and starts massaging his shoulders.) 
+
+
 KIRK: Let me guess. You want, you'll want heaters, and then you'll want troops to teach them how to use them. And then you'll attack the other bosses and take over the whole planet. Then we'll sit down and talk, right? 
 KRAKO: Wrong! I know Bela. He didn't offer you beans. Now, me, I'm a reasonable man. You give me what I want and I'll cut you in for, say, a third. Skimmed right off the top. Well, what do you think? 
 KIRK: I got a better idea. This planet has to be united. You know that. Bela knows that. Let's sit down. You, me, Bela. Discuss this whole matter, contact the other bosses, and talk about it like reasonable men. 
@@ -272,6 +308,8 @@ MCCOY: You mean you're going to trust him?
 SPOCK: If we are to save the captain without blatant, forceful interference on this planet, Doctor, we must have the assistance of someone indigenous. We are therefore forced to trust Mister Oxmyx. 
 [Small office]
 (Kirk has used copper wire to create a trip-wire, and starts throwing the waste paper bin around to make a noise.) 
+
+
 KIRK: Help me! Help! Help me! 
 (A henchman dashes in and goes flying over the wire. Kirk kicks him unconscious, then uses a blanket to disorient Zabo when he comes in before knocking him out too, taking a weapon and making his escape.) 
 [Transporter room]
@@ -297,6 +335,8 @@ OXMYX: Yeah, but I got to be the unity.
 SPOCK: Co-operation, sir, would inevitably result 
 OXMYX: The most co-operative man in this world is a dead man. And if you don't keep your mouth shut, you're going to be co-operatin'. 
 (The door opens and Kirk enters with his machine gun.) 
+
+
 KIRK: Drop the guns. Drop 'em. (McCoy and Spock take back their phasers) Move down there. 
 OXMYX: Hey, Captain, you got away from Krako. You know, that ain't easy. 
 KIRK: I thought you were supposed to report to the ship, Mister Spock. 
@@ -317,6 +357,8 @@ KALO: Now just a minute.
 KIRK: You too! Get out of the clothes. Nobody's going to put the bag on me any more. 
 [Street]
 (Kirk is in the blue suit, and Spock in Kalo's brown one, when they leave Bela's headquarters and go over to the cream sedan parked by the kerb.) 
+
+
 KIRK: Wheels, Mister Spock. 
 SPOCK: A fliwer, Captain. 
 KIRK: Key in the ignition. Turn the ignition on. And nothing happens. Where's the starter? There's the starter. Yes! 
@@ -325,12 +367,18 @@ KIRK: (pushing the gear lever and making grinding noises) Oops! Gears.
 SPOCK: Yes. Oh. I believe they had a device known as a clutch. Clutch, Captain. Perhaps one of those pedals on the floor. 
 KIRK: (puts it quietly into gear) I kind of like this. I'm going to get one myself. 
 (He lets up the clutch, and they go backwards. The car kangaroos elegantly down the street and somehow makes it to JoJo's place.)
+
+
 SPOCK: Captain, you are an excellent starship commander, but as a taxi driver you leave much to be desired. 
 KIRK: It was that bad? 
 (They get out and note the guards at the main entrance) 
+
+
 KIRK: Now, that could be a bit of a problem. If they were inside, where they couldn't be seen, we could stun them with our phasers, but not out here. 
 SPOCK: If we can get close enough to them, we should be able to render them harmless with reasonable rapidity. 
 (A guard checks the contents of a passing perambulator.) 
+
+
 KIRK: They don't look like the trusting type. 
 BOY: (runs over to them) It's a hit, ain't it? 
 SPOCK: I beg your pardon? 
@@ -358,8 +406,12 @@ BOY: Is that a contract?
 KIRK: Done. (they shake on it) What do we do? 
 BOY: You'll know what to do. 
 (He skips across the street, fighting imaginary enemies with his very real knife.) 
+
+
 BOY: And that! And how do you like that? Think you can gang up on me, huh? What are you, chicken? 
 (The guards grin as he runs over to them.) 
+
+
 BOY: Come on, why don't you gang up on me? I'll cut off your head and throw it in your face! Take that, and that, and falls over) Daddy, Daddy, I hurt myself! 
 KIRK: That's it. Let's go. 
 GUARD: What's the matter? Did you hurt yourself, kid? 
@@ -370,10 +422,14 @@ KIRK: Sonny!
 BOY: I want my daddy. 
 KIRK: Sonny! Wait a moment. What have they done? What have they done to you? What have you done? 
 (Kirk hits one while Spock neck-pinches the other. There's a bit of argy-bargy just inside the door before it's over.) 
+
+
 KIRK: A piece of the action. 
 [Krako's HQ]
 KIRK: No one can see. Put your phaser on stun. 
 (They stun two guards in the corridor in front of them. Krako is coming down the stairs with his girl.) 
+
+
 KRAKO: Well, ain't this nice? I was wondering how I was going to get you back, and here you deliver yourself! Who's your friend with the ears, Kirk? 
 KIRK: I think you've got it reversed, Mister Krako. 
 KRAKO: I ain't, pally. Put down your heaters. 
@@ -404,6 +460,8 @@ KIRK: Who's interfering? We're taking over. Check?
 SPOCK: Right. 
 KIRK: The planet is being taken over by the Federation, but we don't want to come in here and use our muscle, you know what I mean? That ain't subtle. So what we do is we help one guy take over the planet. He pulls the strings, and then we pull his. (to Spock) Hey, you, sit down. 
 (They settle them selves with their feet up on Krako's desk.) 
+
+
 KRAKO: What's your cut? 
 KIRK: What do you care as long as you're being cut in? Course, there's always Bela Oxmyx. 
 KRAKO: All right, it's a deal. Call your ship. Bring down your boys and whatever else you need. 
@@ -432,11 +490,15 @@ SCOTT [OC]: Acknowledged, Captain.
 KRAKO: You mean you're going to start sending down your boys now? 
 KIRK: Not exactly. 
 (Krako is beamed away, and the astonished guards are easily overpowered again.) 
+
+
 KIRK: Right? 
 SPOCK: Check. 
 (They leave.) 
 [Transporter room]
 (Two armed security men have met Krako.) 
+
+
 KRAKO: How the hell'd I get here? What? What happened? (Scott enters) You. You must be that Scott fellow Kirk was talking to. I want to know what happened. 
 SCOTT: It looks like we put the bag on you, doesn't it. 
 KRAKO: I got rights. 
@@ -445,6 +507,8 @@ KRAKO: You mean cement overshoes?
 SCOTT: Er. Aye. 
 [Street]
 (Kirk runs towards the car.) 
+
+
 SPOCK: Must we? 
 KIRK: It's faster than walking. 
 SPOCK: But not as safe. 
@@ -504,6 +568,8 @@ SPOCK: I would advise you to keep dialing, Oxmyx.
 ZABO: All right. You know what to do. We hit Bela's place and nobody comes out alive. All right. Let's go. 
 [Oxmyx's office]
 (It's getting crowded and noisy. The minor bosses are all sporting bowler hats. Krako is there too. Kirk is standing on the pool table.) 
+
+
 KIRK: All right! All right! All right! All right! Now the Federation's taking over whether you like it or not. You people, you've been running this planet like a piecework factory. From now on, it's going to be under one roof. You're going to run it like a business. That means you're going to make a profit. 
 TEPO: And what's your percentage? 
 KIRK: I'm cutting the Federation in for forty percent. You got any objections? 
@@ -513,13 +579,19 @@ OXMYX: Wait a minute. Wait a minute. Tepo's got a point. All we ever seen is the
 TEPO: What, a couple of boys? 
 KRAKO: I'm not going to believe my eyes. 
 (general bedlam) 
+
+
 KIRK: Hang on a minute. Hang on a minute. Quiet! Just a moment! 
 KRAKO: Let me say something. I only saw three guys in that ship. Maybe there ain't no more. 
 KIRK: There are over four hundred guys there. 
 KRAKO: That's your story, buster. 
 (There's a gunfight outside in the street.) 
+
+
 KRAKO: Hey, it's my boys. They're making a hit at this place. 
 (Everyone dashes to the windows to watch.) 
+
+
 OXMYX: My boys will put you down. 
 KRAKO: Want to bet? (gets the gun off McCoy) Keep moving. One move out of you two, I'll drill them. Give me the hardware. 
 OXMYX: Hey, that's great, Krako. Now we got hostages again. We can make a deal with the Feds up there. 
@@ -535,6 +607,8 @@ KIRK [OC]: Scotty, put the ship's phasers on stun. Fire a burst in a one-block r
 SCOTT: Right away, sir. Scott out. 
 [Oxmyx's office]
 (The street outside is filled with green light, and everyone falls down. The watching bosses are stunned into silence for a moment.) 
+
+
 KRAKO: Gee, that's some trick. 
 OXMYX: Hey, did you see that? 
 KIRK: They're not dead, just knocked out for a while. But they might just as well have been that way if we wanted them to. 
@@ -548,6 +622,8 @@ TEPO: Look, you figure maybe forty percent's enough?
 KIRK: Yeah, I think forty percent's sufficient. 
 OXMYX: It's reasonable. It sounds reasonable. That sound reasonable to you? 
 (Chorus of approval.) 
+
+
 KIRK: It's reasonable, Mister Oxmyx. Let's break out some of your drinking stuff and celebrate the syndicate. 
 [Bridge]
 KIRK: Gentlemen, you two have been brooding ever since we returned to the ship. 

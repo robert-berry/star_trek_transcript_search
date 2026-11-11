@@ -67,6 +67,8 @@ ZAHRA: Yes, sir.
 KIRK: Let's go. Energise. 
 [Planet surface]
 (Kirk, Spock, McCoy, Scott, the Yeoman and two security guards beam into an open area with grass, formal ponds and sculpture in front of a concrete and glass-fronted building.) 
+
+
 KIRK: There are almost a million inhabitants of Deneva. There's more than one hundred thousand in this city alone. Where is everyone? 
 SPOCK: They're here, Captain. In the buildings. Strangely quiescent. 
 KIRK: My brother's lab is over there. They signalled us once. There should be someone there. Let's find out what's happening. 
@@ -74,6 +76,8 @@ SPOCK: Captain, several people approaching.
 MEN: Go back! Get away! We don't want to hurt you! Go back! Get out of here. Go on, get away! Go away! Get out of here! We don't want to hurt you. 
 KIRK: Stand by to fire. Fire. 
 (The four attacking men are stunned.) 
+
+
 KIRK: Did you hear what they said, Mister Spock? 
 SPOCK: Indeed. They seemed most concerned for our safety. 
 KIRK: They tried to brain us with these clubs. Check them out, Bones. 
@@ -81,9 +85,13 @@ SPOCK: Their attitude was inconsistent with their actions.
 KIRK: To say the least. 
 MCCOY: There's something wrong, Jim. Their nervous systems. Unconscious like this, there should be just routine autonomic activity, but I'm getting a very high reading, as though even in their unconscious state, they're being violently stimulated. 
 (A woman's scream cuts the air.) 
+
+
 KIRK: Fan out. Follow me. Security. 
 [Laboratory]
 (A woman is trying to cover the air vents. A man and a boy are lying on the floor.) 
+
+
 AURELAN: They're here! They're here! Please keep them away! 
 KIRK: (bearhugging her) Aurelan. 
 AURELAN: They're here! They're here! 
@@ -119,6 +127,8 @@ AURELAN: Not the ship's crew's fault. The things made them bring their ship here
 KIRK: Aurelan, it's important that you tell us. What kind of things? 
 AURELAN: Not their fault. 
 (She starts screaming and crying again, so McCoy gives her another shot.) 
+
+
 MCCOY: When she answers questions, any questions, it's as if she's fighting to get the answers out. As though something is exerting pain to stop her. 
 AURELAN: They use it to control us. They're spreading, Jim. They need us to be their arms and legs. They're forcing us to build ships for them. Don't let them! Don't let them go any further! 
 (One last scream and convulsion, then all her readings plummet to zero. KIRK: My brother's son? 
@@ -132,10 +142,16 @@ SPOCK: A peculiar buzzing sound. We were about to investigate it.
 KIRK: All right. Let's go find out what it is. Set your phasers on force three, to kill. We're looking for some kind of creature, and we already know it will kill. 
 [Courtyard]
 (They go down some steps into a shady courtyard where the noise is coming from. There are gelatinous-looking creatures attached to the shady side of a lintel.) 
+
+
 KIRK: Spock! 
 (One detaches and flies around them.) 
+
+
 KIRK: Form a ring. Fire! 
 (After a prolonged burst, one falls to the ground and the others fly off.) 
+
+
 SPOCK: Incredible. Not only should it have been destroyed by our phasers, it does not even register on my tricorder. 
 ZAHRA: Captain, it doesn't even look real. 
 SPOCK: It is not life as we know or understand it. Yet t is obviously alive, it exists. 
@@ -143,6 +159,8 @@ KIRK: And it can bear up under full phaser power.
 SPOCK: Captain, I suggest we risk taking it aboard. 
 KIRK: It's too close in here. It may be a trap in here. Let's move out. 
 (As they head up the stairs, the felled creature revives and lands on Spock's back. He falls back in pain.) 
+
+
 KIRK: Spock! Spock! (He pulls it off) It's gone. Can you stand? Spock, are you all right? 
 Captain's log supplemental. Whatever the creatures are, they have apparently taken over all the inhabitants of Deneva. Meanwhile, ship's surgeon Doctor McCoy is examining a strange puncture wound left by one of the creatures on Mister Spock's back. 
 [Sickbay]
@@ -155,6 +173,8 @@ CHAPEL: Doctor, there is more of it in him, entwined all through his body.
 MCCOY: Miss Chapel, if you cannot assist me as required, call another nurse in here. But do one or the other now. 
 [Bridge]
 (McCoy enters in his surgical scrubs, carrying a jar.) 
+
+
 KIRK: How is he? 
 MCCOY: To be very frank, Jim, I don't know that I can do anything for Spock or your nephew. (hold up the jar) They're pieces of some form of living tissue. I removed one from Spock's spinal cord, the other from your sister-in-law's body. They're both the same. The boy's too weak to touch. Besides, removal of the tissue wouldn't stop the pain anyhow as far as I can tell. 
 KIRK: Did you operate on Spock in time? 
@@ -169,15 +189,23 @@ CHAPEL: Mister Spock.
 SPOCK: (hoarsely) No, I won't. 
 CHAPEL: Mister Spock. 
 (Spock leaves) 
+
+
 CHAPEL: Bridge, this is Sickbay. Tell Doctor McCoy Mister Spock just left here. 
 [Bridge]
 CHAPEL [OC]: He's delirious and possibly dangerous. 
 KIRK: All decks, security alert. Locate and restrain Mister Spock. He may be dangerous. Use phasers on stun if necessary. 
 (Spock enters the Bridge and throws Sulu out of his seat.) 
+
+
 SPOCK: I must take the ship.
 (Three of them wrestle him to the floor as Chapel enters and hands a hypo to McCoy.) 
+
+
 SPOCK: Down! I must take it down. 
 (McCoy sedates him.) 
+
+
 KIRK: Get him back to the Sickbay. Use security restraints. 
 [Sickbay]
 MCCOY: The K3 indicator registers the level of pain. Watch as I turn it on. That's what he's been going through. I've never seen anything like it. No wonder the poor devils go mad. 
@@ -196,6 +224,8 @@ MCCOY: Yes.
 KIRK: Help them. I don't care what it takes or costs. You've got to help them. 
 MCCOY: Jim, aren't you forgetting something? There are over a million colonists on that planet down there, just as much your responsibility. They need your help, too. 
 (They leave.) 
+
+
 SPOCK: I am a Vulcan. I am a Vulcan. There is no pain. 
 (Then he breaks his restraints.) 
 [Transporter room]
@@ -207,8 +237,12 @@ SCOTT: Not likely, Mister Spock.
 SPOCK: That is an order, Mister Scott. 
 SCOTT: Aye, sir, and I'm sorry I have to disobey it. The Captain said no one was to transport down. Mister Spock. 
 (Spock pushes Scott aside and neck-pinches his assistant. But Scott has a phaser in his hand when he gets up again.) 
+
+
 SCOTT: Freeze right there, Mister Spock, or I'll put you to sleep for sure. This is Mister Scott in the transporter room. Get me the Captain. 
 (Soon after, Kirk enters with an entourage, and the other man is rubbing his shoulder.) 
+
+
 KIRK: Mister Spock, I gave you an order to stay in the Sickbay. 
 SPOCK: Until the pain was gone, Captain. It has been discontinued by me. 
 KIRK: Scotty? 
@@ -226,6 +260,8 @@ KIRK: I don't have to, Bones. We both know he is.
 (A man tries to attack Spock, but is neck-pinched. After struggling to regain his self-control, Spock returns to the courtyard of the gel-creatures. He phasers one off the lintel and puts it into a metal box.) 
 [Science lab]
 (Kirk and McCoy enter.)
+
+
 SPOCK: Come in, gentlemen. I believe you'll find this interesting. (McCoy scans Spock.) Doctor, your medical skill and curiosity are quite admirable, but I assure you I'm all right. 
 MCCOY: You may be controlling the pain, Mister Spock, but you're far from all right. 
 SPOCK: Unimportant at the moment, Doctor. Please observe. Interesting, gentlemen. A one-celled creature resembling, more than anything else, a huge, individual brain cell. 
@@ -239,6 +275,8 @@ KIRK: But not impossible, Mister Spock. The Denevan that flew into the sun cried
 SPOCK: Yes, sir. 
 (Kirk leaves, then McCoy.) 
 (Later, Chapel is working with McCoy when Kirk enters.) 
+
+
 MCCOY: I'm sorry, Captain. I've tried everything I can. Variant radiation, intense heat, even as great as nine thousand degrees. 
 KIRK: Then you're wasting your time. There has to be something that'll kill the creature without destroying the human host. 
 MCCOY: Which happens to be my point. The thing won't die, even at temperatures and radiation which would burn Spock and your nephew to ashes. 
@@ -273,13 +311,19 @@ MCCOY: Well, I can rig a test cubicle in the bio-lab, put our specimen in it. Bu
 KIRK: Good. Let's get on it. 
 [Bio-lab]
 (Chapel puts the creature's jar into a large chamber.) 
+
+
 KIRK: Your figures are, of course, accurate. 
 SPOCK: Of course. The light of the sun at the proximity where the Denevan declared himself free was one million candles per square inch. If this works, the satellites we orbit will produce light of such intensity that even someone in a closed, darkened area will be affected by it. 
 CHAPEL: Ready, Doctor. 
 MCCOY: Put on your masks. 
 (They cover their eyes with goggles while the light is shone in the chamber.) 
+
+
 MCCOY: Completed. 
 (They open the chamber. The thing is still.) 
+
+
 MCCOY: It worked! We can do it. What's the matter, Jim? We can do it. 
 KIRK: It worked in a lab. With the creature exposed to everything we can give it. But what about the people who are infected? 
 MCCOY: Well, I don't know. Maybe trial 
@@ -296,16 +340,26 @@ SPOCK: There'll be none on the planet's surface, Doctor.
 KIRK: I agree completely. 
 MCCOY: Unfortunately, you're both right. It's the only thing we can do. All right, Mister Spock. 
 (Spock enters the experimental chamber.) 
+
+
 MCCOY: Mister Spock's the best first officer in the fleet. 
 KIRK: Proceed. 
 (Spock sits facing the light source and gets the full blast.) 
+
+
 MCCOY: Completed. 
 (They open the chamber, and Spock stands.) 
+
+
 KIRK: Spock, are you all right? 
 SPOCK: The creature within me is gone. I am free of it and the pain. 
 (He walks forward, straight into a table.) 
+
+
 SPOCK: And I'm also quite blind. An equitable trade, Doctor. Thank you. 
 (They help him into a chair, and Chapel rushes in.)
+
+
 CHAPEL: Doctor, the results of the first tests on the creature's remains. 
 (She leaves.);
 MCCOY: (reading) Oh, no. 
@@ -326,6 +380,8 @@ KIRK: Satellite control, this is the Captain. Energise all satellites.
 MAN [OC]: Affirmative. 
 SCOTT: All satellites operative, Captain. 
 (Down on the planet, gel-creatures are dropping to the ground and dissolving.) 
+
+
 UHURA: Captain, receiving messages from a ground station. 
 KIRK: Report. 
 UHURA: The things are dying, sir. It's working. 
@@ -343,11 +399,15 @@ KIRK [OC]: Bones.
 [Bridge]
 KIRK: Bones. 
 (Later.) 
+
+
 KIRK: Yeoman, record this for Starfleet Command. 
 ZAHRA: Ready, sir. 
 KIRK: The alien creatures on Deneva have been destroyed 
 ZAHRA: Captain, look. Mister Spock. 
 (Spock walks onto the Bridge, followed by McCoy.)
+
+
 KIRK: Spock. You can see. 
 MCCOY: The blindness was temporary, Jim. There's something about his optical nerves which aren't the same as a human's. 
 SPOCK: An hereditary trait, Captain. The brightness of the Vulcan sun has caused the development of an inner eyelid, which acts as a shield against high-intensity light. Totally instinctive, Doctor. We tend to ignore it, as you ignore your own appendix. 

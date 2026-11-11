@@ -5,6 +5,8 @@ Stardate: 2534.0
 Original Airdate: 16 Feb, 1968
 [Bridge]
 (The Enterprise is gliding past a red planet towards a blue one.) 
+
+
 SPOCK: Passing outer planet, Zeon. 
 KIRK: We want the inner one, Ekos. Plot a standard orbit, Mister Chekov, and take us in. 
 CHEKOV: Aye, sir. 
@@ -28,6 +30,8 @@ KIRK: Range, Mister Chekov?
 CHEKOV: Two thousand kilometres, closing fast. 
 KIRK: Fire. 
 (A big ball of fire fills the viewscreen. Fire in a vacuum? Never mind.) 
+
+
 SPOCK: Fascinating. A thermonuclear warhead. 
 MCCOY: That's generations ahead of where these people should be technically. How'd they manage that? 
 KIRK: Maybe they had help. Maximum orbit. Take us out of range of their detection range. 
@@ -40,6 +44,8 @@ SPOCK: According to our records, the Ekosians are a primitive, warlike people in
 KIRK: We've run into a far more serious problem than the disappearance of John Gill. Spock, you and I will beam down. Bones, one precaution. Prepare a subcutaneous transponder in the event we can't use our communicators. 
 [Transporter room]
 (Kirk and Spock are in local dress - mid/late twentieth century manual worker style including woolly hat to cover Spock's ears.) 
+
+
 KIRK: Insert the transponders. Make one low pass to communication range in three hours. If we fail to make contact at the appointed time, take our co-ordinates from the transponder and beam us aboard no matter what our condition may be. 
 SCOTT: Aye, sir. Whatever your condition. 
 KIRK: You ready? 
@@ -47,18 +53,30 @@ SPOCK: Ready, Captain.
 KIRK: Energise. 
 [Street]
 (It's very quiet, no people or transport.) 
+
+
 SPOCK: The Ekosians are humanoid, so there is apt to be a similarity in architecture. Interesting. 
 (A man runs round the corner and trips.) 
+
+
 ISAK: Hide! They're right behind me. Hide! Hide! 
 (They do, as three jack-booted soldiers surround the fallen man and kick him.) 
+
+
 YELLOW: Zeon pig. On your feet, pig. 
 (They are wearing armbands with - swastikas! on them, Nazi style, not peaceful indian style. Kirk starts to move.) 
+
+
 SPOCK: Captain, the non-interference Directive. 
 YELLOW: Hold. Your hands above your head, Zeon. Higher. Keep your hands up so you don't touch anything Ekosian. You swine have defiled us for the last time. But that's now ended. Move! 
 (They march him away.) 
+
+
 KIRK: Unbelievable. Do you recognise those uniforms? 
 SPOCK: Mid-twentieth century Earth. The nation state called Nazi Germany. 
 (A broadcast comes over a screen hung between two columns of a building in the street.) 
+
+
 MAN [on screen]: Attention. Attention. Attention. An announcement from Fuhrer Headquarters. Today, the Fuhrer has ordered our glorious capital to be made Zeon-free. Starting at dawn, our heroic troops have begun flushing out the Zeon monsters who've been poisoning our planet. 
 KIRK: How could this have happened? The chances of another planet developing a culture like Nazi Germany, using the forms, the symbols, the uniforms of twentieth century Earth are so fantastically slim. 
 SPOCK: Virtually impossible, Captain, yet the evidence is quite clear. 
@@ -67,6 +85,8 @@ KIRK: You look quite well for a man who's been utterly destroyed, Mister Spock.
 CROWD [on screen]: Sieg heil! Sieg heil! 
 MAN [over images]: At this patriotic demonstration, Deputy Fuhrer Melakon presented the Iron Cross, second class, to Daras, hero of the Fatherland. (a blonde woman) Everywhere, preparations go forward toward the Final Decision, death to Zeon. Long live the Fatherland. Long live the Fuhrer. 
 (The camera swings over to a portrait on the studio wall.) 
+
+
 KIRK: That's John Gill. The Fuhrer? 
 SPOCK: Fascinating. 
 SOLDIER: You, Zeons! What kind of monsters are the Zeons sending against us? 
@@ -80,14 +100,20 @@ KIRK: If John Gill is the Fuhrer it would seem the logical approach.
 SPOCK: That's very well taken, Captain. 
 [Another street]
 (With Spock in a grey uniform with the obligatory tin helmet.) 
+
+
 KIRK: That helmet covers a multitude of sins. 
 (They are accosted by a man in a dark blue uniform and peaked cap.) 
+
+
 OFFICER: Lieutenant, what have we here? A Zeon? 
 SPOCK: Yes. Obviously he's not one of us. I captured him. Is that not correct procedure with enemies of the Fatherland? 
 OFFICER: With all Zeon pigs, Lieutenant. 
 SPOCK: Take charge of him. 
 OFFICER: With pleasure. Today we have a surprise planned for you, Zeon. 
 (He steps in front of Spock and gets his neck pinched, of course.) 
+
+
 SPOCK: Your uniform, Captain. 
 KIRK: Yes, it's a shame yours isn't as attractive as mine. Gestapo, I believe. 
 SPOCK: Quite correct. You should make a very convincing Nazi. 
@@ -106,6 +132,8 @@ MAJOR: Lieutenant, remove your helmet.
 (The guards at the doorway point their guns at Spock's head, so he takes off the helmet and gives the Major a Look.) 
 [Interrogation room]
 (Kirk and Spock are being whipped, but they are not flinching despite the weals and blood on their skin. Green blood in Spock's case. The man from the street is watching from his cell.) 
+
+
 MAJOR: Enough. do you wish to speak now? Tell me your orders! You were sent to kill our Fuhrer. Confess! Do you want some more persuasion? 
 KIRK: You're making this a rather one-sided conversation, Major. 
 MAJOR: Do not joke with me, Zeon pig. Who is this alien? Things might go easier if you tell me about him. 
@@ -134,6 +162,8 @@ MAJOR: Yes, Excellency. (Eneg leaves) All right, pigs. I shall keep my eye on th
 [Cell]
 KIRK: John Gill was the kindest, gentlest man I ever knew. For him to be a Nazi is impossible. 
 (As soon as the Nazis have left the room, the other man comes over to the adjoining bars.) 
+
+
 ISAK: Why did they take you? You're not a Zeon. He certainly is not one. 
 Why do the Nazis treat you as enemies? 
 SPOCK: Why do the Nazis hate Zeons? 
@@ -156,11 +186,17 @@ SPOCK: Yes.
 KIRK: And a way to shed some light on the gloom, Mister Spock. 
 SPOCK: Of course. The rubindium crystals in the transponders. 
 (Kirk pulls a metal strip from the bed in the cell, and Spock uses it to cut into Kirk's arm.) 
+
+
 ISAK: Are you trying to kill yourselves? 
 (Spock gets Kirk's transponder out, then Kirk tries to extract Spock's.) 
+
+
 KIRK: I know it's there. McCoy put it in. There. Do you have the figures computed? 
 SPOCK: Yes. We must hold the crystals rigidly at a specific distance, which I believe should be twenty seven point two millimetres. 
 (He bends the metal strip accordingly.) 
+
+
 SPOCK: Twenty seven point two millimetres would be, approximately, there. That is, of course, a crude estimation. 
 ISAK: What is it you're making, some kind of radio? 
 KIRK: No, not a radio. The power from this light is very low. 
@@ -168,29 +204,45 @@ SPOCK: Yes. To reach that light, I shall require some sort of platform.
 KIRK: I would be honoured, Mister Spock. 
 SPOCK: Now, the rubindium crystals should find enough power here to achieve the necessary stimulus. As I recall from the history of physics, the ancient lasers were able to achieve the necessary excitation, even using crude natural crystals. 
 (Kirk squats down and Spock eventually stands on his thighs, leaning against the well-injured back.) 
+
+
 KIRK: Oh, Mister Spock, the guard did a professional job on my back. I'd appreciate it if you'd hurry. 
 SPOCK: Yes, of course, Captain. You realise that the aim will of course be very crude. 
 KIRK: (in pain) I don't care if you hit the broad side of a barn. Just hurry, please. 
 SPOCK: Captain, why should I aim at such a structure? 
 KIRK: Never mind, Spock. Just get on with the job. 
 (With the crystals presumably in the holes where the strip was fastened to the bed frame, Spock holds it up to the light bulb and directs a beam of coherent light at the door lock, burning through it.) 
+
+
 KIRK: Oh, my goodness. Beautiful. Oh, Spock Spock! (Spock gets down) Beautiful. Over there. I'll create a commotion. 
 (Spock goes to hide behind the door to the room) 
+
+
 KIRK: Help! Help! I'll talk! I'll talk! I can't stand it anymore! I'll talk! Guard! Guard, I'll talk! 
 (A guard enters.) 
+
+
 KIRK: Guard, I'll talk. I'll talk. The pain 
 (Spock neck-pinches the guard. They start to undress him.) 
+
+
 ISAK: Take me with you. Give me a chance to fight them. 
 SPOCK: May I remind you, we did not intend to fight. 
 ISAK: Take me with you, or you'll never find the laboratory. 
 KIRK: Take him with us, Mister Spock. He's got a point. He's our guide. 
 [Corridor]
 (Kirk is in the uniform, escorting an unshackled Isak and Spock.) 
+
+
 KIRK: Which is the laboratory door? 
 ISAK: The end of the hall. 
 (The door labeled Authorised Personnel only, not Fire Stairs only. A Nazi comes out of the room and locks the door.) 
+
+
 KIRK: All right, Zeon pigs, move. (He stumbles against the Nazi.) Zeon pigs. They do nothing right. Don't worry. They're on their way to the laboratory, for experimental work. They'll pay. Move! 
 (Kirk has picked the keys from the Nazi's pocket.) 
+
+
 KIRK: Move, move. 
 [Laboratory]
 KIRK: (giving the pistol to Isak) Cover the door. 
@@ -202,8 +254,12 @@ KIRK; The phasers?
 SPOCK: I do not see them. 
 ISAK: Where do you come from? 
 (Meanwhile, the Nazi realises his pocket has been picked and returns, weapon drawn.) 
+
+
 KIRK: (reading a clipboard) The alien pistols have been sent to Gestapo Command Headquarters. Well, that takes care of the phasers. 
 (The Nazi walks back in, and Isak pistol-whips him.) 
+
+
 KIRK: You Zeons, for peaceful people, are pretty thorough. 
 ISAK: Yes. With this uniform, we can steal a car, get out of the capital. 
 KIRK: We came for John Gill. 
@@ -211,9 +267,13 @@ SPOCK: Captain, without phasers, and until we are able to communicate with the s
 KIRK: All right, Mister Spock. You've made your point. Get into the uniform and hide those ears again. 
 [Street]
 (Kirk and Spock are carrying a stretcher out of the doors. The brass plaque says Service Entrance.) 
+
+
 KIRK: Hunting's good. We've caught so many Zeons, we've got to dump them outside. 
 [Zeon hiding-place]
 (Down a manhole, down a ladder, along a tunnel into a cave.) 
+
+
 DAVOD: Who's with you? 
 ISAK: It's all right. They helped me escape from the prison. I owe them my life. 
 ABROM: Isak, what is all this? 
@@ -231,9 +291,13 @@ SPOCK: Captain, I suggest the most profitable use of our time would be to reasse
 ABROM: This way. 
 [A side chamber]
 (A barrel is Spock's work table.) 
+
+
 SPOCK: By using parts from both, I've completed one communicator. I do not know if the circuits are correct, Captain. There is no way to test it, except in actual use. 
 KIRK: The Enterprise won't be within range for another hour. 
 (A Nazi with a machine gun comes in. Abrom, Davod, Isak and others are being herded at gunpoint by the young woman from the news broadcast.) 
+
+
 DARAS: Over there. Against the wall, all of you. 
 KIRK: The girl on the viewscreen. 
 SPOCK: The one receiving a medal. 
@@ -244,10 +308,16 @@ DARAS: Urgent? I'll bet it is.
 ABROM: I alone am responsible for what happens here. 
 DARAS: Do you know what we do to responsible Zeons? 
 (She shoots Abrom, and Kirk grabs for her gun, but is pushed off by the guard.) 
+
+
 DARAS: Now we finish the job. 
 (She puts her pistol to Kirk's head.) 
+
+
 ISAK: Stop, Nazis. After you've killed the last of us off, what do you do, turn the guns against yourselves? 
 (Kirk uses the distraction to take Daras' pistol and use her as a shield.) 
+
+
 ISAK: Don't shoot. Don't shoot, please. 
 ABROM: No, wait. (gets up) No more. You've proved they're on our side. 
 ISAK: Now, please forgive us, but we had to be absolutely certain. 
@@ -284,10 +354,16 @@ DARAS: You, a Zeon? You expect to get into the Chancellery?
 ISAK: It's even more my fight than yours. 
 [Chancellery entrance]
 (A car pulls up and this time Kirk and Spock, and Isak, are in black uniforms. They are a film crew.) 
+
+
 KIRK: Lights. 
 (The hand held floodlight blinds the guards.) 
+
+
 GUARD: You, what is your business here? 
 (A second car arrives and Kirk turns his camera on it.) 
+
+
 KIRK: Get me some lights on her. 
 GUARD: It's Party Secretary Daras. 
 DARAS: (marching into the building.) The Fuhrer's special documentary corps. Smile, Corporal. 
@@ -299,6 +375,8 @@ SPOCK; I hope not.
 KIRK: Let's go. 
 [Entrance to Main room]
 (There's a bit of a party going on before the speech.) 
+
+
 KIRK: Lights. (he films Eneg leaving) Thank you. Where does the Fuhrer enter? 
 DARAS: He doesn't. They watch him on the big screen. There, at the end of the room. He broadcasts from the booth for security. 
 KIRK: They've got the booth curtained off. Bring that light to the side of her face. Where's the entrance to the broadcast booth? 
@@ -325,6 +403,8 @@ KIRK: It takes too long to explain. Any place will do.
 ISAK: The cloakroom? 
 [Cloakroom]
 (In amongst the hangars full of uniforms, Spock fiddles with his home-made communicator.) 
+
+
 SPOCK: It may not have the range it had. In fact, it may not work at all. 
 KIRK: Think positively, Spock. 
 SPOCK: Spock to Enterprise. Spock to Enterprise. Come in, Enterprise. 
@@ -335,12 +415,16 @@ KIRK: We've having difficulty. Patch historical computer into uniform section. I
 UHURA [OC]: Yes, sir. 
 [Main room]
 (Isak is socialising.) 
+
+
 ENEG: Search the building. 
 (Isak gets Daras and takes her out of the room) 
 [Cloakroom]
 MCCOY [OC]: What have you got, Jim? 
 KIRK: We found John Gill. At least, we've seen him. He may be drugged, hypnotised, or psychotic. You'll have to make a determination. Hurry with that uniform. 
 (Daras enters.) 
+
+
 KIRK: What is it? 
 DARAS: Isak just heard two security men. They picked up your broadcast, pin-pointed it within this building. They're starting to search. 
 SPOCK: If there's going to be a delay in transporting the doctor, I suggest we cancel our 
@@ -350,12 +434,16 @@ UHURA: Doctor McCoy is having difficulty with that uniform, sir.
 [Cloakroom]
 KIRK: Send him down naked if you have to. Kirk out. 
 (McCoy is beamed down still trying to put a boot on.) 
+
+
 DARAS: It's true. I only half-believed what you said. 
 MCCOY: Stupid computer made a mistake in the measurements. The right boot's too tight. 
 SPOCK: There is a logical way to proceed, Doctor. Point your toe, apply equal pressure to either side of the boot, and push. We have no time for emotionalism. 
 KIRK: This is Doctor McCoy, our Chief Medical Officer. Daras, secretary to the National Socialist Party. 
 MCCOY: How do you do? What in blazes is this? 
 (Eneg and two guards enter.) 
+
+
 DARAS: Chairman Eneg. 
 KIRK: The Colonel is drunk. He's had a little too much to drink. 
 ENEG: I see. 
@@ -364,14 +452,20 @@ SPOCK: Yes. A doctor should have more pride.
 ENEG: You were right to conceal him. There's a spy in this building with a secret transmitter. We're conducting a search. Hail the Fuhrer. 
 ALL: Hail the Fuhrer. 
 (Eneg and guards leave.) 
+
+
 SPOCK: Captain, I do not understand how he failed to recognise us. 
 KIRK: Nor do I, but luck is something you also fail to recognise, Mister Spock. 
 SPOCK: True. I shall reconsider. 
 (A buzzer sounds.) 
+
+
 DARAS: The Fuhrer's speech. 
 KIRK: Let's go. 
 [Main room]
 (The curtain is pulled aside so Gill can be seen on the screen, but his mouth is hidden behind the large microphone. All the people salute him.)
+
+
 ALL: Hail the Fuhrer! Hail the Fuhrer! Hail the Fuhrer! Hail the Fuhrer!;
 GILL: Ekosians. The job ahead is difficult. It requires courage and dedication. It requires faith. The Zeon colony has existed for nearly half a century. 
 KIRK: Watch his mouth. 
@@ -382,11 +476,15 @@ GILL: Will at times be difficult.
 MCCOY: He looks drugged, Jim. Almost at a cataleptic state. 
 GILL: To reach our goal, And we will reach that goal. 
 (Wild applause.) 
+
+
 MCCOY: I have to have a close look at him. 
 GILL: must be decisive. Every thought directed toward a goal. This planet can become a paradise, if we are willing to pay the price. As each cell in the body works with discipline and harmony for the good of the entire being 
 [Corridor]
 KIRK: (to guards) Gentlemen, I want a picture of you two with the Hero of the Fatherland listening to the stirring Fuhrer's speech. Get that light over there, please. Get this light around here. Smile, gentlemen. Turn around, smile, and now. 
 (Neck pinch and strangle hold dispose of the guards.) 
+
+
 KIRK: It's locked. Keys. 
 [Main room]
 ALL: Hail the Fuhrer! 
@@ -447,6 +545,8 @@ MCCOY: I don't dare.
 ISAK: (watching the door) Guards. 
 KIRK: We've run out of time, Bones. No, wait. (to Daras, with a rifle) Aim it at Spock. Spock, take off the helmet. 
 (Eneg and guards enter) 
+
+
 ISAK: For the second time in one day, Daras is a hero to the Fatherland. 
 KIRK: She captured a Zeon spy that was attempting to assassinate the Fuhrer. 
 ENEG: Guards. 
@@ -455,6 +555,8 @@ KIRK: We'll make a present of him to Melakon.
 ISAK: Chairman Eneg, this spy must be taken to Melakon. 
 ENEG: Pass them on my responsibility. 
 (The guards leave with Spock and Eneg follows.) 
+
+
 ISAK: Eneg is one of us. 
 KIRK: Stay close to Spock. Stall for time. And hope. 
 (They leave him alone with Gill. 
@@ -465,16 +567,22 @@ DARAS: A rare prize. The Deputy Fuhrer can see this is no ordinary Zeon.
 MELAKON: No, not a Zeon, definitely not. 
 [Broadcast booth]
 (Kirk gives Gill another injection.) 
+
+
 KIRK: Professor Gill, can you hear me? You've got to speak. You've got to speak. This is our last chance. Gill? 
 [Main room]
 DARAS: The Deputy Fuhrer's an authority on the genetics of racial purity. How would you classify this one? 
 MELAKON: Very difficult. Note the sinister eyes and the malformed ears. Definitely an inferior race. 
 [Broadcast booth]
 (Kirk tries slapping Gill to wake him up.) 
+
+
 KIRK: Professor. Professor! You've got to talk! You've got to tell them what happened. You've got to come out of it. Come on, Professor. Come on. Come on. 
 [Main room]
 MELAKON: Note the low forehead, denoting stupidity. The dull look of a trapped animal. You may take him now for interrogation, but I want the body saved for the Cultural Museum. He'll make an interesting display. 
 (The viewscreen comes alive, and Gill is speaking for himself.) 
+
+
 GILL: People. People of Ekos. 
 MELAKON: Go to the booth. See to the Fuhrer at once. He's ill. Turn off that camera. 
 GILL: Hear me. 
@@ -485,12 +593,16 @@ GILL: Only one evil man. Melakon
 [Main room]
 GILL [OC]: Is a traitor to his own people and all that we stand for. To the Zeon people, I promise reparation and 
 (Melakon grabs a machine gun and fires at the curtained window of the broadcast booth. Isak shoots Melakon and Eneg intervenes when a solder points his weapon at Isak.)
+
+
 ENEG: Wait, soldier. There's been enough killing. Now we'll start to live the way the Fuhrer meant us to live. 
 [Broadcast booth]
 GILL: (shot and dying in Kirk's arms) I was wrong. The non-interference Directive is the only way. We must stop the slaughter. 
 KIRK: You did that, Professor. You told them in time. 
 GILL: Even historians fail to learn from history. They repeat the same mistakes. Let the killing end. Let (dies) 
 (Spock knocks on the door to be let in.) 
+
+
 SPOCK: Is he dead, Captain? 
 KIRK: Dead. 
 ISAK: For so long I've prayed for this. Now I'm sorry. 

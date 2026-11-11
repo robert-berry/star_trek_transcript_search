@@ -57,9 +57,13 @@ KIRK: Matthews, we'll look for Doctor Korby. Accompany us.
 MATTHEWS: Yes, sir. 
 [Tunnels]
 (the trio go deeper into the tunnel complex, until Chapel slips at the edge of a deep pit. Further on they come to a bright light. A figure steps in front of it) 
+
+
 KIRK: Is that you, Doctor Korby? 
 CHAPEL: Doctor Brown! It's Roger's assistant. Brownie, where's Roger? 
 (a man screams, they dash back to the pit. A figure is creeping away, unseen) 
+
+
 BROWN: Be careful. 
 KIRK: Is there a path down there? 
 BROWN: There's no hope, Captain. It's bottomless. He must have slipped. 
@@ -225,6 +229,8 @@ CHAPEL: Roger, I. Ruk, no! (runs after him)
 [Tunnels]
 CHAPEL: Ruk, stop! Doctor Korby said you are to obey me! Ruk! Ruk! Ruk, I order you not to harm him! 
 (Kirk breaks off a stalactite to use as a club. RUk hears the sound) 
+
+
 RUK [Chapel's Voice]: Captain Kirk, where are you? Captain Kirk! I can help you! 
 KIRK: Christine, is that you? 
 (Ruk sneaks up and they struggle, ending up with Kirk dangling from the edge of the pit. After thinking about it, Ruk pulls him up to safety) 

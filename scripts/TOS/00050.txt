@@ -5,6 +5,8 @@ Stardate: 4657.5
 Original Airdate: 23 Feb, 1968
 [Planet surface]
 (A landing party of Kirk, Spock, McCoy, Yeoman Thompson and a security guard have just beamed down.) 
+
+
 SPOCK: No life form readings, Captain. Continuing scan. 
 MCCOY: Well, somebody sent a distress call. 
 KIRK: No sign of the spaceship. No sign of debris. 
@@ -13,10 +15,14 @@ KIRK: But where are they?
 THOMPSON: Captain, I'm getting a reading now. Two human forms at bearing three hundred mark seven. 
 SPOCK: Confirmed. 
 (A male in an orange suit and a female in a blue outfit approach the party.) 
+
+
 KIRK: I'm Captain James T. Kirk, of the starship Enterprise. We came in answer to your distress call. 
 ROJAN: It was very kind of you to respond so quickly, captain. Now you will surrender your ship to me. 
 KIRK: You have a very strange sense of humour, Mister 
 (The man presses a button on his belt, and Kirk, Spock and McCoy are immobilised. The woman does the same to the Yeoman and guard.) 
+
+
 ROJAN: I am Rojan of Kelva. I am your commander from this moment on. Any efforts to resist us or to escape will be severely punished. Soon we, and you, will leave this galaxy forever. You humans must face the end of your existence as you have known it. You are all paralyzed by a selective field that neutralises nerve impulses to the voluntary muscles. We can control you at will. I will now release you. 
 KIRK: Stay there. 
 THOMPSON: Captain. 
@@ -37,13 +43,19 @@ ROJAN: Captain, you think you are unconquerable and your ship impregnable, but w
 CHEKOV: Something penetrating from the planet. 
 SCOTT: Increase power to shields. 
 (Another male in a purple jumpsuit appears in Engineering and immobilises the crew there.) 
+
+
 CHEKOV: It's dead, sir. All major power disabled. 
 SCOTT: Sound Red Alert. 
 UHURA: Red Alert. All personnel, man your battle stations. Go to Red Alert. 
 (A woman in a mustard coloured outfit takes over Life Support.) 
+
+
 SCOTT: Engineering, come in. 
 UHURA: Life support, come in. 
 (Then a man in brown immobilises the bridge crew.) 
+
+
 HANAR: Drea, Tomar, report. 
 [Life support]
 DREA: Life support control, secure. 
@@ -73,6 +85,8 @@ MCCOY: In other words, the galaxy isn't big enough for both of us.
 KIRK: The Federation has handled foreign invasions before. 
 ROJAN: Captain, we can control the Federation as easily as we can control you. The fate of the inferior in any galaxy. 
 (Hanar suddenly appears on the planet.) 
+
+
 HANAR: All is proceeding according to plan, Rojan. 
 ROJAN: Kelinda, take them to the holding area. We'll keep you and your party here, Captain. Your crew will undoubtedly wish to co-operate with us if they understand that you are hostages. 
 KELINDA: Move there. 
@@ -84,6 +98,8 @@ HANAR: Since the ship was designed to sustain these forms, we have little choice
 ROJAN: At least we'll be away from all of this openness. This is too strange for us, Hanar. We are creatures of outer space, and soon we will be safe in the comforting closeness of walls. 
 [Cell]
 (Rock walls with metal bars across the 'door'.) 
+
+
 SPOCK: Fascinating material. Similar to diburnium, but considerably more dense. I doubt even phaser fire could disturb its molecular structure. 
 KIRK: All right. We can't break out. There must be another way. 
 THOMPSON: Captain, what do they want from us. What kind of people are they? 
@@ -106,16 +122,22 @@ SPOCK: Yes, I recall, Captain. I led him to believe we had escaped.
 KIRK: Do you think you can do it again? 
 SPOCK: I shall attempt it. 
 (Kelinda seems to be getting nervous as Spock makes his attempt, then he is suddenly thrown across the cell. They go to his aid, Kelinda enters and Kirk grabs her and knocks her out. He takes the belt device.) 
+
+
 KIRK: Are you all right? 
 SPOCK: Yes, I will be all right, Captain. We must hurry. 
 [Planet surface]
 (But as they come running out of their cell, Rojan and Hanar immobilise them. Kelinda walks over and is given her device back.) 
+
+
 ROJAN: (releasing Kirk) This cannot go unpunished. Hanar. That one. (the guard) Take him aside. Kelinda, the female. 
 THOMPSON: Captain? 
 ROJAN: Go. As a leader, you realize the importance of discipline. I need you and these other specialists, but those two are unnecessary. 
 KIRK: I'm responsible. Let them go. 
 ROJAN: I think we're somewhat alike, Captain. Each of us cares less for his own safety than for the lives of his command. We feel pain when others suffer for our mistakes. Your punishment shall be to watch them die. Captain. Proceed, Hanar. 
 (The guard and the yeoman are reduced to blocks of solid matter.) 
+
+
 ROJAN: Bring them to me. This is the essence of what they were. The flesh and brain and what you call the personality, distilled down into these compact shapes. And once crushed (he demonstrates) this person is dead. However, that one can be restored. (throws it on the ground) Hanar? 
 (The security guard reappears.) 
 Captain's log, stardate 4657.5. Work is proceeding on the Enterprise as my crew is forced to make the required changes in the ship for intergalactic travel. I can't forget the picture of Yeoman Thompson crushed to a handful of dust. 
@@ -147,6 +169,8 @@ KIRK: Can you do it now and come out of it in the sickbay, say in half an hour?
 SPOCK: It will take me a moment to prepare. 
 KIRK: Go ahead. 
 (Spock touches his forehead, straightens up, then falls gently into McCoy and Kirk's arms.) 
+
+
 MCCOY: Jim, his heartbeat really is slow. His pulse is practically non-existent.;
 KIRK: (goes to the door) Hanar? Hanar. 
 HANAR: What do you want, human? 
@@ -158,6 +182,8 @@ HANAR: Stand away from the door. (enters the cell for a closer look) I will have
 KIRK: Do what you can with him, Bones. 
 [Sickbay]
 (McCoy and Tomar wheel Spock in on a trolley.) 
+
+
 CHAPEL: Doctor, what happened? 
 MCCOY: Prepare two ccs of stokaline. 
 CHAPEL: Stokaline? But, doctor, that's 
@@ -165,6 +191,8 @@ MCCOY: Don't argue, nurse. Just get it. (injects Spock) This may be the turning 
 CHAPEL: But, Doctor 
 MCCOY: Please, nurse, just follow orders, will you? 
 (Spock opens his eyes then shuts them again before she returns with the hypo. McCoy gives another injection as Tomar watches from a little distance.) 
+
+
 MCCOY: There, that should do it. Just let him rest now. (to Tomar) You see, it's a flare-up of Rigelian Kassaba Fever. He suffered from it about ten years ago, and it recurs every now and then. There's no danger if he gets medication in time. He'll be all right in a couple of hours. 
 TOMAR: Very well. I will inform Rojan. You will stay here. 
 [Planet surface]
@@ -196,6 +224,8 @@ MCCOY: We're just going to jam it.
 SCOTT: I've tied in all the lab computers. That will give it a bit more power to push with. 
 [Engineering]
 (Scott and Spock are in the upper gallery, while Kirk is apparently talking to Tomar below in main engineering. There is a rounded metal object on the console.) 
+
+
 SCOTT: This is it. Now all we have to do 
 SPOCK: Whatever it is we must do, it is impossible. 
 SCOTT: Why? 
@@ -206,6 +236,8 @@ SCOTT: I see what you're getting at. I can't say I like it.
 SPOCK: Nor I. But it must be made available to the captain. 
 [Corridor]
 (Spock and Scott meet up with Kirk.) 
+
+
 DREA [OC]: Captain Kirk to the bridge, please. 
 [Turbolift]
 KIRK: Well? 
@@ -219,6 +251,8 @@ SCOTT: And so will we.
 KIRK: Are you mad? I can't just 
 [Bridge]
 (The turbolift arrives.) 
+
+
 ROJAN: Take your places, gentlemen. We're approaching the barrier. 
 (Kirk takes the Captain's chair, Spock and Scott their consoles. As the barrier approaches, Scott's finger is poised over a flashing button.) 
 Captain's log, stardate 4658.9. With The Enterprise under control of the Kelvans, we are approaching the energy barrier at the edge of our galaxy. Spock and Scotty have devised a suicide plan to stop the Kelvans. They have rigged the ship to explode on my signal. 
@@ -228,6 +262,8 @@ SPOCK: Sensors indicate density negative, radiation negative, energy negative. (
 SCOTT: Outside hull temperatures rising, sir. It's over two thousand degrees now. Sir? 
 KIRK: Hold your position. 
 (Scott throws switches to stop the button flashing. The ship starts shaking as it passes through the barrier into intergalactic space.) 
+
+
 CHEKOV: We made it. 
 SPOCK: Instruments returning to normal, Captain. 
 UHURA: All decks report. Damage and casualties. 
@@ -238,15 +274,21 @@ ROJAN: Your people are most efficient, Captain.
 KIRK: Thank you. So are yours. 
 ROJAN: Hanar, start the neutralising operation. 
 (Hanar leaves.)
+
+
 KIRK: What neutralising operation? 
 ROJAN: You humans are troublesome for us. We needed you to get us through the barrier. But there aren't enough of us to efficiently guard all of you of the time. Further, the food synthesisers cannot manufacture enough food for the entire journey. We are therefore neutralising all nonessential personnel. 
 KIRK: No! 
 ROJAN: The procedure is already underway. Now, as to bridge personnel. Drea? We have no need for communication. 
 (Uhura is reduced to a block of salts.) 
+
+
 ROJAN: And since Drea is capable of handling the ship from here on. 
 (Bye, Chekov and other crew.) 
 [Corridor]
 (Kirk is walking along when he comes across a cluster of blocks and some instruments on the floor.)
+
+
 ROJAN: Do you not agree that this is better thing for them than exploding the ship as your engineer had thought to do? We detected it, of course. Tomar has devised a mechanism to prevent any further tampering. Please accept your situation, Captain. It will make things much less painful. 
 [Rec room]
 KIRK: Is this all? 
@@ -265,11 +307,15 @@ TOMAR: I believe I will. Assist me.
 KIRK: It's your idea, Doctor. Go ahead. 
 MCCOY: All right, I'll show you how to work the selector. 
 (He gets a tray of food for Tomar and sits him down at another table. Tomar takes a cautious mouthful.) 
+
+
 SCOTT: (whispering) Sir, why don't we try again to knock out the paralysis projector? I know the casing looks impenetrable, but I may be able to do something. 
 KIRK: Even if we could, it's out of the question. We need that projector to bring our people back to human form. 
 SCOTT: Then how will we stop the Kelvans? 
 SPOCK: Captain? 
 (They look over at Tomar, who is enjoying his meal.) 
+
+
 TOMAR: It's quite good. 
 MCCOY: I'm delighted. 
 SPOCK: Most curious. 
@@ -284,6 +330,8 @@ KIRK: All right. It may be our only chance. Look for any way to stimulate the se
 SCOTT: I can think of one way right off. (goes over to Tomar) Lad, you're going to need something to wash that down with. Have you ever tried any Saurian brandy? 
 [Sickbay]
 (McCoy is examining Hanar.) 
+
+
 MCCOY: I don't know about that. 
 HANAR: Please articulate. 
 MCCOY: Well, that body of yours is a bit anaemic. Comes from taking food in pills instead of solid sustenance. 
@@ -291,9 +339,13 @@ HANAR: What are you doing?
 MCCOY: I'm going to give you a shot. High-potency vitamin concentrate. You'll need three a day for a few days. And eat some solid food, will you? 
 [Scott's quarters]
 (The brandy bottle is empty, and the two men are full of alcohol.)
+
+
 TOMAR: No more. 
 [Kelinda's quarters]
 (Kelinda is at a desk, apparently working.) 
+
+
 KIRK: Am I disturbing you? 
 KELINDA: What is it you wish? 
 KIRK: I wish to apologise. 
@@ -305,12 +357,16 @@ KELINDA: Why not?
 KIRK: Well, there are better things for men and women to do. 
 KELINDA: Like what? 
 (He strokes her collar bone.)
+
+
 KIRK: Is this where I hit you? 
 KELINDA: No, the other side. 
 KIRK: Oh. I'm sorry. (he kisses it) Is that better? 
 KELINDA: Better? Was it intended as a remedy? 
 KIRK: This is. 
 (And gives her a full-on kiss with embrace.) 
+
+
 KELINDA: Is there some significance to this action? 
 KIRK: Well, among humans, it's meant to express warmth and love. 
 KELINDA: Oh. You are trying to seduce me. I have been studying you. 
@@ -323,19 +379,27 @@ KELINDA: Do you really regard this touching of the lips as pleasurable?
 KIRK: I did. 
 KELINDA: Curious. Let me try. 
 (She kisses him, and Rojan enters.) 
+
+
 ROJAN: Is there some problem, Captain? 
 KIRK: Not when I came in. 
 (Kirk leaves) 
+
+
 ROJAN: What did he want here? 
 KELINDA: He came to apologise for hitting me. Apparently it involves some peculiar touching contact. 
 ROJAN: In what manner? (she kisses him) Very odd creatures, these humans. 
 [Scott's quarters]
 (Another bottle has been emptied.) 
+
+
 TOMAR: Do you have more? 
 SCOTT: Not of this. 
 TOMAR: Anything. 
 [Rec room]
 (Spock and Rojan are playing 3D chess.) 
+
+
 SPOCK: Yes. Humans are very peculiar. I often find them unfathomable, but an interesting psychological study.;
 ROJAN: Well, I do not understand this business of pressing with the lips to apologise. 
 SPOCK: I believe you're referring to a kiss. But it is my understanding that such apologies are usually exchanged between people who have some affection for each other. 
@@ -357,6 +421,8 @@ TOMAR: What is it?
 SCOTT: Well, it's, er. (peers at it, sniffs it) It's green. 
 [Kelinda's quarters]
 (Kelinda is preening herself in front of a mirror when Rojan walks in.) 
+
+
 ROJAN: Kelinda, I've been thinking. 
 KELINDA: Yes? 
 ROJAN: I do not wish you to fraternise with any of the humans. 
@@ -369,6 +435,8 @@ ROJAN: You will do as I say, or I will neutralise your Captain Kirk and all the 
 (He has taken a rather firm hold of her arm.) 
 [Sickbay]
 (Hanar is having another vitamin shot.)
+
+
 HANAR: How many more of these? 
 MCCOY: Well, now, let's see. You've had three shots. I think you better stay on them for a few days, and then we'll see how you're responding. 
 HANAR: I see no reason for you to refer to yourself in the plural. 
@@ -384,12 +452,16 @@ KIRK: The thing is, I can't tell if we're getting anywhere. And I haven't seen S
 MCCOY: We haven't seen Tomar either. But my man Hanar is getting more irritable by the minute. I'm giving him shots of formazine. That should have him climbing the walls. 
 SPOCK: Rojan has exhibited symptoms of jealousy. 
 (Kelinda enters.) 
+
+
 KELINDA: I would like to speak with you, Captain. 
 SPOCK: Doctor, I'm due for another injection of stokaline. 
 MCCOY: Hmm? 
 SPOCK: Stokaline. 
 MCCOY: Oh. You will pardon us. 
 (Spock and McCoy leave.)
+
+
 KIRK: You had something to say? 
 KELINDA: Yes. This cultural mystique surrounding the biological function. 
 KIRK: Yes? 
@@ -411,6 +483,8 @@ ROJAN: Hanar, confine yourself to your quarters!
 (Hanar storms off the bridge, and Rojan hits the arm of the Captain's chair. Drea stares.) 
 [Rec room]
 (There's a whole lot of smooching going on.) 
+
+
 KELINDA: (coming up for air) Rojan has forbidden me to see you. 
 KIRK: Yes, that's too bad. Why do you defy him? 
 KELINDA: It's not a question of defiance. We were told to find out everything we could about you. 
@@ -431,12 +505,18 @@ SPOCK: It would appear, sir, that you have little control over her. Or perhaps C
 (Rojan leaves the bridge.) 
 [Scott's quarters]
 (The last drops of Scotch go into Tomar's glass.) 
+
+
 TOMAR: Very interesting. But I feel rather strange. 
 (He makes some jerking motions then falls off his chair onto the floor.) 
+
+
 SCOTT: We did it, you and me. Put him right under the table. (takes the paralyser off Tomar's belt) I'll take this to the captain. 
 (He gets to the door, then stops and gently falls back against the wall. He slides to the floor, as out of it as Tomar is.) 
 [Rec room]
 (Rojan breaks up the kissing session.) 
+
+
 ROJAN: Kelinda, I told you to avoid this human. 
 KELINDA: I did not wish to. 
 ROJAN: I am your commander. 
@@ -445,9 +525,13 @@ ROJAN: You did this to her, corrupted her, turned her away from me!
 KIRK: If you can't keep her, that's not my problem. 
 ROJAN: You will release her! 
 (Rojan drags Kirk away from Kalinda. Kirk slaps him across the face, twice. Finally he has goaded him into a fight.) 
+
+
 KIRK: Why don't you use your paralyser? You thought I was taking your woman away from you. You're jealous! You tried to kill me with your bare hands. Would a Kelvan do that? Would he have to? You're reacting with the emotions of a human. You are a human. 
 ROJAN: No, I cannot be! 
 (He throws off Kirk, into the arms of Spock and McCoy who are entering the room.) 
+
+
 KIRK: I'm stimulating him. (McCoy pushes him back into the fight.) You have no choice. To use this ship, you have to use our form and now you're stuck with it, you and your descendants, for the next three hundred years. 
 ROJAN: You fool. These bodies are tools. We remain Kelvans! 
 KIRK: Look what's happened in the short time you've been exposed to us. What do you think will happen in three centuries? When this ship gets to Kelva, the people on it will be human. They'll be aliens. Enemies! 
@@ -455,6 +539,8 @@ ROJAN: We have a duty, our mission. We've got to accomplish any way we can.
 KIRK: Your mission is to find new worlds for your people to live in. You can still do that. We can bring this problem to the Federation. There are many planets in this galaxy that can be inhabited. 
 ROJAN: You would really do that? You would extend welcome to invaders? 
 (They finally stop fighting.) 
+
+
 KIRK: No. But we would welcome friends. 
 SPOCK: Rojan, you are only a link in a chain, following an order given three hundred years ago. This is an opportunity for you to establish a destiny of your own. 
 ROJAN: Perhaps. Perhaps it could be done. 

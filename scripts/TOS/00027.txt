@@ -15,6 +15,8 @@ KIRK: The weak innocents who always seem to be located on the natural invasion r
 SULU: Captain, the automatic deflector screen just popped on. Body approaching. 
 KIRK: Configuration, Mister Sulu. 
 (Everyone is thrown about as the Enterprise is hit by multiple weapons fire.) 
+
+
 KIRK: Phaser banks, lock on. Return fire. Maintain firing rate. One hundred percent dispersal pattern. 
 SPOCK: We've hit him, Captain. He's hurt. 
 KIRK: Damage control, report to the first officer. 
@@ -50,11 +52,15 @@ SULU: But, Captain
 KIRK: No buts. You'll get to safety and alert the fleet. You will not attack alone. Mister Spock and I will be all right. Mister Spock, let's you and I pay the Organians a visit. 
 [Planet surface]
 (They beam down in front of a vaguely castle-styled wall which is completely smooth. The locals are dressed in romanticised rural mediaeval-style clothing, and take no notice of them at all.) 
+
+
 KIRK: You'd think they had people beaming down every day. 
 SPOCK: Yes. Curious lack of interest. Notice the ruins in the distance, Captain. Quite large. 
 KIRK: Yes. A fortress, perhaps. A castle. 
 SPOCK: Whatever it is, it would seem to be inconsistent with the reports we've been given on this culture. 
 (A man in a loose purple robe opens his arms wide.) 
+
+
 AYELBORNE: Welcome. 
 KIRK: Reception committee? 
 SPOCK: It would seem so. 
@@ -69,6 +75,8 @@ SPOCK: Captain, if you don't mind, I should like to wander about the village and
 AYELBORNE: Of course, my friend. Our village is yours. Captain. 
 [Council Chamber]
 (Ayelborne and four other older men seat themselves at a simple wooden table. Beautifully polished, though.) 
+
+
 KIRK: Gentlemen, my government has informed me that the Klingons are expected to move against your planet with the objective of making it a base of operation against the Federation. My mission, frankly, is to keep them from doing it. 
 AYELBORNE: What you're saying, Captain, is that we seem to have a choice between dealing with you or your enemies. 
 KIRK: No, sir. With the Federation, you have a choice. You have none with the Klingons. The Klingons are a military dictatorship. War is their way of life. Life under the Klingon rule would be very unpleasant. We offer you protection. 
@@ -84,6 +92,8 @@ KIRK: That's the first thing that would be lost! Excuse me, gentlemen. I'm a sol
 AYELBORNE: If you will excuse us, Captain, we will discuss your kind offer. 
 KIRK: Certainly. 
 (The doors open on their own and Spock enters. He and Kirk whisper in a corner.) 
+
+
 SPOCK: Captain, our information on these people and their culture was not correct. This is not a primitive society making progress toward mechanisation. They are totally stagnant. There is no evidence of any progress as far back as my tricorder can register. 
 KIRK: That doesn't seem likely. 
 SPOCK: Nevertheless, it is true. For tens of thousands of years, there has been absolutely no advancement, no significant change in their physical environment. This is a laboratory specimen of an arrested culture. 
@@ -160,8 +170,12 @@ KIRK: He is my friend.
 KOR: You have a poor choice of friends. He will be examined. If he is lying, he will die. If he is telling the truth, he will find that business has taken a turn for the worse. Take him. You do not like to be pushed. Very good. You may be a man I can deal with, Baroner. Come with me. 
 [Kor's office]
 (Probably up in the old castle.) 
+
+
 KOR: From this day on, no public assemblages of more than three people. All publications to be cleared through this office. Neighbourhood controls will be established, hostages selected. A somewhat lengthy list of crimes against the state. 
 (Kor hands the proclamation to Kirk, who puts it down on the desk.) 
+
+
 KOR: You do not like them? (Spock is brought in.) Well? 
 KLINGON: He is what he claims to be, Commander, a Vulcanian merchant named Spock. His main concern seems to be how he would carry out his business under our occupation. 
 KOR: Nothing else? 
@@ -178,6 +192,8 @@ SPOCK: Perfectly, Baroner. But it was an interesting experience.
 KOR: All right, Vulcan, you may go. But you are an enemy alien. You will be under our scrutiny at all times. If I have to warn you 
 SPOCK: Not necessary, Commander. I understand you very well. 
 (He leaves, followed by the guard.) 
+
+
 KOR: Return to your council, Baroner. You will receive our official notifications as soon as they are published. In the meantime keep the people in order. It is your responsibility. 
 KIRK: Or I will be killed. 
 KOR: That is exactly right. You will be killed. 
@@ -203,13 +219,19 @@ KIRK: We're short of tools.
 SPOCK: I'm certain the Klingons will provide whatever is necessary. It's a pleasure doing business with you, Mister Spock. 
 [Kor's Headquarters]
 (Kirk jumps one Klingon and hauls his unconscious body away. Spock primes a grenade, presumably from the munitions dump.) 
+
+
 KIRK: Okay so far. Sonic grenade? 
 SPOCK: With a delayed action fuse. 
 KIRK; Good. 
 SPOCK: These crates contain chemical explosives. They should make a most satisfactory display. 
 (He casually drops the grenade into a box, and they run.) 
+
+
 SPOCK: Six, five, four three. 
 (There's a short but bright fireworks show.) 
+
+
 KIRK: You were right, Mister Spock. A most satisfactory display. 
 [Council Chamber]
 KIRK: Of course we blew it up. Deliberately. 
@@ -227,6 +249,8 @@ KIRK: All I understand is that you apparently don't have the backbone to fight a
 KIRK [OC]: I speak of courage, gentlemen. Does courage mean so little to you? 
 [Council Chamber]
 (Kor and his troops enter.) 
+
+
 KOR: You speak of courage. Obviously you do not know the difference between courage and foolhardiness. Always it is the brave ones who die. The soldiers. I hope you will continue to savour the sweetness of your life. You disgust me. 
 AYELBORNE: What are you going to do with him, Commander? 
 KOR: What is always done with spies and saboteurs. He will be killed, after he has had first-hand experience of our mind scanner. 
@@ -252,14 +276,18 @@ KIRK: We're nothing like you. We're a democratic body.
 KOR: Come now. I'm not referring to minor ideological differences. I mean that we are similar as a species. Here we are on a planet of sheep. Two tigers, predators, hunters, killers, and it is precisely that which makes us great. And there is a universe to be taken. 
 KIRK: It's a very large universe, Commander, full of people who don't like the Klingons. 
 KOR: Excellent. Then it shall be a matter of testing each other's wills. Of power. Survival must be earned, Captain. Tell me about the dispersal of your Starfleet. 
-. KIRK: Go climb a tree. 
+KIRK: Go climb a tree. 
 KOR: I can get what I want through our mind-scanner, but there would be very little of your mind left, Captain. I have no desire to see you become a vegetable. This friend of yours, the Vulcan. He seems to have the ability to block our scanner. I think perhaps I will find out why. I will have him dissected. Your friend killed. You, a mental vegetable. Not a pleasant prospect, Captain, but it lies ahead for you unless you tell me everything I want to know. Twelve hours, Captain. 
 KIRK: It will take a lot longer than that, Commander. 
 KOR: Longer than that I will not wait. I respect you, Captain, but this is war, a game we Klingons play to win. Take him to the cell with his friend. And watch him closely. 
 [Cell]
 (It's a traditional mediaeval castle cell, big iron grills, straw on the floor, lit by ever-burning torches in sconces on the walls.) 
+
+
 SPOCK: It's no use, Jim. There's no way out. 
 (Later.) 
+
+
 KIRK: How much of the twelve hours do we have left? 
 SPOCK: Six hours, forty three minutes, if the Klingons are punctual. 
 KIRK: I think we can count on them being punctual. Blowing that munitions dump wasn't enough. If we get out of here, we've got to carry the attack directly to Kor. These Organians 
@@ -268,6 +296,8 @@ KIRK: Nevertheless, our orders still stand. We've got to make some attempt to ne
 SPOCK: We may not get the chance, Captain. These walls are very thick. 
 KIRK: And there are guards every few feet down the hall. 
 (There are sounds outside, then the door swings silently open on it's own. Spock and Kirk are ready to pounce on whoever enters.) 
+
+
 AYELBORNE: Oh, there you are, gentlemen. I trust you are in good health? Shall we go? 
 KIRK: Go? 
 AYELBORNE: Yes. Your captors plan to do violence to you. That we cannot permit. I came to take you away. 
@@ -324,10 +354,14 @@ KIRK: It's entirely up to you.
 TREFAYNE: Ayelborne, this is of no matter. Perhaps you'd better let him have what he wants. He 
 AYELBORNE: Very well, but it will do you no good. They're in that cabinet. 
 (Spock gets them, but leaves the tricorder.) 
+
+
 KIRK: Gentlemen, I have no great love for you, your planet, your culture. Despite that, Mister Spock and I are going to go out there and quite probably die, in an attempt to show you that there are some things worth dying for. 
 AYELBORNE: There are only two of you against an army. Don't you realise that what you intend to do will be hopeless? 
 KIRK: Come on, Mister Spock, let's get out of here. 
 (The doors open politely to let them leave, then close again behind them.) 
+
+
 CLAYMARE: Brave men. 
 AYELBORNE: Yes, but so foolish. 
 TREFAYNE: Interesting, however. 
@@ -340,6 +374,8 @@ TREFAYNE: Terrible. Inconceivable. Savage.
 AYELBORNE: We will wait. 
 [Kor's headquarters]
 (Outside, under cover of darkness and bushes.) 
+
+
 KIRK: Mister Spock, can we get those two guards? What would you say the odds on our getting out of here? 
 SPOCK: Difficult to be precise, Captain. I should say approximately 7,824.7 to 1. 
 KIRK: Difficult to be precise? 7,824 to 1?;
@@ -368,6 +404,8 @@ KOR: Bad enough to be a military governor, but to govern a population of sheep! 
 KLINGON: Yes, sir. 
 KOR: (going into his office) Fools! Will I have to kill them all? 
 (The Klingons march off, and Kirk jumps one of them from a side corridor, getting his belt around the Lieutenant's neck.) 
+
+
 KIRK: If you don't tell me what I want to know, I'll kill you here and now. Is that clear? 
 KLINGON: Yes. 
 KIRK: Is Kor's office down there? 
@@ -376,8 +414,12 @@ KIRK: What about the hostages? Talk. Talk.
 KLINGON: I am to gather two hundred more. 
 KIRK: To be killed? 
 (The Klingon nods.) 
+
+
 KIRK: Mister Spock. 
 (Spock knocks the Klingon out with a neck pinch.) 
+
+
 KIRK: Well, what are the odds now? 
 SPOCK: Less than seven thousand to one, Captain. It's remarkable we've got this far. 
 KIRK: Less than seven thousand to one. Well, getting better. Getting better. 
@@ -394,12 +436,16 @@ SPOCK: You may be premature. There are many possibilities.
 KOR: Today we conquer. If some day we are defeated, well, war has its fortunes good and bad. Do you know why we are so strong? Because we are a unit. Each of us is part of the greater whole, always under surveillance. Even a commander like myself, always under surveillance, Captain. If you will note. 
 KIRK: Cover, Spock! Back! 
 (The Klingons burst it, then suddenly everyone drops their weapons. Everyone.) 
+
+
 KOR: Shoot! Shoot! 
 (They try hand to hand, but are unable to touch each other without extreme pain. Up on the Enterprise, the crew suddenly leap out of their seats and away from their consoles.) 
 [Kor's office]
 KIRK: What is it, Spock? 
 SPOCK: Inexplicable, Captain. Extreme heat. Not only the weapons but the bodies as well. 
 (Ayelborne and Claymare come in.) 
+
+
 AYELBORNE: We are terribly sorry to be forced to interfere, gentlemen, but we cannot permit you to harm yourselves. 
 KOR: What are you talking about? 
 CLAYMARE: We have put a stop to your violence. 
@@ -416,6 +462,8 @@ SULU: I can't explain it. We were just closing in on the Klingon fleet when
 [Kor's office]
 SULU [OC]: Every control on our ship became too hot to handle.
 (Then it all goes dark, and he can touch the consoles again) 
+
+
 SULU [OC]: Our power's gone. Our phaser banks are dead. 
 KIRK: Stand by, Sulu. 
 KOR: My fleet, it's helpless. 
@@ -450,6 +498,8 @@ KIRK: What do you mean, beings like yourselves?
 AYELBORNE: Millions of years ago, Captain, we were humanoid like yourselves, but we have developed beyond the need of physical bodies. That of us which you see is mere appearance for your sake. 
 KOR: Captain, it's a trick. We can handle them. I have an army. 
 (Kirk holds him back as Ayelborne and Claymare transform into pulsating lights, too bright to look at. Then they disappear.) 
+
+
 SPOCK: Fascinating. Pure energy. Pure thought. Totally incorporeal. Not life as we know it at all. 
 KIRK: But what about this planet? The fields, the buildings, this citadel? 
 SPOCK: Conventionalisations, I should say. Useless to the Organians. Created so that visitors such as ourselves, could have conventional points of reference. 

@@ -5,6 +5,8 @@ Stardate: 2817.6
 Original Airdate: 8 Dec, 1966
 [Theatre]
 (On stage, a velvet-clad arm raises a bloody knife, then plunges it again into his sleeping victim. The audience are rapt.) 
+
+
 KIRK: Interesting. An Arcturian Macbeth. 
 LEIGHTON: (a man with an eyepatch) Watch him. Watch Macbeth. 
 LENORE: (as Lady M) Is he dead? Speak. Is King Duncan dead? 
@@ -26,6 +28,8 @@ MARTHA: I can't tell him anything, Jim. He's been like this since the company of
 KIRK: Kodos is dead. I'm satisfied of that. 
 LEIGHTON: Well, I'm not. I remember him. That voice. The bloody thing he did. 
 (He turns his head to reveal it's not just an eyepatch, but a covering over half his face) 
+
+
 LEIGHTON: Jim, Jim, I need your help. There were only eight or nine of us who actually saw Kodos. I was one, you were another. If he's to be exposed, 
 KIRK: He's dead. 
 LEIGHTON: Then it will be a ghost Martha and I receive in our home tonight. I invited the entire company to a cocktail party. I have to be sure. 
@@ -42,6 +46,8 @@ KIRK: Give information on actor Karidian prior to Kodos' death.
 COMPUTER: No information available, Anton Karidian, prior to twenty years ago 
 KIRK: Photograph Kodos. (an image of a red-haired man with a beard comes on the monitor) Photograph Karidian. (the grey-haired man with a small moustache) Now photograph both. 
 (Door opens) 
+
+
 KIRK: Mister Spock. You know Doctor Leighton, don't you? Would you say he's given to fantasy? 
 SPOCK: A good empirical research scientist. Steady, reputable, occasionally brilliant. 
 KIRK: With a very long memory. 
@@ -49,9 +55,13 @@ SPOCK: I have no information on that, Captain. We are ready to leave orbit.
 KIRK: We'll delay departure for a time. I'm beaming back down to the planet. 
 [Leighton's home]
 (The cocktail party is in full swing in the main room, and Martha is bringing another tray of drinks for her guests.)
+
+
 KIRK: Where's Tom? 
 MARTHA: He went to town. He called. He's on his way back. 
 (The lovely young blonde Lenore Karidian enters, and Kirk beams) 
+
+
 KIRK: The others are on the patio. 
 LENORE: I take it you're the welcoming committee. (referring to his glass) Is that for me? 
 KIRK: Why not? I saw your performance today. May I extend my appreciation? 
@@ -64,6 +74,8 @@ KIRK: An actor turning away his admirers? Very unusual.
 LENORE: Karidian is a most unusual man. You saw Macbeth. That was my father. 
 KIRK: Then I'll talk to Lady Macbeth. 
 (They sit) 
+
+
 LENORE: So. Captain of the Enterprise. Interesting. 
 KIRK: So, Lady Macbeth. Interesting. What's your next move? 
 LENORE: We play two performances at Benecia, if the AstraI Queen can get us there. 
@@ -89,9 +101,13 @@ LENORE: At the party, you were such a brash young man.
 KIRK; And now? 
 LENORE: Now somehow different. Not a ship's Captain with all those people to be strong and confident in front of. You know, you're really very dear, aren't you? In some ways, very lonely. 
 (But just as their lips are about to meet, Kirk spots a body among the rocks and goes to investigate) 
+
+
 KIRK: It's Tom Leighton. He's dead. 
 [Leighton's home]
 (Tom's body is laid out on the couch, and Martha covers it) 
+
+
 MARTHA: At least he has peace now. He never really had that before. Oh, why was Tom killed if what he suspected wasn't true? 
 KIRK: I don't know. I'll try and find out. 
 MARTHA: Oh, Jim. How I'll miss him. (bursts into tears and leaves) 
@@ -131,6 +147,8 @@ LENORE: If ever we needed a Good Samaritan.
 KIRK: Well. 
 LENORE: I appeal to you. 
 (Spock's eyebrow hits the ceiling) 
+
+
 KIRK: The regulations are very clear about taking on passengers. 
 LENORE: I'll make a bargain with you, Captain. 
 KIRK: What have you got to trade? 
@@ -141,6 +159,8 @@ KIRK: You've got me backed into a corner. The men would never forgive me if I de
 LENORE: Thank you, Captain. I'm eternally grateful. I'll get the company ready. This means so much to them. 
 KIRK: Mister Spock, prepare to leave orbit as soon as the Karidian company is aboard the ship. 
 (Lenore and her escort enter the turbolift) 
+
+
 SPOCK: May I inquire as to our course, Captain? 
 KIRK: Benecia Colony. 
 SPOCK: Benecia Colony is eight light years off our course. 
@@ -150,6 +170,8 @@ Captain's log, stardate 2818.9. There are many questions in my mind, too many, p
 KIRK: Mister Spock, ETA the Benecia Colony. 
 SPOCK: We'll arrive stardate 2825.3, Captain, approximately fifteen hundred Benecia time. 
 (Kirk goes over to Spock's station and throws a few switches) 
+
+
 COMPUTER: Library computer. 
 KIRK: Data on question submitted to personnel files. 
 COMPUTER: Data being received. Kodos file of all survivors. There are nine actual eye witnesses who can identify Kodos. 
@@ -180,6 +202,8 @@ SPOCK: No, thank you.
 MCCOY: You're welcome. But I will. And please, Mister Spock, if you won't join me, don't disapprove of me. At least not until you've tried it, huh? 
 [Observation deck]
 (Lenore is getting a personal tour of the ship) 
+
+
 KIRK: This is the observation deck. That's the flight deck down there with the shuttle craft. 
 LENORE: Interesting. 
 KIRK: Isn't it? 
@@ -205,6 +229,8 @@ LENORE: All this and power too. The Caesar of the stars and the Cleopatra to wor
 (Finally, a passionate embrace) 
 [Bridge]
 (Spock is on duty, and thinking) 
+
+
 COMPUTER: Library computer. 
 SPOCK: Full personal dossiers on the following names. Doctor Thomas Leighton, Anton Karidian, Lieutenant Kevin Riley, and Captain James T. Kirk. 
 COMPUTER: Accomplished. Standing by. 
@@ -224,6 +250,8 @@ SPOCK: He'd better. There were nine eye witnesses who survived the massacre, who
 MCCOY: It's unbelievable. 
 [Engineering]
 (There's just one officer on duty, and he hasn't touched the meal lying on a plate nearby) 
+
+
 RILEY: Hey. Rec room. Somebody. 
 [Rec room]
 RILEY [OC]: Talk to me. 
@@ -256,6 +284,8 @@ Forever is just another journey
 {Engineering]
 UHURA [OC]: Tomorrow a stop along the way 
 (Something gets squirted into Riley's milk) 
+
+
 UHURA [OC]: Then let the years go fading 
 [Rec room]
 UHURA: Where my heart is 
@@ -270,6 +300,8 @@ Beyond Antares.
 UHURA: How'd you like that, Riley? 
 [Engineering]
 (But Riley is sweating and choking) 
+
+
 RILEY: Help me, please. 
 (He collapses) 
 [Sickbay]
@@ -314,6 +346,8 @@ KIRK: You sound certain. I wish I could be. Before I accuse a man of that, I've 
 MCCOY: What if you decide he is Kodos? What then? Do you play God, carry his head through the corridors in triumph? That won't bring back the dead, Jim. 
 KIRK: No, but they may rest easier. 
 (A scene break, during which McCoy apparently leaves) 
+
+
 SPOCK: Logic, Captain. Doctor Leighton was murdered while the Karidian Company was on Planet Q. Now an attempt has been made against Riley while the company is on board the Enterprise. 
 KIRK: Doc isn't sure it was a murder attempt. Besides, I have an idea may prove 
 SPOCK: Shh. Listen. Do you hear it? That low hum. 
@@ -357,6 +391,8 @@ KARIDIAN: Blood thins. The body fails. One is finally grateful for a failing mem
 KIRK: If I had gotten everything I wanted, you might not walk out of this room alive. 
 LENORE: Captain Kirk. 
 (She enters from the next room) 
+
+
 LENORE: (to Karidian) You'd better rest now. There's a stain of cruelty on your shining armour, Captain. You could have spared him, and me. You talked of using tools. I was a tool, wasn't l? A tool to use against my father. 
 KIRK: In the beginning perhaps. But later, I wanted it to be more than that. 
 LENORE: Later. Everything's always later. Later. Latest. Too late. Too late, Captain. You are like your ship, powerful, and not human. There is no mercy in you. 
@@ -364,6 +400,8 @@ KIRK: If he is Kodos, then I've shown him more mercy than he deserves. And if he
 KIRK: Who do I have to be? 
 [Sickbay]
 (Kevin is pacing up and down in the background, overhearing what is being dictated) 
+
+
 MCCOY: Medical log. Lieutenant Riley's sufficiently recovered to be discharged, but the Captain's ordered him restricted to Sickbay to prevent contact with the passenger who calls himself Karidian and who's suspected of being Kodos the Executioner and of murdering the Lieutenant's family. 
 Captain's log, stardate 2819.8. Suspect under surveillance. Strategic areas under double guard. Performance of the Karidian Players taking place as scheduled. 
 [Ship's Theatre]
@@ -371,11 +409,15 @@ Captain's log, stardate 2819.8. Suspect under surveillance. Strategic areas unde
 LENORE: (on stage) Tonight, the Karidian Players present Hamlet, another in a series of living plays presented in space, dedicated to the tradition of classic theatre. Hamlet is a violent play about violent times when life was cheap and ambition was God. 
 [Kirk's quarters]
 (Two pieces of paper are lined up on his desk) 
+
+
 SPOCK: I believe we have a match, Captain. 
 KIRK: But not an exact match, Mister Spock. We're dealing with a man's life. No machine can make that decision. 
 [Sickbay]
 MCCOY: In the long history of medicine, no doctor has ever caught the first few minutes of a play. Riley, don't forget to 
 (but he's not there) 
+
+
 MCCOY: Riley? Captain Kirk, McCoy here. 
 KIRK [OC]: Yes, Doctor. 
 MCCOY: Riley's gone. I was recording my log about Karidian and Kodos. If he overheard 
@@ -385,14 +427,20 @@ SECURITY [OC]: Captain? Security, H deck, The weapons locker has been broken int
 KIRK: This is the Captain. Security two alert. Find and restrain Lieutenant Kevin Riley. He's armed and possibly headed towards the ship's theatre. 
 [Ship's Theatre]
 (The Ghost summons Hamlet) 
+
+
 HAMLET: Whither wilt thou lead me? Speak, I'll go no further. 
 KARIDIAN Mark me. 
 HAMLET: I will. 
 (Kirk comes creeping around backstage) 
+
+
 KARIDIAN: My hour is almost come, when I to sulphurous and tormenting fires must render up myself. 
 HAMLET: Speak. I am bound to hear. 
 KARIDIAN: So art thou to revenge, when thou shalt hear. I am thy father's spirit, doomed for a certain term to walk the night, 
 (Kirk spots Kevin with the phaser) 
+
+
 KIRK: Riley, get back to the Sickbay. 
 RILEY: He murdered my father, and my mother. 
 KIRK: You could be wrong. Don't throw away your life on a mistake. 
@@ -402,8 +450,12 @@ RILEY: I know that voice, that face, I know it. I saw it. He murdered them.
 KARIDIAN: Thy soul, freeze thy young blood. 
 KIRK: It's an order. Give me the weapon. 
 (Takes it from Riley) 
+
+
 KIRK: Now get back to Sickbay. Go on. 
 (Riley leaves, and there is polite applause at the end of the scene on stage. Karidian comes backstage.) 
+
+
 LENORE: It's going beautifully. What is it? What's wrong? 
 KARIDIAN: There was a voice out of the past haunting me, torturing me. There was another part I once played long ago. I never told you about it. Now that same curtain rises again. The time has come. 
 LENORE: No, Father. The time will never come. Tonight, after my performance, the last two who can harm you will be gone. 
@@ -428,10 +480,14 @@ KIRK: By killing seven innocent men.
 LENORE: They weren't innocent! They were dangerous! I would have killed a world to save him! 
 STAGEHAND [OC]: Curtain going up, one minute.
 (Kirk takes Karidian's arm) 
+
+
 LENORE: The play, Captain. He must go on. This is the great Karidian.
 KIRK: Guard.
 LENORE: You cannot deny him his last performance! 
 (She grabs the security guard's phaser and runs out onto the stage) 
+
+
 KARIDIAN: Lenore, don't!
 KIRK: You'll never get off the ship.
 LENORE: It will become a floating tomb, drifting through space with the soul of the great Karidian giving performances at every star he touches. (Kirk moves towards her) I know how to use this, Captain.
@@ -439,6 +495,8 @@ KARIDIAN: No.
 LENORE: Caesar, beware the ides of March.
 KARIDIAN: No, child! Don't! 
 (As she squeezes the trigger, her father steps in front of Kirk, and takes the shot himself. Lenore screams at what she has done. and Kirk takes the phaser from her as she kneels over Karidian's body) 
+
+
 LENORE: Father. Father! O, proud, death! What feast is toward in thine eternal cell, that thou, such a prince at a shot so bloodily hast struck? The curtain, the curtain rises. It rises. There's no time to sleep. The play. The play. The play's the thing, wherein we'll catch the conscience of the king. 
 [Bridge]
 MCCOY: Medical report. (hands it over) She'll receive the best of care, Jim. She remembers nothing. She even thinks her father's still alive giving performances before cheering crowds. You really cared for her, didn't you? 

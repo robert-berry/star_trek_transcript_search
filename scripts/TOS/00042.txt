@@ -33,6 +33,8 @@ Captain's Log, stardate 4523.3. Deep Space Station K7 has issued a priority one 
 ]Bridge]
 CHEKOV: Main phasers armed and ready, sir. 
 (The space station is on the main viewer, looking intact.) 
+
+
 CHEKOV: But there's nothing there. Just the station. 
 KIRK: Priority One distress call, and it's just absolutely peaceful. Lieutenant Uhura, break subspace silence. 
 UHURA: Aye, sir. The channel's open, sir. 
@@ -44,6 +46,8 @@ KIRK: You'll try to explain. You'd better be prepared to do more than that. Kirk
 UHURA: Aye, sir. Transporter room, stand by. 
 [Lurry's office]
 (Kirk and Spock arrive in the two man transporter alcove) 
+
+
 KIRK: Mister Lurry, if there's no emergency, why did you issue a priority one distress call? 
 BARIS: That was my order, Captain. 
 LURRY: Captain Kirk, this is Nilz Baris. He's out from Earth to take charge of the development project on Sherman's Planet. 
@@ -85,6 +89,8 @@ KIRK: Summoning a starship on a priority A-1 channel to guard some storage compa
 SPOCK: Nevertheless Captain, the Klingons would not enjoy seeing us successfully develop Sherman's Planet. 
 KIRK: I guess not. 
 (downs his drink in one and heads for the door, where they meet Chekov and Uhura coming in.) 
+
+
 KIRK: I see you didn't waste time taking your shore leave. 
 UHURA: (coldly) How often do I get shore leave? 
 CHEKOV: She wants to shop, and I thought I would help her. 
@@ -95,14 +101,20 @@ KIRK: Does everybody know about this wheat but me?
 CHEKOV: Not everyone, Captain. It's a Russian invention. 
 KIRK: Ah. 
 (Kirk and Spock leave.) 
+
+
 BARMAN: I don't want any. I told you before, and I'm telling you again I don't want any more Spican flame gems. Thanks to you, I have enough Spican flame gems to last me a lifetime. 
 JONES: How sad for you, my friend. You won't find a finer stone anywhere. But I have something better. Surely you want some Antarian glow water. 
 BARMAN: I use that to polish the flame gems. 
 JONES: You're a difficult man to reach, but I have something from the far reaches of the galaxy. Surely you want 
 (from yet another pocket, the trader pulls a what looks like a ball of fluff.) 
+
+
 BARMAN: Not at your price. 
 UHURA: What is it? Is it alive? May I hold it? 
 (Jones puts it in her hand and it starts purring) 
+
+
 UHURA: Oh, it's adorable. What is it? 
 JONES: What is it? Why, lovely lady, it's a tribble. 
 UHURA: A tribble? 
@@ -133,6 +145,8 @@ BARMAN: Well, let me see, little lady. Six credits. Figure a reasonable mark-up 
 JONES: Thief. 
 BARMAN: In fact, I'll sell you this one. 
 (the tribble is eating grain spilt from the packet Kirk gave Chekov) 
+
+
 CHEKOV: Hey! He's eating my grain. 
 BARMAN: That'll be ten credits. 
 JONES: That happens to be my sample, and I'll do with it as I please. And I please to give it to the lovely lady. 
@@ -168,6 +182,8 @@ UHURA: Security, cancel Red Alert.
 Captain's log, stardate 4524.2. A Klingon warship is hovering only a hundred kilometres from Deep Space Station K7 while its captain waits in the station manager's office. Their intentions are unknown. 
 [Lurry's office]
 (False smiles all round as Kirk and Spock are greeted by a Klingon who very closely resembles the Squire of Gothos...) 
+
+
 KOLOTH: Ah, my dear Captain Kirk. 
 KIRK: My dear Captain Koloth. 
 KOLOTH: Let me assure you that my intentions are peaceful. As I've already told Mister Lurry, the purpose of my presence is to invoke shore leave rights. 
@@ -183,11 +199,15 @@ KIRK: Let us both take steps to keep it that way.
 KOLOTH: Of course. 
 [Rec room]
 (Scott is at a monitor, reading, when Spock and Kirk enter.) 
+
+
 KIRK: Another technical journal, Scotty? 
 SCOTT: Aye. 
 KIRK: Don't you ever relax? 
 SCOTT: I am relaxing. 
 (There is a crowd at a long table, and there are purring sounds.) 
+
+
 MCCOY: How long have you had that thing, Lieutenant? 
 UHURA: Since yesterday, Doctor. This morning, I found out that he, I mean she, had had babies. 
 MCCOY: Well, in that case, you got a bargain. 
@@ -197,6 +217,8 @@ KIRK: Did you get this at the space station?
 UHURA: Yes, sir. 
 SPOCK: (stroking a tribble) A most curious creature, Captain. Its trilling seems to have a tranquillising effect on the human nervous system. Fortunately, of course, I am immune to its effect. 
 (Everyone stares, he suddenly realises what he is doing, and puts it down. Spock and Kirk leave.) 
+
+
 MCCOY: Lieutenant, do you mind if I take one of these down to the lab to see what makes it tick? 
 UHURA: Well, all right, Doctor, but if you're going to dissect it, I don't want to know about it. 
 MCCOY: I won't harm a hair on its head, wherever that is. 
@@ -221,6 +243,8 @@ SPOCK: Captain, may I ask where you'll be?
 KIRK: Sickbay with a headache. 
 [Sickbay]
 (There are eleven fluffy tribbles of various sizes and colour in a large container.) 
+
+
 MCCOY: Hi, Jim. 
 KIRK: Bones, what have you got for a headache? 
 MCCOY: Let me guess. Klingons? Baris? 
@@ -243,12 +267,18 @@ SCOTT: But, Captain. Aye, sir.
 KIRK: Scotty, enjoy yourself. 
 [K7 Bar]
 (Business is good. Scott, Chekov and Freeman take the last vacant table. Two security men leave and Jones enters, whistling.) 
+
+
 JONES: Ah, friend. Can I offer you a charming little tribble? 
 SCOTT: Uh, no, thanks. 
 JONES: Oh. Perhaps one of you other gents? 
 (No reply) 
+
+
 JONES: Ah, friend Klingon. Can I interest you in a harmless tribble? 
 (The tribble screeches.) 
+
+
 KORAX: Get it away from me. 
 JONES: I'm sorry. I can't understand it. I've never seen them act this way before. 
 KORAX: Get out of here with that parasite. 
@@ -259,6 +289,8 @@ BARMAN: A tribble.
 JONES: Indeed. 
 BARMAN: (starts producing tribbles from all over the place and putting them on the bar) A tribble? 
 (The pretty lady in yellow brings our group their drinks.) 
+
+
 SCOTT: When are you going to get off that milk diet, lad? 
 CHEKOV: This is vodka. 
 SCOTT: Where I come from, that's soda pop. This is a drink for a man. 
@@ -266,6 +298,8 @@ CHEKOV: Scotch?
 SCOTT: Aye. 
 CHEKOV: It was invented by a little old lady from Leningrad. 
 (Korax goes over to the bar and shares his drink with Jones.) 
+
+
 KORAX: The Earthers like those fuzzy things, don't they? 
 JONES: Oh, yes. 
 KLINGON: Frankly, I never liked Earthers. They remind me of Regulan blood worms. 
@@ -273,12 +307,16 @@ CHEKOV: That Cossack.
 SCOTT: Easy, lad. You ought to be more forgiving. 
 KORAX: No. I just remembered. There is one Earthman who doesn't remind me of a Regulan blood worm. That's Kirk. A Regulan blood worm is soft and shapeless, but Kirk isn't soft. Kirk may be a swaggering, overbearing, tin-plated dictator with delusions of godhood, but he's not soft. 
 (Chekov leaps to his feet) 
+
+
 SCOTT: Take it easy, lad. Everybody's entitled to an opinion. 
 KORAX: That's right, and if I think that Kirk is a Denebian slime devil, well that's my opinion too. 
 SCOTT: Don't do it, mister, and that's an order. 
 CHEKOV: You heard what he called the captain. 
 SCOTT: Forget it. It's not worth fighting for. We're big enough to take a few insults. Now, drink your drink. 
 (swaps Chekov's vodka for Freeman's red wine.) 
+
+
 KORAX: Of course, I'd say that Captain Kirk deserves his ship. We like the Enterprise. We, we really do. That sagging old rust bucket is designed like a garbage scow. Half the quadrant knows it. That's why they're learning to speak Klingonese. 
 CHEKOV: Mister Scott! 
 SCOTT: Laddie, don't you think you should rephrase that? 
@@ -287,6 +325,8 @@ KORAX: You're right, I should. I didn't mean to say that the Enterprise should b
 Captain's Log, stardate 4525.6. A small disturbance between the Klingon crew and members of the Enterprise crew has broken out aboard Space Station K7. I am forced to cancel shore leave for both ships. 
 [Briefing room]
 (Ten men are lined up. Chekov has a nice bruise on his cheek.) 
+
+
 KIRK: I want to know who started it. I'm waiting. Freeman, who started the fight? 
 FREEMAN: I don't know, sir. 
 KIRK: All right. Chekov. I know you. You started it, didn't you? 
@@ -331,6 +371,8 @@ KIRK: All right, Scotty. Dismissed. Scotty, you're restricted to quarters until 
 SCOTT: (big grin) Yes, sir. Thank you, sir. That'll give me a chance to catch up on my technical journals. 
 [Sickbay]
 (There are a lot more than eleven tribbles now.) 
+
+
 MCCOY: What's the matter, Spock? 
 SPOCK: There's something disquieting about these creatures. 
 MCCOY: Don't tell me you've got a feeling. 
@@ -349,9 +391,13 @@ MCCOY: What's that?
 SPOCK: They do not talk too much. If you'll excuse me, sir. 
 [Bridge]
 (Kirk walks to his chair, preoccupied by his last conversation. When he sits, there is a squeak. He has sat on a large tribble. Then he notices that there are fluffy balls everywhere.) 
+
+
 KIRK: Doctor McCoy, would you mind coming up to the bridge? (he takes a walk around then) Lieutenant Uhura, how did all these tribbles get on the bridge? 
 UHURA: I don't know, sir. They do seem to be all over the ship. 
 (McCoy enters, stroking a tribble.) 
+
+
 KIRK: Doctor McCoy. 
 MCCOY: Yes? Did you want to see me, Jim? Don't look at me. It's the tribbles who are breeding. If we don't get them off this ship, we're going to be hip deep in them. 
 KIRK: Explain that. 
@@ -380,6 +426,8 @@ JONES: Precisely, and at six credits a head, well, that is, a body, it mounts up
 KIRK: You should sell an instruction and maintenance manual for this thing. 
 JONES: If I did, what would happen to man's search for knowledge? Well, I must be tending my ship. Au revoir. 
 (He meets Baris and Darvin at the door.) 
+
+
 DARVIN: Go ahead, sir. Tell him. 
 BARIS: Captain Kirk, I consider your security measures a disgrace. In my opinion, you have taken this important project far too lightly. 
 KIRK: On the contrary, sir. I think of this project as very important. It is you I take lightly. 
@@ -402,10 +450,14 @@ DARVIN: You can't deny he's disrupted this station.
 KIRK: People have disrupted stations before without being Klingon agents. Sometimes, all they need is a title, Mister Baris. Unfortunately, disrupting a space station is not an offence. Now, if you'll excuse me, I have a ship to tend to. Au revoir. 
 [Rec room]
 (There are tribbles on the walls, the floor, the tables, even as chess pieces. Kirk gets a tray from the food dispenser. It has tribbles on it.) 
+
+
 KIRK: My chicken sandwich and coffee. This is my chicken sandwich and coffee. 
 SPOCK: Fascinating. 
 KIRK: I want these off the ship. I don't care if it takes every man we've got, I want them off the ship. 
 (Scott enters, carrying an armful of fluff.) 
+
+
 SCOTT: They're into the machinery, all right, and they're probably in all the other food processors too. 
 KIRK: How? 
 SCOTT: Probably through one of the air vents. 
@@ -413,6 +465,8 @@ SPOCK: Captain, there are vents of that type on the space station.
 KIRK: And in the storage compartments. (goes to a table monitor) This is Kirk. Contact Manager Lurry and Nilz Baris. Have them meet us near the storage compartments. We're beaming down. Come on, Spock. 
 [Transporter room]
 (The tribbles are all over the pads too. Kirk picks one up but there's nowhere else to put it.) 
+
+
 KIRK: Energise. 
 [Lurry's office]
 LURRY: What's wrong? 
@@ -424,6 +478,8 @@ KIRK: Good. Open it.
 GUARD: It's not working, sir. It seems to be stuck. 
 KIRK: Here. Let me try it. 
 (But he can't open it either, so he tried one of the overhead doors instead. That does open, and a whole load of tribbles fall out, burying the gallant Captain up to his shoulders. Spock examines one.) 
+
+
 SPOCK: They seem to be gorged. 
 BARIS: Gorged? On my grain? Kirk, I am going to hold you responsible. There must be thousands of them. 
 KIRK: Hundreds of thousands. 
@@ -445,6 +501,8 @@ BARIS: That isn't going to do you any good, Kirk. This project is ruined, and St
 KIRK: Until that inquiry, I'm still the captain. And as Captain, I want two things done. First, find Cyrano Jones, and second (as another tribble hits him on the head) close that door. 
 [Lurry's office]
 (A security guard is picking up tribbles.) 
+
+
 JONES: Really, Captain Kirk, I must protest this treatment. 
 KIRK: Ah, Mister Jones, with an armful. A few questions. 
 KOLOTH: Captain Kirk! 
@@ -460,12 +518,16 @@ KOLOTH: Captain Kirk, before you go on, may I make a request?
 KIRK: Yes. 
 KOLOTH: Can you get those things out of here? 
 (The guards take Jones' tribbles from him. They get to the door as Darvin enters, and the tribbles shriek.) 
+
+
 SPOCK: Remarkable. 
 KIRK: Hold on a minute. I thought you said tribbles liked everybody. 
 JONES: They do. I can't understand it. The last time I saw one act this way was at the bar. 
 KIRK: What was in the bar? 
 JONES: Klingons. Him, for one. (points at Korax) 
 (Kirk takes two tribbles from the guards and brings them near Korax. They shriek.) 
+
+
 KIRK: You're right, Mister Jones. They don't like Klingons. (McCoy enters) But they do like Vulcans. I didn't know you had it in you. 
 SPOCK: Obviously tribbles are very perceptive creatures, Captain. 
 KIRK: Obviously. Mister Baris, they like you. Well, there's no accounting for taste. (and back to Darvin) They don't like you, Mister Darvin. I wonder why. Bones? 
@@ -483,13 +545,19 @@ KIRK: And the tribbles had nothing to do with it?
 DARVIN: I don't know. I never saw one before in my life, and I hope I never see one of those fuzzy miserable things again. 
 BARIS: I'm certain that can be arranged, Darvin. Guards? If you'll excuse me, Captain. 
 (Baris leaves with the security guards and Darvin.) 
+
+
 KIRK: Captain Koloth. About that apology. 
 KOLOTH: Yes? 
 KIRK: You have six hours to get your ship out of Federation territory. 
 (The tribbles shriek, Koloth makes a hasty bow and practically runs out of the room with Korax.)
+
+
 KIRK: You know, I think I could learn to like tribbles. 
 [K7 Bar]
 (The face of an unhappy barman peers out from a pile of tribbles.) 
+
+
 JONES: Well, Captain, I suppose I'm free to go now. 
 KIRK: No, you're not. There's something I want to show you. You know what the penalty is for transporting an animal proven harmful to human life? 
 JONES: Captain, one little tribble isn't harmful. Captain, you wouldn't do a thing like that to me, now would you? Would you? 

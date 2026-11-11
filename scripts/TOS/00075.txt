@@ -5,6 +5,8 @@ Stardate: 5832.3
 Original Airdate: 21 Feb, 1969
 [Bridge]
 (A small craft, which looks like a Tholian dart with small nacelles, is being pursued by the Enterprise) 
+
+
 SPOCK: It is definitely the stolen space cruiser, Captain, the Aurora. I read six aboard. 
 KIRK: Hailing frequencies. Aurora, this is the USS Enterprise, Captain James T. Kirk commanding. Acknowledge. Aurora, this is the Enterprise. Do you read me? 
 PALMER: They are receiving us, Captain. 
@@ -29,10 +31,14 @@ SCOTT: Aye, Captain.
 [Bridge]
 SPOCK: Power beyond critical. Explosion is imminent. 
 (The little ship glows red) 
+
+
 KIRK: Are we within transportation range? 
 CHEKOV: Not yet, sir. 
 KIRK: Aurora personnel, stand by to be transported aboard. Energise. 
 (The little ship makes a big bang) 
+
+
 KIRK: Are they aboard? Scotty, are they aboard? 
 [Transporter room]
 SCOTT: Aye, Captain. They are, and a nice lot too. 
@@ -43,6 +49,8 @@ KIRK: Scotty, take them to the briefing room.
 IRINA [OC]: We are not in the mood, Herbert. 
 CHEKOV: Irina? 
 (The hippies are seated on the floor of the transporter room) 
+
+
 MAN [OC]: Tell Herbert it's no go. 
 ALL [OC]: No go. No go. 
 KIRK: What's going on? 
@@ -57,16 +65,22 @@ ALL [OC]: No go, no go, no go.
 ALL: No go, no go, no go. 
 KIRK: Which one of you is Tongo Rad? 
 (A purple haired lad with shaggy eyebrows stands up) 
+
+
 KIRK: You can thank your father's influence for the fact you're not under arrest. In addition to piracy, you've left yourself open to charges of violating flight regulations, entering hostile space and endangering the lives of others as well as your own. 
 RAD: I'm bleeding. 
 KIRK: In addition you've caused an interstellar incident which may have destroyed everything that's been negotiated between your planet and the Federation. 
 RAD: You've got a hard lip, Herbert. 
 KIRK: If you have an explanation, I am prepared to hear it. 
 (Rad sits down again) 
+
+
 KIRK: Mister Spock, take them to Sickbay for a medical check. There may have been radiation from the explosion. 
 SPOCK: Captain, with your permission 
 KIRK: By all means. 
 (Spock steps forward and makes a triangular sign with his hands) 
+
+
 SPOCK: One. 
 SEVRIN: (An older male with alien ears. Obviously the leader) We are One. 
 SPOCK: One is the beginning. 
@@ -105,9 +119,13 @@ CHEKOV: Yes, sir. She dropped out. She
 KIRK: Do you wish to see her? Permission to leave your post. 
 CHEKOV: Thank you, sir. 
 (Spock enters) 
+
+
 KIRK: Are they in the Sickbay? 
 SPOCK: Yes, Captain. 
 (Chekov leaves) 
+
+
 KIRK: Mister Spock, do they really believe that Eden exists? 
 SPOCK: Many myths are based on truth, Captain, and they are not unintelligent. Their leader, Doctor Sevrin, is a man 
 KIRK: Doctor Sevrin is their leader? 
@@ -123,13 +141,19 @@ SPOCK: It is somewhat uncomplimentary, Captain. Herbert was a minor official not
 KIRK: Well, I shall try to be less rigid in my thinking. 
 [Sickbay]
 (The teenagers are having an impromptu concert) 
+
+
 ADAM: (playing a guitar without a sound box) Looking for the good land, Going astray. Don't cry, don't cry. Oh, I can't have honey, And I can't have cream. Gonna live, not die. Gonna live, not die. (Rad plays bongos) Stand in the middle of it all one day. I'll look at it shining all around me and say, I'm here, I�m here, In the good land. In the new land. I'm here. 
 CHEKOV: Excuse me. Is Irina Galliulin with you? 
 ADAM: She's getting her physical. Gonna crack my knuckles and jump for joy. I got a clean bill of health from Doctor McCoy. You know Irina? 
 RAD: Say, tell me, why do you wear all those clothes? How do you breathe? 
 (Chapel and two med-techs enter) 
+
+
 CHAPEL: (to Sevrin) You're next. 
 (The techs carry Sevrin into the next room. Chapel leaves and Irina enters) 
+
+
 CHEKOV: Irina. 
 IRINA: Pavel Andreievich. I had thought we might encounter each other. 
 CHEKOV: You knew I was on the Enterprise? 
@@ -184,11 +208,15 @@ MCCOY: Then why did you fight the examination?
 SEVRIN: It was an infringement on my rights. 
 KIRK: Put him in isolation. 
 (The two med-techs haul Sevrin away) 
+
+
 MCCOY: Be ready for the objections, Jim. They are a vocal lot. 
 KIRK: Yes, I'm ready. Kirk to Security. I want a guard maintained on Doctor Sevrin until further notice. Bones, how long before we know whether the crew has been endangered by this infection? 
 MCCOY: It'll show in twenty four hours. It's a virulent strain. 
 [Corridor]
 (Sulu is being chatted up by a brunette) 
+
+
 WOMAN: You don't belong with them! You know what we want. You want it too. Come, join us. 
 SULU: How do you know what I want? 
 WOMAN: You're young. Think young, brother! 
@@ -237,8 +265,12 @@ ADAM: Am I crossing you?
 SPOCK: No. 
 ADAM: I was just thinking, I (sees the lyre) Hey, brother, do you play? Is it Vulcan? Can I try it? 
 (Spock gestures his permission and the young man strums a chord) 
+
+
 ADAM: Oh ho, that's now. That's real now. I reach that, brother. I really do. Give. 
 (He hands the lyre to Spock who plays it briefly) 
+
+
 ADAM: Hey, how about a session, you and us? It would sound. That's what I came for. I wanted to ask, you know, great white captain upstairs, but he don't reach us. But would he shake on a session? I mean, we want to co-operate, like you ask, so I'm asking. 
 SPOCK: If I understand you correctly, I believe the answer might be yes. 
 ADAM: I'll spread the word. 
@@ -267,6 +299,8 @@ IRINA: I could never obey a computer.
 CHEKOV: You could never listen to anyone. You always had to be different. 
 IRINA: Not different. What I wanted to be. There is nothing wrong in doing what you want. 
 (Chekov gives in, and kisses her) 
+
+
 SPOCK [OC]: I am not receiving, Mister Chekov. Spock to Chekov. Repeat, I am not receiving. 
 CHEKOV: I am sorry, Mister Spock. I was momentarily delayed. 
 [Guest quarters]
@@ -282,11 +316,15 @@ RAD: Can you suggest any special ways to swing them?
 ADAM: Just be friendly. You know how to be friendly. Then they'll be friendly. 
 [Rec room]
 (Sounds are being laid down in a session and piped through the ship) 
+
+
 ADAM: (singing) I�m talkin ''bout you, I�m talkin ''bout me. Long time back when the galaxy was new. Man found out what he had to do. Found he had to eat and he found he had to drink. And a long time later he found he had to think. Uh huh. Yes, think. I'm standing here wondering. 
 ALL: What? 
 ADAM: If a man tells another man out of my way. He piles up trouble for himself all day. But all kinds of trouble come to an end. When a man tells another man be my friend, uh huh. My friend. Well, what's it going to be? 
 GIRL: (singing) There's a mile wide emptiness between you and me. 
 (Spock arrives with his lyre) 
+
+
 ADAM: Can't reach across it, hardly even see. 
 GIRL: Someone ought to take a step one way or other. 
 ADAM: (with chorus) Let's say goodbye, or let's say brother. Brother. Brother. Hey, out there. Hey, out there. Hey, out there. Hey, out there. I see you. I see you. I see you. I see you. Let's get together and have some fun. I don't know how to do it but it's got to be done. 
@@ -294,9 +332,13 @@ ADAM: (with chorus) Let's say goodbye, or let's say brother. Brother. Brother. H
 (In the Brig, Rad climbs up a ladder and uses pressure points to knock out the guard. Then he releases Sevrin from his cell) 
 [Bridge]
 (Many of the crew are moving to the beat) 
+
+
 SCOTT: At least we know where they are and what they're doing. I don't know why a young mind has to be an undisciplined one. They're troublemakers. 
 KIRK: I used to get into a little trouble when I was that age, Scotty. Didn't you? 
 (Rad takes out the man on duty in Auxiliary control, then he and Sevrin sit down and start changing things) 
+
+
 SULU: Captain, I get no response from controls. We're going off course. 
 SCOTT: It's shorted. No, it's channeled over somewhere. To auxiliary control. 
 KIRK: Bridge to auxiliary control. Bridge to auxiliary control. 
@@ -304,6 +346,8 @@ SULU: Captain, it seems as though someone else is running the ship.
 SEVRIN [OC]: That's right, someone else is running this ship. 
 [Auxiliary control]
 (All his followers are there now) 
+
+
 SEVRIN: I am. All functions, life support as well. You cannot interfere, as I have frozen the doors to the control room. 
 [Bridge]
 SEVRIN [OC]: I do not intend to hand over the helm to you until and unless we reach Eden. 
@@ -363,6 +407,8 @@ SEVRIN: They'll try to persuade us to change course presently and then they'll a
 RAD: How do you plan to stop them? By cutting off their life support? 
 SEVRIN: I have another weapon. Take control, Brother Rad. 
 (Sevrin takes the cover off a wall access point) 
+
+
 ADAM: What are you doing? 
 SEVRIN: Making an adjustment on their circuits. 
 ADAM: (singing) Headin' out to Eden. Yea, brother. Headin' out to Eden. No more trouble in my body or my mind. Gonna live like a king on whatever I find, Eat all the fruit and throw away the rind. Yea, brother. Yea. 
@@ -382,9 +428,13 @@ SEVRIN: We cannot allow them to come after us. It will not reach us in here. I c
 (A flame appears in the wall behind them) 
 [Corridor]
 (Scott is trying to cut into the room with a phaser. Sevrin turns on his sonic weapon and Spock is instantly stricken with pain) 
+
+
 KIRK: Spock! It's all right, Spock. It stopped. 
 SPOCK: No, Captain, it hasn't stopped. It has gone beyond 
 (Now it affects Kirk. Scott is already unconscious) 
+
+
 SPOCK: Captain, they're using 
 (All over the ship, people fall to the floor) 
 [Auxiliary control]
@@ -392,11 +442,15 @@ ADAM: Steppin' into Eden. Yea, brother. Steppin' into Eden. Yea, brother. No mor
 SEVRIN: Now we may leave. 
 [Corridor]
 (Scott, Kirk and Spock are waking up) 
+
+
 SPOCK: (in pain) Captain, go. I. You must destroy the 
 KIRK: What is it? 
 SPOCK: Ultrasonics. The panel. 
 [Auxiliary control]
 (Kirk staggers into the room and turns off the sound) 
+
+
 KIRK: Kirk to Engineering. Bridge? Hangar deck? Kirk to Transporter Room. Kirk to Bridge. Do you read me? Come in. 
 SULU [OC]: Sulu here, Captain. What happened to us? I heard a whistle, and then 
 KIRK: Never mind. Do we have control of the ship? 
@@ -417,26 +471,38 @@ CHEKOV [OC]: Bridge to Captain Kirk. Do you wish to open communication, sir?
 KIRK: No. No, they tried to destroy us. Let them think they succeeded. I want the co-ordinates zeroed in so that when we beam down, we won't be visible to them. Scotty, you have the conn. If any Romulans appear, try to make them understand. I do not want to provoke combat. Mister Spock. Mister Chekov, join us in the transporter room. 
 [Planet surface]
 (Looking remarkable like Miramanee's planet, right down to the lake. Or maybe the Pleasure Planet?) 
+
+
 SPOCK: The legends were true, Captain. Fantastically beautiful planet. 
 CHEKOV: Eden. 
 KIRK: Is this what they believed they'd find? Then I can understand. Spread out. Approach with caution. (into communicator) Doctor Sevrin. 
 (Chekov screams) 
+
+
 KIRK: What is it? 
 CHEKOV: The flower, sir. I touched it. It's like fire. 
 (His palm is covered in blisters) 
+
+
 MCCOY: It's burned. All this plant life is full of acid. Even the grass, Jim. 
 KIRK: Will our clothing protect us? 
 MCCOY: It should for a while. 
 SPOCK: Captain. 
 (Our young minstrel is spread out on the ground, a half-eaten fruit beside him) 
+
+
 KIRK: Bones? 
 MCCOY: Poison. The fruit is deadly. 
 SPOCK: His name was Adam. 
 KIRK: There's the shuttlecraft. 
 [By the Galileo II]
 (The door opens. The hippies have blisters on their feet and can't walk. Kirk picks up Irina and carries her) 
+
+
 KIRK: Here, we'll help you. 
 (The youngsters come out, and finally Sevrin) 
+
+
 KIRK: Doctor Sevrin. Bones! 
 MCCOY: He should be beamed aboard, Jim. He needs more than I can do for him here. 
 SPOCK: Spock to Enterprise. 
@@ -448,11 +514,15 @@ SEVRIN: We're not leaving Eden, none of us.
 KIRK: Be sensible, Doctor. 
 SEVRIN: We're not leaving. 
 (Sevrin runs off on his blistered feet and climbs a fruit tree) 
+
+
 MCCOY: Come back here, you fool! 
 KIRK: Sevrin, don't! You'll kill yourself! 
 MCCOY: Don't bite into that! 
 KIRK: Stop! 
 (But man takes a bite of the forbidden fruit, and loses Eden forever) 
+
+
 IRINA: It was so beautiful. 
 [Bridge]
 PALMER: I have Starbase now, Captain. 
@@ -465,6 +535,8 @@ CHEKOV: Captain, I wish first to apologise for my conduct during this time. I di
 KIRK: Thank you, Mister Chekov. You did what you had to do. As did we all. Even your friends. You may go. 
 CHEKOV: Thank you, sir. 
 (Irina enters) 
+
+
 CHEKOV: I was coming to say goodbye. 
 IRINA: And I was coming to say goodbye to you. (a kiss) Be incorrect, occasionally. 
 CHEKOV: And you be correct. 
@@ -472,5 +544,7 @@ IRINA: Occasionally.
 SPOCK: Miss Galliulin. It is my sincere wish that you do not give up your search for Eden. I have no doubt but that you will find it, or make it yourselves. 
 IRINA: Thank you. 
 (Irina leaves) 
+
+
 KIRK: We reach, Mister Spock. 
 

@@ -16,6 +16,8 @@ KIRK: Is it within visual range?
 SULU: Coming into range now, sir. It's following a very erratic course. 
 KIRK: Put it on the screen, extreme magnification. 
 (A wobbly shuttlecraft appears on the viewscreen.) 
+
+
 CHEKOV: I think that may be a Starfleet shuttlecraft. 
 SPOCK: That is exactly what it is, Mister Chekov. 
 SULU: It looks like the one reported stolen from Starbase Four two weeks ago. 
@@ -34,6 +36,8 @@ KIRK: Mister Spock, come with me. Scotty.
 (Scott takes the conn.) 
 [Hangar deck]
 (As we watch the shuttlecraft land, we think it might say USS Enterprise across it's nose.) 
+
+
 SULU [OC]: Hangar doors open and clearing for entrance of shuttlecraft. Shuttlecraft approaching hangar deck. 
 [Turbolift]
 SULU [OC]: Bridge to Captain Kirk. 
@@ -46,6 +50,8 @@ KIRK: (to security men) We'll enter as soon as the doors open. Go on my command.
 (The doors open, and a man falls to the floor. He is white on the right side, and black on the left. This is important.) 
 [Sickbay]
 (McCoy gives the patient an injection.) 
+
+
 SPOCK: You are certain, Doctor, that this pigmentation is the natural condition of this individual? 
 MCCOY: That's what I've recorded, Mister Spock. 
 KIRK: Do we have any knowledge of a planet that could have produced such a race of beings? 
@@ -88,6 +94,8 @@ LOKAI: I'm very tired.
 KIRK: And very evasive. Or at least not fully responsive. Now, then, 
 LOKAI: I insist, I'm extremely tired. Made so by your vindictive cross-examinations. I will answer no more questions. 
 (Kirk goes to a desk monitor.) 
+
+
 KIRK: Lieutenant Uhura. 
 UHURA [OC]: Lieutenant Uhura here. 
 KIRK: Notify Starbase Four that we've recovered its shuttlecraft, and it will be returned along with its user as soon as we've completed our mission at Ariannus. 
@@ -95,6 +103,8 @@ UHURA [OC]: Aye, sir.
 KIRK: Bones, if you're satisfied that the mutation theory is applicable, I'll make a note of it in my report. 
 MCCOY: Unless we get more information from him, it'll have to serve. 
 (Intercom whistle) 
+
+
 KIRK: Kirk here. 
 CHEKOV [OC]: Captain, contact with alien ship, sir. 
 KIRK: I'll be right there. Notify Mister Spock. 
@@ -125,6 +135,8 @@ SULU: It's out of control or a suicide mission.
 KIRK: Sound warning for collision. Red Alert. 
 SULU: Brace yourself for collision. Brace yourself. 
 (Nothing happens.) 
+
+
 KIRK: Read out, Mister Spock. 
 SPOCK: It just disintegrated. Fascinating. 
 KIRK: What is it now? 
@@ -132,6 +144,8 @@ SPOCK: It is gone now, Captain, but it seems to have deposited an alien presence
 KIRK: Where? 
 BELE: Right here, Captain. 
 (By the turbolift doors is a man, white on the left side, black on the right.) 
+
+
 KIRK: Explain, Spock. One of a kind? 
 BELE: I am Bele. 
 KIRK: Of the planet Cheron, no doubt. 
@@ -183,6 +197,8 @@ KIRK: Commissioner, as a visiting dignitary from a far planet, I offer you every
 BELE: You're the captain. 
 KIRK: Yes, I am. I think we can consider your problem settled. At least for the present. I have ordered guest quarters for you on deck six. 
 (Bele leaves with a security escort.) 
+
+
 KIRK: And I suggest you get a great deal of rest, especially your vocal chords. It seems you'll have a double opportunity to practise your oratory on Starbase Four. 
 CHEKOV [OC]: Chekov to Captain Kirk. Chekov to Captain Kirk. Urgent. 
 KIRK: Kirk here. 
@@ -220,14 +236,20 @@ KIRK [OC]: Repeat, the ship is off course and out of our control.
 (As the guard heads off to his battle station, Lokai dashes out of Sickbay.) 
 [Bridge]
 (Scott enters.) 
+
+
 KIRK: Our new heading, Mister Chekov? 
 CHEKOV: Four oh three mark seven. 
 KIRK: Spock? 
 SPOCK: Confirmed, Captain. Holding pattern. Co-ordinates now indicate we are charting course to (pause) Captain, Cheron lies between four oh three mark seven and mark nine. 
 (Bele enters) 
+
+
 BELE: We're on the way to Cheron. Captain, this ship is now under my direction. For fifty thousand of your terrestrial years, I have been pursuing Lokai through the galaxy. I have not travelled this far, this long, only to give him up. This ship goes where my will drives it. 
 SCOTT: Captain, we are now at warp ten and the speed is increasing! 
 (Lokai enters) 
+
+
 SPOCK: Captain, course is now clearly straight for Cheron, despite all efforts to direct us to Ariannus. 
 LOKAI: I will not return to Cheron. Captain, you must guarantee me sanctuary. 
 BELE: He cannot help you now. You are lost, Lokai. You're on the way to judgment, to final punishment. 
@@ -240,6 +262,8 @@ KIRK: You're two of a kind.
 BELE: And we are both going to Cheron. You cannot change the course of this ship any more than you can change me. This ship goes where I want it to go. 
 KIRK: Security, put them both in the brig. 
 (The security guards are held back by forcefields.) 
+
+
 KIRK: Phasers on stun. Fire. (no effect) 
 BELE: Your phasers are ineffective against our shields. You are helpless, Captain. 
 LOKAI: What a fool I am, expecting help from someone like you. 
@@ -293,10 +317,14 @@ KIRK: Good. Lieutenant Uhura, cancel Red Alert.
 UHURA: Aye, sir. 
 KIRK: Let me reaffirm my position, gentlemen. I could put you in the brig for what you have done, but I won't do it because you are new to this part of the galaxy, which is governed by the United Federation of Planets. We live in peace with full exercise of individual rights. The need to resort to violence and force has long since passed, and it will not be tolerated aboard this ship. You are free to move about the ship. I hope that you'll take the opportunity to know more about the Federation through its best representatives, my crew. But let me make it clear. I will stand for no interference with the function of this ship. All hands, return to normal routine. Captain out. 
 (Bele leaves, with an escort.) 
+
+
 LOKAI: You speak very well, Captain. Your words promise justice for all. 
 KIRK: We try, sir. 
 LOKAI: Yes, well, I have learned to wait for actions. After Ariannus, what is justice? I shall wait to see it dispensed. 
 (Lokai leaves) 
+
+
 SPOCK: Fascinating. Two irrevocably hostile humanoids. 
 SCOTT: Disgusting is what I call them. 
 SPOCK: That description is not scientifically accurate. 
@@ -304,6 +332,8 @@ SCOTT: Mister Spock, the word disgusting describes exactly what I feel about tho
 KIRK: That's enough for today. Those two are beginning to affect you. 
 [Rec room]
 (Crew are sitting at tables, not playing chess, while Lokai expounds his case. Spock and we are listening from outside.) 
+
+
 LOKAI: And I know from my actions you must all think me a volcanic hothead, erupting lava from my nostrils at danger signals that are only figments of my imagination. But believe me, my friends, there can be no moment when I can have my guard down where such as Bele is present. So what happens? I act the madman out of the anger and frustration he forces upon me, and thereby prove his point that I am a madman. 
 SULU: No one knows how he'll react under pressure, Lokai. 
 CHEKOV: After all, we are only human. 
@@ -322,6 +352,8 @@ SPOCK: We do not know that Lokai has done that.
 BELE: One thing we are agreed on is that Lokai is a criminal. 
 KIRK: No, Commissioner. The one thing we're agreed upon is that Lokai took a shuttlecraft. 
 (Intercom whistle) 
+
+
 KIRK: Excuse me. 
 UHURA [OC]: Uhura to Captain Kirk. 
 KIRK: Kirk here. 
@@ -351,6 +383,8 @@ SPOCK: Change is the essential process of all existence. For instance, the peopl
 BELE: You mean like both of you? 
 KIRK: There must have been a time, long ago no doubt, when that was true. 
 (Intercom whistle)
+
+
 KIRK: Excuse me. Kirk here. 
 SCOTT [OC]: We're orbiting Ariannus, sir. 
 KIRK: Very good. Commence decontamination procedures when ready. Advise when complete. 
@@ -370,6 +404,8 @@ SCOTT: Lieutenant Uhura, advise Ariannus the mission is to begin on signal. All 
 UHURA: Ariannus says go ahead. 
 SCOTT: Well, let 'er rip. 
 (The planet they are orbiting turns orange, then white and blue) 
+
+
 SCOTT: Scott to Captain Kirk. 
 KIRK [OC]: Kirk here. 
 SCOTT: First run complete, sir. 
@@ -381,6 +417,8 @@ CHEKOV: Ready, sir.
 SCOTT: Mister Sulu? 
 SULU: Ready here. 
 (This time the oceans and land masses are very clearly seen. Not a cloud in the sky.) 
+
+
 KIRK [OC]: Kirk here. 
 SCOTT: We're completing the final orbit of Ariannus, sir. I'm awaiting instructions to set course for the next destination. 
 KIRK: Very good. We'll be right up. 
@@ -390,6 +428,8 @@ BELE: There is nothing I would like more.
 Captain's log, stardate 5730.7. Having completed our mission to Ariannus, the Enterprise is now on course to Starbase Four. The crew is on normal routine, and we are proceeding without incident. 
 [Bridge]
 (Chekov is hunched over Spock's station.) 
+
+
 SPOCK: Trouble, Mister Chekov? 
 CHEKOV: I don't rightly know, Mister Spock. I was trying to programme for Starbase Four as ordered. I can't get a response. 
 UHURA: It just seemed to go dead, sir. 
@@ -400,6 +440,8 @@ BELE: The directional control and the self-destruct, Captain, are both burnt out
 Captain's log, stardate 5730.6. In a deliberate act of sabotage, Commissioner Bele has burned out our destruct mechanism and through the power of his will has again taken over directional control of the Enterprise. 
 [Bridge]
 (Lokai enters) 
+
+
 BELE: Now can we go to Cheron without any more discussion? 
 KIRK: At the moment, I seem to have no choice. 
 LOKAI: So this is justice after Ariannus! You have signed my death warrant. I warned you what to expect. Will you continue to let this mockery of justice go on? If you are partisans of justice, prove it! Kill him! 
@@ -409,8 +451,12 @@ SPOCK: I doubt that the same can be said for many of his followers.
 BELE: You're finished, Lokai! We've got your kind penned in on Cheron into little districts, and it's not going to change. You've combed the galaxy and come up with nothing but mono-coloured trash, do-gooders and bleeding hearts. You're dead, you half-white! 
 LOKAI: You useless pieces of bland flesh. I'll take you with me, you half-black. 
 (They lunge for each others throats, and send off electrical charges.) 
+
+
 KIRK: Bele, you keep this up, and you'll never get to Cheron with your prisoner. The rest of this ship will be irreparably damaged. This will be your final battlefield. Your fifty thousand years of pursuit will have been wasted. 
 (Bele and Lokai separate) 
+
+
 KIRK: And you, Lokai, will die here in space. You'll inspire no more disciples. Your cause will be ended. 
 LOKAI: Remember, Captain, political sanctuary is my right. I am your prisoner. Honour that right, or the fight will go on and your ship will burn up. 
 KIRK: You've made your point. 
@@ -436,19 +482,29 @@ SPOCK: None at all, sir.
 BELE: Your band of murderers did this. 
 LOKAI: Your genocidal maniacs did this! 
 (They attack each other again.) 
+
+
 KIRK: Stop it! What's the matter with you two? Didn't you hear Spock? Your planet is dead! There's nobody alive on Cheron because of hate. The cause you fought about no longer exists. Give yourselves time to breathe. Give up your hate. You're welcome to live with us. Listen to me. You both must end up dead if you don't stop hating. 
 LOKAI: You're an idealistic dreamer. 
 (Lokai leaves) 
+
+
 KIRK: Bele. The chase is finished. 
 BELE: He must not escape me. 
 SPOCK: Where can he go? 
 (Bele leaves) 
+
+
 KIRK: Bele. 
 UHURA: Shall I alert security, sir? 
 KIRK: No, Lieutenant. Where can they run? 
 (Through the ship, knocking over crewmen, whilst imagining the buildings burning on their home planet.) 
+
+
 SPOCK: Captain, I have located them on ship's sensors. Bele is chasing Lokai on deck three. Bele is passing recreation room three, approaching the crewmen's lounge. Lokai is running past the crewmen's lounge. Lokai has just arrived on deck five. Passing recreation room three. 
 (Lokai beams himself away) 
+
+
 UHURA: Captain, someone has activated the transporter mechanism. 
 KIRK: Spock, anyone in the transporter room? 
 SPOCK: Negative, Captain. Transporter room is clear. However, there is a life-form materialising on the planet. It is Lokai. He is back on Cheron. 

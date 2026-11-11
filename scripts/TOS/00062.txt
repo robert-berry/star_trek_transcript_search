@@ -6,6 +6,8 @@ Original Airdate: 18 Oct, 1968
 Captain's log, stardate 5630.7. We have been assigned to convey the Medusans' ambassador to the Federation back to their home planet. While the thoughts of the Medusans are the most sublime in the galaxy, their physical appearance is exactly the opposite. They have evolved into a race of beings who are formless, so utterly hideous that the sight of a Medusan brings total madness to any human who sees one. 
 [Transporter room]
 (A man beams aboard.) 
+
+
 KIRK: Mister Marvick. I am James Kirk, the Captain. 
 MARVICK: Captain, what are you doing here? You'll have to leave before the Medusan ambassador arrives. 
 KIRK: Yes, everything will be taken care of. This is Mister Spock, my First Officer. 
@@ -16,6 +18,8 @@ SPOCK: Thank you, Mister Marvick. I shall be wearing the visor.
 KIRK: We mustn't keep the ambassador waiting. If you'll go with Mister Scott, I'm sure the two of you will have a great deal in common. 
 SCOTT: Aye, indeed. It's a rare privilege meeting one of the designers of the Enterprise. 
 (Scott and Marvick leave.) 
+
+
 KIRK: Lieutenant Uhura, open a channel to transporter control centre on the planet. 
 UHURA [OC]: Aye, sir. 
 KIRK: This is Captain Kirk. Inform the ambassador and Doctor Jones we're ready to beam them aboard. Kirk out. Are you sure this visor will work? 
@@ -24,9 +28,13 @@ KIRK: It's your human half I'm worried about.
 SPOCK: I shall endeavour to keep it under control. 
 KIRK: Inform me when transport is complete. 
 (Kirk leaves. Spock puts on the red filter visor and beams aboard a box and a woman. She removes her visor and gives the Vulcan salute.) 
+
+
 SPOCK: Welcome aboard, Ambassador Kollos. I am First Officer Spock. 
 MIRANDA: I'm Doctor Jones. (Spock removes his visor) The ambassador is most honoured to meet you, Mister Spock. 
 (Spock fixes an anti-gravity handle to the Ambassador's box.) 
+
+
 SPOCK: Captain Kirk, we are ready. 
 [Bridge]
 KIRK: Lieutenant Uhura, open a channel to all decks. 
@@ -34,8 +42,12 @@ UHURA: Channel open, sir.
 KIRK: This is Captain Kirk to all ship's personnel. Clearance plans now in effect. 
 [Corridor]
 (Spock and Jones are wearing their visors again.) 
+
+
 KIRK [OC]: Clear passageways immediately. The Ambassador will be escorted to his quarters at once. 
 (The crew vacate the premises.) 
+
+
 SPOCK: Doctor Jones, may I congratulate you on your assignment with Ambassador Kollos. 
 MIRANDA: Thank you, but the assignment's not yet definite. It will depend upon my ability to achieve a true mind-link with the Ambassador. 
 SPOCK: I'm sure you will find it a fascinating experience. 
@@ -45,15 +57,21 @@ MIRANDA: I've heard, Mister Spock, that you turned down the assignment with the 
 SPOCK: I was unable to accept. My life is here. 
 [Ambassador's quarters]
 (They place the box on a table.) 
+
+
 SPOCK: Spock to Bridge. We have arrived at the Ambassador's quarters. 
 [Bridge]
 KIRK: Thank you, Mister Spock. Notify all hands to return to stations. All right, let's take her out. Warp factor two. 
 SULU: Warp factor two, sir. 
 [Ambassador's quarters]
 (Spock removes the anti-gravity handle.) 
+
+
 SPOCK: I would appreciate an opportunity to exchange greetings with the Ambassador. 
 MIRANDA: I'm sure the Ambassador would be charmed. 
 (The box opens slightly, and a green light fills the room. There are images of a myriad of lights then the lid shuts again.) 
+
+
 SPOCK: I almost envy you your assignment. 
 MIRANDA: I see in your mind that you are tempted to take my place. 
 SPOCK: Not correct, Doctor, although I am aware of your mind attempting to contact mine. Were you born a telepath? 
@@ -62,11 +80,15 @@ SPOCK: I understand. May I show you to your quarters?
 MIRANDA: I think I'll stay here a bit. Ambassador Kollos often finds the process of transport somewhat unsettling. 
 SPOCK: I understand. Our ship's surgeon often makes the same complaint. Do call when you are ready. 
 (Spock leaves. Jones removes her visor.) 
+
+
 MIRANDA: What is it he sees when he looks at you? I must know! 
 (The green light fills the room.) 
 [Dining room]
 (The senior staff are in dress uniform - Scott with more plaid than we've seen before. Mister Marvick is present too.) 
 (Kirk pours a drink while Jones toys with a red rose.) 
+
+
 KIRK: I can't understand why they let you go with Kollos. 
 MIRANDA: They, Captain? 
 KIRK: The male population of the Federation. Didn't someone try and talk you out of it? 
@@ -115,6 +137,8 @@ KIRK: Sleep well, Miranda.
 MCCOY: Are you sure you're well enough to find your way alone? 
 MIRANDA: Of course, Doctor McCoy. Please don't worry about me. 
 (McCoy kisses her hand, and she leaves.) 
+
+
 MCCOY: Now, where I come from, that's what we call a lady. 
 KIRK: Yes, she is something special. 
 MARVICK: Very special. I suggest you treat her accordingly. I've known Doctor Jones long enough to be aware of her remarkable gifts. Well, it's been a long day for me. 
@@ -122,10 +146,14 @@ SCOTT: Larry, would you like to stop off at Engineering with me? I have a few th
 MARVICK: Some other time. 
 SCOTT: Good night, gentlemen. 
 (Marvick and Scott leave.) 
+
+
 KIRK: Good night, Scotty. You dressed up for the occasion, Spock. Very impressive. 
 SPOCK: I genuinely intended to honour her, Captain. Good evening, gentlemen. 
 KIRK: Good evening. Sleep well. 
 (Spock leaves.) 
+
+
 KIRK: Bones, what's troubling you with the girl? 
 MCCOY: Well, she's not just another girl, Captain. Don't make that mistake. 
 KIRK: I didn't think that for a moment. What else? 
@@ -137,6 +165,8 @@ MCCOY: Good night, Jim.
 KIRK: Good night, Bones. 
 [Dr. Jones' quarters]
 (The doorbell buzzes.) 
+
+
 MARVICK [OC]: Miranda? 
 MIRANDA: Who is it? 
 MARVICK [OC]: Larry. I've got to talk to you. 
@@ -144,6 +174,8 @@ MIRANDA: It's late.
 MARVICK [OC]: Please, Miranda, it's important. 
 MIRANDA: All right. Come in, then. 
 (Marvick enters.) 
+
+
 MARVICK: I thought the dinner was never going to end. 
 MIRANDA: I rather enjoyed it. 
 MARVICK: Yes, I know you did. I didn't. You were so far away. 
@@ -157,6 +189,8 @@ MIRANDA: I've been honest with you. I simply cannot love you the way you want me
 MARVICK: Miranda. 
 MIRANDA: And I'm going away with Kollos. That's final. I think you'd better leave now. 
 (She turns away, then gets the same impressions she had at dinner.) 
+
+
 MIRANDA: So it's you! I didn't know that it was you before. Who is it you want to kill, Larry? Is it me? You mustn't keep this to yourself. I want to help you. 
 MARVICK: So now you want to help me. Now I know what a mere human male has to do to get a reaction out of you. Make you think he's a patient. The great psychologist. Why don't you try being a woman for a change? 
 (Marvick leaves and starts walking along the corridor. Then he stops, turns, and goes back to Kollos' quarters. The Medusan opens his box lid as Marvick draws his phaser. Larry screams and writhes about in the presence of the alien. Miranda senses something is going on. Marvick dashes out into the corridor and runs into the turbolift. Miranda comes out of her room and goes to Kollos without her visor. She picks up the phaser from the floor. Marvick assaults a crewman in another corridor. Kirk and a security detachment, followed by Spock and McCoy, arrive at Kollos' door.) 
@@ -168,12 +202,18 @@ MARVICK: Where's Mister Scott?
 KIRK: Miranda? 
 [Kollos' quarters]
 (The green light is gone and the lid is closing.) 
+
+
 KIRK [OC]: Miranda! 
 [Engineering]
 (Scott is in the upper level control area.) 
+
+
 SCOTT: Ah, there, Marvick. So you couldn't resist a wee wager. 
 [Corridor]
 (Miranda comes out, holding a visor.) 
+
+
 KIRK: Has the Ambassador been hurt? 
 MIRANDA: No harm has come to the Ambassador, Captain. 
 KIRK: Who could have done such a thing? 
@@ -193,6 +233,8 @@ CHEKOV: And accelerating.
 KIRK: Get engineering, Uhura. 
 UHURA: They don't answer, Captain. 
 (Spock goes to the Engineering station.) 
+
+
 SULU: Warp factor nine and accelerating. 
 KIRK: Can't you disengage power from there, Mister Spock? 
 SPOCK: Trying, Captain. Mister Chekov, your assistance, please. 
@@ -206,6 +248,8 @@ MIRANDA: I must. I can reach his mind.
 [Engineering]
 MARVICK: We'll be safe at the boundaries of the universe! We'll be safe! 
 (Kirk and three security men finally drag Marvick away from the controls, just as the ship hits the galactic boundary.) 
+
+
 KIRK: Scotty, where are we? 
 SCOTT: I don't know! 
 MARVICK: Beyond the boundaries of the galaxy. We made it. We're safe. We're safe, Captain Kirk. 
@@ -221,6 +265,8 @@ MARVICK: I didn't lose you. Oh, my beautiful love, I thought I'd lost you.
 MIRANDA: I am here, Larry. No. I can see what he sees. No, don't. Don't think of it! 
 MARVICK: Liar! Liar! Deceiver! You're not alone! You brought it with you. It's here. It's here. You brought it with you! Liar! Liar! Liar! (he tries to strangle Miranda) Don't love her! Don't love her! She'll kill you if you love her! I love you, Miranda. 
 (Marvick collapses.) 
+
+
 MCCOY: He's dead, Jim. 
 Captain's log, stardate 5630.8. As a result of Larry Marvick's insane fears, the Enterprise lies derelict in uncharted space. We have no way to determine our position in relation to the galaxy. We are in a completely unknown void. 
 [Bridge]
@@ -250,12 +296,16 @@ SPOCK: Not sufficient. Her telepathic powers are formidable. If it is at all pos
 KIRK: I think that could be arranged. 
 [Conservatory]
 (It's a room with lots of flowers in bloom.) 
+
+
 KIRK: I may be sentimental, but this is my favourite place. Earth. 
 MIRANDA: I've never been to Earth. What lovely flowers. May I touch them? 
 KIRK: Certainly. 
 MIRANDA: They have no scent. 
 KIRK: Try these. 
 (She sniffs at a rose, and pricks her finger.) 
+
+
 KIRK: Let me see. It's just a thorn. I was hoping to make you forget about this today. 
 MIRANDA: It doesn't hurt anymore. 
 KIRK: You mustn't blame yourself because Marvick loved you. 
@@ -263,20 +313,28 @@ MIRANDA: I didn't want his love. I couldn't return it.
 KIRK: But someday, you will want human love and companionship. 
 MIRANDA: Shall I tell you what human companionship means to me? A struggle, a defence against the emotions of others. At times, the emotions burst in on me. Hatred, desire, envy, pity. Pity is the worst of all. I agree with the Vulcans. Violent emotion is a kind of insanity. 
 (Spock, visor in hand, is making his way along a corridor.) 
+
+
 KIRK: Are you willing to spend the rest of your life with the Medusans in order to avoid human emotion? 
 MIRANDA: Perhaps. 
 KIRK: A meeting of minds is all very well, but what about love, Miranda? You're young, attractive and human. Sooner or later, no matter how beautiful their minds are, you're going to yearn for someone who looks like yourself, someone who isn't ugly. 
 MIRANDA: Ugly. What is ugly? Who is to say whether Kollos is too ugly to bear or too beautiful to bear? 
 KIRK: Miranda, I meant no insult. Please. Here we are among the roses. A very romantic setting. I wish there were moonlight, too. Moonlight would suit you very well. 
 (He moves in for the usual kiss, but gets held off.) 
+
+
 MIRANDA: I see you're a very complicated man. 
 (Spock enters Kollos' quarters.) 
+
+
 MIRANDA: Kollos, no. You mustn't let him! 
 KIRK: Miranda, don't. 
 MIRANDA: Let me go. You have no idea what a dangerous thing Spock is planning. We must stop him! Let me go! 
 (They leave together.) 
 [Corridor]
 (Miranda meets Spock coming out of Kollos' quarters.) 
+
+
 SPOCK: The Enterprise is at stake. It is not possible for you to be involved. 
 MIRANDA: Why? I've already committed myself to mind-link when Kollos and I reach the Medusan vessel. Why put yourself in jeopardy? 
 SPOCK: This is not a duty that you can assume. I am aware of the fact that your telepathic competence might be superior to mine, but there's a more important factor. The object is to pilot this ship. That is something you cannot do. 
@@ -286,6 +344,8 @@ KIRK: What?
 SPOCK: Fascinating. 
 MCCOY: I'm sorry, Miranda, but you must be realistic. You are blind, and there are some things you simply cannot do. 
 (Spock touches the decorated over-dress she always wears.) 
+
+
 SPOCK: Evidently a highly sophisticated sensor web. My compliments to you, and to your dressmaker. 
 KIRK: Yes, of course. It's the only reasonable explanation. You can't see and Kollos can't hurt you. 
 SPOCK: An elegant solution. but I fail to understand why you apparently try to conceal your blindness, Doctor Jones. 
@@ -297,14 +357,20 @@ MCCOY: Please. Do not fight us like this, Doctor Jones. I appeal to you as a col
 MIRANDA: No. 
 KIRK: If we can't persuade you, there is someone who can. You'll have to take this up with Kollos. For your own sake. 
 (She goes into Kollos' quarters.) 
+
+
 KIRK: Bones, why hadn't you told me? 
 MCCOY: She would have told you herself if she had wanted you to know. I respect her privacy. 
 KIRK: Yes, there's a great deal to respect about that lady. 
 (There's a scream, then Miranda comes out of the room, calm and composed.) 
+
+
 MIRANDA: It seems I have no choice but to obey you. 
 Captain's log, supplementary. Our one chance to return to our own galaxy is dependent upon the navigational skills of the Medusan ambassador. With that end in view, Kollos has been brought to the bridge and placed behind a protective shield. 
 [Bridge]
 (Kollos is by Spock's station, and Spock is wearing a visor. The lid opens, then Spock comes out from behind the shield and takes off the visor.) 
+
+
 SPOCK: This is delightful. I know you. All of you. James Kirk, Captain and friend for many years. And Leonard McCoy, also of long acquaintance. And Uhura, whose name means freedom. 
 She walks in beauty, like the night
 . 
@@ -325,6 +391,8 @@ SPOCK: Co-ordination is completed.
 KIRK: Then go ahead, Mister Spock. 
 SPOCK: Warp one in six seconds. Five, four, three, two, one, zero. 
 (The engines come to life, and the Enterprise glides back through the barrier.) 
+
+
 SPOCK: Position report, please, Mister Chekov. 
 CHEKOV: Our position? Our position is so close to the point where we entered the void, the difference isn't worth mentioning. Bull's-eye, Mister Spock. 
 SPOCK: Thank you, Mister Chekov. Manoeuvre completed, Captain. 
@@ -336,18 +404,26 @@ SPOCK: So soon?
 KIRK: There must be no delay. 
 SPOCK: You're a wise Captain. 
 (Spock goes back behind the shield and the lid opens. Then Sulu notices the visor still on the helm console.) 
+
+
 SULU: Captain. 
 KIRK: Spock! Don't look! Cover your eyes! 
 (Spock screams.) 
+
+
 KIRK: Don't move! 
 MCCOY: But, Jim. 
 KIRK: No one is to move. Spock? Are you all right? 
 (Spock backs away from Kollos, anguish all over his face.) 
 KIRK; Spock? It's all right. You're safe with us now. 
 (Spock then attacks everyone within reach. Kirk manages to get the phaser from a fallen security guard and stun his first officer.) 
+
+
 MCCOY: He's hardly breathing. Help me get him to Sickbay. 
 [Outside Sickbay]
 (Inside, Miranda is performing a sort of mind meld on the unconscious Spock. She has removed her sensor net dress.) 
+
+
 MCCOY: Unless Miranda can look down into his mind and turn it outward to us, we will lose Spock. 
 KIRK: (pacing) Vulcan mind techniques. They seem so untrustworthy now that Spock's life is at stake. 
 MCCOY: Her knowledge of them may be the only thing that could save Spock's sanity, perhaps even his life. 
@@ -394,21 +470,29 @@ MIRANDA: Now, Spock, this is to the death. Or to life for both of us.
 (She touches his forehead, then we get distorted images of what Spock saw while he was insane. Finally he opens his eyes and connects with Miranda.) 
 [Doctor's Office]
 (The door opens, and Spock staggers in from the corridor.) 
+
+
 KIRK: Spock. 
 MCCOY: You look like you've paid a visit to the devil himself. 
 KIRK: Miranda. 
 (Kirk steps out into the corridor, but it is empty.) 
 [Transporter room]
 (Kollos is on the transporter pad in his box. Miranda is wearing her sensor net again. Spock is advertising the IDIC again.) 
+
+
 MCCOY: You have what you wanted most. 
 MIRANDA: I am one with Kollos. 
 MCCOY: Well, I'm truly sorry that you're leaving. Goodbye. 
 (McCoy leaves.) 
+
+
 MIRANDA: We come to the end of an eventful trip, Captain. 
 KIRK: I didn't think you'd even talk to me. 
 MIRANDA: Well, I have you to thank for my future. Your words enabled me to see. 
 KIRK: Miranda, good luck, Health. I have something for you. 
 (A red rose.) 
+
+
 MIRANDA: I suppose it has thorns. 
 KIRK: I never met a rose that didn't. 
 MIRANDA: (to Spock) I know now the great joy you felt when you joined minds with Kollos. 
@@ -416,6 +500,8 @@ SPOCK: I rejoice in your knowledge and in your achievement.
 MIRANDA: I understand, Mister Spock. The glory of creation is in its infinite diversity. 
 SPOCK: And the ways our differences combine to create meaning and beauty. 
 (Miranda gets on the transporter pad.) 
+
+
 MIRANDA: Peace and long life, Spock. 
 SPOCK: Live long and prosper, Miranda. 
 KIRK: Peace. 

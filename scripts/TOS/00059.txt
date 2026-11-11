@@ -24,6 +24,8 @@ SPOCK: Increasing sensor scan to one parsec. All scanners report clear. Nothing 
 KIRK: Better and better, Mister Spock. 
 SULU: Captain, leaving Neutral Zone. Now entering Romulan space. 
 (Scott enters the Bridge.) 
+
+
 KIRK: Very well, Mister Sulu. 
 SCOTT: Lieutenant, when did the order come through? 
 UHURA: Order? 
@@ -32,6 +34,8 @@ UHURA: There's been no order I know of, Mister Scott.
 SCOTT: Surely the Captain couldn't be doing this on his own authority. 
 KIRK: If you two have complaints, you can bring them out into the open. 
 (A sinister shape appears on the viewscreen.) 
+
+
 SCOTT: That's a Klingon ship! But it couldn't be, not in this area. 
 SPOCK: Intelligence reports Romulans now using Klingon design. 
 KIRK: Sound Red Alert. Man battle stations. Stand by main phasers. 
@@ -72,6 +76,8 @@ KIRK: Dismissed, Doctor.
 MCCOY: Jim! 
 KIRK: I said dismissed. 
 (McCoy leaves.) 
+
+
 UHURA [OC]: Bridge to Captain Kirk. 
 KIRK: Kirk here. 
 [Bridge]
@@ -94,12 +100,16 @@ KIRK: Energise.
 (As Kirk and Spock beam out, two Romulans beam in. Once solid, they draw their weapons. Scott scowls.) 
 [Romulan Commander's office]
 (The figure in the curved chair swivels round to reveal that the Commander is a woman in a uniform that barely covers her bottom, and thigh-length boots held up by suspender belt.) 
+
+
 COMMANDER: Captain Kirk. 
 KIRK: Commander. I'm honoured. 
 COMMANDER: I don't think so, but we have an important matter to discuss. And your superficial courtesies are an overture to that discussion. You are the first officer? 
 SPOCK: Spock. 
 COMMANDER: I speak first with the Captain. You may wait outside. 
 (Spock and the two guards leave) 
+
+
 COMMANDER: The matter of trespass into Romulan space is one of galactic import, a violation of treaties. Now I ask you simply, what is your mission here? 
 KIRK: Instrument failure caused navigational error. We were across the Neutral Zone before we realised it, then we were surrounded by your ships before we could get back. 
 COMMANDER: A starship? One of the Starfleet's finest vessels? You're saying instrument failure as radical as you suggest went unnoticed until you were well past the Neutral Zone? 
@@ -112,6 +122,8 @@ COMMANDER: Your language has always been most difficult for me, Captain. Perhaps
 KIRK: You're grossly mistaken if you think we were there 
 COMMANDER: Captain, if a Romulan vessel ventured far into Federation territory without good explanation, what would a starbase commander do? You see, it works both ways. I hardly believe you are the injured party. Spock, come in. 
 (Spock and the guards enter.) 
+
+
 COMMANDER: The captain has made his statement. 
 SPOCK: I understand. 
 COMMANDER: I must admit some surprise on seeing you, Spock. We were not aware of Vulcans aboard the Enterprise. 
@@ -159,6 +171,8 @@ COMMANDER: You humans make a brave noise. There are ways to convince you of your
 KIRK: Did you hear that, you coward? You've betrayed everything of value you ever knew. Did you hear the sound of human integrity? 
 COMMANDER: Take him to the security room. 
 (Kirk is dragged out, struggling.) 
+
+
 COMMANDER: A Vulcan among humans. Living, working with them. I would think the situation would be intolerable to you. 
 SPOCK: I am half Vulcan. My mother is a human. 
 COMMANDER: To whom is your allegiance then? Do you call yourself Terran or Vulcan? 
@@ -190,17 +204,25 @@ MCCOY: I don't make house calls.
 UHURA: Doctor, it's Captain Kirk! 
 [Romulan Brig]
 (McCoy is scanning Kirk, who is twitching slightly.) 
+
+
 MCCOY: He'll recover, but he'll need further attention. Inform your superior. 
 [Romulan Commander's office]
 (She answers the comm., listening on the earpiece. They keep conversations private, these people.) 
+
+
 COMMANDER: Yes? I'll come there. Attend me. 
 [Romulan Corridor]
 (Two guards walk a discreet distance behind them.) 
+
+
 COMMANDER: I neglected to mention, I'll expect you for dinner. We have much to discuss. 
 SPOCK: Indeed. 
 COMMANDER: Allow me to rephrase. Will you join me for dinner? 
 SPOCK: I am honoured, Commander. Are the guards also invited? 
 (She dismisses them. They walk on, and Spock turns a corner.) 
+
+
 COMMANDER: Mister Spock. That corridor is forbidden to all but loyal Romulans. 
 SPOCK: Of course. I shall obey your restrictions. 
 COMMANDER: I hope that one day there will be no need for you to observe any restrictions. 
@@ -223,11 +245,15 @@ COMMANDER: That's enough, Doctor. As a physician, your duty is to save lives. Mi
 SPOCK: There is no alternative, Doctor. The safety of the crew is now the paramount issue. It is misguided loyalty to resist any further. 
 KIRK: You traitor. I'll kill you. I'll kill you. I'll kill you! 
 (Kirk lunges feebly at Spock, who places his hand over Kirk's face. Kirk falls back, face contorted with pain.) 
+
+
 MCCOY: What did you do? What did you do? 
 SPOCK: I was unprepared for his attack. I instinctively used the Vulcan death grip. 
 MCCOY: Your instincts are still good, Mister Spock. The captain is dead. 
 [Sickbay]
-(The body of Kirk lies on a bed, bathed in green light. McCoy exits through one door, and Chapel enters through the other. Kirk's eyes open.) CHAPEL: Doctor! Doctor McCoy! (Kirk's eyes shut again. The heart monitor starts thumping.) Doctor McCoy! 
+(The body of Kirk lies on a bed, bathed in green light. McCoy exits through one door, and Chapel enters through the other. Kirk's eyes open.) 
+
+CHAPEL: Doctor! Doctor McCoy! (Kirk's eyes shut again. The heart monitor starts thumping.) Doctor McCoy! 
 MCCOY: I left orders that no one come in here. 
 CHAPEL: But he's alive, alive! 
 MCCOY: Well now that you know it, you might as well assist me. Hand me the physiostimulator. 
@@ -236,6 +262,8 @@ MCCOY: Spock gave him a nerve pinch to simulate death.
 CHAPEL: Then Mister Spock isn't a traitor, and you knew that and you didn't 
 MCCOY: I didn't know it until I beamed aboard the Romulan ship. Jim and Spock were operating under Federation orders. 
 (The green light goes out as Kirk wakes up properly.) 
+
+
 KIRK: Oh. (sitting up) My neck feels like it's been twisted off. 
 MCCOY: That's the Vulcan death grip for you. 
 CHAPEL: There's no such thing as a Vulcan death grip. 
@@ -262,10 +290,14 @@ MCCOY: Well, I do. Mister Scott, please.
 SCOTT: All right, Doctor. It better be important. Scott out. 
 [Sickbay]
 (Scott comes storming in and stutters to an astonished halt.) 
+
+
 SCOTT: All right, Doctor, what's so urgent that... Captain? Captain Kirk. 
 KIRK: Yes. 
 SCOTT: Well, you look like the devil himself, but as long as you're alive. What's it all about? 
 (Kirk has slanted eyebrows and pointed ears.) 
+
+
 KIRK: Are those Romulan officers still aboard the ship? 
 SCOTT: They're in the brig, sir. 
 KIRK: I'll need a Romulan uniform. 
@@ -277,6 +309,8 @@ COMMANDER: We have other inducements.
 (She offers him a glass of blue liquid. He accepts, they silently toast each other and drink.) 
 [Transporter room]
 (Kirk is in Romulan uniform) 
+
+
 MCCOY: What the devil is Spock doing? What's delaying him? 
 KIRK: I wish I knew. Scotty, are you sure we have a clear channel to Spock? 
 SCOTT: Aye, sir. No doubt of it. 
@@ -287,6 +321,8 @@ MCCOY: You're taking an awful chance, Jim.
 KIRK: Just don't put me inside a bulkhead. Energise. 
 [Romulan corridor]
 (Kirk finishes materialising just before a Romulan comes around a corner.) 
+
+
 ROMULAN: Centurion. I'm sorry, no one is allowed 
 KIRK: I've just effected an escape from the Federation vessel. I have important information for Sub-commander Tal. Where is he? 
 ROMULAN: He's in control central, sir. 
@@ -294,6 +330,8 @@ KIRK: Good. I shall remember to mention your alertness to him. Return to your du
 ROMULAN: Thank you, Centurion. 
 [Romulan Commander's quarters]
 (Now, orange liquid is being poured out as Spock eats.) 
+
+
 COMMANDER: You have nothing in Starfleet to which to return. I offer, we offer you an alternative. We will find a place for you, if you wish it. 
 SPOCK: A place? 
 COMMANDER: With me. Romulan women are not like Vulcan females. We are not dedicated to pure logic and the sterility of non-emotion. Our people are warriors. Often savage. But we are also many other pleasant things. 
@@ -306,9 +344,13 @@ COMMANDER: Yes. Yes, it will, Mister Spock. You do know I have a first name.
 SPOCK: I was beginning to wonder. 
 COMMANDER: Well, I do. Would you like to hear it? 
 (She whispers in his ear.) 
+
+
 SPOCK: How rare, and how beautiful. But so incongruous when spoken by a soldier. 
 COMMANDER: If you will give me a moment, the soldier will transform herself into a woman. 
 (She leaves the room.) 
+
+
 SPOCK: Spock to Captain Kirk. 
 KIRK [OC]: Kirk here. 
 SPOCK: Captain 
@@ -328,6 +370,8 @@ KIRK: Spock, I'll get the cloaking device. Will you be able to get back to the E
 [Romulan Commander's quarters]
 SPOCK: Unknown, Captain. At present, I am rather heavily 
 (He quickly shuts and hides his communicator as the door opens, and the Commander enters. She is wearing a figure hugging dress.) 
+
+
 COMMANDER: Is my attire now more appropriate, Mister Spock? 
 SPOCK: Commander, your attire is not only more appropriate, it should actually stimulate our conversation. 
 (He makes the Vulcan V-sign. She does the same, and they touch hands.) 
@@ -339,26 +383,38 @@ KIRK: Over there!
 (He knocks the guard out.) 
 [Romulan Commander's quarters]
 (Now they are stroking each other's face.) 
+
+
 COMMANDER: It's hard to believe that I can be so moved by the touch of an alien hand. 
 SPOCK: I must confess that I too am moved emotionally. I know it is illogical. 
 COMMANDER: Mister Spock, we mustn't question what we truly feel. Accept what is happening between us, even as I do. 
 (The doorbell buzzes) 
+
+
 TAL [OC]: Commander? Permission to enter. 
 COMMANDER: Not now, Tal. 
 TAL [OC]: It is urgent, Commander. 
 (She leaves Spock and goes to the door. Tal and guards enter.) 
+
+
 COMMANDER: Enter. 
 TAL: Commander, we have intercepted an alien transmission. 
 COMMANDER: Locate its source. 
 TAL: We have, Commander. This room. 
 (Spock comes out from behind the dividing curtain and shows his communicator.) 
+
+
 COMMANDER: The cloaking device. Bring him. 
 [Cloaking device room]
 (Kirk manages to get in and starts looking around.) 
+
+
 ROMULAN: Halt. Don't move. Who are you? What are you doing in here? 
 KIRK: There's an enemy spy aboard. He'll be after the cloaking device. 
 ROMULAN: Drop your weapon. 
 (Kirk does so, and as the Romulan bends to pick it up he kicks him unconscious. As Tal, Spock, the Commander and the guards make their way down the corridor, Kirk takes the globe with bits of Nomad sticking out of it, out of its control console.) 
+
+
 KIRK: Scotty, energise. 
 [Transporter room]
 SCOTT: But, sir, what about Mister Spock? 
@@ -371,6 +427,8 @@ KIRK: You have fifteen minutes, Scotty.
 TAL: Commander, the cloaking device is gone. 
 COMMANDER: Full alert. Search all decks. 
 (Tal and a guard leave.) 
+
+
 SPOCK: That will be profitless, Commander. I do not believe you will find it. 
 COMMANDER: You must be mad. 
 SPOCK: I assure you I am quite sane. 
@@ -379,6 +437,8 @@ SPOCK: First officer of the Enterprise. (Broken-hearted, she slaps his face.) Wh
 Captain's log, stardate 5027.4. Commander Scott has less than fifteen minutes to install the Romulan's cloaking device and get it working. I hope Mister Spock can buy us the time we need. 
 [Bridge]
 (As Scott struggles with the alien tech in Engineering, occasionally saying 'Drat', Kirk gets into his own uniform and walks onto the Bridge.) 
+
+
 SULU: Captain! 
 CHEKOV: You're alive! 
 UHURA: They said you'd been killed, sir. 
@@ -391,6 +451,8 @@ UHURA: Aye, sir.
 [Romulan Commander's quarters]
 COMMANDER: Return to your station, Sub-commander. The boarding action on the Enterprise will begin with my command. If they resist, destroy her. 
 (Tal leaves.) 
+
+
 COMMANDER: Execution of state criminals is both painful and unpleasant. I believe the details are unnecessary. The sentence will be carried out immediately after the charges have been recorded. 
 SPOCK: I demand the Right of Statement first. 
 COMMANDER: You understand Romulan tradition well. The right is granted. 
@@ -470,6 +532,8 @@ OFFICER: Yes, sir.
 KIRK: Mister Sulu, come about. Three one eight mark seven. 
 SULU: Three one eight mark seven, sir. Executing. 
 (They cut underneath the Romulan ship.) 
+
+
 SPOCK: The cloaking device is working perfectly, and the commander has informed me that even the Romulan sensors cannot track a vessel so equipped. 
 KIRK: Thank you, Mister Spock. Cancel Red Alert. We'll let you off at the nearest Federation outpost. 
 COMMANDER: You are very generous, Captain. If I may be taken to your brig, I will take my place as your prisoner. 
@@ -485,6 +549,8 @@ SPOCK: You underestimate yourself, Commander.
 COMMANDER: You realise that very soon we will learn to penetrate the cloaking device you stole. 
 SPOCK: Obviously. Military secrets are the most fleeting of all. I hope that you and I exchanged something more permanent. 
 (They start to step out into the corridor.) 
+
+
 COMMANDER: It was your choice. 
 SPOCK: It was the only choice possible. You would not respect any other. 
 COMMANDER: It will be our secret. 

@@ -5,6 +5,8 @@ Stardate: 3196.1
 Original Airdate: 9 Mar, 1967
 [Mine tunnel]
 (A nervous man has his weapon drawn) 
+
+
 SAM: Who's there? 
 VANDERBERG: (enters with a lot of men) It's your relief, Sam. All quiet? 
 SAM: Didn't see a thing, Chief. 
@@ -19,8 +21,12 @@ VANDERBERG: It's coming.
 SCHMITTER: You think it could get here in the next four hours? 
 VANDERBERG: You'll be all right. 
 (The group leaves, and nervous Schmitter paces. Then we hear a scraping sound. He turns, looks and screams. Vanderberg and the others run back.) 
+
+
 VANDERBERG: Come on. 
 (It's mere moments, but they're already too late.) 
+
+
 VANDERBERG: Schmitter. Like the rest of them. Burned to a crisp. 
 Captain's log, stardate 3196.1. A distress call from the pergium production station on Janus Six has brought the Enterprise to that long-established colony. Mister Spock, Doctor McCoy, and I have beamed down to meet with Chief Engineer Vanderberg, administrative head of Janus Six. 
 [Vanderberg's office]
@@ -60,6 +66,8 @@ VANDERBERG: A few trace elements. Look, we didn't call you here so you could col
 KIRK: Thank you, Mister Vanderberg. We'll need your complete co-operation. 
 VANDERBERG: You'll have it. Just find that creature, whatever it is. I've got a quota to meet. Come on, Appel. 
 (They leave, and McCoy comes back.) 
+
+
 KIRK: The vast number of tunnels won't make our hunting any easier. Doc? 
 MCCOY: Schmitter didn't burn to death, not in the usual sense, anyway. 
 KIRK: Explain. 
@@ -78,16 +86,24 @@ KIRK: We can't cover tunnel by tunnel on foot. We must get production going agai
 SPOCK: If we could force another appearance of this creature 
 VANDERBERG: When that creature appears, men die. 
 (And as if to prove his point, the guard outside the power plant is killed. There's just a vaguely man-shaped stain on the ground and wisps of smoke lead us to a neat circular hole in the door he was guarding.) 
+
+
 KIRK: Too many tunnels. We couldn't possibly. Mister Spock, our sensors can pick up normal life functions at a considerable distance, but what about abnormal life functions? 
 (Just then the lights flicker and an alarm sounds.) 
+
+
 VANDERBERG: Something's happening in the reactor room! 
 [Tunnel outside the reactor room]
 VANDERBERG: Back to your stations. Look at that. 
 (He goes through the hole cut in the door.) 
+
+
 SPOCK: I wouldn't touch it, Captain. An extremely active corrosive. Traces may linger. 
 VANDERBERG [OC]: Kirk, quickly! 
 [Reactor room]
 (They step through carefully.) 
+
+
 VANDERBERG: The main circulating pump for the entire reactor is gone. 
 SPOCK: The same indication as shown at the door, Captain. A very strong corrosive. 
 KIRK: Is there a replacement for that? 
@@ -123,6 +139,8 @@ SPOCK: It would seem so.
 KIRK: But why now, Mister Spock? These production facilities have been in operation for over fifty years. 
 SPOCK: I don't know. But there is a possibility. 
 (He goes over to the silicon nodule on the desk.) 
+
+
 KIRK: What's that? 
 SPOCK: Life as we know it is universally based on some combination of carbon compounds, but what if life exists based on another element? For instance, silicon. 
 MCCOY: You're creating fantasies, Mister Spock. 
@@ -153,6 +171,8 @@ KIRK: I'll be right there. Kirk out. Scotty, ride herd on it. Kind words. Tender
 SCOTT: I'll do what I can, sir. 
 [Vanderberg's office]
 (Six red-shirted men are lined up.) 
+
+
 KIRK: You will proceed from level to level, checking out every foot, every opening. You are searching for some sort of creature which is highly resistant to phaser fire. Phasers will be set on maximum, and remember this. Fifty people have died. I want no more deaths. 
 VANDERBERG: Except the bloody thing. 
 KIRK: The creature may or may not attack on sight. However, you must. It is vitally important we get this installation back into production. 
@@ -165,6 +185,8 @@ VANDERBERG: I don't know any safe place, Captain, the way that thing comes and g
 KIRK: Well, gentlemen, you have your instructions. Let's get at it. 
 [Tunnels]
 (The Starfleet people walk carefully along wonderfully smooth floors with just the occasional piece of equipment strewn around. Spock stops to use his tricorder on a section of the tunnel wall.)
+
+
 KIRK: Mister Spock? Find something? 
 SPOCK: Adjusting my tricorder to register for silicon, Captain. Interesting. 
 KIRK: Traces? 
@@ -173,6 +195,8 @@ KIRK: One of our people?
 SPOCK: No, sir. Silicon. 
 KIRK: Come on. 
 (The security team have gradually split up to cover all the different tunnels. A young blond lad manages a scream before meeting his fate.) 
+
+
 SPOCK: He never even had a chance to fire, Captain. 
 KIRK: It's only been seconds since we heard him scream. The creature must still be around. 
 SPOCK: Captain. 
@@ -183,6 +207,8 @@ SPOCK: Positive.
 KIRK: This tunnel goes back as far as the eye can see. Our best machinery couldn't cut a tunnel like this, not even with phasers. 
 SPOCK: Indeed, Captain. I'm quite at a loss. 
 (Then they turn to see their adversary, and both fire their phasers at it. The shaggy creature shuffles off back into another of its nice circular tunnels and vanishes.) 
+
+
 KIRK: Gone. 
 SPOCK: Disappeared. Astonishing that anything of that bulk could move so rapidly. 
 KIRK: These walls are hot. 
@@ -196,6 +222,8 @@ SPOCK: Readings indicate a maze of tunnels of this general category in that dire
 GIOTTO: Did you shoot at it? 
 KIRK: Yes. We took a bite out of it. 
 (Spock picks up the piece of 'armour' they had cut off the creature) 
+
+
 KIRK: It's not animal tissue. What is it? 
 SPOCK: The closest approximation I could come to would be fibrous asbestos. A mineral, Captain. 
 KIRK: Then your guess was right. 
@@ -213,6 +241,8 @@ SPOCK: Or a single phaser with much longer contact.
 KIRK: Commander, pass this on to your men We knew it was a killer. Now it's wounded, probably in pain somewhere back there. There's nothing more dangerous than a wounded animal. Commander Giotto, instruct your men to concentrate the search in this sector. Remind them the creature is wounded. 
 GIOTTO: Aye, aye, sir. 
 (leaves) 
+
+
 KIRK: What is it, Mister Spock? 
 SPOCK: I've run a complete spherical check on all life forms, radius one hundred miles. I've located our men, all of them, and I've located one creature moving rapidly through native rock, bearing two hundred and one. And that is all. 
 KIRK: One creature in a hundred miles? 
@@ -224,11 +254,15 @@ SPOCK: I see no alternative myself, Captain. It merely seems a pity. The search 
 KIRK: Good. 
 [Main tunnel]
 (Giotto now has seven red-shirts with him.) 
+
+
 KIRK: So it is wounded, and therefore twice as dangerous. Stay in pairs. If you see it, concentrate your phaser fire at what appears to be its head. Concentrate it. Maintain it. It is definitely resistant, but it can be hurt. And if it can be hurt, it can be killed. Mister Spock. 
 SPOCK: Gentlemen, if you'll examine your charts, please. I last located the creature in the area marked adit26 moving in bearing two zero one. This particular group will move out beyond that area in all directions in an effort to surround it, and possibly capture it. 
 KIRK: Your orders are shoot to kill. Protect yourself at all times. Commander Giotto, disperse your search parties. 
 GIOTTO: Aye, aye, sir. Louis, Vinci, take your men out. 
 (The red-shirts leave.) 
+
+
 KIRK: Mister Spock. Capture it? I don't recall giving any such order. 
 SPOCK: You did not, sir. I merely thought that if the opportunity arose 
 KIRK: I will lose no more men. The creature will be killed on sight and that's the end of it. 
@@ -244,6 +278,8 @@ SPOCK: And they are of course accurate, Captain.
 KIRK: Of course. Well, I hate to use the word, but logically, with those kind of odds, you might as well stay. But please stay out of trouble, Mister Spock. 
 SPOCK: That is always my intention, Captain. 
 (A communicator beeps) 
+
+
 KIRK: Kirk here. 
 SCOTT [OC]: Scotty here, Captain. My brilliant improvisation Just gave up the ghost. It couldn't stand the strain. 
 KIRK: Can you fix it again? 
@@ -266,13 +302,19 @@ SCOTT: The reactor will go super-critical in about ten hours, Sir. You have that
 KIRK: We'll do our best. Start feeding us constant status reports, Scotty. Vanderberg, you and your crew assemble at level twenty three, checkpoint Tiger. Kirk out. 
 [Level twenty three]
 (Vanderberg, Appel and three others are there.) 
+
+
 KIRK: Team up with the Enterprise security personnel. They're better armed than you. Keep someone in sight at all times. Vanderberg, take two men. Go through that tunnel there. Rendezvous with Commander Giotto. Appel and the rest of the men, go through there and tie up with Lieutenant Osborne's detail. Mister Spock and I will control the operation from a central point. That's all. 
 (The miners leave.) 
+
+
 KIRK: Mister Spock? 
 SPOCK: Captain, we are being watched. 
 KIRK: Are you sure? Intuition? 
 SPOCK: No, sir. We're being watched. 
 (They start to move through the tunnels) 
+
+
 SPOCK: Captain. Fresh readings within the hour in each of these tunnels. 
 KIRK: The chart says both of these tunnels converge a few thousand yards further. You take the left. I'll take the right. 
 SPOCK: Should we separate? 
@@ -304,7 +346,9 @@ KIRK: Besides, it isn't necessary. The chart said the tunnels meet further on.
 SPOCK: Very well, but I find it extremely disquieting that your roof chose that particular moment to collapse. Please proceed with extreme caution. I shall quicken my pace. 
 [Cavern]
 KIRK: Very well, Mister Spock. I'll meet you at the other end. 
-(Just then a part of the wall vanishes, and their strange adversary emerges. The pair have a stand off, with the creature approaching when Kirk lowers his phaser, and backing off when he raises it. The communicator beeps.) KIRK: Kirk here. 
+(Just then a part of the wall vanishes, and their strange adversary emerges. The pair have a stand off, with the creature approaching when Kirk lowers his phaser, and backing off when he raises it. The communicator beeps.) 
+
+KIRK: Kirk here. 
 [Tunnel]
 SPOCK: Captain, I just read some fresh signs. 
 [Cavern]
@@ -332,13 +376,21 @@ SPOCK: I remind you it's a proven killer. I'm on my way. Spock out.
 [Cavern]
 KIRK: (sitting down) Well, what do we do, just talk it over? 
 (The creature turns to show it's wound from their last encounter.) 
+
+
 KIRK: Well, you can be hurt, can't you? We just sit here? It's your move. 
 (Spock comes running in and takes aim) 
+
+
 KIRK: No, no! Don't shoot. Come on over, Mister Spock. 
 (He does so, and squats by the Captain.) 
+
+
 SPOCK: Fascinating. It's made no moves against you? 
 KIRK: No. It seems to be waiting. I tried talking to it, but it didn't do any good. 
 (Spock points at a pile of silicon nodules.) 
+
+
 KIRK: Yes, they're all through here, all over the place. Thousands of them. 
 SPOCK: Yes, I see. 
 KIRK: Does it means something to you? 
@@ -348,8 +400,12 @@ SPOCK: It's possible.
 KIRK: Mister Spock, I know it's a terrible personal lowering of mental barriers but if there's a chance 
 SPOCK: I'll try. 
 (He fastens his phaser to his belt and carefully approaches the worried creature. Without touching, he concentrates for a moment and then cries out.) 
+
+
 SPOCK: Pain! Pain! Pain! (he staggers back) That's all I got, Captain. Waves and waves of searing pain. It's in agony. 
 (The creature climbs onto a rock ledge and etches letters into it.) 
+
+
 KIRK: No kill I. What is that, a plea for us not to kill it, or a promise that it won't kill us? 
 SPOCK: I don't know, Captain. Evidently, it gained an immediate knowledge of us from its empathy with me. In my brief contact with the creature's mind, I discovered it is a highly intelligent, extremely sophisticated animal. In great pain, of course, because of its wound, but not reacting at all like a wounded creature. It calls itself a Horta. 
 KIRK: A Horta. A Horta! Mister Spock, we need that retardation mechanism. You must re-establish communications with it. 
@@ -364,6 +420,8 @@ KIRK: He's a healer, let him heal. Mister Spock, you must re-establish communica
 SPOCK: To obtain that kind of communication, Captain, it will be necessary to touch it. 
 KIRK: We've seen how the creature destroys. 
 (Kirk stands ready with his phaser as Spock carefully places his hands on the quivering Horta.) 
+
+
 KIRK: Lieutenant Commander Giotto. 
 GIOTTO [OC]: Giotto here, Captain. Are you all right? 
 KIRK: Perfectly all right. Where are you? 
@@ -376,11 +434,15 @@ GIOTTO: Aye, aye, sir.
 [Cavern]
 SPOCK: Murder. Of thousands. Devils! Eternity ends. The chamber of the ages. The altar of tomorrow! Murderers! Stop them. Kill! Strike back! Monsters! 
 (McCoy runs in) 
+
+
 MCCOY: What in the name of? What is Spock doing? 
 KIRK: It's wounded. Badly. You've got to help it. 
 MCCOY: Help that? 
 KIRK: Go take a look. 
 (McCoy kneels by the wound and gets out his tricorder.) 
+
+
 SPOCK: The end of life. Murderers. 
 MCCOY: You can't be serious. That thing is virtually made out of stone! 
 KIRK: Help it. Treat it. 
@@ -402,12 +464,16 @@ SPOCK: Yes, Captain, eggs and about to hatch. KIRK: The miners must have broken 
 [Level twenty three]
 APPEL: There. They're coming. 
 (He knocks out Giotto and the miners overpower the rest of the red-shirts, clubbing them viciously.) 
+
+
 APPEL: All right! All right, let's go! 
 VANDERBERG: Come on. 
 [Cavern]
 KIRK: How are you doing, Doc? 
 MCCOY: I'll let you know. 
 (The miners come round the corner.) 
+
+
 KIRK: Don't fire. First man that fires is dead. 
 VANDERBERG: That thing has killed fifty of my men. 
 KIRK: You've killed thousands of her children. 

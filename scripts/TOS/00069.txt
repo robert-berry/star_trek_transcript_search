@@ -5,6 +5,8 @@ Stardate: Unknown
 Original Airdate: 24 Jan, 1969
 [Bridge]
 (The; Enterprise is orbiting a blue and green world) 
+
+
 KIRK: A ghost planet? 
 SPOCK: I suggest no supernatural explanation, Captain. I merely point out that the facts do not fit any known categories of planets. 
 KIRK: Let's take the facts one by one. That should explain something. 
@@ -21,6 +23,8 @@ KIRK: It would bear closer investigation, it would seem, if we're to provide Sta
 UHURA: Aye, aye, sir. 
 KIRK: Feed beam down co-ordinates to the transporter room. Mister Sulu, you'll accompany me. Mister Spock, you have the conn. 
 (Kirk and Sulu leave.) 
+
+
 SPOCK: Lieutenant Rahda, report to the bridge immediately. 
 [Transporter room]
 KIRK: This expedition should be a geologist's dream, Mister D'Amato. 
@@ -29,10 +33,14 @@ KIRK: Yes. If Mister Spock is correct, you'll have a report to startle the Fifth
 MCCOY: Why? What is it, Jim? 
 KIRK: A planet that even Spock can't explain. Prepare to transport. Energise. 
 (But just as they start to disintegrate, a woman appears in the transporter room) 
+
+
 LOSIRA: Wait! You must not go! 
 (Before they have fully beamed out, the team see her touch the transporter operator, and him fall to the floor.) 
 [Planet surface]
 (Blue and orange clumps of grass amongst the rocks.) 
+
+
 MCCOY: Jim, did you see what I saw? 
 KIRK: That woman attacked Ensign Wyatt. 
 D'AMATO: Captain. Captain! 
@@ -54,6 +62,8 @@ D'AMATO: The reading I got had nothing to do with a seismic force.
 KIRK: That's very strange. And that woman. Kirk to Enterprise. Kirk to Enterprise, come in. The shock may have damaged it. 
 SULU: It's gone! The Enterprise, it's gone! 
 (Sulu hands over his tricorder.) 
+
+
 D'AMATO: He's right, Captain. There's nothing there. 
 MCCOY: How could it be gone? What the devil does that mean, Jim? 
 KIRK: For one thing it means we're stranded. 
@@ -128,11 +138,15 @@ KIRK: Sulu, run an atmospheric analysis.
 SULU: Aye, sir. 
 KIRK: Bones, see if you can find out anything about the vegetation and your parasite. How do they get their moisture? If you can discover how they survive, maybe we can. 
 (Sulu and D'Amato have headed off to do their analyses. Sulu contacts Kirk on his communicator) 
+
+
 SULU: Sulu to Captain. 
 KIRK: Kirk here. 
 SULU: Captain, I was making a standard magnetic sweep. From zero, I suddenly got a reading that was off the scale. Then, a reverse of polarity and now I get nothing. I've never seen anything like this reading. Like a door opened and then closed again. 
 KIRK: Kirk out. 
 (Elsewhere, D'Amato is wandering amongst the purple tipped vegetation and picking up handfuls of sand. He turns around and there is the woman.) 
+
+
 LOSIRA: Do not be afraid. 
 D'AMATO: I'm not. Geological disturbances don't frighten me. I've come here to study them. My specialty. 
 LOSIRA: I know. You are Lieutenant D'Amato, Senior Geologist. 
@@ -147,6 +161,8 @@ LOSIRA: I am only for D'Amato.
 D'AMATO: Lucky D'Amato. I want to have a conference about sharing your food and water. 
 LOSIRA: Do not call the others. Please. 
 (Somewhere else, McCoy gets out his communicator.) 
+
+
 MCCOY: McCoy to Kirk. 
 KIRK: Kirk here. 
 MCCOY: Jim, I just got a life form reading of tremendous intensity. Suddenly it was just there. 
@@ -159,20 +175,30 @@ MCCOY: Zero eight three.
 KIRK: Hang on. D'Amato's section. Come in. Kirk to D'Amato. Come in. Come in. Bones, Sulu, D'Amato doesn't answer. 
 MCCOY: I'll be right there. 
 (Kirk arrives first. We see a pair of legs with boots lying face down behind a rock.) 
+
+
 KIRK: Bones! 
 (McCoy runs in and examines the body.) 
+
+
 MCCOY: Jim, every cell in his body's been disrupted. 
 (Sulu arrives. Kirk adjusts his phaser.) 
+
+
 MCCOY: Jim, what are you doing? 
 KIRK: Digging a grave. 
 SULU: Poor D'Amato. What a terrible way to die. 
 KIRK: There are no good ways, Sulu. 
 (Kirk phasers the ground, but it only cuts a shallow trench in the soil.) 
+
+
 SULU: That's the same red rock. 
 KIRK: My phaser didn't cut through it. 
 MCCOY: Whatever it is, it has a mighty high melting point. 
 KIRK: Eight thousand degrees centigrade. It looks like igneous rock, but infinitely denser. 
 (Adjusts his phaser and tries again.) 
+
+
 MCCOY: This whole planet must be made up of this substance, covered over by top soil. 
 KIRK: Mister Sulu, it might explain this place a little better if we knew what the substance is. I know it was D'Amato's field, but see what you can find out. 
 SULU: Yes, sir. 
@@ -200,6 +226,8 @@ SPOCK: That is obvious, Mister Scott. I suggest you avoid emotionalism and simpl
 SPOCK [OC]: Spock out. 
 [Planet surface]
 (The cairn is complete, and topped off with a name-stone.) 
+
+
 SULU: It looks so lonely there. 
 MCCOY: It would be worse if he had company. 
 SULU: Doctor, how can you joke about it? 
@@ -212,11 +240,15 @@ SULU: Beings intelligent enough to have destroyed the Enterprise?
 KIRK: That's the problem, Sulu. We have only questions. No answers. 
 [Engineering]
 (Scott is trying to track down the source of his feeling, and a man in a red boiler suit keeps looking over his shoulder.) 
+
+
 SCOTT: Watkins, check the bypass valve on the matter/antimatter reaction chamber. Make sure it's not overheating. 
 WATKINS: But, Mister Scott, the board shows correct. 
 SCOTT: I didn't ask you to check the board, lad. 
 WATKINS: Yes, sir. 
 (Watkins goes off into an adjoining room and checks a console and some panels in there. Then he is confronted by Losira.) 
+
+
 WATKINS: Who are you? 
 LOSIRA: My name is not important. Yours is Watkins, John B. Engineer Grade four. 
 WATKINS: You know all about me. I've never seen you before. 
@@ -225,6 +257,8 @@ WATKINS: This is the matter-antimatter integrator control. That's the cut off sw
 LOSIRA: Not correct. That is the emergency overload bypass, which engages almost instantaneously. A wise precaution, considering it takes the antimatter longer to explode once the magnetic flow fails. I am for you, Mister Watkins. 
 WATKINS: Mister Scott, there's a strange woman who knows the entire plan of the Enterprise. 
 (But by the time Scott gets there, Watkins has screamed and Losira has turned sideways into a vertical line, then vanished.) 
+
+
 SCOTT: Oh, you poor lad. Scott to bridge. Scott to bridge. 
 [Bridge]
 SPOCK: Spock here. 
@@ -264,6 +298,8 @@ SCOTT: Then you're right, Mister Spock. Watkins must've been murdered. I sent hi
 SPOCK: If there are more of those beings on that planet, the captain and the others are in very great danger. 
 [Planet surface]
 (While Kirk and McCoy sleep, Losira turns off the tricorder. Sulu confronts her.) 
+
+
 LOSIRA: I am unarmed. 
 SULU: Who are you? 
 LOSIRA: That is not important. You are Lieutenant Sulu. You were born on the planet Earth. You're helmsman for the Enterprise. 
@@ -275,13 +311,19 @@ SULU: What do you want?
 LOSIRA: I want to touch you. 
 SULU: You were on the Enterprise. Keep back! Stop or I'll shoot! I don't want to have to kill a woman. 
 (Sulu fires his phaser at her feet, then at her. It has no effect.) 
+
+
 SULU: Captain Kirk! Captain Kirk! 
 (As he backs away, Sulu falls over a stone. Losira manages to brush his shoulder before he gets away, screaming in pain, and Kirk steps in front of her.) 
+
+
 KIRK: Hold it! Who are you? 
 LOSIRA: I am for him. I am for Lieutenant Sulu. 
 SULU: Don't let her touch you, Captain! That's how D'Amato died. Phasers won't stop her. 
 LOSIRA: I am for Lieutenant Sulu. Please, I must touch him. 
 (She puts her hand on Kirk's shoulder, but it doesn't hurt him. He pushes her away.) 
+
+
 KIRK: How can you destroy others and not me? 
 LOSIRA: I don't want to destroy. I don't want to. 
 KIRK: Who are you? Why are you trying to kill us? 
@@ -290,6 +332,8 @@ KIRK: Are there men on this planet?
 LOSIRA: Please, I must touch him. I am for Lieutenant Sulu. 
 KIRK: No! 
 (Losira goes two-dimensional, then vanishes.) 
+
+
 KIRK: Bones, did you see that? Maybe Spock was wrong. Perhaps this is a ghost planet. 
 MCCOY: Well, all I know is she almost made a ghost out of Sulu. His shoulder, where she touched it, every cell's been disrupted. Exploded from within. If she'd really gotten a good grip on him, Jim. 
 SULU: How can such people be, Captain? Such evil and she's so, so beautiful. 
@@ -336,6 +380,8 @@ MCCOY: Yes. Why didn't she kill you?
 KIRK: She's not through yet. 
 [Engineering]
 (Scott is working on the emergency bypass) 
+
+
 SCOTT: It's useless. And there's no question it's deliberate. 
 SPOCK: Sabotage. 
 SCOTT: Aye, and a thorough job. The system's foolproof. Whoever murdered Watkins sabotaged this. 
@@ -373,6 +419,8 @@ KIRK: All right. Whatever destructive power this woman has seems to be aimed at 
 SULU: But Captain, how does she know about us? Does she read our minds? (there's a whining sound) Phaser on overload! 
 KIRK: Controls are fused. Drop! 
 (He throws his phaser away, and it goes off with a big bang.) 
+
+
 KIRK: Apparently she can destroy our weapons as well as destroy us. Come on, let's go. 
 [Bottom of crawlway]
 SCOTT: All right, lads. Get the crawlway door open. Hand me the tools. Communicator. All right. Head first. I hope Mister Spock knows what he's doing. 
@@ -391,6 +439,8 @@ SPOCK: You now have ten minutes and ten seconds.
 SCOTT: All right, Mister Spock. I'm starting to open the access panel now. 
 [Bridge]
 (Spock begins his computer study.) 
+
+
 SCOTT [OC]: Access to the flow itself. 
 [Crawlway]
 SCOTT: If the magnetic flow jumps, you must jettison me. The safety control 
@@ -420,6 +470,8 @@ SCOTT: I know what time it is. I don't need a blooming' cuckoo clock.
 SULU: Captain, I'm getting that strange magnetic sweep again, from zero to off the scale. 
 KIRK: Yes. Like a door opening. 
 (And suddenly Losira is there again.) 
+
+
 KIRK: Who have you come for this time? 
 LOSIRA: For you, James T. Kirk. Commander of the Enterprise. 
 MCCOY: Keep behind us, Jim. 
@@ -449,13 +501,19 @@ KIRK: Are there others on this planet?
 LOSIRA: They are no more. 
 KIRK: How long have you been alone? Are you lonely? 
 (She does her disappearing act.) 
+
+
 SULU: She must be somewhere. 
 MCCOY: She's not registering. 
 KIRK: And there's this power surge, right off the scale. Like a door closing. It must be near here. 
 (They walk on.) 
+
+
 MCCOY: Is the power level still holding, Jim? 
 KIRK: Right off the scale. It's remained at a peak ever since she disappeared. The entrance is here. 
 (A section of rock slides back and a door opens.) 
+
+
 MCCOY: You think we're being invited in? 
 KIRK: It certainly looks like it. And the invitation doesn't exactly relax me. 
 SULU: I'd rather be on the Enterprise, sir. 
@@ -510,6 +568,8 @@ RAHDA [OC]: Six seconds, five seconds, four seconds, three seconds, two seconds.
 RAHDA: One. Mister Spock, now. Warp fourteen point one. Warp fourteen. 
 UHURA: Magnetic forces steady. 
 (We hear the engines slowing down.) 
+
+
 RAHDA: Warp thirteen point nine and dropping. 
 SPOCK: Mister Scott, you have accomplished your task. 
 [Crawlway]
@@ -524,6 +584,8 @@ SPOCK [OC]: That requires an overwhelming display of emotion in a situation such
 SPOCK: Feel that something else is necessary. 
 [Room]
 (Kirk, McCoy and Sulu enter a purple room with a cube hanging from the ceiling. It is glowing purple. Losira is there. Did I mention she is wearing purple?) 
+
+
 KIRK: Who have you come for? Form a circle. You see? You'd better tell us. Tell us. Who have you come for? Who have you come for? You're a very determined woman. For me? 
 LOSIRA: I am for James T. Kirk. 
 KIRK: Gentlemen, I need your help. 
@@ -532,18 +594,26 @@ KIRK: We've seen the results of your touch.
 LOSIRA: But you are my match, James Kirk. I must touch you. Then I will live as one, even to the structure of your cells, the arrangement of chromosomes. 
 KIRK: That is how you kill. You'll never reach me. 
 (A second Losira appears) 
+
+
 MCCOY: Watch out! 
 LOSIRA 2: I am for McCoy. 
 KIRK: That computer must be programming these replicas. 
 MCCOY: The women match our chromosome patterns after they touch us. 
 (A third Losira enters) 
+
+
 SULU: It's a very painful affair. I can tell you. 
 LOSIRA 3: I am for Sulu. 
 KIRK: Shift positions. 
 SULU: Captain, we can no longer protect each other. 
 (Spock and a security guard beam in.) 
+
+
 KIRK: Spock, the computer! Destroy it! 
 (The guard phasers the cube, and the three Losiras disappear.) 
+
+
 KIRK: Mister Spock, I certainly am glad to see you. I thought you and the Enterprise had been destroyed. 
 SPOCK: I had the same misgivings about you. We returned and picked up your life form readings only a moment ago. 
 KIRK: Returned from where? 
@@ -554,6 +624,8 @@ KIRK: There were replicas of one of them. But that power to recreate them has be
 SPOCK: That is a loss, Captain. 
 KIRK: Well, you wouldn't have thought so, Mister Spock, if you'd been among us. 
 (An image appears on a wall) 
+
+
 LOSIRA [on screen]: My fellow Kalandans, welcome. A disease has destroyed us. Beware of it. After your long journey, I'm sorry to give you only a recorded welcome, but we who have guarded the outpost for you will be dead by the time you take possession of this planet. I am the last of our advanced force left alive. Too late the physicians discovered the cause of this sickness that kills us. In creating this planet, we have accidentally produced a deadly organism. I have awaited the regular supply ship from home for medical assistance, but I doubt now whether it will arrive in time. I will set the outpost controls on automatic. The computer will selectively defend against all life forms but our own. My fellow Kalandans, I, Losira, wish you well. 
 MCCOY: The previous ships probably spread the disease all through their people. The supply ship that she was waiting for never came. All these thousands of years, she's been waiting to greet people who were dead. 
 SPOCK: To do the job of defence, the computer projected a replica of the only image available. Losira's. 
